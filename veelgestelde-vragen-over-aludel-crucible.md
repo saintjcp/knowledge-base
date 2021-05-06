@@ -57,7 +57,7 @@ Je kunt de beloningspool hier bekijken.
 
 #### **Hoe claim ik mijn beloning\(en\)?**
 
-Je ontvangt alle beloningen wanneer je drukt op “Claim Rewards and Unsubscribe LP”. Let wel, dit reset ook je vermenigvuldiger. Maak gebruik van het Taichi Netwerk wanneer je dit doet om te voorkomen dat je “front-runned” wordt op je uitbetaling van je beloning. Zie deze [gids](https://hackmd.io/@alchemistcoin/HkgSOJ5I_).
+Je ontvangt alle beloningen wanneer je drukt op “Claim Rewards and Unsubscribe LP”. Let wel, dit reset ook je vermenigvuldiger. Maak gebruik van het Taichi Netwerk wanneer je dit doet om te voorkomen dat je “front-runned” wordt op je uitbetaling van je beloning. Zie deze [gids](dutch-hoe-je-jouw-lp-beloning-en-claimt-en-afmeldt-voor-de-aludel-door-middel-van-het-taichi-net.md).
 
 #### **Maakt het uit hoeveel LP tokens ik in de crucible plaats?**
 
