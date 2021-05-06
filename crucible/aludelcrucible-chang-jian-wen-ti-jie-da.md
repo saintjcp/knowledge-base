@@ -47,7 +47,7 @@
 
 **如何成为 Discord 认证的 Alchemist?**
 
-* 请使用[指南](https://hackmd.io/@alchemistcoin/H1qJBNwLO)
+* 请使用[指南](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * 加入Discord
 * 转到 “Welcome” 频道, 输入 !join
 * 然后，您将从 Collab.Land bot 中收到一条消息
