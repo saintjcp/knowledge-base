@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la r](spanish-como-reclamar-las-recompensas-y-desabonar-tus-token-lp-del-programa-aludel-utilizando-la-r.md)
+* [¿Qué es Alchemist?](README.md)
 * [Alchemist ⚗️$mist FAQ](alchemist-usdmist-faq.md)
+* [Enlaces oficiales de la Comunidad](enlaces-oficiales-de-la-comunidad.md)
+
+## Crucible
+
+* [Aludel/Crucible FAQ](crucible/aludel-crucible-faq.md)
+* [Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la r](crucible/como-reclamar-las-recompensas-y-desabonar-tus-token-lp-del-programa-aludel-utilizando-la-r.md)
 
