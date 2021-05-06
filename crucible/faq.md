@@ -42,6 +42,7 @@ Du kannst einen Blick auf den Belohnungspool [hier](https://etherscan.io/address
 
 **Wie werde ich ein zertifizerter Alchemist in unserem Discord?**
 
+* [https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Komme ins Discord
 * Gehe in den \#welcome Channel und schreibe: !join
 * Daraufhin wirst du eine private Nachricht vom Collab.Land Bot erhalten
