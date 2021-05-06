@@ -6,8 +6,8 @@
 2. Podłącz portfel jak zwykle do normalnej sieci ethereum
 3. Przejdź do zakładki Crucibles
 4. Kliknij “Claim Rewards and Unsubscribe LP” 
-5. Pojawi się wyskakujące okienko i będziesz musiał przejść przez  “[przewodnik](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” zaznaczony na niebiesko i postępować zgodnie z instrukcjami, które poinstruują Cię, jak dodać sieć TaiChi do portfela MetaMask![](https://i.imgur.com/GvfeO9X.png)
-6. Po dodaniu sieci TaiChi, musisz się upewnić, że MetaMask jej używa. Aby to sprawdzić, powinieneś zobaczyć TaiChi na górze swojego MetaMaska![](https://i.imgur.com/kszVVbq.png)
+5. Pojawi się wyskakujące okienko i będziesz musiał przejść przez  “[przewodnik](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” zaznaczony na niebiesko i postępować zgodnie z instrukcjami, które poinstruują Cię, jak dodać sieć TaiChi do portfela MetaMask ![](https://i.imgur.com/GvfeO9X.png)
+6. Po dodaniu sieci TaiChi, musisz się upewnić, że MetaMask jej używa. Aby to sprawdzić, powinieneś zobaczyć TaiChi na górze swojego MetaMask ![](https://i.imgur.com/kszVVbq.png)
 7. Po połączeniu się z TaiChi możesz teraz kliknąć “Claim Rewards and Unsubscribe LP”
 8. Wprowadź ilość LP, którą chcesz odebrać i anulować dla nich subskrypcję, a następnie naciśnij niebieski przycisk ~ “Claim Rewards and Unsubscribe LP”
 9. Pojawi się teraz wyskakujące okienko MetaMask z “Signature Request” kliknij “sign”

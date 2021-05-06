@@ -11,13 +11,13 @@ Aby wziąć udział w Aludel, musisz wybić Crucible NFT, a następnie zdeponowa
 {% hint style="warning" %}
 **Ważna informacja :**
 
-~**Nie używaj przeglądarki Brave, ponieważ nie jest ona obecnie zgodna z procesem, a transakcja zakończy się niepowodzeniem, co spowoduje utratę opłat.**
+Nie używaj przeglądarki Brave, ponieważ nie jest ona obecnie zgodna z procesem, a transakcja zakończy się niepowodzeniem, co spowoduje utratę opłat.
 
-**~Obecnie nie zalecamy korzystania z portfela sprzętowego, ponieważ wiele z nich obecnie nie obsługuje podpisu EIP-712. Gdy to naprawią, będziemy mogli to zaimplementować.**
+Obecnie nie zalecamy korzystania z portfela sprzętowego, ponieważ wiele z nich obecnie nie obsługuje podpisu EIP-712. Gdy to naprawią, będziemy mogli to zaimplementować.
 
-**~Niektórzy użytkownicy zgłaszali problemy z Trustwallet.**
+Niektórzy użytkownicy zgłaszali problemy z Trustwallet.
 
-~**Nie zalecamy przechodzenia przez proces na telefonie komórkowym.**
+Nie zalecamy przechodzenia przez proces na telefonie komórkowym.
 {% endhint %}
 
 1. W celu wybicia Crucible przejdź do strony internetowej, [alchemist.farm](https://alchemist.farm/)
@@ -29,15 +29,15 @@ Aby wziąć udział w Aludel, musisz wybić Crucible NFT, a następnie zdeponowa
 
 **Dlaczego nie widzę tokenów ⚗️$mist w moim portfelu?**
 
-Możesz dodać adres kontraktu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ``aby tokeny zaczeły być widoczne.
+Możesz dodać adres kontraktu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** aby tokeny zaczeły być widoczne.
 
 **Dlaczego nie widzę mojego LP w portfelu?**
 
-Możesz dodać adres kontraktu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ``aby tokeny LP zaczeły być widoczne.
+Możesz dodać adres kontraktu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** aby tokeny LP zaczeły być widoczne.
 
 **Dlaczego nie widzę mojego Crucible w portfelu?**
 
-Możesz dodać adres kontraktu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ``aby Crucible zaczął być widoczny.
+Możesz dodać adres kontraktu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** aby Crucible zaczął być widoczny.
 
 **Jakie są nagrody za subskrypcję w Aludel?**
 
