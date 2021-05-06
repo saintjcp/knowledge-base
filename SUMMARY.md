@@ -5,3 +5,7 @@
 * [Alchemist ⚗️$mist FAQ](alchemist-usdmist-faq.md)
 * [Link ufficiali della comunità](link-ufficiali-della-comunita.md)
 
+## Crucible
+
+* [FAQ su Aludel/Crucible](crucible/faq-su-aludel-crucible.md)
+
