@@ -6,6 +6,6 @@
 
 ## Crucible
 
-* [Aludel/Crucible FAQ](crucible/aludel-crucible-faq.md)
 * [Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la r](crucible/como-reclamar-las-recompensas-y-desabonar-tus-token-lp-del-programa-aludel-utilizando-la-r.md)
+* [Aludel/Crucible FAQ](crucible/aludel-crucible-faq.md)
 
