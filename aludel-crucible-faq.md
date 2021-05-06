@@ -49,6 +49,7 @@ Puteti vedea fondul de recompense [aici](https://etherscan.io/address/0x04108d6e
 
 **Cum pot deveni un Alchimist Certificat in Discord?**
 
+* [Ghid](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Intra pe Discord
 * Du-te la Welcome channel, Type !join
 * Vei primi un mesaj de la botul Collab.Land
