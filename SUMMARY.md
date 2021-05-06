@@ -6,6 +6,6 @@
 
 ## Crucible
 
-* [Aludel/Crucible FAQ](crucible/aludel-crucible-faq.md)
 * [Taichi ağı yardımıyla "Claim Rewards and Unsubscribe LP"](crucible/taichi-agi-yardimiyla-claim-rewards-and-unsubscribe-lp.md)
+* [Aludel/Crucible FAQ](crucible/aludel-crucible-faq.md)
 
