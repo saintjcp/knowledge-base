@@ -47,6 +47,7 @@ Puedes ver el conjunto de recompensas [aquí](https://etherscan.io/address/0x041
 
 **¿Cómo puedo convertirme en un Alquimista certificado en Discordia?**
 
+* [Guía](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Únete al Discord
 * Ve al canal de bienvenida y escribe !join
 * Después recibirás un mensaje del bot de Collab.Land
