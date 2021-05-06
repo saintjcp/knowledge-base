@@ -16,13 +16,13 @@ If your Crucible was minted using [command line](https://github.com/alchemistcoi
 
 After you have gained access to the wallet containing your Crucible, you can become a certified alchemist following these steps:
 
-1.  1. On the [_\#welcome_](https://discord.com/channels/812035504869998644/812282591474483241) channel write the command **!join**
+1.  1. On the [_\#welcome_](http://discord.alchemist.wtf) channel write the command **!join**
    2. You will receive a private message from Collab.Land
 
       If you do not receive a message please [check your privacy settings](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-) to make sure you can receive messages from others  
       ![](https://i.imgur.com/2UvO1ZL.png)
 
-   3. Press ‘Click Here’ and follow the link
+   3. Press the ‘Click Here’ link sent to you by Collab.Land and follow the link
    4. Select the wallet your Crucible is in ![](https://i.imgur.com/y4bXisJ.png)
    5. Sign a message ![](https://i.imgur.com/nF29cFo.png)
    6. You will see the following message and can now return to Discord ![](https://i.imgur.com/WVIelT9.png)

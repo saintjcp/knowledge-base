@@ -1,14 +1,14 @@
 # How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network
 
-{% hint style="success" %}
-The reason for using the TaiChi network is that it will protect the user from being front-run by bots when unsubscribing
+{% hint style="info" %}
+The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
 {% endhint %}
 
 1. Go to [Alchemist.farm](https://alchemist.farm)
 2. Connect your wallet as usual on normal ethereum network
 3. Go to the Crucibles tab
 4. Click “Claim Rewards and Unsubscribe LP” 
-5. Once you have added the TaiChi network as descibed [here](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md) you will need to make sure MetaMask is using it. To check you should see TaiChi at the top of your MetaMask like so
+5. Once you have added the TaiChi network as described [here](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md) you will need to make sure MetaMask is using it. To check you should see TaiChi at the top of your MetaMask like so
 
    ![](https://i.imgur.com/kszVVbq.png)
 

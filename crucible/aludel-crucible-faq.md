@@ -1,6 +1,6 @@
 # FAQ 📖
 
-{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before proceeding" %}
+{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
 
 ## **How do I participate in the Aludel / How do I mint a Crucible NFT?**
 
@@ -26,7 +26,7 @@ We do not recommend you do this on a mobile.
 2. Connect MetaMask wallet
 3. Enter the amount of LP you wish you put into the Crucible. 
 4. Hit “Mint Crucible and Subscribe LP to Aludel”. You will get 2 approvals via MetaMask pop up, sign these and wait for completion.
-5. Next you will  be asked to confirm the transaction, this normally costs around 0.1-0.2 Eth to create a Crucible, if you're happy with the gas price, press confirm and wait for the transaction to go through.
+5. Next you will be asked to confirm the transaction, this normally costs around 0.1-0.2 Eth to create a Crucible, if you're happy with the gas price, press confirm and wait for the transaction to go through.
 6. Once complete you will see your new Crucible in your Erc721 tokens tab on Etherscan.
 
 **Why can’t I see my ⚗️Mist in my wallet?**
