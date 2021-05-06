@@ -2,7 +2,7 @@
 
 ## Per favore guarda questo video sulle perdite impermanenti prima di procedere
 
-## [https://youtu.be/8XJ1MSTEuU0](https://youtu.be/8XJ1MSTEuU0)
+{% embed url="https://youtu.be/8XJ1MSTEuU0" %}
 
 **Come posso partecipare ad Aludel / Come posso coniare un NFT Crucible?**
 
