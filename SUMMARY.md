@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Was ist Alchemist?](README.md)
 * [Alchemist ⚗️ $MIST FAQ](german-alchemist-usdmist-faq.md)
-* ["Claim Rewards and Unsubscribe LP" mit Hilfe des Taichi Netzwerks](claim-rewards-and-unsubscribe-lp-mit-hilfe-des-taichi-netzwerks.md)
+* [Offizielle Community Links](offizielle-community-links.md)
+
+## Crucible
+
+* [FAQ](crucible/faq.md)
+* ["Claim Rewards and Unsubscribe LP" mit Hilfe des Taichi Netzwerks](crucible/claim-rewards-and-unsubscribe-lp-mit-hilfe-des-taichi-netzwerks.md)
 
