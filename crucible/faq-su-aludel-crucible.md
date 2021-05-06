@@ -11,13 +11,13 @@ Per partecipare ad Aludel, devi coniare un NFT Crucible e depositarvi alcuni tok
 {% hint style="warning" %}
 **Informazione importante:**
 
-**~Non usare il browser Brave perché non è compatibile con il processo in questo momento e la tua transazione fallirà e con essa perderai l'importo del gas pagato.**
+Non usare il browser Brave perché non è compatibile con il processo in questo momento e la tua transazione fallirà e con essa perderai l'importo del gas pagato.
 
-**~Non raccomandiamo l'uso di un hardware wallet in questo momento perché molti non supportano la firma EIP-712. Quando risolveranno questo problema, potremo implementare questo sistema.**
+Non raccomandiamo l'uso di un hardware wallet in questo momento perché molti non supportano la firma EIP-712. Quando risolveranno questo problema, potremo implementare questo sistema.
 
-**~Alcuni utenti hanno riportato problemi con Trustwallet.**
+Alcuni utenti hanno riportato problemi con Trustwallet.
 
-**~Non ti consigliamo di farlo su un cellulare.**
+Non ti consigliamo di farlo su un cellulare.
 {% endhint %}
 
 1. Per coniare un Crucible vai al sito web [alchemist.farm](https://alchemist.farm/)
