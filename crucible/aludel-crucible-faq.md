@@ -11,13 +11,13 @@ Da bi učestvovao u Aludelu, moraš da kreiraš \(mintuješ\) Crucible NFT i pol
 {% hint style="warning" %}
 **Važne informacije:**
 
-**~Ne koristite Brave browser, jer nije kompatibilan sa procesom transakcije, a ako transakcija propadne možete da ostanete bez uloga.**
+Ne koristite Brave browser, jer nije kompatibilan sa procesom transakcije, a ako transakcija propadne možete da ostanete bez uloga.
 
-**~Ne preporučujemo da koristite hardware novčanik, jer za sada mnogi od njih ne podržavaju EIP-712 potpis. Kada oni to budu popravili, mi ćemo to da primenimo.**
+Ne preporučujemo da koristite hardware novčanik, jer za sada mnogi od njih ne podržavaju EIP-712 potpis. Kada oni to budu popravili, mi ćemo to da primenimo.
 
-**~Neki korisnici prijavljuju probleme sa Trustwallet-om.**
+Neki korisnici prijavljuju probleme sa Trustwallet-om.
 
-**~Ne preporučujemo da to radite na mobilnim uređajima.**
+Ne preporučujemo da to radite na mobilnim uređajima.
 {% endhint %}
 
 1. Za kreiranje \(mintovanje\) Crucibla idite na website, [alchemist.farm](https://alchemist.farm/)
@@ -29,15 +29,15 @@ Da bi učestvovao u Aludelu, moraš da kreiraš \(mintuješ\) Crucible NFT i pol
 
 **Zašto ne mogu da vidim svoj ⚗️Mist u svom novčaniku?**
 
-Možete da dodate contract adresu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ``da biste ga učinili vidljivim.
+Možete da dodate contract adresu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** da biste ga učinili vidljivim.
 
 **Zašto ne mogu da vidim svoj LP u svom novčaniku?**
 
-Možete da dodate contract adresu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ``da biste ga učinili vidljivim.
+Možete da dodate contract adresu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** da biste ga učinili vidljivim.
 
 **Zašto ne mogu da vidim svoj Crucible u svom novčaniku?**
 
-Možete da dodate contract adresu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ``da biste učinili vidljivim vaš crucible \(ili više njih\).
+Možete da dodate contract adresu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** da biste učinili vidljivim vaš crucible \(ili više njih\).
 
 **Koja je nagrada za pretplatu na Aludel?**
 
