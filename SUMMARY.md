@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [如何使用太極網絡申領 Aludel 獎勵及退訂 LP](chinese-traditional-ru-he-shi-yong-tai-ji-wang-luo-shen-ling-aludel-jiang-li-ji-tui-ding-lp.md)
+* [什麼是 Alchemist?](README.md)
 * [Alchemist ⚗️$mist 常見問題解答](alchemist-mist-chang-jian-wen-ti-jie-da.md)
+* [官方社區鏈接如下](guan-fang-she-ou-lian-jie-ru-xia.md)
+
+## Crucible
+
+* [如何使用太極網絡申領 Aludel 獎勵及退訂 LP](crucible/chinese-traditional-ru-he-shi-yong-tai-ji-wang-luo-shen-ling-aludel-jiang-li-ji-tui-ding-lp.md)
+* [Aludel/Crucible 常見問題解答](crucible/aludelcrucible-chang-jian-wen-ti-jie-da.md)
 

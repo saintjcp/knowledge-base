@@ -30,15 +30,5 @@
 
 1. 單擊刷新，你將看到已刪除 LP 代幣的 Crucible
 
-![](https://i.imgur.com/f3rwsfA.png)
-
-**官方社區鏈接如下**
-
-* [Alchemist.wtf](http://alchemist.wtf)
-* [Alchemist.farm](https://alchemist.farm)
-* [Official Guides](https://hackmd.io/@alchemistcoin)
-* [Twitter](https://twitter.com/_alchemistcoin)
-* [Discord](https://discord.com/invite/qWQQMMKjKe)
-* [Telegram](https://t.me/alchemistcoin) [\(Web Version\)](https://web.telegram.org/#/im?p=@alchemistcoin)
-* [Instagram](https://www.instagram.com/thealchemistcoin/)
+\*\*\*\*
 
