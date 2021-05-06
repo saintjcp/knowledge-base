@@ -91,7 +91,7 @@ Poti urma acest ghid pas cu pas sau poti folosi interfata construita de comunita
 
 **De ce nu imi vad tokenul ⚗️MIST in propriul wallet?**
 
-Trebuie sa adaugi adresa contractului **0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab** pentru ca tokenul $MIST sa fie vizibil in walletul tau.
+Trebuie sa adaugi adresa contractului **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** pentru ca tokenul $MIST sa fie vizibil in walletul tau.
 
 **De ce nu imi vad LP in propriul wallet?**
 
