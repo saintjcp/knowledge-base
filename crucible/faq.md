@@ -51,7 +51,7 @@ Du kannst einen Blick auf den Belohnungspool [hier](https://etherscan.io/address
 
 **Wie erhalte ich die Belohnungen?**
 
-**Alle** Belohnungen werden ausgeschüttet, sobald du nicht mehr teilnimmst. Aber sei bitte vorsichtig, jede Beendigung deiner Teilnahme führt dazu, dass der Multiplikator für die Dauer deiner Teilnahme zurückgesetzt wird. Wenn du nicht mehr teilnehmen möchtest, musst du, um Frontrunner zu vermeiden, das TaiChi Netzwerk verwenden. Schau dir hierzu diesen [Guide](https://hackmd.io/@alchemistcoin/r1ZRG9K8u) an.
+**Alle** Belohnungen werden ausgeschüttet, sobald du nicht mehr teilnimmst. Aber sei bitte vorsichtig, jede Beendigung deiner Teilnahme führt dazu, dass der Multiplikator für die Dauer deiner Teilnahme zurückgesetzt wird. Wenn du nicht mehr teilnehmen möchtest, musst du, um Frontrunner zu vermeiden, das TaiChi Netzwerk verwenden. Schau dir hierzu diesen [Guide](claim-rewards-and-unsubscribe-lp-mit-hilfe-des-taichi-netzwerks.md) an.
 
 **Spielt es eine Rolle wie viele LP Token bei der Erstellung des Crucible verwendet werden?**
 
