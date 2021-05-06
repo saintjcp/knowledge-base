@@ -35,7 +35,7 @@ Nous vous déconseillons d'effectuer le processus sur un mobile.
 
 **Comment devenir “certified Alchemist” sur Discord?**
 
-* Utilisez ce ~~guide~~
+* Utilisez ce [guide](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Rejoignez Discord
 * Accédez au canal “Welcome” et tapez “!join”
 * Vous recevrez alors un message du bot Collab.Land
