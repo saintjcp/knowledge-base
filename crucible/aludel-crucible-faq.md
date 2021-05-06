@@ -47,7 +47,7 @@ Pulę nagród możesz zobaczyć [tutaj.](https://etherscan.io/address/0x04108d6e
 
 **Jak zostać certyfikowanym alchemikiem na Discordzie?**
 
-* Proszę skorzystaj z tego [przewodnika](https://hackmd.io/@alchemistcoin/H1qJBNwLO)
+* Proszę skorzystaj z tego [przewodnika](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Dołącz do Discord
 * Przejdź do kanału Welcome i wyślij wiadomość !join
 * Otrzymasz wtedy wiadomość od bota Collab.Land
