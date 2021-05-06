@@ -46,7 +46,7 @@
 
 **?Discord -כיצד אוכל להיות אלכמאי מוסמך ב**
 
-* [guide](https://hackmd.io/@alchemistcoin/H1qJBNwLO) אנא השתמש במדריך
+* [guide](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord) אנא השתמש במדריך
 * Discord -הצטרף ל
 * והצטרף אליו Welcome עבור לערוץ
 * Collab.Land לאחר מכן תקבל הודעה מהבוט
