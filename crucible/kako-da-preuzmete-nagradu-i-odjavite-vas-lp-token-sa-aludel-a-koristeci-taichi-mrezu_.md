@@ -1,7 +1,5 @@
 # Kako da preuzmete nagradu i odjavite vaš LP token sa Aludel-a koristeći Taichi mrežu\_
 
-
-
 Pozadina : Razlog zašto ovo treba da uradite je da zaštitite korisnika od toga da ga botovi prestignu prilikom otkazivanja pretplate.
 
 1. Idite na [alchemist.farm](https://alchemist.farm)
