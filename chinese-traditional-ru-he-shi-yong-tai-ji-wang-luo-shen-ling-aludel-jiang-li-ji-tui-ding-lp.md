@@ -1,0 +1,44 @@
+# 如何使用太極網絡申領 Aludel 獎勵及退訂 LP
+
+**背景：使用太極網絡的原因是它可以防止用戶在退訂時被機器人搶占先機。**
+
+1. 前往 [Alchemist.farm](https://alchemist.farm)
+2. 在普通的以太坊網絡上連接你的錢包
+3. 轉到 Crucibles 選項
+4. 點擊“領取獎勵並退訂LP”
+5. 這時會彈出一個提示框，你需要點擊藍色的“[指南](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)”, 然後按照提示將太極網絡添加到你的MetaMask 錢包中
+
+![](https://i.imgur.com/GvfeO9X.png)
+
+1. 一旦添加了太極網絡，你需要確保 MetaMask 正在使用它。操作正確的情況下，你會在 MetaMask 的頂部看到 TAICHI 字樣
+
+![](https://i.imgur.com/kszVVbq.png)
+
+1. 連接到太極之後，你可以點擊 “領取獎勵並退訂 LP”
+2. 輸入你想申領和退訂的 LP 數額，然後按藍色按鈕 “領取獎勵並退訂 LP”
+3. 這時，MetaMask 會彈出一個提示框，詢問“簽名請求”，然後你單擊“簽名”
+4. 接下來，MetaMask 會彈出一個轉賬通知框，如下所示。 **我們建議你點擊“編輯”按鈕查看礦工費。一些用戶已將此默認值設置為最慢的選項，但可能會延遲交易完成。如果你擔心礦工費太高，請使用**[**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **幫助確定何時可能出現最低的礦工費**
+
+![](https://i.imgur.com/FKnztJS.png)
+
+1. 此時，交易將被發送到太極網絡。你無法在etherscan上看到這個交易，但不要驚慌！一旦交易完成，它就會出現在下圖所示的這裡
+2. 如果你想檢查交易是否在太極網絡上進行，可以將交易哈希值粘貼到 [https://taichi.network/](https://taichi.network/) 中以查看其進度
+3. 太極網絡會比以太坊網絡慢一點
+4. 交易通過並完成後，你需要切換回以太坊網絡以查看 Crucible
+
+![](https://i.imgur.com/fcPY6Zp.png)
+
+1. 單擊刷新，你將看到已刪除 LP 代幣的 Crucible
+
+![](https://i.imgur.com/f3rwsfA.png)
+
+**官方社區鏈接如下**
+
+* [Alchemist.wtf](http://alchemist.wtf)
+* [Alchemist.farm](https://alchemist.farm)
+* [Official Guides](https://hackmd.io/@alchemistcoin)
+* [Twitter](https://twitter.com/_alchemistcoin)
+* [Discord](https://discord.com/invite/qWQQMMKjKe)
+* [Telegram](https://t.me/alchemistcoin) [\(Web Version\)](https://web.telegram.org/#/im?p=@alchemistcoin)
+* [Instagram](https://www.instagram.com/thealchemistcoin/)
+
