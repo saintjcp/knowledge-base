@@ -8,6 +8,7 @@
 
 Per partecipare ad Aludel, devi coniare un NFT Crucible e depositarvi alcuni token ⚗️$mist/ETH LP Uniswap \(pensa a una sorta di caveau virtuale\). Il Crucible matura quindi ricompense dal programma Aludel proporzionali alla quantità e alla durata dei token LP sottoscritti. Il costo per coniare un Crucible e per il deposito dipende dai prezzi attuali del gas Ethereum. Puoi aspettarti che sarà approssimativamente attorno a 0,1-0,2 ETH.
 
+{% hint style="info" %}
 **Informazione importante:**
 
 **~Non usare il browser Brave perché non è compatibile con il processo in questo momento e la tua transazione fallirà e con essa perderai l'importo del gas pagato.**
@@ -17,6 +18,7 @@ Per partecipare ad Aludel, devi coniare un NFT Crucible e depositarvi alcuni tok
 **~Alcuni utenti hanno riportato problemi con Trustwallet.**
 
 **~Non ti consigliamo di farlo su un cellulare.**
+{% endhint %}
 
 1. Per coniare un Crucible vai al sito web [alchemist.farm](https://alchemist.farm/)
 2. Connetti il wallet MetaMask
