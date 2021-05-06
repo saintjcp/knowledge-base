@@ -1,6 +1,6 @@
 # How to Become a "Certified Alchemist" on Discord 💬
 
-If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](how-to-become-a-certified-alchemist-on-discord.md) 🧙‍♂️⚗
+If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
 
 If your Crucible was minted using [Alchemist.farm](https://alchemist.farm), please jump to **Part 2**
 
