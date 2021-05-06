@@ -15,6 +15,10 @@
 * [FAQ 📖](crucible/aludel-crucible-faq.md)
 * [Crucible](https://alchemist.farm)
 
+## Join us
+
+* [Alchemist Builders Onboarding Guide](join-us/alchemist-builders-onboarding-guide.md)
+
 ## Links 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
