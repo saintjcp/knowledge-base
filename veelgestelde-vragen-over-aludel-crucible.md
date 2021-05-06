@@ -47,7 +47,7 @@ Je kunt de beloningspool hier bekijken.
 
 #### **Hoe word ik een gecertificeerde Alchemist in Discord?**
 
-* Gebruik deze [gids](https://hackmd.io/@alchemistcoin/H1qJBNwLO)
+* Gebruik deze [gids](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Sluit je aan bij Discord
 * Ga naar het welkomst kanaal “Welcome channel” en type: !join
 * Je krijgt dan een bericht van de Collab.Land-bot
