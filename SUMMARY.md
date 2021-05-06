@@ -6,6 +6,6 @@
 
 ## Crucible
 
-* [FAQ Aludel / Crucible](crucible/faq-aludel-crucible.md)
 * [Comment réclamer des récompenses et désabonner votre LP de l'Aludel en utilisant le réseau](crucible/comment-reclamer-des-recompenses-et-desabonner-votre-lp-de-laludel-en-utilisant-le-reseau.md)
+* [FAQ Aludel / Crucible](crucible/faq-aludel-crucible.md)
 
