@@ -43,13 +43,3 @@ Dupa ce ai primit accesul la walletul tau Metamask continand propriul tau Crucib
    1. Daca dai click stanga pe numele tau Discord ar trebui sa vezi rolul de Alchimist certificat incercuit cu culoarea rosie ![](https://i.imgur.com/KTO91Q1.png)
    2. Felicitari, tu esti acum un Alchimist Certificat 🧙‍♂️⚗
 
-**Linkuri Oficiale Alchemist**
-
-* [Alchemist.wtf](http://alchemist.wtf)
-* [Alchemist.farm](https://alchemist.farm)
-* [Official Guides](https://hackmd.io/@alchemistcoin) [\(Book Version\)](https://hackmd.io/@alchemistcoin/HyJXT7tL_)
-* [Twitter](https://twitter.com/_alchemistcoin)
-* [Discord](https://discord.com/invite/qWQQMMKjKe)
-* [Telegram](https://t.me/alchemistcoin) [\(Web Version\)](https://web.telegram.org/#/im?p=@alchemistcoin)
-* [Instagram](https://www.instagram.com/thealchemistcoin/)
-
