@@ -1,6 +1,11 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [?Alchemist מה זה](README.md)
 * [שאלות נפוצות Alchemist ⚗️$mist FAQ](hebrew-alchemist-usdmist-faq.md)
-* [כיצד לתבוע תגמולים ולהסיר את ההרשמה TaiChi -באמצעות רשת ה Aludel -שלך מ LP  ל](taichi-aludel-lp.md)
+* [קישורים רשמיים לקהילה](undefined.md)
+
+## Crucible
+
+* [כיצד לתבוע תגמולים ולהסיר את ההרשמה TaiChi -באמצעות רשת ה Aludel -שלך מ LP  ל](crucible/taichi-aludel-lp.md)
+* [Aludel/Crucible שאלות נפוצות](crucible/aludel-crucible.md)
 
