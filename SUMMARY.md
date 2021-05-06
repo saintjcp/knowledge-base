@@ -1,6 +1,13 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Hoe je jouw LP beloning\(en\) claimt en afmeldt voor de Aludel, door middel van het TaiChi Net](dutch-hoe-je-jouw-lp-beloning-en-claimt-en-afmeldt-voor-de-aludel-door-middel-van-het-taichi-net.md)
+* [Wat is Alchemist?](README.md)
 * [Alchemist ⚗️$mist Veelgestelde vragen](alchemist-usdmist-veelgestelde-vragen.md)
+* [Officiële Community Links](officiele-community-links.md)
+
+## Crucible
+
+---
+
+* [Veelgestelde vragen over Aludel / Crucible](veelgestelde-vragen-over-aludel-crucible.md)
+* [Hoe je jouw LP beloning\(en\) claimt en afmeldt voor de Aludel, door middel van het TaiChi Net](dutch-hoe-je-jouw-lp-beloning-en-claimt-en-afmeldt-voor-de-aludel-door-middel-van-het-taichi-net.md)
 
