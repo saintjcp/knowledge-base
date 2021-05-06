@@ -42,11 +42,11 @@ The fourth group are the "regular" community members and certified alchemists, w
 
 ### Discord
 
-**General**
+#### **General**
 
 Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
 
-**How we use it**
+#### **How we use it**
 
 Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
 
@@ -54,33 +54,33 @@ Discord is our preferred communication tool, as it provides a fast, uncomplicate
 
 ### Basecamp
 
-**General**
+#### **General**
 
 Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
 
 Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
 
-**How we use it**
+#### **How we use it**
 
 Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
 
 ### Github
 
-**General**
+#### **General**
 
 GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
 
-**How we use it**
+#### **How we use it**
 
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
 
-**General**
+#### **General**
 
 Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
 
-**How we use it**
+#### **How we use it**
 
 Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
 
@@ -88,11 +88,11 @@ Linear is primarily used by us to document developer-relevant issues, problems a
 
 ### Figma
 
-**General**
+#### **General**
 
 Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
 
-**How we use it**
+#### **How we use it**
 
 Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
 
