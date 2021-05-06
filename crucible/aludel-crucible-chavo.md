@@ -45,7 +45,7 @@
 
 **Как мне стать сертифицированным алхимиком в Discord?**
 
-* Пожалуйста используйте этот [гайд](https://hackmd.io/@alchemistcoin/H1qJBNwLO)
+* Пожалуйста используйте этот [гайд](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Вступите в дискорд
 * перейдите в чат \#welcome и отправьте сообщение !join
 * Вы получите личное сообщение от бота Collab.Land
