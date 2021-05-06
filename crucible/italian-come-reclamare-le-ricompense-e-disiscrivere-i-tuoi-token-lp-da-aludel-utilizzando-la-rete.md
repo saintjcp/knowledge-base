@@ -15,15 +15,17 @@ Premessa: la ragione per cui ti serve questa guida è proteggere l'utente dall'e
 
 **11. Ti suggeriamo di controllare il prezzo del gas cliccando il pulsante "EDIT", perchè alcuni utenti hanno segnalato che a volte l'opzione piú lenta viene selezionata automaticamente.**
 
-1. La transazione sarà ora inviata alla rete Taichi. Non sarai in grado di vedere questa transazione su Etherscan, ma niente panico! La transizione apparirà una volta che sarà andata a buon fine.
-2. Se vuoi controllare l'andamento della tua transazione su Taichi, puoi incollare l'hash della transazione su [https://taichi.network/](https://taichi.network/) per vedere il suo status.
-3. La rete Taichi sarà un po' più lenta della rete Ethereum.
+**12.** La transazione sarà ora inviata alla rete Taichi. Non sarai in grado di vedere questa transazione su Etherscan, ma niente panico! La transizione apparirà una volta che sarà andata a buon fine.
+
+13. Se vuoi controllare l'andamento della tua transazione su Taichi, puoi incollare l'hash della transazione su [https://taichi.network/](https://taichi.network/) per vedere il suo status.
+
+14. La rete Taichi sarà un po' più lenta della rete Ethereum.
 
 **15. Una volta che la transazione è completata, dovrai tornare alla rete Ethereum per visualizzare il Crucible**
 
 ![](https://i.imgur.com/fkUmWBV.png)
 
-1. Clicca “refresh” e ora potrai vedere il Crucible vuoto in seguito alla rimozione dei token.  
+16. Clicca “refresh” e ora potrai vedere il Crucible vuoto in seguito alla rimozione dei token.  
 
 ![](https://i.imgur.com/1qYnaqi.png)
 

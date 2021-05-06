@@ -51,7 +51,7 @@ Puoi vedere la pool di ricompensa [qui](https://etherscan.io/address/0x04108d6e9
 
 **Come posso richiedere le ricompense?**
 
-Tutte le ricompense si ricevono digitando “Claim Rewards and Unsubscribe LP”. Fai attenzione, questo azzera il tuo moltiplicatore di ricompensa. Dovrai usare la Rete Taichi quando lo fai per evitare che i bot possano anticipare le tue ricompense. Leggi questa [guida](https://hackmd.io/@alchemistcoin/S1Yt0Eo8d).
+Tutte le ricompense si ricevono digitando “Claim Rewards and Unsubscribe LP”. Fai attenzione, questo azzera il tuo moltiplicatore di ricompensa. Dovrai usare la Rete Taichi quando lo fai per evitare che i bot possano anticipare le tue ricompense. Leggi questa [guida](italian-come-reclamare-le-ricompense-e-disiscrivere-i-tuoi-token-lp-da-aludel-utilizzando-la-rete.md).
 
 **Ha importanza quanti token LP vanno nel Crucible?**
 
