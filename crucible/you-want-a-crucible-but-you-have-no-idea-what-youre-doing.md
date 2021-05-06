@@ -55,7 +55,7 @@ It's worth mentioning for the sake of clarity: if you mint a Crucible, you are s
 
 The value of a Crucible is difficult to determine because the project is young. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside which have an immediately measureable value - how much could you get if you used those LP tokens to unstake the ⚗️ and ETH from a pool and then traded those back to whatever your favourite base currency is.
+Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside which have an immediately measurable value - how much could you get if you used those LP tokens to unstake the ⚗️ and ETH from a pool and then traded those back to whatever your favourite base currency is.
 
 Refer to the FAQ section below for methods to check the contents of a Crucible.
 
@@ -67,13 +67,20 @@ That is for you to decide. Ensure you understand what could gain, what you could
 
 ## How do you mint a Crucible?
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created a webapp that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. Please instead use [https://alchemist.farm](https://alchemist.farm)
+Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created a web-app that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. Please instead use [https://alchemist.farm](https://alchemist.farm)
 
 #### Video Guides
 
 Churchee has kindly created two videos demonstrating how things work once you've got your LP tokens. You might find these easier to follow or more informative than this text based guide:
 
-[Youtube: UNI LP to $MIST Crucible mint](https://www.youtube.com/watch?v=Ga1qcQ6x3as) [Youtube: Crucible Transfers OpenSea and Alchemist.farm frontend](https://www.youtube.com/watch?v=i2MCYimelBM)
+{% hint style="info" %}
+Links to Uniswap in videos may be outdated since the launch of Uniswap V3.  
+Please ensure to use **Uniswap V2** or refer to our links found in this documentation.
+{% endhint %}
+
+{% embed url="https://www.youtube.com/watch?v=Ga1qcQ6x3as" %}
+
+{% embed url="https://www.youtube.com/watch?v=i2MCYimelBM" %}
 
 #### The cost of minting
 
@@ -98,7 +105,7 @@ I'll work through an example to give an idea of how you split your overall inves
 
 #### The tools
 
-I wrote a guide but I'm no master of the craft. I haven't touched a wallet that isn't MetaMask so I cannot give advice on how to accomplish this with other software. For advice on that I recommend asking around in the discord.
+I wrote a guide but I'm no master of the craft. I haven't touched a wallet that isn't MetaMask so I cannot give advice on how to accomplish this with other software. For advice on that I recommend asking around in the [discord](http://discord.alchemist.wtf).
 
 MetaMask does not recognise the tokens we will encounter, but they can be added as custom tokens. You can refer to the FAQ section below for instructions on that process but the guide will instead demonstrate how Etherscan can be used to confirm you have your tokens.
 
@@ -116,7 +123,7 @@ Ever traded coins on Uniswap? If so you know how to do this already.
 Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
 {% endhint %}
 
-1. Head to [https://app.uniswap.org/\#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. Head to [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
 2. Connect MetaMask wallet
 3. You should see something like this:
 
@@ -125,7 +132,7 @@ Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not g
 4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the staking
 5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
    * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
-   * MetaMask has the ability to let you speed up a transaction by locating it in the "Activty" tab and choosing to pay more gas for higher priority processing
+   * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
 6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
    * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
 
@@ -143,7 +150,7 @@ Crucible only supports the **Uniswap V2** Liquidity Pool.
 Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
 {% endhint %}
 
-1. Head to [https://app.uniswap.org/\#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
+1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
    * Connect MetaMask wallet if not already done so
 2. You should see something like this:
 
@@ -157,22 +164,27 @@ Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards P
 
 ### 3. Minting the Crucible with LP tokens
 
-**Important information:**
+{% hint style="info" %}
+**Important information:** 
 
-* **Do not use Brave browser as it is not compatible with the process at this time and you’re transaction will fail resulting in lost fees.**
-* **We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.**
-* **We do not recommend you do this on a mobile.**
-* Firstly Head to [https://alchemist.farm/](https://alchemist.farm/)
-* Connect MetaMask wallet
-* You should see something like this:
+Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail resulting in lost fees. 
 
-   ![](https://i.imgur.com/eimfv0e.png)
+We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
 
-* Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount
-* Hit "Mint cruicible and Subscribe LP to Aludel", make necessary approvals via MetaMask, wait for the transaction to complete
-* You should see your new Crucible on Etherscan:
+We do not recommend you do this on a mobile
+{% endhint %}
 
-   ![](https://i.imgur.com/9VBX6M6.png)
+1. Firstly Head to [https://alchemist.farm/](https://alchemist.farm/)
+2. Connect MetaMask wallet
+3. You should see something like this:
+
+    ![](https://i.imgur.com/eimfv0e.png)
+
+4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount
+5. Hit "Mint cruicible and Subscribe LP to Aludel", make necessary approvals via MetaMask, wait for the transaction to complete
+6. You should see your new Crucible on Etherscan:
+
+    ![](https://i.imgur.com/9VBX6M6.png)
 
 ## Congratulations, if you've made it this far, you're an Alchemist
 
