@@ -41,6 +41,7 @@ Görünür olması için bu sözleşme adresini **`0x54e0395CFB4f39beF66DBCd5bD9
 
 **Discord'umuzda nasıl sertifikalı bir simyacı olabilirim?**
 
+* [Guide](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Anlaşmazlığa Gel
 * Hoş geldiniz kanalına gidin ve şunu yazın :!join
 * Daha sonra Collab.Land botundan özel bir mesaj alacaksınız
