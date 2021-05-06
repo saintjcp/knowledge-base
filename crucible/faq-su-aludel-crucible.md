@@ -29,15 +29,15 @@ Non ti consigliamo di farlo su un cellulare.
 
 **Perché non riesco a vedere i miei ⚗️Mist nel mio wallet?**
 
-Puoi aggiungere l’indirizzo di contratto **0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab** per renderli visibili.
+Puoi aggiungere l’indirizzo di contratto **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ``per renderli visibili.
 
 **Perché non riesco a vedere i miei LP nel mio wallet?**
 
-Puoi aggiungere l’indirizzo di contratto **0xcd6bcca48069f8588780dfa274960f15685aee0e** per renderli visibili.
+Puoi aggiungere l’indirizzo di contratto **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ``per renderli visibili.
 
 **Perché non riesco a vedere i miei Crucible nel mio wallet?**
 
-Puoi aggiungere l’indirizzo di contratto **0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56** per rendere i Crucible visibili.
+Puoi aggiungere l’indirizzo di contratto **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ``per rendere i Crucible visibili.
 
 **Quali sono le ricompense per la deposito su Aludel?**
 
