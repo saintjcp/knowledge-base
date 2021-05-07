@@ -1,6 +1,6 @@
 # Getting Started
 
-There are a few precautions to take before taking part in the Crucible program
+There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
 
 {% hint style="danger" %}
 **Important Notice**  
