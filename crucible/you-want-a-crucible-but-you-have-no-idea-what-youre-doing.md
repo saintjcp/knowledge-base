@@ -76,11 +76,11 @@ Remember, you earn ⚗️ rewards proportional to your LP share of the total LP 
 
 Yes. Some people have already.
 
-Again, every transaction is costing you in gas though, so the wisdom of creating multiple instead of just one is in question.
+Again, every transaction will cost you gas, so the wisdom of creating multiple instead of just one is in question.
 
 ## How can I check how many LP tokens someone else's Crucible is worth?
 
-You can take the take the Crucible's tokenId, convert it into hexadecimal if it is in decimal instead, and then search for the address on [https://etherscan.io](https://etherscan.io) to check what the contents are. If you can't see any tokens displayed for it, then it's most likely empty.
+You can take the take the Crucible's token ID, convert it into hexadecimal if it is in decimal instead, and then search for the address on [https://etherscan.io](https://etherscan.io) to check what the contents are. If you can't see any tokens displayed for it, then it's most likely empty.
 
 ## Okay but I how do I add these tokens to MetaMask?
 
