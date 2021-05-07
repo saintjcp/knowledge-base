@@ -20,8 +20,6 @@ We do not recommend you do this on a mobile
 
 ### Step by Step guide
 
-
-
 1. Firstly head to [crucible.alchemist.wtf](./)
 2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
 
