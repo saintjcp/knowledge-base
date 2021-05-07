@@ -7,7 +7,7 @@
 
 ---
 
-* [The basic outline of $MIST](the-basic-outline-of-usdmist.md)
+* [The basic outline of $MIST ⚗️](the-basic-outline-of-usdmist.md)
 * [Acquiring & Staking $MIST ⚗️](acquiring-and-staking-usdmist.md)
 * [$MIST ⚗️ FAQ](alchemist-faq-usdmist.md)
 

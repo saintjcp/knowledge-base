@@ -1,4 +1,4 @@
-# The basic outline of $MIST
+# The basic outline of $MIST ⚗️
 
 There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
 
