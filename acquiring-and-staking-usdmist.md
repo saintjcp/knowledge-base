@@ -1,4 +1,4 @@
-# Acquiring & Staking $MIST ⚗️
+# Acquiring & Staking
 
 ### 1. Getting $MIST ⚗️
 

@@ -3,13 +3,13 @@
 * [What is Alchemist?](README.md)
 * [Official Community Links 🔗](official-community-links.md)
 
-## Alchemist Token
+## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
 ---
 
-* [The basic outline of $MIST ⚗️](the-basic-outline-of-usdmist.md)
-* [Acquiring & Staking $MIST ⚗️](acquiring-and-staking-usdmist.md)
-* [$MIST ⚗️ FAQ](alchemist-faq-usdmist.md)
+* [The basic outline](the-basic-outline-of-usdmist.md)
+* [Acquiring & Staking](acquiring-and-staking-usdmist.md)
+* [FAQ](alchemist-faq-usdmist.md)
 
 ## Crucible
 

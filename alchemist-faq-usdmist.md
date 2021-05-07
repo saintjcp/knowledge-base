@@ -1,4 +1,4 @@
-# $MIST ⚗️ FAQ
+# FAQ
 
 **Where can I trade ⚗️ \($MIST\) ?**
 
