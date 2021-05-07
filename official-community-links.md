@@ -8,7 +8,7 @@ If you decide to use links from external sources, check first that they match ou
 Please only use our list of official links when taking part in the Alchemist.
 
 * [Alchemist.wtf](http://alchemist.wtf)
-* [crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/)
+* [crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/) \(latest Crucible site\)
 * [Alchemist.farm](https://alchemist.farm)
 * [Official User Documentation](./)
 * [Twitter](https://twitter.com/_alchemistcoin) 
