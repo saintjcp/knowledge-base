@@ -18,7 +18,7 @@ Inflation is currently 1% every two weeks but can be modified up or down. To avo
 
 The current allocation of the inflation tokens is:
 
-50% to Aludel reward pool, 25% to $MIST community multisig & 25% to $MISr treasury.
+50% to Aludel reward pool, 25% to $MIST community multisig & 25% to $MIST treasury.
 
 **What can I do with my ⚗️$MIST?**
 
