@@ -19,7 +19,7 @@ The reason for using the TaiChi network is to protect your transaction from bein
 
    ![](https://i.imgur.com/FKnztJS.png)
 
-10. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on etherscan so don't panic! It will appear there once the transaction has gone through
+10. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan so don't panic! It will appear there once the transaction has gone through
 11. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [https://taichi.network/](https://taichi.network/) to see its progress
 12. The TaiChi network will be a little slower than the ethereum network
 13. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
