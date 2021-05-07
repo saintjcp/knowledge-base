@@ -8,7 +8,7 @@
 ---
 
 * [The basic outline](the-basic-outline-of-usdmist.md)
-* [Acquiring & Staking](acquiring-and-staking-usdmist.md)
+* [Acquiring & Subscribing](acquiring-and-staking-usdmist.md)
 * [FAQ](alchemist-faq-usdmist.md)
 
 ## Crucible

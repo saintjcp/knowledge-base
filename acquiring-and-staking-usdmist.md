@@ -1,4 +1,4 @@
-# Acquiring & Staking
+# Acquiring & Subscribing
 
 ### 1. Getting $MIST ⚗️
 
