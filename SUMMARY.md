@@ -10,7 +10,8 @@
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [Tell me more about Crucibles](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [How to get your Crucible](crucible/guides-alchemist.farm/how-to-get-your-crucible.md)
+  * [How do I get my Crucible?](crucible/guides-alchemist.farm/how-to-get-your-crucible.md)
+  * [I have Minted a Crucible, now what?](crucible/guides-alchemist.farm/untitled.md)
   * [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf.md)
@@ -29,8 +30,4 @@
 * [Telegram](https://t.me/alchemistcoin)
 * [Instagram](https://www.instagram.com/thealchemistcoin/)
 * [Github](http://alchemist.wtf/)
-
----
-
-* [Untitled](untitled.md)
 

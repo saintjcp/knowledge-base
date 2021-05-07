@@ -1,6 +1,8 @@
-# How to get your Crucible
+# How do I get my Crucible?
 
 ## Swapping and Staking $MIST ⚗️ to mint a Crucible
+
+First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
 
 If you have already got your $MIST ⚗️ and subscribed it to the LP on Uniswap-V2, skip this section and jump straight across to [Minting a Crucible](how-to-get-your-crucible.md#minting-the-crucible-with-lp-tokens).
 
@@ -63,6 +65,8 @@ We do not recommend using a hardware wallet at this time as many do not currentl
 We do not recommend you do this on a mobile
 {% endhint %}
 
+### Step by Step guide
+
 1. Firstly Head to [https://alchemist.farm/](https://alchemist.farm/)
 2. Connect MetaMask wallet
 3. You should see something like this:
@@ -75,49 +79,18 @@ We do not recommend you do this on a mobile
 
     ![](https://i.imgur.com/9VBX6M6.png)
 
-**Congratulations, if you've made it this far, you're an Alchemist**
+### Video Guides
 
-## Some other questions you may have:
+Churchee has kindly created two videos demonstrating how things work once you've got your LP tokens. You might find these easier to follow or more informative than this text based guide:
 
-### How do I get that fancy "Certified Alchemist" role on the Discord server?
+{% hint style="info" %}
+Links to Uniswap in videos may be outdated since the launch of Uniswap V3.  
+Please ensure to use **Uniswap V2** or refer to our links found in this documentation.
+{% endhint %}
 
-Please follow the guide [here](../how-to-become-a-certified-alchemist-on-discord.md)
+{% embed url="https://www.youtube.com/watch?v=Ga1qcQ6x3as" %}
 
-### How can I check how many LP tokens is in my Crucible?
+{% embed url="https://www.youtube.com/watch?v=i2MCYimelBM" %}
 
-You can use [https://alchemist.farm/](https://alchemist.farm/) to view your Crucible:
-
-![](https://i.imgur.com/WCBz8yM.png)
-
-As you can see it also displays several other useful metrics to track the performance.
-
-### How can I check how many LP tokens someone else's Crucible is worth?
-
-You can take the take the Crucible's tokenId, convert it into hexadecimal if it is in decimal instead, and then search for the address on [https://etherscan.io](https://etherscan.io) to check what the contents are. If you can't see any tokens displayed for it, then it's most likely empty.
-
-### How much LP tokens do I need to create a Crucible?
-
-I don't know what the requirement is, but people have reported creating one with as low as 0.5 LP tokens. It would not surprise me if it was possible with 0.
-
-Of course, a Crucible still costs gas to mint, so creating one with ~0 LP inside costs you money to create what is at present a worthless item.
-
-Remember, you earn ⚗️ rewards proportional to your LP share of the total LP staked in the Aludel.
-
-### Can I create multiple Crucibles?
-
-Yes. Some people have already.
-
-Again, every transaction is costing you in gas though, so the wisdom of creating multiple instead of just one is in question.
-
-### How do I know if I've subscribed the LP within my Crucible?
-
-It should be done automatically. You can also use [https://alchemist.farm/](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
-
-### How do I check my Aludel rewards?
-
-You can use [https://alchemist.farm/](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
-
-### If I've minted my Crucible and subscribed my LP... is that it?
-
-Yes. Now you sit back and see what happens.
+### **Congratulations, if you've made it this far, you're an Alchemist**
 
