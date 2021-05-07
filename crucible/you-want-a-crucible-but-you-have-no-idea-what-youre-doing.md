@@ -63,7 +63,7 @@ Originally the only method was getting to grips with the official CLI tool. Fort
 
 Please use one of the guides below to mint a crucible
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf.md)
+* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 * [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-get-your-crucible.md)
 
 ## Should you mint a Crucible?

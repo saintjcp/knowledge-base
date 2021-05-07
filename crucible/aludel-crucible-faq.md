@@ -22,7 +22,7 @@ We do not recommend you do this on a mobile.
 
 Please use one of the guides below to mint a crucible
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf.md)
+* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 * [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-get-your-crucible.md)
 
 ## **Why can’t I see my ⚗️Mist in my wallet?**
@@ -73,7 +73,7 @@ Every time you put LP tokens in the Aludel reward program, it keeps track of how
 
 ## **Can I somehow see how much rewards I have acquired in the meantime?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](guides-crucible.alchemist.wtf.md) or [alchemist.farm](guides-alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](guides-crucible.alchemist.wtf/) or [alchemist.farm](guides-alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
 
 ## **Can I add more LP to an existing Crucible?**
 
@@ -89,7 +89,7 @@ No, it only empties it. You retain the empty Crucible.
 
 ## **Can I transfer the Crucible NFT to another wallet?**
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](guides-crucible.alchemist.wtf.md) or [alchemist.farm](https://alchemist.farm/)
+Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](guides-crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/)
 
 **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
 

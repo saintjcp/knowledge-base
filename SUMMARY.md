@@ -1,20 +1,27 @@
 # Table of contents
 
 * [What is Alchemist?](README.md)
-* [$MIST ⚗️ FAQ](alchemist-faq-usdmist.md)
 * [Official Community Links 🔗](official-community-links.md)
+
+## Alchemist Token
+
+---
+
+* [$MIST ⚗️ FAQ](alchemist-faq-usdmist.md)
+* [Acquiring & Staking $MIST ⚗️](acquiring-and-staking-usdmist.md)
 
 ## Crucible
 
 * [Getting Started](crucible/precautions.md)
-* [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [Tell me more about Crucibles](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md)
+* [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [How do I mint a Crucible?](crucible/guides-alchemist.farm/how-to-get-your-crucible.md)
   * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/untitled.md)
   * [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
-* [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf.md)
+* [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
+  * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [FAQ 📖](crucible/aludel-crucible-faq.md)
 * [Crucible](https://alchemist.farm)
