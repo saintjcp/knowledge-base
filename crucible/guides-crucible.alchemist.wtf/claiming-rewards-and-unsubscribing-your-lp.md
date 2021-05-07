@@ -10,7 +10,7 @@ The reason for using the TaiChi network is to protect your transaction from bein
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 
-3. Your crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
 4. Click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. You should now be shown a more complex list of statistics under the tab "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. Click "Claim rewards and Unsubscribe" at the bottom of the page  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
@@ -26,7 +26,7 @@ The reason for using the TaiChi network is to protect your transaction from bein
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
 
-13. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on etherscan straight away so don't panic! It will appear there only once the transaction has gone through the TaiChi Network.
+13. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on etherscan straight away so don't panic! It will appear there once the transaction has gone through the TaiChi Network.
 14. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [https://taichi.network/](https://taichi.network/) to see its progress.  **Note:** The TaiChi network will be a little slower than the ethereum network
 15. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
 

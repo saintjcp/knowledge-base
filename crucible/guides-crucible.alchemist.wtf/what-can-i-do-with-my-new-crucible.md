@@ -4,7 +4,7 @@
 
 1. Open [crucible.alchemist.wtf](./), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to view using the downwards facing arrow: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-3. Your crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
 4. If you want to see more detailed rewards, click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. You should now be shown a more complex list of statistics under the tab "Rewards", including information about the reward multiplier, the value of your position and your subscribed & unsubscribed LP.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 
@@ -25,16 +25,16 @@
 ## How do I transfer my Crucible to another wallet
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. You will get prompted to confirm the transfer, make sure you the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
+5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
 6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
 ## How do I find my Crucible Address
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your crucible summery that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 

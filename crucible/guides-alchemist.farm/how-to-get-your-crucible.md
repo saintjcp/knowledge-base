@@ -26,8 +26,8 @@ We do not recommend you do this on a mobile
 
     ![](https://i.imgur.com/eimfv0e.png)
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount
-5. Hit "Mint cruicible and Subscribe LP to Aludel", make necessary approvals via MetaMask, wait for the transaction to complete
+4. Enter the amount of LP you wish to put into the Crucible. You probably wish to click "Max" to enter your full amount
+5. Hit "Mint Crucible and Subscribe LP to Aludel", make necessary approvals via MetaMask, wait for the transaction to complete
 6. You should see your new Crucible on Etherscan:
 
     ![](https://i.imgur.com/9VBX6M6.png)
