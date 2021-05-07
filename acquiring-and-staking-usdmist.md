@@ -14,7 +14,7 @@ Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not g
 
     ![](https://i.imgur.com/5rzgvpf.png)
 
-4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the staking
+4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
 5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
    * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
    * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
@@ -26,7 +26,7 @@ Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not g
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Staking $MIST ⚗️ to receive LP tokens
+### 2. Subscribing $MIST ⚗️ to receive LP tokens
 
 Ever provided liquidity on Uniswap? If so you know how to do this already.
 
