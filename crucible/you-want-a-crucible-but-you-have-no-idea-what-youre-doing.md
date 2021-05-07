@@ -242,7 +242,7 @@ Alchemist Crucible contract address: `0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56
 
 ### I've changed my mind! How do I unstake?!
 
-Please refer to the following guide: [How to unstake your crucible using the Taichi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+Please refer to the following guide: [How to unstake your crucible using the Taichi network](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
 
 \*\*\*\*
 
