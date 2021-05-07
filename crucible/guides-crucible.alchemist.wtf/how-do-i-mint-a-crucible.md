@@ -20,30 +20,21 @@ We do not recommend you do this on a mobile
 
 ### Step by Step guide
 
-1. Firstly Head to [https://alchemist.farm/](https://alchemist.farm/)
-2. Connect MetaMask wallet
+
+
+1. Firstly head to [crucible.alchemist.wtf](./)
+2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
+
 3. You should see something like this:
 
-    ![](https://i.imgur.com/eimfv0e.png)
+    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount
-5. Hit "Mint cruicible and Subscribe LP to Aludel", make necessary approvals via MetaMask, wait for the transaction to complete
-6. You should see your new Crucible on Etherscan:
+4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
+5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-    ![](https://i.imgur.com/9VBX6M6.png)
-
-### Video Guides
-
-Churchee has kindly created two videos demonstrating how things work once you've got your LP tokens. You might find these easier to follow or more informative than this text based guide:
-
-{% hint style="info" %}
-Links to Uniswap in videos may be outdated since the launch of Uniswap V3.  
-Please ensure to use **Uniswap V2** or refer to our links found in this documentation.
-{% endhint %}
-
-{% embed url="https://www.youtube.com/watch?v=Ga1qcQ6x3as" %}
-
-{% embed url="https://www.youtube.com/watch?v=i2MCYimelBM" %}
-
-### **Congratulations, if you've made it this far, you're an Alchemist**
+## **Congratulations, if you've made it this far, you're now an Alchemist**
 

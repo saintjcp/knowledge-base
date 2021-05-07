@@ -58,7 +58,7 @@ As an aside, I am not eager in connecting this guide with my public identity, an
 
 ## What wallets can I use to store my Crucible?
 
-Crucibles are ERC-721 tokens and are not supported by all Wallet Applications. 
+Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
 
 Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
 
