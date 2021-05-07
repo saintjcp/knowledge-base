@@ -42,7 +42,7 @@ Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards P
     ![](https://i.imgur.com/7paIEyF.png)
 
 3. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-4. Hit "Stake", make necessary approvals via MetaMask, wait for the transaction to complete
+4. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
 5. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
 
     ![](https://i.imgur.com/6hAoHGw.png)
