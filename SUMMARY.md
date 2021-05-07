@@ -7,14 +7,14 @@
 
 ---
 
-* [$MIST ⚗️ FAQ](alchemist-faq-usdmist.md)
+* [The basic outline of $MIST](the-basic-outline-of-usdmist.md)
 * [Acquiring & Staking $MIST ⚗️](acquiring-and-staking-usdmist.md)
+* [$MIST ⚗️ FAQ](alchemist-faq-usdmist.md)
 
 ## Crucible
 
 * [Getting Started](crucible/precautions.md)
-* [Tell me more about Crucibles](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md)
-* [Wallet Compatibility](crucible/wallet-compatibility.md)
+* [Teach me about Crucibles](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [How do I mint a Crucible?](crucible/guides-alchemist.farm/how-to-get-your-crucible.md)
   * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/untitled.md)
@@ -24,7 +24,7 @@
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [FAQ 📖](crucible/aludel-crucible-faq.md)
-* [Crucible](https://alchemist.farm)
+* [Wallet Compatibility](crucible/wallet-compatibility.md)
 
 ## Join us
 
