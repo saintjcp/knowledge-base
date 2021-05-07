@@ -2,7 +2,7 @@
 
 ## You can checking how many LP tokens are in your Crucible
 
-Visit [https://alchemist.farm/](https://alchemist.farm/), connect your wallet and click on the crucibles tab.
+Visit [https://alchemist.farm/](https://alchemist.farm/), connect your wallet and click on the Crucibles tab.
 
 The Total Balance reflects your Crucible LP value.
 
