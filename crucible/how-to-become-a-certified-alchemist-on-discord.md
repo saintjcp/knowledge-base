@@ -2,17 +2,17 @@
 
 If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
 
-If your Crucible was minted using [Alchemist.farm](https://alchemist.farm), please jump to **Part 2**
+If your Crucible was minted using the online site, please jump to [**Part 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
 
-If your Crucible was minted using [command line](https://github.com/alchemistcoin/alchemist), you need to log into a new MetaMask account using the mnemonics from your command line wallet. This is shown in **Part 1**
+If your Crucible was minted using [command line](https://github.com/alchemistcoin/alchemist), you need to log into a new MetaMask account using the mnemonics from your command line wallet. This is shown in [**Part 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)\*\*\*\*
 
-**Part 1**
+## **Part 1**
 
 1. In your new MetaMask wallet, import your seed phrase \(mnemonics\) obtained when creating your wallet using command line
 
 ![](https://i.imgur.com/4RxfjZs.png)
 
-**Part 2**
+## **Part 2**
 
 After you have gained access to the wallet containing your Crucible, you can become a certified alchemist following these steps:
 

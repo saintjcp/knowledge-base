@@ -103,6 +103,24 @@ I will include the direct links required through the next steps but you should b
 
 As an aside, I am not eager in connecting this guide with my public identity, and I don't have the spare funds to replicate this process either and didn't take screenshots when I first minted my Crucible. As such the images below are created with me editing the web pages to provide clean examples without identifying hashes. If you spot any oddities in the numbers or formatting, this is why.
 
+## How much LP tokens do I need to create a Crucible?
+
+I don't know what the requirement is, but people have reported creating one with as low as 0.5 LP tokens. It would not surprise me if it was possible with 0.
+
+Of course, a Crucible still costs gas to mint, so creating one with ~0 LP inside costs you money to create what is at present a worthless item.
+
+Remember, you earn ⚗️ rewards proportional to your LP share of the total LP staked in the Aludel.
+
+## Can I create multiple Crucibles?
+
+Yes. Some people have already.
+
+Again, every transaction is costing you in gas though, so the wisdom of creating multiple instead of just one is in question.
+
+## How can I check how many LP tokens someone else's Crucible is worth?
+
+You can take the take the Crucible's tokenId, convert it into hexadecimal if it is in decimal instead, and then search for the address on [https://etherscan.io](https://etherscan.io) to check what the contents are. If you can't see any tokens displayed for it, then it's most likely empty.
+
 ## Okay but I how do I add these tokens to MetaMask?
 
 Fine I'll tell you, you add custom tokens with the following addresses:

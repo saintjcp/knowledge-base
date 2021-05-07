@@ -1,4 +1,4 @@
-# How do I get my Crucible?
+# How do I mint a Crucible?
 
 ## Swapping and Staking $MIST ⚗️ to mint a Crucible
 
