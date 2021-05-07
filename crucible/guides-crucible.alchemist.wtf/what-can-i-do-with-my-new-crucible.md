@@ -31,19 +31,11 @@
 5. You will get prompted to confirm the transfer, make sure you the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
 6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
-## How do I get my Crucible Address
+## How do I find my Crucible Address
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 2. Locate your crucible summery that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
-
-## How do I check my Aludel rewards?
-
-You can use [https://alchemist.farm/](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
-
-## If I've minted my Crucible and subscribed my LP... is that it?
-
-Yes. Now you sit back and see what happens.
 
 #### 
 
