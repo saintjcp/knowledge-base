@@ -25,7 +25,7 @@
 ## How do I transfer my Crucible to another wallet
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your crucible summery that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+2. Locate your crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
 5. You will get prompted to confirm the transfer, make sure you the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
