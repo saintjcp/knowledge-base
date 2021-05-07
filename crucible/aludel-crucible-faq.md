@@ -35,7 +35,7 @@ You can add the contract address **`0xcd6bcca48069f8588780dfa274960f15685aee0e`*
 
 ## **Why can’t I see my Crucible in my wallet?**
 
-You can add the contract address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** to make your crucible\(s\) visible.
+You can add the contract address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** to make your Crucible\(s\) visible.
 
 ## **What are the rewards for Subscribing in the Aludel?**
 
