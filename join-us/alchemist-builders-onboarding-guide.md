@@ -18,7 +18,7 @@ In general, we follow the guiding principles dear to the alchemists since the ep
 * Keep it simple and practical
 * Optimize and automate
 
-For more details please read this [article](https://hackmd.io/@alchemistcoin/rJnNpIFwu)
+For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ### Compliance & Ethic
 
