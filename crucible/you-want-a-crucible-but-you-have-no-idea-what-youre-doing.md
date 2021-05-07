@@ -6,6 +6,8 @@ Originally the only method was getting to grips with the official CLI tool. Fort
 
 Please use one of the guides below to mint a Crucible
 
+Please use one of the guides below to mint a Crucible
+
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 * [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-get-your-crucible.md)
 
@@ -64,9 +66,9 @@ Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
 
 ## How much LP tokens do I need to create a Crucible?
 
-I don't know what the requirement is, but people have reported creating one with as low as 0.5 LP tokens. It would not surprise me if it was possible with 0.
+I don't know what the requirement is, but people have reported creating one with as low as 0.1 LP tokens.
 
-Of course, a Crucible still costs gas to mint, so creating one with ~0 LP inside costs you money to create what is at present a worthless item.
+Of course, a Crucible still costs gas to mint, so creating one with minimal LP inside costs you money to create what is at present a worthless item.
 
 Remember, you earn ⚗️ rewards proportional to your LP share of the total LP staked in the Aludel.
 
