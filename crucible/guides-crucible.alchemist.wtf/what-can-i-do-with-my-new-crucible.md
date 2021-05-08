@@ -1,5 +1,10 @@
 # What can I do with my new Crucible?
 
+There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
+
+* Checking your rewards
+* Increasing your LP Subscription
+* 
 ## Checking your rewards
 
 1. Open [crucible.alchemist.wtf](./), connect your wallet and visit "Your Crucibles" tab.
@@ -17,12 +22,12 @@
 5. Your LP should now be submitted to be subscribed to the Crucible, you can view your transaction using either of the prompts that appear after your transaction has been submitted ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
 6. Once the transactions are complete, your Crucible should represent your newly submitted LP.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Checking how much LP you've subscribed to your Crucible
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 2. You should be able to see your "Subscribed Crucible LP" and "Unsubscribed Crucible LP"
 
-## How do I transfer my Crucible to another wallet
+## Transferring your Crucible to another wallet
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
@@ -31,7 +36,7 @@
 5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
 6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
-## How do I find my Crucible Address
+## Locating and Copying your Crucible Address
 
 1. Follow steps 1 - 5 from [Checking my Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)

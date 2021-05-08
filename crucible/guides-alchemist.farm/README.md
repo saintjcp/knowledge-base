@@ -1,7 +1,5 @@
 # Guides: alchemist.farm
 
-
-
 {% hint style="info" %}
 **Guides below are for community site** [**alchemist.farm**](./)  
 Please [click here](../guides-crucible.alchemist.wtf/) if you are using [crucible.alchemist.wtf](../guides-crucible.alchemist.wtf/)
