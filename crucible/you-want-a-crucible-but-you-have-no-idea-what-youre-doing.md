@@ -6,7 +6,9 @@ It's an NFT representing the LP you have subscribed. The act of creating one is 
 
 When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
 
-What is an NFT? It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+### What is an NFT?
+
+It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
 
 NFTs are a direct contrast to coins:
 
