@@ -4,9 +4,7 @@
 
 Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created a web-app that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
 
-Please use one of the guides below to mint a Crucible
-
-Please use one of the guides below to mint a Crucible
+Please use one of the guides below to mint a Crucible:
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 * [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-get-your-crucible.md)
