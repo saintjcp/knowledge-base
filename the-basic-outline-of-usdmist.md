@@ -30,5 +30,5 @@ This profiting from liquidity pool fees mechanism is no different to staking any
 
 This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
 
-[Learn more about crucibles](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md)
+You can learn more about crucibles on the "[Teach me about Crucibles](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md)" page.
 
