@@ -10,7 +10,7 @@ The accuracy of this information may change over time and is only to be used as 
   <thead>
     <tr>
       <th style="text-align:left">Wallet</th>
-      <th style="text-align:center">Connect Wallet <em>alchemist.farm</em>
+      <th style="text-align:center">Connect wallet <em>alchemist.farm</em>
       </th>
       <th style="text-align:center">
         <p>Connect Wallet</p>
