@@ -15,9 +15,9 @@ NFTs are a direct contrast to coins:
 * Coins: 1⚗️ is 1⚗️, they have equivalent value and use
 * NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
 
-This is an important point to understand, because people have [already listed](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea. At the time I write this that Crucible is being listed for 0.77 ETH. Is it worth that?
+This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
 
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
+It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
 
 ## How do you mint a Crucible?
 
