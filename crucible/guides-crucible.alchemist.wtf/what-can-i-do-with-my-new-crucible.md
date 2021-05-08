@@ -2,9 +2,12 @@
 
 There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
 
-* Checking your rewards
-* Increasing your LP Subscription
-* 
+* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
+* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
+* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
+* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+
 ## Checking your rewards
 
 1. Open [crucible.alchemist.wtf](./), connect your wallet and visit "Your Crucibles" tab.
