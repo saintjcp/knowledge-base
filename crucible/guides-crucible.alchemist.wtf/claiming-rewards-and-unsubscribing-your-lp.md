@@ -1,7 +1,13 @@
 # Claiming Rewards & Unsubscribing your LP
 
-{% hint style="info" %}
-The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
+At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
+
+The guide below is designed to step you through that process.
+
+{% hint style="warning" %}
+You will need to switch to the TaiChi network to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
+
+This step is mandatory and instructions are included in the steps below
 {% endhint %}
 
 1. Open [crucible.alchemist.wtf](./), connect your wallet and visit "Your Crucibles" tab.
