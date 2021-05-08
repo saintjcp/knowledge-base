@@ -20,7 +20,7 @@ We do not recommend you do this on a mobile
 
 ### Step by Step guide
 
-1. Firstly head to [crucible.alchemist.wtf](./)
+1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
