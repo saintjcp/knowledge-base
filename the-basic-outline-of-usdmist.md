@@ -4,7 +4,7 @@ There is a token called Alchemist. It has the ticker symbol "⚗️". It is also
 
 What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](alchemist-faq-usdmist.md)
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md).
+You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md) in the [Aludel](the-basic-outline-of-usdmist.md#3-aludel) program.
 
 ## How could I increase my wealth using ⚗️?
 
