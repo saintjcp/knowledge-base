@@ -20,8 +20,8 @@ We do not recommend you do this on a mobile
 
 ### Step by Step guide
 
-1. Firstly Head to [https://alchemist.farm/](https://alchemist.farm/)
-2. Connect MetaMask wallet
+1. Firstly Head to [alchemist.farm](https://alchemist.farm/)
+2. Connect MetaMask![](../../.gitbook/assets/metamask-fox.svg) wallet
 3. You should see something like this:
 
     ![](https://i.imgur.com/eimfv0e.png)

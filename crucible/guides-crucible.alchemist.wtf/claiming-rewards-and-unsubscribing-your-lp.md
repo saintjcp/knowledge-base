@@ -10,7 +10,7 @@ You will need to switch to the TaiChi network to protect your transaction from b
 This step is mandatory and instructions are included in the steps below
 {% endhint %}
 
-1. Open [crucible.alchemist.wtf](./), connect your wallet and visit "Your Crucibles" tab.
+1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
 2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to claim rewards from and unsubscribe LP by clicking the downwards facing arrow:
 
   

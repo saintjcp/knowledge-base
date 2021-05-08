@@ -4,7 +4,7 @@
 The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
 {% endhint %}
 
-1. Go to [Alchemist.farm](https://alchemist.farm)
+1. Go to [alchemist.farm](https://alchemist.farm)
 2. Connect your wallet as usual on normal ethereum network
 3. Go to the Crucibles tab
 4. Click “Claim Rewards and Unsubscribe LP” 
@@ -20,7 +20,7 @@ The reason for using the TaiChi network is to protect your transaction from bein
    ![](https://i.imgur.com/FKnztJS.png)
 
 10. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan so don't panic! It will appear there once the transaction has gone through
-11. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [https://taichi.network/](https://taichi.network/) to see its progress
+11. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress
 12. The TaiChi network will be a little slower than the ethereum network
 13. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
 
