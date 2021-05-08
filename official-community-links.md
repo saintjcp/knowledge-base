@@ -14,7 +14,6 @@ Please only use our list of official links when taking part in the Alchemist.
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
-| [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
 ### Community
 
@@ -24,7 +23,8 @@ Please only use our list of official links when taking part in the Alchemist.
 | [discord.com/invite/qWQQMMKjKe](https://discord.com/invite/qWQQMMKjKe) | Discord |
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
-| [instagram.com/thealchemistcoin/](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
+| [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
 
 
