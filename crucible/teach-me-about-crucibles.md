@@ -26,7 +26,7 @@ Originally the only method was getting to grips with the official CLI tool. Fort
 Please use one of the guides below to mint a Crucible:
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
-* [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-get-your-crucible.md)
+* [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-i-mint-a-crucible.md)
 
 ## What is a Crucible worth?
 
@@ -36,7 +36,7 @@ Speculation aside, however, what we do know is that a Crucible is created with s
 
 At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
 
-Refer to [this section](you-want-a-crucible-but-you-have-no-idea-what-youre-doing.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
 
 ## Should you mint a Crucible?
 
@@ -55,7 +55,7 @@ We can say however, that you should take into account the value of your LP token
 Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](aludel-crucible-faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
 {% endhint %}
 
 ## What wallets can I use to store my Crucible?
@@ -88,7 +88,7 @@ If you can't see any tokens displayed for it, then it's most likely empty.
 
 ## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
 
-Refer to [our FAQ ](aludel-crucible-faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
 
 \*\*\*\*
 
