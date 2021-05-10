@@ -1,4 +1,4 @@
-# Claiming Rewards & Unsubscribing your LP
+# Belohnungen erhalten und LP Token nicht mehr teilnehmen lassen
 
 At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
 

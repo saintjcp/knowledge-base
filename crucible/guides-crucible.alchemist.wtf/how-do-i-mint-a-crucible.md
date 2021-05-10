@@ -1,4 +1,4 @@
-# How do I mint a Crucible?
+# Wie erstelle ich ein Crucible?
 
 ## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
 

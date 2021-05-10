@@ -1,21 +1,21 @@
-# Getting Started
+# Los geht's
 
-There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
+Bevor du ein Crucible dein Eigen nennen kannst, solltest du einige Vorsichtsmaßen treffen. Bitte lies daher die folgenden Hinweise und Warnungen bevor du weiter fortfährst.
 
 {% hint style="danger" %}
-**Important Notice**  
-Crucible's can only be minted from **Uniswap V2** LP Tokens.  
-Please make sure you are adding tokens to the V2 pool and not V3.
+**Wichtiger Hinweis**  
+Crucibles können nur mit **Uniswap V2** LP Token gemintet / erstellt werden.  
+Bitte stellen daher sicher, dass du, wenn du Liquidität hinzufügst, dies bei dem V2 und nicht beim V3 Pool machst.
 {% endhint %}
 
 {% hint style="warning" %}
-* **Do not** use ![](../.gitbook/assets/brave.png) Brave browser as it is not compatible with the process at this time and you're transaction will fail resulting in lost fees.
-* We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing.
-* Some users have reported issues with Trust Wallet. Please express caution when using it.
-* We do not recommend you do any of these processes on a mobile device.
+* **Benutze nicht** den ![](../.gitbook/assets/brave.png) Brave browser, da dieser aktuell nicht kompatibel mit dem Prozess ist und deine Transaktionen mit hoher Wahrscheinlichkeit fehlschlagen werden und somit zu unnötigen Gebühren führen.
+* Wir ebenfalls ebenfalls nicht eine Hardware-Wallet zu benutzen, da diese zur Zeit keinen Support für die EIP-712 Unterschrift verfügt.
+* Einige Nutzer haben von Problemen in Verbindung mit der Trust Wallet berichtet. Sehe daher davon ab, diese zu benutzen.
+* Wir empfehlen für keinen unserer Prozesse, diese auf dem Smartphone oder Handy durchzuführen.
 {% endhint %}
 
 {% hint style="info" %}
-The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
+Das Aludel Belohungssystem ist ein fortwährendes Experiment, behalte dies bitte im Hinterkopf, wenn du an dem Programm teilnehmen möchtest.
 {% endhint %}
 

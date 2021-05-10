@@ -1,13 +1,13 @@
-# Guides: crucible.alchemist.wtf
+# Anleitungen: crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**Folgende Anleitungen sind für die Community Webseite** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
+Bitte [klicke hier](../guides-alchemist.farm/), wenn du [alchemist.farm](https://alchemist.farm/) benutzt.
 {% endhint %}
 
-### Contents
+### Inhalt
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1. [Wie erstelle ich ein Crucible?](how-do-i-mint-a-crucible.md)
+2. [Was kann ich mit meinem neuen Crucible anstellen?](what-can-i-do-with-my-new-crucible.md)
+3. [Belohnungen erhalten und LP Token nicht mehr teilnehmen lassen](claiming-rewards-and-unsubscribing-your-lp.md)
 

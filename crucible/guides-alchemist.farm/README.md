@@ -1,14 +1,14 @@
-# Guides: alchemist.farm
+# Anleitungen: alchemist.farm
 
 {% hint style="info" %}
-**Guides below are for community site** [**alchemist.farm**](https://alchemist.farm/)  
-Please [click here](../guides-crucible.alchemist.wtf/) if you are using [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+**Folgende Anleitungen sind für die Community Webseite** [**alchemist.farm**](https://alchemist.farm/)  
+Bitte [klicke hier](../guides-crucible.alchemist.wtf/), wenn du [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) benutzt
 {% endhint %}
 
-### Contents
+### Inhalt
 
-1. [How do I mint a Crucible?](how-to-i-mint-a-crucible.md)
-2. [I have minted a Crucible, now what?](i-minted-a-crucible-now-what.md)
-3. [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-4. [Visual Guides 🎞](visual-guides.md)
+1. [Wie erstelle ich ein Crucible?](how-to-i-mint-a-crucible.md)
+2. [Was kann ich mit meinem neuen Crucible anstellen?](i-minted-a-crucible-now-what.md)
+3. [Claim Rewards and Unsubscribe LP mit Hilfe des TaiChi Netzwerkes](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+4. [Visuelle Anleitungen 🎞](visual-guides.md)
 
