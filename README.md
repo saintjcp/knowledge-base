@@ -1,22 +1,24 @@
-# What is Alchemist?
+# ¿Qué es Alchemist?
 
-Alchemist was started with a [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) by [@thegostep](https://twitter.com/thegostep).
+[alchemist.wtf](https://github.com/alchemistcoin/alchemist)
 
-There is no “dev team”. There is no company. There is only a community of alchemists figuring out what to build in the open.
+Alchemist comenzó con un [tuit](https://twitter.com/thegostep/status/1358159173440184322?s=20) de [@thegostep](https://twitter.com/thegostep).
 
-There is no roadmap. An alchemist never makes forward looking statements, simply because the future is unpredictable.
+No hay un "equipo de desarrollo". No hay ninguna empresa. Sólo hay una comunidad de alquimistas al aire libre intentando encontrar lo que se puede construir.
 
-The only plan is there is no plan ⚗️
+No hay una hoja de ruta. Un alquimista nunca hace declaraciones prospectivas, simplemente porque el futuro es imprevisible.
 
-**How do I become an Alchemist?**
+El único plan es que no hay plan ⚗️
 
-Becoming an alchemist requires learning and practice. Training is a way of life for a true alchemist. There is no final destination, only continuous change.
+**¿Cómo me convierto en Alquimista?**
 
-⚗️ $MIST is used to coordinate and reward committed alchemists. Whether you are an artist, a developer, a community manager, or a liquidity provider, there is a role for you.
+Convertirse en alquimista requiere aprendizaje y práctica. El aprendizaje es una forma de vida para un verdadero alquimista. No hay un destino final, sólo un cambio continuo.
 
-Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the \#bounties channel.
+⚗️$mist se utiliza para coordinar y recompensar a los alquimistas comprometidos. Que seas un artista, un desarrollador, un gestor de la comunidad o un proveedor de liquidez, hay un papel para ti.
 
-**Is there a website?**
+Ven a conocer a los demás alquimistas en [discord.alchemist.wtf](https://discord.com/invite/qWQQMMKjKe) y ofrece tus habilidades en el canal \#bounties.
 
-Not yet. If you are interested in helping build one, check out [the lab](https://discord.gg/UQB4MwG4c8) on Discord.
+**¿Hay una página web?**
+
+Todavía no. Si te interesa ayudar a construir una, consulta [el laboratorio](https://discord.com/invite/UQB4MwG4c8) en Discord.
 

@@ -1,4 +1,4 @@
-# Official Community Links 🔗
+# Enlaces oficiales de la Comunidad 🔗
 
 {% hint style="warning" %}
 If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
@@ -20,7 +20,7 @@ Please only use our list of official links when taking part in the Alchemist.
 | Site | Description |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
-| [discord.com/invite/qWQQMMKjKe](https://discord.com/invite/qWQQMMKjKe) | Discord |
+| [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |

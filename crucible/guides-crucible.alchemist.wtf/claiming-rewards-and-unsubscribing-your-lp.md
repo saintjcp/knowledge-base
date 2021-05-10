@@ -33,7 +33,7 @@ This step is mandatory and instructions are included in the steps below
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
 
 13. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan straight away so don't panic! It will appear there once the transaction has gone through the TaiChi Network.
-14. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [https://taichi.network/](https://taichi.network/) to see its progress.  **Note:** The TaiChi network will be a little slower than the ethereum network
+14. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress.  **Note:** The TaiChi network will be a little slower than the ethereum network
 15. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
 
     ![](https://i.imgur.com/fcPY6Zp.png) 

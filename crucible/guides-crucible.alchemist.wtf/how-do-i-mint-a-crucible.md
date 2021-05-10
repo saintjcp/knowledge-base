@@ -4,7 +4,7 @@
 
 First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-staking-usdmist.md).
+If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
 
 ## Minting a Crucible using LP tokens
 

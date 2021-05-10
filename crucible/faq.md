@@ -1,97 +1,99 @@
 # FAQ 📖
 
-{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
+## Por favor, antes de continuar ve este vídeo sobre la Pérdida Impermanente \(o Impermanent Loss\)
 
-## **How do I participate in the Aludel / How do I mint a Crucible NFT?**
+{% embed url="https://youtu.be/8XJ1MSTEuU0" %}
 
-{% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
-{% endhint %}
+**¿Cómo participar en el Aludel? / ¿Cómo crear un NFT Crucible?**
+
+Para participar en el Aludel, debes crear un NFT Crucible y depositar en ella algunos ⚗️mist/ETH Uniswap LP tokens \(piensa en esto como una caja fuerte virtual\). El Crucible acumula las recompensas del programa Aludel proporcionalmente a la cantidad y duración de los tokens LP suscritos. El coste por la creación de un Crucible y para hacer el deposito depende de los precios actuales del gas Ethereum, se puede suponer que la comisión sea aproximadamente 0,1-0,2 ETH.
 
 {% hint style="warning" %}
-**Precautions**
+**Informaciónes importantes :**
 
-Do not use Brave browser as it is not compatible with the process at this time and you're transaction will fail resulting in lost fees.
+No utilice el navegador Brave, porque no es compatible con el proceso en este momento y su transacción fallará resultando en la pérdida de la comisión.
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+No recomendamos el uso de un hardware wallet en este momento porque muchos no soportan actualmente la firma EIP-712. Cuando solucionen esto, podremos implementarlo.
 
-Some users have reported issues with Trustwallet.
+Algunos usuarios han reportado problemas con Trustwallet.
 
-We do not recommend you do this on a mobile.
+No recomendamos hacer esto en un móvil.
 {% endhint %}
 
-Please use one of the guides below to mint a crucible
+1. Para crear un Crucible ve la página web, [alchemist.farm](https://alchemist.farm/)
+2. Conecta el wallet MetaMask
+3. Introduce la cantidad de LP que deseas depositar en el Crucible.
+4. Haz Clic en "Mint Crucible and Subscribe LP to Aludel". Obtendrá 2 aprobaciones a través del cuadro de dialoguo MetaMask, firma estos y espera a la finalización.
+5. A continuación se te pedirá que confirmes la transacción, esto normalmente cuesta alrededor de 0,1-0,2 ETH para crear un Crucible, si estás contento con el precio del gas, pulsa confirmar y espera a que la transacción se realice.
+6. Una vez completada, verás tu nuevo Crucible en tu pestaña de tokens Erc721 en Etherscan.
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
-* [Minting a Crucible on alchemist.farm](guides-alchemist.farm/)
+**Por qué no puedo ver mis ⚗️Mist en mi wallet?**
 
-## **Why can’t I see my ⚗️Mist in my wallet?**
+Puedes añadir la dirección del contrato **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** para hacerlos visibles.
 
-You can add the contract address **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** to make them visible.
+**¿Por qué no puedo ver mi token LP en mi wallet?**
 
-## **Why can’t I see my LP in my wallet?**
+Puedes añadir la dirección del contrato **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** para hacerlos visibles.
 
-You can add the contract address **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** to make them visible.
+**¿Por qué no puedo ver mi Crucible en mi wallet?**
 
-## **Why can’t I see my Crucible in my wallet?**
+Puedes añadir la dirección del contrato **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** para hacer visibles tu Crucible.
 
-You can add the contract address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** to make your Crucible\(s\) visible.
+**¿Cuáles son las recompensas por suscribirse a Aludel?**
 
-## **What are the rewards for Subscribing in the Aludel?**
+Las recompensas se distribuyen de la bolsa de recompensas proporcionalmente a la cantidad y duración del deposito. Cuantos más ⚗️mist/ETH Uniswap LP tokens depositas y cuanto más tiempo lo dejes, más recompensas acumularás. El programa de recompensas de Aludel está diseñado para premiar a los participantes a largo plazo.
 
-Rewards are distributed from the reward pool proportionally to the amount and duration of a Subscription. The more ⚗️$mist/ETH Uniswap LP tokens you Subscribe and the longer you leave it for, the more rewards it will accumulate. The Aludel reward program is designed to reward long term participants.
+Puedes ver el conjunto de recompensas [aquí](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541).
 
-You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
+**¿Cómo puedo convertirme en un Alquimista certificado en Discordia?**
 
-## **How do I become an certified Alchemist in Discord?**
+* [Guía](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
+* Únete al Discord
+* Ve al canal de bienvenida y escribe !join
+* Después recibirás un mensaje del bot de Collab.Land
+* Conecta tu wallet con tu ⚗️$mist
+* El bot te enviará un mensaje "Updating roles, Please check assigned roles in Alchemist"
+* Cierra el bot y vuelve al canal principal \(alchemy\) y ya serás un Alquimista certificado.
 
-* Please use this [guide](how-to-become-a-certified-alchemist-on-discord.md)
-* Join Discord
-* Go to the Welcome channelType !join
-* You will then get a message from the Collab.Land bot
-* Connect Your wallet containing your ⚗️$mist
-* The bot will then message you  ~ Updating roles, Please check assigned roles in Alchemist
-* Close bot and return to the main alchemy channel and you will now be a certified Alchemist!
+**¿Cómo reclamo las recompensas?**
 
-## **How do I claim the rewards?**
+Todas las recompensas se reciben cuando pulse "Claim Rewards and Unsubscribe LP". Ten cuidado, esto también reinicia tu multiplicador de recompensas. Tendrás que usar la Red Taichi cuando hagas esto para evitar que los bots se adelanten \("front-run"\) a tus recompensas. Consulta esta [guía]().
 
-All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. You will need to use Taichi Network when doing this to prevent bots from front-running your rewards. See this [guide](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+**¿Importa cuántos tokens de LP entran en el Crucible?**
 
-## **Does it matter how many LP tokens go into the Crucible?**
+Cuantos más tokens de LP depósitas en el Crucible, mayor será la cantidad de liquidez que hayas proporcionado y, por tanto, mayor será el porcentaje de la bolsa de recompensas que recibirás. No se requiere un mínimo de LP, pero te sugerimos que tengas en cuenta el coste del gas Ethereum cuando lo considere.
 
-The more LP tokens you get the higher amount of liquidity you provided therefore a larger percentage of the rewards pool you will receive. There is no minimum LP required, but we do suggest you be mindful of the ethereum gas cost when considering this.
+**¿Es más ventajoso tener más Crucible o una mayor Suscripción en un Crucible?**
 
-### **Is it more advantageous to have more Crucibles or a higher Subscription in one Crucible?**
+Casi siempre es mejor acumular tokens LP en un solo Crucible porque minimiza los costes de gas.
 
-It’s almost always better to accumulate LP in a single Crucible as it minimizes the gas costs.
+El único caso en el que se utilizarían varios Crucible es si se pretende transferir/vender un Crucible con alguna suscripción activa en él.
 
-The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with some active Subscription on it.
+**¿Cómo afecta "Claim Rewards and Unsubscribe LP" al multiplicador de recompensas?**
 
-## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
+Cada vez que pones tokens LP en el programa de recompensas de Aludel, este lleva la cuenta del tiempo que esos tokens están depositos. Aludel aplica un multiplicador de recompensa que comienza en 1x y aumenta hasta 10x en 60 días. Cuando reclamas una cantidad parcial, el Aludel reclama primero los tokens LP del depósito con el multiplicador más bajo \("Last In, First Out"\).
 
-Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
+**¿Puedo ver de alguna manera cuántas recompensas he adquirido mientras tanto?**
 
-## **Can I somehow see how much rewards I have acquired in the meantime?**
+Puedes ver la recompensa acumulada de tu Crucible usando la IU en [alchemist.farm](https://alchemist.farm/) y las cuotas de LP acumuladas de Uniswap usando [apy.vision](https://apy.vision/) o [https://croco.finance/](https://croco.finance/)
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+**¿Puedo añadir más LP a un Crucible existente?**
 
-## **Can I add more LP to an existing Crucible?**
+Sí. El gas para añadir más LP a tu Crucible actual será mucho menor que cuando creas inicialmente un Crucible. Cada evento de suscripción es independiente, por lo que cualquier token LP que depósitas iniciará su propio multiplicador de forma independiente.
 
-Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.
+**¿"Claim Rewards and Unsubscribe LP" retira los LP tokens y recompensas del Crucible?**
 
-## **Does “Claim Rewards and Unsubscribe LP” remove my LP & rewards from the Crucible?**
+No. Esto sólo reclama las recompensas ganadas, tu token LP permanecerá en el Crucible hasta que "Withdraw Unsubscribed LP".
 
-No. This only claims the rewards earned, your LP will remain in the Crucible until you “Withdraw Unsubscribed LP”.
+**¿"Withdraw Unsubscribed LP" destruye el Crucible?**
 
-## **Does “Withdraw Unsubscribed LP” destroy the Crucible?**
+No, sólo lo vacía. Conservas el Crucible vacío.
 
-No, it only empties it. You retain the empty Crucible.
+**¿Puedo transferir el NFT del Crucible a otro wallet?**
 
-## **Can I transfer the Crucible NFT to another wallet?**
+Sí, la propiedad del NFT \(y los tokens LP depositado\) puede transferirse a cualquier wallet compatible con ERC721. Esto puede hacerse a través del botón "Transfer Crucible" en [alchemist.farm](https://alchemist.farm/)
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/)
+**Si transfiero mi Crucible de un wallet a otro, ¿se reiniciará el multiplicador?**
 
-## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
-
-No, as long as the rewards are not unsubscribed from the Aludel.
+No, siempre que no desabonas las recompensas del Aludel.
 

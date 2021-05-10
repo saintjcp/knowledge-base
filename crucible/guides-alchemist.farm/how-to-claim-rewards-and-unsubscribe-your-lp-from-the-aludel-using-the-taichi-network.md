@@ -1,32 +1,28 @@
-# How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network
+# Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la r
 
 {% hint style="info" %}
-The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
+Antecedentes: La razón por la que necesitarás hacer esto es para proteger al usuario de ser adelantado por los bots cuando se desabona.
 {% endhint %}
 
-1. Go to [alchemist.farm](https://alchemist.farm)
-2. Connect your wallet as usual on normal ethereum network
-3. Go to the Crucibles tab
-4. Click “Claim Rewards and Unsubscribe LP” 
-5. Once you have added the TaiChi network as described [here](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md) you will need to make sure MetaMask is using it. To check you should see TaiChi at the top of your MetaMask like so
+1. Ve a [alchemist.farm](https://alchemist.farm/)
+2. Conecta tu wallet como de costumbre en la red normal de Ethereum
+3. Haz clic en la pestaña "Crucible".
+4. Haz clic en "Claim rewards and Unsubscribe LP"
+5. Aparecerá un cuadro de diálogo y tendrás que hacer clic en “[this guide](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” de color azul y seguir las instrucciones que te indicarán cómo añadir la red Taichi a tu wallet MetaMask.  ![](https://i.imgur.com/ZNhwuza.png)
+6. Una vez que has añadido la red Taichi, tendrás que asegurarte de que MetaMask la está utilizando. Para comprobarlo deberías ver a Taichi en la parte superior de tu MetaMask, así:![](https://i.imgur.com/fLuCmLf.png)
+7. Una vez que estés conectado a Taichi, puedes hacer clic en "Claim rewards and Unsubscribe LP"
+8. Introduce la cantidad de token LP que deseas reclamar y dar de baja y luego pulsa el botón azul ~ "Claim Rewards and Unsubscribe LP"
+9. Ahora aparecerá un cuadro de diálogo de MetaMask pidiéndote una "Signature Request", haga clic en "Sign".
+10. Después aparecerá el cuadro de dialogo normal de transferencia de fondos como el que se muestra abajo  ![](https://i.imgur.com/HS5SKG9.png)
+11. **Te sugerimos que compruebes el precio del gas haciendo clic en el botón EDIT, porque algunos usuarios han informado de que a vezes la opción más lenta esta selectionada automaticamente.**
+12. La transacción se enviará ahora a la red Taichi. No podras ver esta transacción en etherscan, así que no te asustes. Aparecerá allí una vez que la transacción se haya realizado.
+13. Si quieres comprobar que tu transacción se está realizando en Taichi, puedes pegar el hash de la transacción en [https://taichi.network/](https://taichi.network/) para ver el progreso.
+14. La red Taichi será un poco más lenta que la red Ethereum.
+15. **Una vez que la transacción ha pasado y se ha completado tendras que cambiar de nuevo a la red ethereum para ver el Crucible** 
 
-   ![](https://i.imgur.com/kszVVbq.png)
+    ![](https://i.imgur.com/6AcXZ8L.png)
 
-6. Once you are connected to TaiChi you can now click “Claim Rewards and Unsubscribe LP”
-7. Enter the amount of LP you wish to Claim and Unsubscribe then press the blue button ~ “Claim Rewards and Unsubscribe LP”
-8. You will now get a pop up box from MetaMask asking you for a “Signature Request” click “sign”
-9. Next you will get a transfer funds notification box from MetaMask as shown below. **We suggest you check the Gas Fee by clicking the EDIT button.  Some users have reported this defaulting to the slowest option, which can delay the completion of your transaction. If you are concerned the gas fees are too high, use** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **to help decide when the lowest gas fees might occur**
+16. Haz clic en actualizar y ahora verás el Crucible con las fichas de LP eliminadas.
 
-   ![](https://i.imgur.com/FKnztJS.png)
-
-10. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan so don't panic! It will appear there once the transaction has gone through
-11. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress
-12. The TaiChi network will be a little slower than the ethereum network
-13. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
-
-    ![](https://i.imgur.com/fcPY6Zp.png) 
-
-14. Click refresh and you will now see the Crucible with the LP tokens removed
-
-\*\*\*\*
+    ![](https://i.imgur.com/9M4Urat.png)
 
