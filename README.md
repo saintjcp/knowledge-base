@@ -4,7 +4,7 @@ Alchemist was started with a [tweet](https://twitter.com/thegostep/status/135815
 
 There is no “dev team”. There is no company. There is only a community of alchemists figuring out what to build in the open.
 
-There is no roadmap. An alchemist never makes forward looking statements, simply because the future is unpredictable.
+There is no roadmap. An alchemist never makes forward-looking statements, simply because the future is unpredictable.
 
 The only plan is there is no plan ⚗️
 
