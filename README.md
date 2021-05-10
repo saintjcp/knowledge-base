@@ -1,22 +1,24 @@
-# What is Alchemist?
+# Was ist Alchemist?
 
-Alchemist was started with a [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) by [@thegostep](https://twitter.com/thegostep).
+[alchemist.wtf](http://alchemist.wtf)
 
-There is no “dev team”. There is no company. There is only a community of alchemists figuring out what to build in the open.
+Alchemist wurde ursprünglich durch einen [Tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) von [@thegostep](https://twitter.com/thegostep) initiiert.
 
-There is no roadmap. An alchemist never makes forward-looking statements, simply because the future is unpredictable.
+Es gibt kein Entwickler Team. Keine Firma oder Unternehmen. Es gibt nur die Gemeinschaft der Alchemisten, die versuchen herauszufinden was man alles erschaffen kann.
 
-The only plan is there is no plan ⚗️
+Es gibt keine Roadmap. Ein Alchemist macht niemals Versprechen für die Zukunft, einfach weil diese unvorhersehbar ist.
 
-**How do I become an Alchemist?**
+Der einzige Plan ist, es gibt keinen. ⚗️
 
-Becoming an alchemist requires learning and practice. Training is a way of life for a true alchemist. There is no final destination, only continuous change.
+**Wie werde ich ein Alchemist?**
 
-⚗️ $MIST is used to coordinate and reward committed alchemists. Whether you are an artist, a developer, a community manager, or a liquidity provider, there is a role for you.
+Ein wahrer Alchemist zu werden bedarf viel Lernbereitschaft und Übung. Stetiges Training ist der Lebensweg für einen wahren Alchemisten. Es gibt kein finales Ziel, nur beständigen Wandel.
 
-Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the \#bounties channel.
+⚗️ $mist wird dazu benötigt, treue Alchemisten zu würdigen. Egal ob du ein Künstler, ein Entwickler, ein Community Manager oder ein Investor bist – hier ist für jeden Platz.
 
-**Is there a website?**
+Wir würden dich gerne auf unserem [Discord](http://discord.alchemist.wtf/) den anderen Alchemisten vorstellen und du kannst gerne deine Fähigkeiten einbringen.
 
-Not yet. If you are interested in helping build one, check out [the lab](https://discord.gg/UQB4MwG4c8) on Discord.
+**Gibt es eine Website?**
+
+Noch nicht. Wenn du Interesse hast uns hierbei zu helfen, schau doch einmal im [\#the-lab](https://discord.gg/UQB4MwG4c8) Channel vorbei.
 

@@ -1,45 +1,41 @@
 # FAQ
 
-## **Where can I trade ⚗️ \($MIST\) ?**
+**Wo kann ich mit ⚗️ $MIST handeln?**
 
-Most activity happens on Uniswap, you can find it using our link
+[uniswap.alchemist.wtf](http://uniswap.alchemist.wtf/)
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+**Was ist die maximale und die sich im Umlauf befindliche Anzahl an Tokens?**
 
-Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingeko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
+Die maximale und die sich im Umlauf befindliche Anzahl an Tokens sind identisch. Es begann alles mit 1000000 \(1Million\) Token, aber wird jede 2 Wochen durch eine eingebaute Inflation um 1% erhöht. Die aktuell befindlichen Token werden [hier](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab) angezeigt.
 
-## **What is total/circulating supply?**
+**Plant ihr einen Vor/Privat/Öffentlichen-Sonderverkauf?**
 
-Circulating supply and total supply are the same. This started with 1,000,000, but increases by 1% every two weeks. The current supply is shown [here](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)
+Es gibt keinen Sonderverkauf. Wir veranstalteten einen Balancer Initial-Liquiditätspool. Alle Einnahmen \(in Ethereum\) wurden ins Belohnungsprogramm eingezahlt.
 
-## **Do you plan pre/private/public sale?**
+**Hat der Token eine eingebaute Inflation?**
 
-There are no sales. We held an initial Balancer pool and all ETH raised were deposited into the reward program.
+Aktuell werden alle 2 Wochen 1% der aktuellen Token-Anzahl hinzugefügt. Dies kann sich allerdings jederzeit ändern. Der einzige Weg der Inflation zu entgehen, ist, indem du deine ⚗️ am Belohnungsprogramm teilnehmen lässt.
 
-## **Does the token have inflation?**
+Die aktuelle Verteilung ist wie folgt:
 
-Inflation is currently 1% every two weeks but can be modified up or down. To avoid being diluted by inflation, Subscribe your ⚗️$MIST in the Aludel reward program.
+50% gehen in den Aludel Belohnungspool, 25% an die $mist Community Multisig und 25% an den $mist Safe.
 
-The current allocation of the inflation tokens is:
+**Was kann ich mit meinen ⚗️ anstellen?**
 
-50% to Aludel reward pool, 25% to $MIST community multisig & 25% to $MIST treasury.
+Ein Belohnungsprogramm wurde entwickelt und würdigt die Teilnehmer, die Liquidität zum ⚗️/ETH Uniswap Pool hinzufügen. Wir taufen es Aludel. \(Stell es dir vor wie einen durch unseren Gildenmeister erschaffenen Staking-smart-contract\)
 
-## **What can I do with my ⚗️$MIST?**
+Eine Community Multisig wurde erstellt, sodass Mittel für Kopfgelder \(Bounties\) zur Verfügung stehen. Wirf doch einmal einen Blick in den [\#bounties](https://discord.gg/92hQDCw25u) Channel auf unserem Discord und/oder spende an die [Multisig](https://etherscan.io/address/multisig.alchemistcoin.eth).
 
-A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel. \(Think of this as a staking smart contract designed by our guildmaster\).
+## Multisig FAQ
 
-A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#builders-application](https://discord.gg/92hQDCw25u) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
+**Wer sind die Multisig Mitglieder?**
 
-## **Multisig**
+Die Multisig Mitglieder wurden durch die Community gewählt – basierend auf Vertrauen und Anteilnahme.
 
-### **Who are the multisig key holders?**
-
-Multisig Key holders were chosen by the community based on trust and contributions to the project.
-
-Current multisig signers are:
+Aktuelle Multisig Unterzeichner sind:
 
 * [@ees2oo](https://twitter.com/ees2oo) : [stussy.eth](https://etherscan.io/address/stussy.eth)
-* [@sal\_ash\_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
+* [@sal_ash_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
 * [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)

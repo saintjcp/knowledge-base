@@ -1,7 +1,7 @@
 # Table of contents
 
-* [What is Alchemist?](README.md)
-* [Official Community Links 🔗](official-community-links.md)
+* [Was ist Alchemist?](README.md)
+* [Offizielle Community Links 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
@@ -22,7 +22,7 @@
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [How do I mint a Crucible?](crucible/guides-alchemist.farm/how-to-i-mint-a-crucible.md)
   * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+  * ["Claim Rewards and Unsubscribe LP" mit Hilfe des Taichi Netzwerks](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
