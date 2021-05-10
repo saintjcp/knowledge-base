@@ -1,10 +1,8 @@
 # "Claim Rewards and Unsubscribe LP" mit Hilfe des Taichi Netzwerks
 
 {% hint style="info" %}
-The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
-{% endhint %}
-
 **Hintergrund: Warum benutzen wir dies? Um dich vorm Front-Running durch Bots zu schützen, während du dein Teilnahme deiner LP Token beendest.**
+{% endhint %}
 
 1. Besuche [alchemist.farm](https://alchemist.farm/)
 2. Verbinde deine Wallet wie immer mit der Seite und dem üblichen Ethereum Mainnet
