@@ -1,34 +1,34 @@
-# The basic outline
+# Las bases
 
-There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
+Existe un token llamado Alchemist. Tiene el símbolo de ticker "⚗️". También se le conoce como "mist" y "$MIST". No lo confundas con [MUST](https://www.coingecko.com/en/coins/must) - a pesar del alambique que muestra ahora no tiene ninguna relación con Alchemist.
 
-What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](faq.md)
+¿Para qué sirve ⚗️? No estoy aquí para responder a eso. Por favor, consulta las [preguntas frecuentes oficiales](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/faq).
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+Puedes stake ⚗️ como con otras cryptomonedas, y puedes utilizar tus MIST para [crear un Crucible NFT](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/crucible/teach-me-about-crucibles) y apuntarlo en el [programa Aludel](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/the-basic-outline#3-aludel).
 
-## How could I increase my wealth using ⚗️?
+## ¿Cómo podría aumentar mi riqueza utilizando ⚗️?
 
-### 1. Speculation
+### 1. Especulación
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+La primera forma es especular con su valor. En otras palabras: compras y esperas que el precio suba y luego lo vendes. Aviso: no hay garantía de que el precio suba.
 
 ### 2. Staking
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible sólo es compatible con el fondo de liquidez **Uniswap V2**. Añadir liquidez al pool **Uniswap V3** no es compatible con el Programa de Recompensas
 {% endhint %}
 
-The second way is to stake it in a liquidity pool alongside an equal value portion of Ether \(ETH\). When you do so you receive Liquidity Pool tokens \(LP\) that represent your stake in that pool. Ultimately these LP tokens are used to withdraw your original ⚗️ and ETH from the pool when you decide you are finished with it.
+La segunda forma es de "stake" en un pool de liquidez junto con una porción de Ether \(ETH\) de igual valor. Al hacerlo, recibes unos tokens de Liquidity Pool \(LP\) que representan tu participación en ese pool. Al final, estos tokens LP se utilizan para retirar tus ⚗️ original y ETH del pool cuando decides que has terminado con él.
 
-The liquidity pool is used to facilitate trades between ⚗️ and ETH that other people wish to make. Every trade made incurs a small fee for the person making the trade. Whilst you hold LP tokens, you receive a portion of those fees, proportional to the LP you hold relative to the total LP. \(For example, if your LP makes up 1% of the total LP then you receive 1% of the pool fees\)
+El fondo de liquidez se utiliza para facilitar las operaciones entre ⚗️ y ETH que otras personas deseen realizar. Cada operación realizada conlleva una pequeña comisión para la persona que la realiza. Mientras tengas tokens LP, recibirás una parte de esas comisiones, proporcional al LP que tengas en relación con el total del LP. \(Por ejemplo, si tus LP representa el 1% del total de los LP, recibirá el 1% de las comisiones del pool\)
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+Este mecanismo para beneficiar de las comisiones del fondo de liquidez no es diferente de stakear cualquier otra moneda en cualquier otro fondo de liquidez. Como tal, puede occurir "pérdida impermanente" \(impermanent loss\), por lo que como persona que stake su tokens pierdes dinero al retirarlos después de que su valor relativo haya cambiado desde que las suscribiste. Si no está familiarizado con este concepto, le recomiendo que investigue más hasta que lo entienda; hay muchos recursos que explican mejor el concepto de "pérdida impermanente" de lo que yo podría hacerlo.
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
 ### 3. Aludel
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+Aquí es donde ocurre la alquimia. "Aludel" es el nombre del programa de recompensas en el que puedes ganar ⚗️ y ETH por suscribirte a él con los tokens LP en un Crucible NFT.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+Puede obtener más información sobre los Crucible en la página ["Enséñame sobre los Crucible"](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QLkkM0Xn_w82Zeivz/v/spanish/crucible/teach-me-about-crucibles).
 
