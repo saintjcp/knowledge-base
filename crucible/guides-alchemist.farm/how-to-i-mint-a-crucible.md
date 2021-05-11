@@ -1,49 +1,48 @@
 # Wie erstelle ich ein Crucible?
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## Swappen und Liquidität mit $MIST ⚗️ bereitstellen um ein Crucible zu minten
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+Zunächst benötigst du $MIST  und stellst Liquidität zum Uniswap-V2 LP bereit.
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+Wenn du dies noch nicht getan hast, siehe unsere zweiteilige Anleitung zum Thema [Beschaffung und Teilnahme](../../acquiring-and-subscribing.md).
 
-## Minting a Crucible using LP tokens
+## Minten eines Crucibles mit Hilfe von LP Token
 
 {% hint style="info" %}
-**Important information:** 
+**Wichtige Informationen:** 
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail resulting in lost fees. 
+**Benutze nicht** den ![](../../.gitbook/assets/brave.png) Brave ****Browser, da dieser aktuell nicht kompatibel mit dem Prozess ist und deine Transaktionen mit hoher Wahrscheinlichkeit fehlschlagen werden und somit zu unnötigen Gebühren führen.
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+Wir ebenfalls ebenfalls nicht eine Hardware-Wallet zu benutzen, da diese zur Zeit keinen Support für die EIP-712 Unterschrift verfügt.
 
-We do not recommend you do this on a mobile
+Wir empfehlen für keinen unserer Prozesse, diese auf dem Smartphone oder Handy durchzuführen.
 {% endhint %}
 
-### Step by Step guide
+### Schritt für Schritt Anleitung
 
-1. Firstly Head to [alchemist.farm](https://alchemist.farm/)
-2. Connect MetaMask![](../../.gitbook/assets/metamask-fox.svg) wallet
-3. You should see something like this:
+1. Gehe zu [alchemist.farm](https://alchemist.farm/)
+2. Verbinde deine MetaMask![](../../.gitbook/assets/metamask-fox.svg) Wallet
+3. Du solltest nun so etwas sehen:
 
     ![](https://i.imgur.com/eimfv0e.png)
 
-4. Enter the amount of LP you wish to put into the Crucible. You probably wish to click "Max" to enter your full amount
-5. Hit "Mint Crucible and Subscribe LP to Aludel", make necessary approvals via MetaMask, wait for the transaction to complete
-6. You should see your new Crucible on Etherscan:
+4. Gib die Anzahl der LP Token ein, die du gerne in dein Crucible legen möchtest. Du kannst ebenfalls die Option "Max" benutzen, wenn du all deine LP Token verwenden willst.
+5. Drücke auf "Mint Crucible and Subscripe LP to Aludel", stelle sicher, dass du die aufploppenden Metamask Meldungen bestätigst bzw. unterschreibst & warte bis die Transaktion abgeschlossen ist.
+6. Du solltest dein Crucible nun auf Etherscan sehen:
 
     ![](https://i.imgur.com/9VBX6M6.png)
 
-### Video Guides
+### Video Anleitungen
 
-Churchee has kindly created two videos demonstrating how things work once you've got your LP tokens. You might find these easier to follow or more informative than this text based guide:
+Churchee war so frei und hat 2 Videos erstellt, die anschaulich zeigen, wie der Ablauf ist sobald man LP Token sein Eigen nennt. Du könntest die einfacher und informativer als die geschriebene Anleitung finden \(in Englisch\).
 
 {% hint style="info" %}
-Links to Uniswap in videos may be outdated since the launch of Uniswap V3.  
-Please ensure to use **Uniswap V2** or refer to our links found in this documentation.
+Links zu Uniswap im Video sind möglichweise aufgrund des Uniswap V3 Starts nicht mehr aktuell. Bitte stelle sicher, dass du **Uniswap V2** LP Token verwendest - siehe hierzu die Links in unserer Dokumentation.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=Ga1qcQ6x3as" %}
 
 {% embed url="https://www.youtube.com/watch?v=i2MCYimelBM" %}
 
-### **Congratulations, if you've made it this far, you're an Alchemist**
+## **Herzlichen Glückwunsch, wenn du es soweit geschafft hast, darfst du dich nun ein Alchemist nennen!**
 

@@ -1,26 +1,26 @@
 # Was kann ich mit meinem neuen Crucible anstellen?
 
-## You can checking how many LP tokens are in your Crucible
+## Wie kann ich überprüfen wie viele LP Token und deren Wert in meinem Crucible sich befinden?
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Besuche [alchemist.farm](https://alchemist.farm/) und verbinde deine Wallet und klicke auf den "Crucibles" Reiter.
 
-The Total Balance reflects your Crucible LP value.
+Die  "Total Balance" repräsentiert deinen Wert der Crucible LP Token.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Wie du sicher siehst, werden auch weitere nützliche Metriken und Zahlen zur Nachverfolgung und Nachvollziehbarkeit der aktuellen Leistung angezeigt.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Wie kann ich überprüfen wie viele LP Token in meinem Crucible teilnehmen?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Dies sollte automatisch passieren. Du kannst ebenfalls [alchemist.farm](https://alchemist.farm/) dazu nutzen, dies zu überprüfen. An der oberen rechten Ecke befindet sich ein Schlosssymbol und links davon die Anzahl der LP Token, die sich aktuell in deinem Crucible befinden und somit am Aludel Belohungsprogramm teilnehmen. ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Wie kann ich meine Aludel Belohnungen überprüfen?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+Du kannst erneut [alchemist.farm](https://alchemist.farm/) benutzen um dir deine aktuellen ⚗️ und ETH Belohnungen anzeigen zu lassen.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## Wenn ich mein Crucible gemintet habe und meine LP Token teilnehmen....war es das?
 
-Yes. Now you sit back and see what happens.
+Ja, lehne dich zurück und schaue an was passiert.
 
 #### 
 

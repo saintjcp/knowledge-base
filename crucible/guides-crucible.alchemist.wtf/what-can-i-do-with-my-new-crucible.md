@@ -27,8 +27,8 @@ Du kannst mit deinem Crucible einige Dinge anstellen, unterhalb findest du die A
 
 ## Überprüfe wie viele LP Token in deinem Crucible teilnehmen
 
-1. FoFollow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. You should be able to see your "Subscribed Crucible LP" and "Unsubscribed Crucible LP"
+1. Folge den Schritte 1 bis 5 von der Anleitung: [Überprüfe deine Belohnungen](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Du solltest nun in der Lage sein, deine "Subscribed Crucible LP" und "Unsubscribed Crucible LP" zu sehen.
 
 ## Transferring your Crucible to another wallet
 
@@ -43,7 +43,7 @@ Du kannst mit deinem Crucible einige Dinge anstellen, unterhalb findest du die A
 
 1. Folge den Schritte 1 bis 5 von der Anleitung: [Überprüfe deine Belohnungen](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
 2. Suche nach deiner Crucible Zusammenfassung, die aktuell geöffnet sein sollte.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Erspähe das kleine Kopier Symbol, direkt links neben dem Papierflieger. Klicke auf den Button, um deine Crucible Adresse in deine Zwischenablage zu kopieren. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
+3. Erspähe das kleine Kopiersymbol, direkt links neben dem Papierflieger. Klicke auf den Button, um deine Crucible Adresse in deine Zwischenablage zu kopieren. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 
 
