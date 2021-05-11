@@ -4,7 +4,7 @@ There are a few precautions to take before taking part in the Crucible program, 
 
 {% hint style="danger" %}
 **Important Notice**  
-Crucible's can only be minted from **Uniswap V2** LP Tokens.  
+Crucibles' can only be minted from **Uniswap V2** LP Tokens.  
 Please make sure you are adding tokens to the V2 pool and not V3.
 {% endhint %}
 
@@ -18,4 +18,10 @@ Please make sure you are adding tokens to the V2 pool and not V3.
 {% hint style="info" %}
 The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
 {% endhint %}
+
+If you've read the above notices, then you're ready to move on to learning [about Crucibles](teach-me-about-crucibles.md).
+
+{% page-ref page="teach-me-about-crucibles.md" %}
+
+
 
