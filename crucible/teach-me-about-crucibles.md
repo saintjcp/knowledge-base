@@ -1,94 +1,94 @@
-# Teach me about Crucibles
+# Enséñame sobre los Crucible
 
-## What is a Crucible?
+## ¿Qué es un Crucible?
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+Es un NFT que representa el token LP que has suscrito. El acto de crear uno se denomina "minting" \(verbo to mint\).
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+Cuando un Crucible tiene LP tokens suscrito en el Aludel, el titular gana ⚗️ y ETH. La recompensa total disponible es el 50% de los ⚗️ creados por la inflación del 1% que se produce cada 14 días, y los ETH recaudados durante el Balance pool inicial. Los Crucible con LP suscritos reciben una fracción de las recompensas totales basada en 1\) la fracción que tu LP suscrito es del total de LP que se ha suscrito y 2\) el tiempo que tu LP ha estado suscrito frente al resto de LP.
 
-### What is an NFT?
+### ¿Qué es un NFT?
 
-It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+Son las siglas de "Non-Fungible Token". Si esta palabra le resulta demasiado grande, puede pensar que "non-fungible" significa "único".
 
-NFTs are a direct contrast to coins:
+Las NFT son un contraste directo con las \(crypto\)monedas
 
-* Coins: 1⚗️ is 1⚗️, they have equivalent value and use
-* NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
+* Monedas: 1⚗️ es 1⚗️, tienen valor y uso equivalente
+* NFTs: 1 Crucible NFT no es otro 1 Crucible NFT y es muy poco probable que dos Crucibles tengan un valor equivalente.
 
-This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
+Este es un punto importante que hay que entender, porque la gente ya ha empezado a [poner a la venta ](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596)sus crisoles en plataformas como OpenSea.
 
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
+Vale la pena mencionar, que si creas \(e.g. mint\) un Crucible, también estás stakeando ⚗️ en el fondo de liquidez de Uniswap-V2. De hecho, estás participando en tres formas de ganar.
 
-## How do you mint a Crucible?
+## ¿Cómo se crea \(mint\) un Crucible? 
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
+Al principio, el único método consistía en utilizar la herramienta CLI oficial. Afortunadamente, los miembros de la comunidad han creado aplicaciones web que facilitan el proceso. Debido al riesgo adicional de cometer errores al utilizar la herramienta CLI, ya no se recomienda utilizar este método.
 
-Please use one of the guides below to mint a Crucible:
+Utilice una de las siguientes guías para crear un Crucible:
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 * [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-i-mint-a-crucible.md)
 
-## What is a Crucible worth?
+## ¿Cuánto vale un Crucible?
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+Es difícil de determinar el valor de un Crucible. El hecho que el Crucible sea un NFT podría hacer que tuviera un valor especulativo más allá de su valor inmediato, pero algunos Crucible pueden considerarse más especiales que otros.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+Dejando a un lado las especulaciones, lo que sí sabemos es que un Crucible se crea con una cantidad variable de token LP en su interior, que tienen un valor inmediatamente medible.
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+Como mínimo, podrías valorar un Crucible en función de lo que recibirías por retirar su contenido de token LP y volver a operar con tus monedas fiduciarias.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+Consulte [en esta sección](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QgUMGbLU0Hw2bs34w/v/spanish/crucible/teach-me-about-crucibles#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) los métodos para comprobar el contenido de un Crucible.
 
-## Should you mint a Crucible?
+## ¿Debes crear un Crucible?
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+Eso lo tienes que elegir tú. Asegúrate de que entiendes lo que podrías ganar, lo que podrías perder, y luego sopesa si crees que es una buena opción para ti.
 
-#### The cost of minting
+#### El coste de creación \(minting cost\)
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+Cuando se trata de tokens y contratos basados en Ethereum, se enfrentará a tasas de gas en casi todas las etapas.
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+Los precios del gas fluctúan continuamente y esto juega un papel importante en la cantidad de gas que se espera que pague, por esta razón no podemos dar una indicación.
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+Sin embargo, podemos decir que deberías tener en cuenta el valor de tus tokens LP frente al coste del gas cuando vayas a entregas una transacción para crear un Crucible.
 
-#### The tools
+#### Las herramientas
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+Nuestras guías se han basado en nuestro wallet de elección, MetaMask![](../.gitbook/assets/metamask-fox.svg). Si necesitas consejos sobre el uso de otros wallet, entra en nuestro canal [discord](http://discord.alchemist.wtf/) y la comunidad estará encantada de responderte.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+MetaMask no reconocerá ni mostrará tus tokens de Crucible hasta que añadas [las direcciones de los tokens](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QgUMGbLU0Hw2bs34w/v/spanish/crucible/faq#why-cant-i-see-my-mist-in-my-wallet) a la aplicación.
 {% endhint %}
 
-## What wallets can I use to store my Crucible?
+## ¿Qué wallet puedo utilizar para guardar mi Crucible?
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+Crucibles son tokens ERC-721 y la firmar estas transacciones no es compatible con todas las aplicaciones de wallet.
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+Consulte nuestra guía de [compatibilidad de wallet](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QgUMGbLU0Hw2bs34w/v/spanish/crucible/wallet-compatibility).
 
-## How much LP tokens do I need to create a Crucible?
+## ¿Cuántos tokens de LP necesito para crear un Crucible?
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+Los miembros de la comunidad han creado con éxito un Crucible con tokens de solo 0,1 LP.
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+Por supuesto, la creacion de un Crucible sigue costando gas, así que ten en cuenta este coste cuando crees uno con un mínimo de LP.
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+Recuerda que ganas recompensas proporcionales a tu cuota de LP del total de LP suscrito en el Aludel.
 
-## Can I create multiple Crucibles?
+## ¿Puedo crear varios Crucible?
 
-Yes. Many users in the community have already minted multiple Crucibles.
+Sí. Muchos usuarios de la comunidad ya han creado varios Crucible. 
 
-Whether this is beneficial or not, this is up to you to decide.
+Si esto es beneficioso o no, es algo que debes elegir.
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## ¿Cómo puedo comprobar cuántos tokens de LP vale el Crucible de otra persona?
 
-You can take the take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+Puedes copiar el ID del token del Crucible, convertirlo en hexadecimal \(si está en decimal\) y luego buscar la dirección en [etherscan.io](https://etherscan.io).
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+Esto mostrará cuál es el contenido y el historial de transacciones que han ocurrido dentro del Crucible.
 
-If you can't see any tokens displayed for it, then it's most likely empty.
+Si no puedes ver ningún token mostrado, entonces lo más probable es que esté vacío.
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+## ¿Cómo puedo ver mis tokens en ![](../.gitbook/assets/metamask-fox.svg) ?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+Consulte [nuestras preguntas](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_QgUMGbLU0Hw2bs34w/v/spanish/crucible/faq#why-cant-i-see-my-mist-in-my-wallet) frecuentes sobre las direcciones que debe añadir a tu wallet para poder ver el token.
 
 \*\*\*\*
 
