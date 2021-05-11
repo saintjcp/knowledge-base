@@ -34,5 +34,5 @@ Wir empfehlen für keinen unserer Prozesse, diese auf dem Smartphone oder Handy 
 6. Sobald du die Transaktionen bestätigt hast solltest du folgende Meldungen sehen und erhalten. Klicke auf "View on Etherscan" um deine Transaktion zu verfolgen. Ab dem Zeitpunkt in dem deine Transaktion abgeschlossen wurde, kannst du gerne mit dem nächsten Schritt fortfahren. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
 7. Jetzt wo deine Transaktion bestätigt wurde, kannst du das Popup schließen und auf dem "Crucibles" Tab fortfahren. Hier solltest du dein neu gemintetes Crucible wiederfinden.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Herzlichen Glückwunsch, wenn es soweit geschafft hast, darfst du dich nun Alchemist nennen!**
+## **Herzlichen Glückwunsch, wenn du es soweit geschafft hast, darfst du dich nun ein Alchemist nennen!**
 
