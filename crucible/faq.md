@@ -23,7 +23,8 @@ We do not recommend you do this on a mobile.
 Please use one of the guides below to mint a crucible
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
-* [Minting a Crucible on alchemist.farm](guides-alchemist.farm/)
+
+
 
 ## **Why can’t I see my ⚗️Mist in my wallet?**
 
