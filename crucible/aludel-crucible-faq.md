@@ -20,7 +20,7 @@ Neki korisnici prijavljuju probleme sa Trustwallet-om.
 Ne preporučujemo da to radite na mobilnim uređajima.
 {% endhint %}
 
-1. Za kreiranje \(mintovanje\) Crucibla idite na website, [alchemist.farm](https://alchemist.farm/)
+1. Za kreiranje \(mintovanje\) Crucibla idite na website, [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
 2. Konektujte MetaMask novčanik.
 3. Unesite količinu LP tokena koji želite da stavite u Crucible. 
 4. Kliknite “Mint Crucible and Subscribe LP to Aludel”. Dobićete dve potvrde preko  MetaMask pop up-a, potpišite to i sačekajte na kompletiranje.
