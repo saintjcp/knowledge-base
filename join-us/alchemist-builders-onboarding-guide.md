@@ -2,41 +2,41 @@
 
 ## Vision
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+Du meinst, du hast alles was man braucht um ein Alchemist zu werden -  bereit zu sein den Pfad zu wandern auf unbekannten Reisen in unerforschten Territorien - wie die großen Alchemisten unserer Zeit. Der berühmte Psychiater Carl Jung sagte einst: "Man wird nicht erleuchtet, indem man sich Lichtfiguren vorstellt, sondern indem man sich die Dunkelheit bewusst macht."
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+In den Alchemisten Laboren konzentrieren sich die Experimente auf die Erforschung hochtechnischer Konzepte, um die Zutaten zu ermitteln, die für die ordnungsgemäße Synthese des Stein der Weisen erforderlich sind - beispielsweise die Entwicklung des "Mint a Crucible NFT"-Erlebnisses oder der mistX Benzin-lose DEX.
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+Neben technischen Experimenten hat sich unsere Gilde zu einem dezentralen sicheren Hafen entwickelt, in dem sich müde Gelehrte wohl und sicher fühlen können. Kreative Projekte wie der Bau des Alchemist Radios oder die Suche nach der richtigen Kunstrichtung für das Crucible NFT sind nur einige der endlosen Beispiele für die Ergebnisse der Alchemisten, die in ihrer Freizeit mit einigen Bechern und Trichtern herumspielen.
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+Im Allgemeinen folgen wir den Leitprinzipien, die den Alchemisten seit der Epoche der Smaragdtafel am Herzen liegen, um in jedem Prozess effektiv einen Mehrwert zu schaffen. Alle aktiven Teilnehmer haben diese Denkweise verinnerlicht, sodass wir im Grunde eine gleichermaßen polarisierte Vision teilen:
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* Fokus auf Mehrwert
+* Beginne dort, wo du bist
+* Entwickle iterativ mit Feedback
+* Arbeite zusammen und fördere die Transparenz
+* Denke und arbeite ganzheitlich
+* Halte es simpel und praktikabel
+* Optimiere und automatisiere
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+Für weitere Details, lese bitte folgenden [Artikel](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## Compliance & Ethik
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+Wir sind aufgeschlossen und heißen alle willkommen, die sich uns anschließen und aktiv an der Entdeckung des Lebenselixiers teilhaben möchten. Die Alchemisten Gilde hat keine Grenzen oder Vorschriften, die unser Wachstumspotenzial einschränken würden. Es gibt keine Firma, keinen Entwickler oder einen dunklen Marionettenspieler hinter den Kulissen, der die Fäden zieht. Unsere Community wächst von Tag zu Tag und führt das Projekt in neue, jetzt noch ungeahnte Bereiche. Als dezentrale Organisation ist es aus unserer Sicht wichtig, sich auf Ethik und gemeinsame Verhaltensregeln zu einigen. Wir haben uns darauf geeinigt, die folgenden Regeln zu befolgen:
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* Seid respektvoll zueinander
+* Kein Rassismus, Sexismus, Hetze oder jegliches Handeln, welches der Community Schaden zufügt.
+* Keine unangebrachte Sprache oder Inhalte
 
-## Hierachy
+## Hierarchie
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+Unsere Hierarchie ist klar definiert und relativ flach. Unsere Multi-Sig Unterzeichner & Senior-Alchemisten, genauso wie @thegostep als Gründer repräsentieren dabei die Führung & gleichzeitige Überwachung für Alchemist selbst. Zusätzlich zu Zielen, Meilensteinen und Zeitvorgaben, geben sie die grundsätzliche Richtung vor, so dass Alchemist den größtmöglichen Mehrwert bietet und so sich selber eine prächtige Zukunft ebenet.
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+Als nächstes kommt die Builder Gruppe, gespickt mit Experten von verschiedensten Bereichen. Einerseits sind natürlich Entwickler an Bord, die sich vornehmlich mit Konzepten, Architekturen und Implementationen von diversen Projekten beschäftigen. Die Builder Gruppe besteht allerdings nicht nur aus Entwicklern sondern ebenso Gelehrte aus allen Lebensbereichen - Marketing Experten, Künstler und extrem engagierte Community Mitglieder. Jeder der gerne aktiv teilnehmen möchte, kann ein Teil der Builder Gruppe werden. Unabhängig von den vorhandenen Fähigkeiten, ist ein reger Austausch im Discord oder anderen Tools wie Basecamp sehr gerne gesehen und geschätzt. Die Builder Rolle wird den Nutzer ermöglichen sensible technische Konzepte und Produkte in der Entwicklung in unseren Alchemistenlaboren zu sehen.
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+Um die Builder-Teams weiterhin fokussiert auf ihre Transmutationen zu belassen, wurde eine weitere Rolle erstellt - der apprentice \(Lehrling\). Diese Rolle gibt jungen Alchemisten die Möglichkeit in viele Projekte Einblick, beschützt sie allerdings davor Bereiche mit fortgeschrittener Alchemie zu betreten, da hier mit unbedarftem und ausversehenem Handeln schnell das halbe Gebäude in die Luft fliegt. Die Builder Rolle dient damit als nächster Schritt des Lehrlings, sobald dieser sich bewiesen hat und die technische Seite von alchemistischen Experimenten gemeistert hat.
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+Die vierte Gruppe stellt die "regulären" Community Mitglieder und zertifizierten Alchemisten dar, die hauptsächlich aus $MIST und / oder Crucible Besitzern besteht. Die Community spielt eine wichtige Rolle für uns - Kooperation, ein weitverbreitetes Stimmungsbild und wertvolles Feedback zu bestehenden Produkten und Services, sowie Futter für weitere Experimente. Wir schätzen jeden, der seinen Weg zu uns gefunden hat und möchten jeden einzelnen sich so weit es nur geht in unserer Community wohlfühlen lassen.
 
 ## Tools
 
