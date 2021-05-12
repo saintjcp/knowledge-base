@@ -1,4 +1,4 @@
-# Teach me about Crucibles
+# Invata-ma despre Crucible NFT
 
 ## What is a Crucible?
 

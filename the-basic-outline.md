@@ -1,34 +1,36 @@
-# The basic outline
+# Cadrul General - Baza
 
-There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
+Exista un token numit Alchemist, care are simbolul „⚗️”. Acest token se mai numeste si „mist” sau „$MIST”. Nu-l confundați cu [MUST](https://www.coingecko.com/en/coins/must) - in ciuda asemanarii la o prima privire, in realitate nu are nicio legatura cu Alchemist. 
 
-What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](faq.md)
+Pentru ce este bun ⚗️MIST? Acest articol nu isi propune sa raspunda la intrebarea asta. Va rugam sa consultati [Intrebari Frecvente](faq.md).
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+Puteti sa puneti in stake ⚗️MIST ca și în cazul altor monede dar o puteti folosi mai ales pentru a [crea NFT-uri Crucible ](crucible/teach-me-about-crucibles.md)pentru programul de recompensa  [Aludel](the-basic-outline.md#3-aludel) .
 
-## How could I increase my wealth using ⚗️?
+## Cum as putea creste capitalul folosind ⚗️MIST?
 
-### 1. Speculation
+#### 1. Speculand in tranzactii <a id="1-Speculand-in-tranzactii"></a>
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+Prima modalitate de profit ar fi sa speculam cu privire la valoarea ⚗️MIST in tranzactii pe exchange-uri. Cu alte cuvinte: cumperi sperand ca pretul creste pentru ca apoi sa vinzi. Declinare de responsabilitate: nu exista nicio garantie ca pretul va creste.
 
-### 2. Staking
+### 2. Staking⚗️MIST / ETH
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible accepta LP doar din Fondul de Lichiditati creat in **Uniswap V2**. Daca adaugati lichiditati in Fondul de pe **Uniswap V3,** trebuie sa stiti ca LP-ul repartizat din acest Fond nu este compatibil cu Programul de Recompensa Aludel.
 {% endhint %}
 
-The second way is to stake it in a liquidity pool alongside an equal value portion of Ether \(ETH\). When you do so you receive Liquidity Pool tokens \(LP\) that represent your stake in that pool. Ultimately these LP tokens are used to withdraw your original ⚗️ and ETH from the pool when you decide you are finished with it.
+A doua modalitate este de a pune ⚗️MIST in stake pentru profit din tranzactii, creand un fond de lichiditati alaturi de o cantitate de valoare egala a tokenului Ether \(ETH\). Cand depozitati in stake, veti primi tokeni de lichiditate \(LP\) care reprezinta echivalentul procentajului cu care participati la lichiditata din acel fond. In cele din urma, tokenii LP sunt utilizati pentru a va retrage ⚗️MIST si ETH, plus profitul din taxele de tranzactii primite ca parte la acel fond, atunci cand decideti sa va retrageti particparea in stake la fondul de lichiditati.
 
-The liquidity pool is used to facilitate trades between ⚗️ and ETH that other people wish to make. Every trade made incurs a small fee for the person making the trade. Whilst you hold LP tokens, you receive a portion of those fees, proportional to the LP you hold relative to the total LP. \(For example, if your LP makes up 1% of the total LP then you receive 1% of the pool fees\)
+Fondul de lichiditati este creat pentru a asigura piata de schimb pentru tranzactiile intre ⚗️$MIST si ETH pe care altii o sa le faca. Fiecare tranzactie din fondul de lichiditati efectuata necesita o mica taxa platita de cel care initiaza tranzactia. Pentru cantitatea de tokeni LP detinuta, primesti o parte din aceste taxe de tranzactii, proportional cu tokenul LP pe care il detii raportat la cantitatea de token LP token total din acel fond de lichiditati. \(Un exemplu, daca LP-ul detinut este de 1% din totalul LP pentru acel fond de lichiditati, atunci vei primi 1% din taxele de tranzactii din acel fond\)
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+Modalitatea de a profita de comisioane ale fondului de lichiditati este aceasi ca la orice alt token din orice alt fond de lichiditati din platformele de schimb decentralizat ca si Uniswap. De aceea, este bine de stiut ca pot fi asa zise „Pierderi Impermanente” ceea ce inseamna ca poti sa pierzi la retragerea tokenilor din stake daca valoarea lor relativa una la alta ca pret de schimb s-a modificat din momentul depunerii in stake. Pentru a intelege mai bine acest concept, va sugerez sa faceti cercetari suplimentare pentru a intelege - sunt multe resurse online care il explica mai bine si in detaliu decat am putea aici in cateva cuvinte.
+
+**Vedeti videoul de mai jos in limba engleza despre „Pierderi Impermanente” inainte de a participa la un fond de lichiditate.**
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
 ### 3. Aludel
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+In Aludel se produce alchimia. “Aludel” este numele programului de recompensa unde tu poti castiga ⚗️MIST si ETH atunci cand aplici pentru acest program folosind tokenul LP detinut in Crucible NFT.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+Poti invata mai multe despre Crucible in pagina "[Invata-ma despre Crucible NFT](crucible/teach-me-about-crucibles.md)"
 

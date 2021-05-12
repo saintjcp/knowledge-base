@@ -1,20 +1,20 @@
 # Table of contents
 
 * [Ce este Alchimist?](README.md)
-* [Linkurile Oficiale Alchemist 🔗](official-community-links.md)
+* [Linkuri Oficiale 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
 ---
 
-* [The basic outline](the-basic-outline.md)
-* [Acquiring & Subscribing](acquiring-and-subscribing.md)
-* [FAQ](faq.md)
+* [Cadrul General - Baza](the-basic-outline.md)
+* [Obtine ⚗️ & Ofera Lichiditate](acquiring-and-subscribing.md)
+* [Intrebari Frecvente](faq.md)
 
 ## Crucible
 
 * [Getting Started](crucible/getting-started.md)
-* [Teach me about Crucibles](crucible/teach-me-about-crucibles.md)
+* [Invata-ma despre Crucible NFT](crucible/teach-me-about-crucibles.md)
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
