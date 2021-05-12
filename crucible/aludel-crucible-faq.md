@@ -20,7 +20,7 @@ Niektórzy użytkownicy zgłaszali problemy z Trustwallet.
 Nie zalecamy przechodzenia przez proces na telefonie komórkowym.
 {% endhint %}
 
-1. W celu wybicia Crucible przejdź do strony internetowej, [alchemist.farm](https://alchemist.farm/)
+1. W celu wybicia Crucible przejdź do strony internetowej, [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
 2. Podłącz portfel MetaMask
 3. Wpisz ilość LP, którą chcesz umieścić w Crucible.
 4. Kliknij “Mint Crucible and Subscribe LP to Aludel”. Otrzymasz 2 komunikaty za pośrednictwem wyskakującego okienka MetaMask, podpisz je i poczekaj na zakończenie.
