@@ -12,23 +12,23 @@ Cantitatea totala de $MIST si cantitatea in circulatie este aceasi, adica $MIST 
 
 **Aveti in plan vanzari $MIST pre/private/public?**
 
-Nu au fost nici un fel vânzări pre/private/public. Initial am creat un fond in Balancer si toti ETH stransi au fost depozitati în programul de recompensa.
+Nu au fost nici un fel de vânzări pre/private/public. Initial am creat un fond in Balancer si toti ETH stransi au fost depozitati în programul de recompensa.
 
-**Tokenul $MIST este unul inflationist?**
+**Tokenul $MIST are inflatie?**
 
-Inflația este în prezent de 1% la fiecare două săptămâni, dar poate fi modificată în sus sau în jos. Pentru a nu fi diluat de inflație, se recomanda sa mizezi punand in stake ⚗️ în programul de recompensă Aludel.
+Da, inflația este în prezent de 1% la fiecare două săptămâni, dar poate fi modificată în sus sau în jos. Pentru a nu fi diluat de inflație, se recomanda sa mizezi punand in stake ⚗️ în programul de recompensă Aludel.
 
 Alocarea curenta a tokenului $MIST rezultat din inflatie este astfel:
 
-50% $MIST se aloca pentru recompensarea fondului depus in Aludel, 25% $MIST comunitatii multisig & 25% se aloca trezoreriei $MIST.
+50% $MIST se aloca pentru recompensarea fondului depus in Aludel, 25% $MIST comunitatii multisig, iar 25% se aloca trezoreriei $MIST.
 
 **Ce pot eu sa fac cu ⚗️$MIST care il detin?**
 
 A fost implementat un program de recompensa la orice furnizare de lichiditati in Uniswap pentru paritatea ⚗️$MIST/ETH Uniswap. Acest program de recompensa prin stake se numeste Aludel. \(Poti gandi Aludel ca un smartcontract staking implementat de maestrul Alchimist\)
 
-Pentru acumularea de fonduri de recompense a fost creat in multi semnatura un fond si acesta va fi folosit pentru premierea celor implicati. Poti arunca o privire pe canalul de [discord](https://discord.gg/92hQDCw25u) sau chiar sa donezi in contul de multi semnatura la [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth).
+Pentru acumularea de fonduri de recompense a fost creat in multi semnatura un fond si acesta va fi folosit pentru premierea celor implicati. Poti arunca o privire pe canalul de discord [\#builders-application](https://discord.gg/92hQDCw25u) sau chiar poti sa donezi in contul de multi semnatura la [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth).
 
-## Multisig FAQ <a id="Multisig-FAQ"></a>
+## Intrebari despre Multi Semnatura <a id="Multisig-FAQ"></a>
 
 **Cine sunt detinatorii cheilor de multi semnatura?**  
 Cheile de multi semnatura sunt detinute de cativa membri ai comunitatii Alchimist alesi pe baza de incredere si de contributia fiecaruia din ei la proiect.

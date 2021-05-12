@@ -13,7 +13,7 @@
 
 ## Crucible
 
-* [Getting Started](crucible/getting-started.md)
+* [Sa Incepem](crucible/getting-started.md)
 * [Invata-ma despre Crucible NFT](crucible/teach-me-about-crucibles.md)
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
