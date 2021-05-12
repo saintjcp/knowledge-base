@@ -24,7 +24,7 @@ Die aktuelle Verteilung ist wie folgt:
 
 Ein Belohnungsprogramm wurde entwickelt und würdigt die Teilnehmer, die Liquidität zum ⚗️/ETH Uniswap Pool hinzufügen. Wir taufen es Aludel. \(Stell es dir vor wie einen durch unseren Gildenmeister erschaffenen Staking-smart-contract\)
 
-Eine Community Multisig wurde erstellt, sodass Mittel für Kopfgelder \(Bounties\) zur Verfügung stehen. Wirf doch einmal einen Blick in den [\#bounties](https://discord.gg/92hQDCw25u) Channel auf unserem Discord und/oder spende an die [Multisig](https://etherscan.io/address/multisig.alchemistcoin.eth).
+Eine Community Multisig wurde erstellt, sodass Mittel für Kopfgelder \(Bounties\) zur Verfügung stehen. Wirf doch einmal einen Blick in den [\#builders-applications](https://discord.gg/92hQDCw25u) Channel auf unserem Discord und/oder spende an die [Multisig](https://etherscan.io/address/multisig.alchemistcoin.eth).
 
 ## Multisig FAQ
 
@@ -35,7 +35,7 @@ Die Multisig Mitglieder wurden durch die Community gewählt – basierend auf Ve
 Aktuelle Multisig Unterzeichner sind:
 
 * [@ees2oo](https://twitter.com/ees2oo) : [stussy.eth](https://etherscan.io/address/stussy.eth)
-* [@sal_ash_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
+* [@salash](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
 * [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)

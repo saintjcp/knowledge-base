@@ -2,7 +2,7 @@
 
 {% hint style="info" %}
 **Folgende Anleitungen sind für die Community Webseite** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Bitte [klicke hier](../guides-alchemist.farm/), wenn du [alchemist.farm](https://alchemist.farm/) benutzt.
+Bitte [klicke hier](../guides-alchemist.farm/), wenn du [alchemist.farm](https://alchemist.farm/) benutzen möchtest.
 {% endhint %}
 
 ### Inhalt

@@ -14,11 +14,11 @@ Der einzige Plan ist, es gibt keinen. ⚗️
 
 Ein wahrer Alchemist zu werden bedarf viel Lernbereitschaft und Übung. Stetiges Training ist der Lebensweg für einen wahren Alchemisten. Es gibt kein finales Ziel, nur beständigen Wandel.
 
-⚗️ $mist wird dazu benötigt, treue Alchemisten zu würdigen. Egal ob du ein Künstler, ein Entwickler, ein Community Manager oder ein Investor bist – hier ist für jeden Platz.
+⚗️ $MIST wird dazu benötigt, treue Alchemisten zu würdigen. Egal ob du ein Künstler, ein Entwickler, ein Community Manager oder ein Investor bist – hier ist für jeden Platz.
 
 Wir würden dich gerne auf unserem [Discord](http://discord.alchemist.wtf/) den anderen Alchemisten vorstellen und du kannst gerne deine Fähigkeiten einbringen.
 
 **Gibt es eine Website?**
 
-Noch nicht. Wenn du Interesse hast uns hierbei zu helfen, schau doch einmal im [\#the-lab](https://discord.gg/UQB4MwG4c8) Channel vorbei.
+Noch nicht. Wenn du Interesse hast uns hierbei zu helfen, schau doch einmal im [\#the-lab](https://discord.gg/UQB4MwG4c8) Channel auf unserem Discord vorbei.
 

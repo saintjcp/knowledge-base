@@ -1,4 +1,4 @@
-# Der Grundriss
+# Der Überblick
 
 Wir nennen unseren Token Alchemist. Wir benutzen folgendes Ticker Symbol "⚗️". Unteranderem ist es auch bekannt als "mist" und "$MIST". Bitte verwechsele es nicht mit [MUST](https://www.coingecko.com/en/coins/must) - neben dem identischen Ticker Symbol gibt es keinerlei Verbindung zu Alchemist.
 

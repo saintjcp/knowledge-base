@@ -8,7 +8,7 @@ Bereits Erfahrungen mit Uniswap? Wenn ja, dann weißt du bereits wie es geht.
 Aufgrund der niedrigen Liquidität auf **Uniswap V3**, Extra Spiel \(slippage\) wird dir vermutlich auch nicht den besten Preis für deinen Handel geben. Benutze bitte stattdessen unseren **Uniswap V2** Link weiter unten, um den Token Swap durchzuführen.
 {% endhint %}
 
-1. Gehe direkt zu [Swap $MIST auf Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
+1. Gehe direkt zu [$MIST auf Uniswap V2 swappen](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
 2. Verbinde deine MetaMask Wallet
 3. Du solltest nun so etwas sehen:
 
@@ -31,8 +31,8 @@ Aufgrund der niedrigen Liquidität auf **Uniswap V3**, Extra Spiel \(slippage\) 
 Bereits Erfahrungen mit der Bereitstellung von Liquidität auf Uniswap? Wenn ja, dann weißt du bereits wie es geht.
 
 {% hint style="danger" %}
-Crucibles unterstützt nur **Uniswap V2** LP Token.   
-Die Bereitstellung von Liquidität auf **Uniswap V3** im Pool ist nicht kompatibel mit dem Belohnungsprogramm.
+Crucibles unterstützen nur **Uniswap V2** LP Token.   
+Die Bereitstellung von Liquidität auf **Uniswap V3** Pool ist nicht kompatibel mit dem Belohnungsprogramm.
 {% endhint %}
 
 1. Gehe direkt zu [Hinzufügen von Liquidität zu dem Pool $MIST/ETH on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)

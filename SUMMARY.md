@@ -7,7 +7,7 @@
 
 ---
 
-* [Der Grundriss](the-basic-outline.md)
+* [Der Überblick](the-basic-outline.md)
 * [Beschaffung und Teilnahme](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 
