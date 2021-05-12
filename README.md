@@ -1,7 +1,5 @@
 # Ce este Alchimist?
 
-[alchemist.wtf](http://alchemist.wtf/)
-
 Proiectul Alchemist a fost creat pornind de la acest [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) al userului [@thegostep](https://twitter.com/thegostep) pe twitter.
 
 Nu exista o “echipa de developeri”. Nu exista companie. Exista doar o comunitate de alchimisti cautand sa construiasca in mod deschis.
