@@ -18,7 +18,7 @@ Certains utilisateurs ont signalé des problèmes avec Trustwallet.
 Nous vous déconseillons d'effectuer le processus sur un mobile.
 {% endhint %}
 
-1. Pour créer un Crucible, allez sur le site, [alchemist.farm](https://alchemist.farm/)
+1. Pour créer un Crucible, allez sur le site, [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
 2. Connectez votre portefeuille MetaMask 
 3. Renseignez la quantité de LP que vous souhaitez mettre dans le Crucible.
 4. Appuyez sur "Mint Crucible and Subscribe LP to Aludel". Deux demandes d'approbation doivent apparaître via le pop-up MetaMask; signez-les et attendez la finalisation du processus.
