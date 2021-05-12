@@ -23,10 +23,11 @@ Vale la pena mencionar, que si creas \(e.g. mint\) un Crucible, también estás 
 
 Al principio, el único método consistía en utilizar la herramienta CLI oficial. Afortunadamente, los miembros de la comunidad han creado aplicaciones web que facilitan el proceso. Debido al riesgo adicional de cometer errores al utilizar la herramienta CLI, ya no se recomienda utilizar este método.
 
-Utilice una de las siguientes guías para crear un Crucible:
+
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
-* [Minting a Crucible on alchemist.farm](guides-alchemist.farm/how-to-i-mint-a-crucible.md)
+
+
 
 ## ¿Cuánto vale un Crucible?
 
