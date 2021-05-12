@@ -7,8 +7,7 @@ Please [click here](../guides-crucible.alchemist.wtf/) if you are using [crucibl
 
 ### Contents
 
-1. [How do I mint a Crucible?]()
-2. [I have minted a Crucible, now what?](i-minted-a-crucible-now-what.md)
-3. [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-4. [Visual Guides 🎞](visual-guides.md)
+1. [I have minted a Crucible, now what?](i-minted-a-crucible-now-what.md)
+2. [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+3. [Visual Guides 🎞](visual-guides.md)
 
