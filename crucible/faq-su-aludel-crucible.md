@@ -20,7 +20,7 @@ Alcuni utenti hanno riportato problemi con Trustwallet.
 Non ti consigliamo di farlo su un cellulare.
 {% endhint %}
 
-1. Per coniare un Crucible vai al sito web [alchemist.farm](https://alchemist.farm/)
+1. Per coniare un Crucible vai al sito web [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
 2. Connetti il wallet MetaMask
 3. Inserisci la quantità di token LP che vuoi mettere nel Crucible
 4. Premi "Mint Crucible and Subscribe LP to Aludel". Otterrai 2 approvazioni attraverso dei pop up su MetaMask.  Firmale e attendi il completamento. 
