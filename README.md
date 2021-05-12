@@ -1,22 +1,24 @@
-# What is Alchemist?
+# Ce este Alchimist?
 
-Alchemist was started with a [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) by [@thegostep](https://twitter.com/thegostep).
+[alchemist.wtf](http://alchemist.wtf/)
 
-There is no “dev team”. There is no company. There is only a community of alchemists figuring out what to build in the open.
+Proiectul Alchemist a fost creat pornind de la acest [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) al userului [@thegostep](https://twitter.com/thegostep) pe twitter.
 
-There is no roadmap. An alchemist never makes forward-looking statements, simply because the future is unpredictable.
+Nu exista o “echipa de developeri”. Nu exista companie. Exista doar o comunitate de alchimisti cautand sa construiasca pornind de la nimic.
 
-The only plan is there is no plan ⚗️
+Nu exista o foaie de parcurs, adica un roadmap. Un alchimist nu face niciodata declaratii anticipative, pur si simplu pentru ca viitorul nu poate fi prezis.
 
-**How do I become an Alchemist?**
+Singurul plan este ca nu exista plan ⚗️.
 
-Becoming an alchemist requires learning and practice. Training is a way of life for a true alchemist. There is no final destination, only continuous change.
+**Cum pot deveni un Alchimist?**
 
-⚗️ $MIST is used to coordinate and reward committed alchemists. Whether you are an artist, a developer, a community manager, or a liquidity provider, there is a role for you.
+Pentru a deveni un alchimist este necesar a invata si a practica. Antrenamentul este calea vietii pentru un adevarat alchimist. Nu exista destinatie finala, ci doar o continuua schimbare.
 
-Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the \#bounties channel.
+⚗️$mist este folosit pentru a coordona si recompensa alchimistii implicati in proiect. Fie ca esti un artist, un dezvoltator, un manager de comunitate sau un furnizor de lichiditate exista un loc de implicare si pentru tine.
 
-**Is there a website?**
+Vino sa intalnesti alti alchimisti la [discord.alchemist.wtf](http://discord.alchemist.wtf/) si ofera-ti abilitatile in canalul discord \#bounties.
 
-Not yet. If you are interested in helping build one, check out [the lab](https://discord.gg/UQB4MwG4c8) on Discord.
+**Exista un website?**
+
+Nu inca. Daca esti interesant sa ajuti la construierea unuia, anunta-ti intentia in Discord [aici](https://discord.gg/UQB4MwG4c8).
 
