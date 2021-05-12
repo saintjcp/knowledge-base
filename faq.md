@@ -1,48 +1,41 @@
 # FAQ
 
-## **Where can I trade ⚗️ \($MIST\) ?**
+**Unde pot schimba tokenul ⚗️ \($MIST\) ?**
 
-Most activity happens on Uniswap, you can find it using our link
+[uniswap.alchemist.wtf](https://app.uniswap.org/#/swap?inputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
 
-* [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+**Care este cantitatea totala sau in circulatie a tokenului $MIST?**
 
-Over time $MIST is bound to appear on other trading sites, when this happens these places can be identified by using [Coingeko](https://www.coingecko.com/en/coins/alchemist) or [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
+Cantitatea totala de $MIST si cantitatea in circulatie este aceasi, adica $MIST a inceput de la 1.000.000 tokeni si va creste cu 1% la fiecare doua saptamani. Cantitatea totala de $MIST existent la ora actuala o poti vedea [aici](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab).
 
-## **What is total/circulating supply?**
+**Aveti in plan vanzari $MIST pre/private/public?**
 
-Circulating supply and total supply are the same. This started with 1,000,000, but increases by 1% every two weeks. The current supply is shown [here](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab)
+Nu au fost nici un fel vânzări pre/private/public. Initial am creat un fond in Balancer si toti ETH stransi au fost depozitati în programul de recompensa.
 
-## **Do you plan pre/private/public sale?**
+**Tokenul $MIST este unul inflationist?**
 
-There are no sales. We held an initial Balancer pool and all ETH raised were deposited into the reward program.
+Inflația este în prezent de 1% la fiecare două săptămâni, dar poate fi modificată în sus sau în jos. Pentru a nu fi diluat de inflație, se recomanda sa mizezi punand in stake ⚗️ în programul de recompensă Aludel.
 
-## **Does the token have inflation?**
+Alocarea curenta a tokenului $MIST rezultat din inflatie este astfel:
 
-Inflation is currently 1% every two weeks but can be modified up or down. To avoid being diluted by inflation, Subscribe your ⚗️$MIST in the Aludel reward program.
+50% $MIST se aloca pentru recompensarea fondului depus in Aludel, 25% $MIST comunitatii multisig & 25% se aloca trezoreriei $MIST.
 
-The current allocation of the inflation tokens is:
+**Ce pot eu sa fac cu ⚗️$MIST care il detin?**
 
-50% to Aludel reward pool, 25% to $MIST community multisig & 25% to $MIST treasury.
+A fost implementat un program de recompensa la orice furnizare de lichiditati in Uniswap pentru paritatea ⚗️$MIST/ETH Uniswap. Acest program de recompensa prin stake se numeste Aludel. \(Poti gandi Aludel ca un smartcontract staking implementat de maestrul Alchimist\)
 
-## **What can I do with my ⚗️$MIST?**
+Pentru acumularea de fonduri de recompense a fost creat in multi semnatura un fond si acesta va fi folosit pentru premierea celor implicati. Poti arunca o privire pe canalul de [discord](https://discord.gg/92hQDCw25u) sau chiar sa donezi in contul de multi semnatura la [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth).
 
-A liquidity provider reward program has been deployed for the ⚗️$MIST/ETH Uniswap pool. This reward program is called the Aludel. \(Think of this as a staking smart contract designed by our guildmaster\).
+## Multisig FAQ <a id="Multisig-FAQ"></a>
 
-A community multisig has been created to accumulate funds that can be used for bounties. Take a look at the [\#builders-application](https://discord.gg/92hQDCw25u) on discord or donate to the multisig at [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
+**Cine sunt detinatorii cheilor de multi semnatura?**  
+Cheile de multi semnatura sunt detinute de cativa membri ai comunitatii Alchimist alesi pe baza de incredere si de contributia fiecaruia din ei la proiect.
 
-## **Multisig**
+La ora actuala dreptul de multi semnatura il au:
 
-### **Who are the multisig key holders?**
-
-Multisig Key holders were chosen by the community based on trust and contributions to the project.
-
-Current multisig signers are:
-
-* [@ees2oo](https://twitter.com/ees2oo) : [stussy.eth](https://etherscan.io/address/stussy.eth)
-* [@sal\_ash\_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
-* [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
-* [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
-* [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
-
-
+[@ees2oo](https://twitter.com/ees2oo) : [stussy.eth](https://etherscan.io/address/stussy.eth)  
+[@sal\_ash\_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)  
+[@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)  
+[@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)  
+[@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
 
