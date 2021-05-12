@@ -44,7 +44,7 @@ Du kannst einen Blick auf den Belohnungspool [hier](https://etherscan.io/address
 
 **Wie werde ich ein zertifizerter Alchemist in unserem Discord?**
 
-* [Guide](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
+* [Anleitung](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
 * Komme ins Discord
 * Gehe in den \#welcome Channel und schreibe: !join
 * Daraufhin wirst du eine private Nachricht vom Collab.Land Bot erhalten
@@ -54,7 +54,7 @@ Du kannst einen Blick auf den Belohnungspool [hier](https://etherscan.io/address
 
 **Wie erhalte ich die Belohnungen?**
 
-**Alle** Belohnungen werden ausgeschüttet, sobald du nicht mehr teilnimmst. Aber sei bitte vorsichtig, jede Beendigung deiner Teilnahme führt dazu, dass der Multiplikator für die Dauer deiner Teilnahme zurückgesetzt wird. Wenn du nicht mehr teilnehmen möchtest, musst du, um Frontrunner zu vermeiden, das TaiChi Netzwerk verwenden. Schau dir hierzu diesen [Guide]() an.
+**Alle** Belohnungen werden ausgeschüttet, sobald du nicht mehr teilnimmst. Aber sei bitte vorsichtig, jede Beendigung deiner Teilnahme führt dazu, dass der Multiplikator für die Dauer deiner Teilnahme zurückgesetzt wird. Wenn du nicht mehr teilnehmen möchtest, musst du, um Frontrunner zu vermeiden, das TaiChi Netzwerk verwenden. Schau dir hierzu diesen [Anleitung]() an.
 
 **Spielt es eine Rolle wie viele LP Token bei der Erstellung des Crucible verwendet werden?**
 
