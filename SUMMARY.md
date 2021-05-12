@@ -20,7 +20,6 @@
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [How do I mint a Crucible?](crucible/guides-alchemist.farm/how-to-i-mint-a-crucible.md)
   * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Taichi ağı yardımıyla "Claim Rewards and Unsubscribe LP"](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
