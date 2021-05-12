@@ -20,7 +20,7 @@
 Мы не рекомендуем делать это на мобильном телефоне.
 {% endhint %}
 
-1. Для создания Crucible перейдите на сайт [alchemist.farm](https://alchemist.farm/)
+1. Для создания Crucible перейдите на сайт [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
 2. Подключите свой кошелек MetaMask
 3. Введите количество токенов пула ликвидности, которые вы хотите внести в Crucible.
 4. Нажмите “Mint Crucible and Subscribe LP to Aludel”. Вам понадобится сделать 2 подтверждения в MetaMask. Подпишите их и дождитесь окончания.  
