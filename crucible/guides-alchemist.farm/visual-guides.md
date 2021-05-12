@@ -3,7 +3,7 @@
 ### **Videos 🎬📺**
 
 {% hint style="info" %}
-Bitte beachte, dass einige Videos nicht mit den aktuellen Stand der [alchemist.farm](https://alchemist.farm) repräsentieren. Zusätzlich sei angemerkt, dass die Videos von Community Mitgliedern erstellt wurde - sie stellen aber eine zusätzliche Hilfe da.
+Bitte beachte, dass einige Videos nicht den aktuellen Stand der [alchemist.farm](https://alchemist.farm) repräsentieren. Zusätzlich sei angemerkt, dass die Videos von Community Mitgliedern erstellt wurden - sie sollen eine zusätzliche Hilfe darstellen.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -22,7 +22,7 @@ Wenn du unsicher sein solltest, wie du zwischen V3 und V2 wechseln kannst, siehe
 
 ![Prozess, um am Aludel Programm teilzunehmen](https://i.imgur.com/7sK0Jr2.png)
 
-![Die Idea hinter dem Aludel](https://i.imgur.com/sutIhed.png)
+![Die Idee hinter dem Aludel](https://i.imgur.com/sutIhed.png)
 
 
 

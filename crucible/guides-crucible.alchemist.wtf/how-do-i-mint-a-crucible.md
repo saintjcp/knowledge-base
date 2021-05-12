@@ -9,7 +9,7 @@ Wenn du dies noch nicht getan hast, siehe unsere zweiteilige Anleitung zum Thema
 ## Minten eines Crucibles mit Hilfe von LP Token
 
 {% hint style="info" %}
-**Wichtige Information:** 
+**Wichtige Informationen:** 
 
 **Benutze nicht** den ![](../../.gitbook/assets/brave.png) Brave ****Browser, da dieser aktuell nicht kompatibel mit dem Prozess ist und deine Transaktionen mit hoher Wahrscheinlichkeit fehlschlagen werden und somit zu unnötigen Gebühren führen.
 

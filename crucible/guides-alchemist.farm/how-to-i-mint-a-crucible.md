@@ -13,7 +13,7 @@ Wenn du dies noch nicht getan hast, siehe unsere zweiteilige Anleitung zum Thema
 
 **Benutze nicht** den ![](../../.gitbook/assets/brave.png) Brave ****Browser, da dieser aktuell nicht kompatibel mit dem Prozess ist und deine Transaktionen mit hoher Wahrscheinlichkeit fehlschlagen werden und somit zu unnötigen Gebühren führen.
 
-Wir ebenfalls ebenfalls nicht eine Hardware-Wallet zu benutzen, da diese zur Zeit keinen Support für die EIP-712 Unterschrift verfügt.
+Wir ebenfalls ebenfalls nicht eine Hardware-Wallet zu benutzen, da diese zur Zeit über keinen Support für die EIP-712 Unterschrift verfügt.
 
 Wir empfehlen für keinen unserer Prozesse, diese auf dem Smartphone oder Handy durchzuführen.
 {% endhint %}

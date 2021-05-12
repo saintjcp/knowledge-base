@@ -13,12 +13,12 @@ Bitte stellen daher sicher, dass du, wenn du Liquidität hinzufügst, dies bei d
 **Wichtige Informationen**
 
 * **Benutze nicht** den ![](../.gitbook/assets/brave.png) Brave Browser, da dieser aktuell nicht kompatibel mit dem Prozess ist und deine Transaktionen mit hoher Wahrscheinlichkeit fehlschlagen werden und somit zu unnötigen Gebühren führen.
-* Wir ebenfalls ebenfalls nicht eine Hardware-Wallet zu benutzen, da diese zur Zeit keinen Support für die EIP-712 Unterschrift verfügt.
+* Wir empfehlen ebenfalls nicht eine Hardware-Wallet zu benutzen, da diese zur Zeit über keinen Support für die EIP-712 Unterschrift verfügt.
 * Einige Nutzer haben von Problemen in Verbindung mit der Trust Wallet berichtet. Sehe daher davon ab, diese zu benutzen.
 * Wir empfehlen für keinen unserer Prozesse, diese auf dem Smartphone oder Handy durchzuführen.
 {% endhint %}
 
-Bitte benutze eine der beiden untenstehenden Anleitungen, um ein Crucible zu minten
+Bitte benutze eine der beiden untenstehenden Anleitungen, um ein Crucible zu minten:
 
 * [Wie erstelle ich ein Crucible auf crucible.alchemist.wtf](guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
 * [Wie erstelle ich ein Crucible auf alchemist.farm](guides-alchemist.farm/how-to-i-mint-a-crucible.md)
@@ -43,7 +43,7 @@ Du kannst einen Blick auf den Belohnungspool [hier](https://etherscan.io/address
 
 ## **Wie werde ich ein zertifizierter Alchemist in unserem Discord?**
 
-* Benutze diese [Anleitung](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
+* Benutze diese [Anleitung](how-to-become-a-certified-alchemist-on-discord.md)
 * Komme ins Discord
 * Gehe in den \#welcome Channel und schreibe: !join
 * Daraufhin wirst du eine private Nachricht vom Collab.Land Bot erhalten
@@ -67,7 +67,7 @@ Die einzige Rechtfertigung mehrere Crucibles zu erstellen ist, wenn du darauf ab
 
 ## **Wie wirkt sich die Beendigung der LP Token Teilnahme auf den Belohnungsmultiplikator aus?**
 
-Jedesmal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird im Hintergrund registriert wie lange diese Token hinterlegt sind. Das Adudel wendet einen Belohnungsmultiplikator an, dieser startet bei 1x bis zu 10x nach 60 Tagen. Wenn du einen Bruchteil der Gesamtmenge entziehst, nimmt das Aludel zunächst den zuletzt hinterlegten Teil mit dem niedrigsten Multiplikator \(Als letztes rein, als erstes raus\)
+Jedes Mal wenn du LP Token im Aludel Belohnungsprogramm teilnehmen lässt, wird im Hintergrund registriert wie lange diese Token hinterlegt sind. Das Aludel wendet einen Belohnungsmultiplikator an, dieser startet bei 1x bis zu 10x nach 60 Tagen. Wenn du einen Bruchteil der Gesamtmenge entziehst, nimmt das Aludel zunächst den zuletzt hinterlegten Teil mit dem niedrigsten Multiplikator \(Als letztes rein, als erstes raus\)
 
 ## **Kann ich irgendwie sehen wie viele Belohnungen ich bislang verdient habe?**
 
@@ -79,15 +79,15 @@ Ja. Die anfallenden Gaskosten werden für das Hinzufügen von weiteren LP Token 
 
 ## **Wird "Claim Rewards and Unsubscribe LP" \(Belohnungen einfordern und Teilnahme der LP Token beenden\) meine LP & Belohnungen aus meinem Crucible entfernen?**
 
-Nein, es wird nur dazuführen, dass die Belohnungen eingefordert worden sind. Die LP Token werden allerdings so lange im Crucible verbleiben bis diese über "Withdraw Unsubscribed LP" \(Auszahlung der nicht mehr teilnehmenden LP Token\) entnommen werden.
+Nein, es wird nur dazu führen, dass die Belohnungen eingefordert worden sind. Die LP Token werden allerdings so lange im Crucible verbleiben bis diese über "Withdraw Unsubscribed LP" \(Auszahlung der nicht mehr teilnehmenden LP Token\) entnommen werden.
 
-## **Wird "Withdraw Unsubscribed LP" \(Auszahlung der nicht mehr teilnehmenden LP Token\) mein Crucible zerstören?**
+## **Wird "Withdraw Unsubscribed LP" \(Auszahlung, der nicht mehr teilnehmenden LP Token\) mein Crucible zerstören?**
 
 Nein, es wird lediglich geleert. Du wirst ein leeres Crucible dein Eigen nennen.
 
 ## **Kann ich das Crucible NFT an eine andere Wallet senden?**
 
-Ja, der Besitz des NFT \(und damit auch mit die teilnehmenden / den gestakten LP Token\) kann an jede ERC721 kompatible Wallet gesendet werden. Dies kann über die Funktion "Transfer Crucible" auf [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/) durchgeführt werden. 
+Ja, der Besitz des NFT \(und damit auch mit die teilnehmenden / den gestakten LP Token\) kann an jede ERC721 kompatible Wallet gesendet werden. Dies kann über die Funktion "Transfer Crucible" auf [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oder [alchemist.farm](https://alchemist.farm/) durchgeführt werden. 
 
 ## **Wird der Transfer meines Crucibles von einer Wallet zu einer anderen den Belohnungsmultiplikator zurücksetzen?**
 

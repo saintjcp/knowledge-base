@@ -1,6 +1,6 @@
 # Wallet Komptabilität
 
-Basierend durch begrenztes Testen und gesammelter Rücklauf von Nutzern, sind wir zu folgender Komptabilitätsliste gekommen.
+Basierend durch begrenztes Testen und gesammelten Rücklauf von Nutzern, haben wir folgende Komptabilitätsliste erstellt.
 
 {% hint style="info" %}
 Die Genauigkeit dieser Informationen kann sich wohlmöglich ändern und soll als grundsätzliche Orientierung dienen.
