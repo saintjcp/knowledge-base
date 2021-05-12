@@ -20,7 +20,6 @@
   * [Was kann ich mit meinem neuen Crucible anstellen?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Belohnungen erhalten und LP Token nicht mehr teilnehmen lassen](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Anleitungen: alchemist.farm](crucible/guides-alchemist.farm/README.md)
-  * [Wie erstelle ich ein Crucible?](crucible/guides-alchemist.farm/how-to-i-mint-a-crucible.md)
   * [Was kann ich mit meinem neuen Crucible anstellen?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * ["Claim Rewards and Unsubscribe LP" mit Hilfe des Taichi Netzwerks](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visuelle Anleitungen 🎞](crucible/guides-alchemist.farm/visual-guides.md)

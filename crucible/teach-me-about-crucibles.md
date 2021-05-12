@@ -26,7 +26,8 @@ Ursprünglich war die einzige Methode direkt Hand anzulegen und es via offiziell
 Bitte benutze einen der folgenden Anleitungen, um ein Crucible zu erstellen \(minten\):
 
 * [Minting eines Crucibles auf crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
-* [Minting eines Crucibles auf alchemist.farm](guides-alchemist.farm/how-to-i-mint-a-crucible.md)
+
+
 
 ## Was ist ein Crucible wert?
 

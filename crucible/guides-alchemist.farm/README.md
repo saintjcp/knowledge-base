@@ -7,7 +7,7 @@ Bitte [klicke hier](../guides-crucible.alchemist.wtf/), wenn du [crucible.alchem
 
 ### Inhalt
 
-1. [Wie erstelle ich ein Crucible?](how-to-i-mint-a-crucible.md)
+1. [Wie erstelle ich ein Crucible?]()
 2. [Was kann ich mit meinem neuen Crucible anstellen?](i-minted-a-crucible-now-what.md)
 3. [Claim Rewards and Unsubscribe LP mit Hilfe des TaiChi Netzwerkes](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
 4. [Visuelle Anleitungen 🎞](visual-guides.md)

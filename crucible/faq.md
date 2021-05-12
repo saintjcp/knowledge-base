@@ -21,7 +21,7 @@ Bitte stellen daher sicher, dass du, wenn du Liquidität hinzufügst, dies bei d
 Bitte benutze eine der beiden untenstehenden Anleitungen, um ein Crucible zu minten:
 
 * [Wie erstelle ich ein Crucible auf crucible.alchemist.wtf](guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
-* [Wie erstelle ich ein Crucible auf alchemist.farm](guides-alchemist.farm/how-to-i-mint-a-crucible.md)
+* [Wie erstelle ich ein Crucible auf alchemist.farm]()
 
 ## **Warum kann ich meine ⚗️ $MIST nicht in meiner Wallet sehen?**
 
