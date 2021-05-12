@@ -20,7 +20,7 @@ Sommige gebruikers hebben problemen gemeld met Trustwallet.
 We raden je af dit op een mobiele telefoon te doen.
 {% endhint %}
 
-1. Ga naar de website om een crucible  te maken: [alchemist.farm](https://alchemist.farm)
+1. Ga naar de website om een crucible  te maken: [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
 2. Verbind je MetaMask-wallet met de website.
 3. Voer de hoeveelheid LP in die je in de Crucible wilt stoppen.
 4. Druk op “Mint Crucible and Subscribe LP to Aludel". Je krijgt 2 goedkeuringen via een MetaMask pop up. Accepteer beide en wacht tot ze klaar/verwerkt zijn.
