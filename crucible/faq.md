@@ -11,7 +11,7 @@ Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to th
 {% hint style="warning" %}
 **Precautions**
 
-Do not use Brave browser as it is not compatible with the process at this time and you're transaction will fail resulting in lost fees.
+Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
 
 We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
 
