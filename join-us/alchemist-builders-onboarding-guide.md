@@ -72,6 +72,8 @@ GitHub is a web-based version-control and collaboration platform for software de
 
 #### **How we use it**
 
+GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
@@ -84,8 +86,6 @@ Linear helps streamline software projects, sprints, tasks, and bug tracking. It'
 
 Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
 
-#### **Links**
-
 ### Figma
 
 #### **General**
@@ -97,6 +97,16 @@ Figma is a cloud-based design tool that is similar to Sketch in functionality an
 Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
 
 **Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+
+### **Coordinape**
+
+#### **General**
+
+Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+
+#### **How we use it**
+
+Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
 
 ## Meeting Calender
 

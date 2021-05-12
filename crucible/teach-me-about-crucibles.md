@@ -27,8 +27,6 @@ Please use the guide below to mint a Crucible:
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-
-
 ## What is a Crucible worth?
 
 The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.

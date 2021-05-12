@@ -24,8 +24,6 @@ Please use one of the guides below to mint a crucible
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-
-
 ## **Why can’t I see my ⚗️Mist in my wallet?**
 
 You can add the contract address **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** to make them visible.
