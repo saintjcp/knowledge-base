@@ -18,7 +18,7 @@
 
 **אנו לא ממליצים לך לעשות זאת בנייד**
 
-1. [alchemist.farm](https://alchemist.farm/) ,היכנסו לאתר crucible -עבור ה mint כדי לבצע
+1. [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/) ,היכנסו לאתר crucible -עבור ה mint כדי לבצע
 2. שלך MetaMask -חבר את ארנק ה
 3. Crucible -שאתה מעוניין להכניס לתוך ה LP -הזן את כמות ה
 4. “Mint Crucible and Subscribe LP to Aludel” הקלק על .חתום עליהם והמתן לסיום ,MetaMask -אתה תקבל 2 הודעות קופצות מ
