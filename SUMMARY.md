@@ -1,7 +1,7 @@
 # Table of contents
 
 * [test](README.md)
-* [Official Community Links 🔗](official-community-links.md)
+* [Liens communautaires officiels 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 

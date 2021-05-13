@@ -1,4 +1,4 @@
-# Official Community Links 🔗
+# Liens communautaires officiels 🔗
 
 {% hint style="warning" %}
 If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
