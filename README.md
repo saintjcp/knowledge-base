@@ -1,7 +1,5 @@
 # ¿Qué es Alchemist?
 
-[alchemist.wtf](https://github.com/alchemistcoin/alchemist)
-
 Alchemist comenzó con un [tuit](https://twitter.com/thegostep/status/1358159173440184322?s=20) de [@thegostep](https://twitter.com/thegostep).
 
 No hay un "equipo de desarrollo". No hay ninguna empresa. Sólo hay una comunidad de alquimistas al aire libre intentando encontrar lo que se puede construir.
