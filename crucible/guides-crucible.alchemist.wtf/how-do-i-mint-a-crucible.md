@@ -1,4 +1,4 @@
-# How do I mint a Crucible?
+# Cum pot creea un NFT Crucible?
 
 ## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
 

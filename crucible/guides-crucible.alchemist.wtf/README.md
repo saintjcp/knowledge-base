@@ -1,13 +1,13 @@
-# Guides: crucible.alchemist.wtf
+# Ghid: crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**Ghidurile de mai jos sunt pentru site-ul comunitatii Alchemist** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
+Te rugam da [click aici](../guides-alchemist.farm/)  daca folosesti [alchemist.farm](https://alchemist.farm/)
 {% endhint %}
 
-### Contents
+### Cuprins:
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1. [Cum sa creez un NFT Crucible?](how-do-i-mint-a-crucible.md)
+2. [Ce pot sa fac cu noul meu NFT Crucible?](what-can-i-do-with-my-new-crucible.md)
+3. [Revendicarea Recompensele & Dezabonarea token-ului LP](claiming-rewards-and-unsubscribing-your-lp.md)
 
