@@ -6,7 +6,7 @@ Ein Leitprinzip ist eine Empfehlung, die einer Organisation eine universelle und
 
 ### 1. Fokus auf Mehrwert
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+Alles, was die Organisation tut, sollte direkt oder indirekt mit dem Mehrwert für sich selbst, ihrer Kunden und andere Stakeholder verknüpft werden. Der erste Schritt besteht darin, zu wissen, wer die Kunden und wichtigsten Stakeholder sind, denen mein Mehrwert dient. Zweitens ist es wichtig zu verstehen, was aus Verbrauchersicht Mehrwert ausmacht. Es ist auch wichtig, die Kundenerfahrung mit der Organisation und dem Produkt / der Dienstleistung durch ein klares Bewusstsein für die Kundenerfahrung oder Benutzererfahrung zu verstehen.
 
 * Kenne den Nutzen deines Services/Produkts/deiner Organisation.
 * Ermutige den Fokus auf den Mehrwert unter deinen Kollegen.
@@ -15,9 +15,9 @@ Everything the organization does should link back, directly or indirectly, to va
 
 ### 2. Beginne dort, wo du bist
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+Wenn du nach einer Verbesserungsmöglichkeit suchst, starte nicht von vorne ohne bereits Verfügbares in Betracht zu ziehen. Du sollest keine Zeit damit verschwenden dein Fundament der bereits geleisteeten Arbeit zu zerstören - sei dir bewusst, was bereits investiert wurde \(Kosten, Schweiß und Zeit\).
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+Die Beobachtung bestehender Dienste und Methoden sollte nach Möglichkeit im Einklang mit der Messung stehen, um ihren aktuellen Status und die von ihnen wiederverwendbaren Daten richtig zu verstehen. Informationen sollten immer so genau wie möglich sein, um objektive Entscheidungen treffen zu können. Sehe die Messung immer als Unterstützung für die Analyse. Sei dir bewusst - Messungen werden verwendet, um die Analyse des Beobachters zu unterstützen, anstatt diese zu ersetzen, da eine übermäßige Abhängigkeit von Datenanalyse und Berichterstellung unbeabsichtigt zu Verzerrungen und Risiken bei der Entscheidungsfindung führen kann.
 
 * Der Startpunkt ist entweder der Kunde oder das Ergebnis. Beurteile deine bestehenden Methoden so objektiv wie möglich!
 * Hast du bereits erfolgreiche existierende Anwendungsbeispiele? Benutze sie! Versuche zu evaluieren, ob und wie diese erweitert und repliziert werden können, um eine erhoffte Verbesserung zu erreichen.
@@ -26,7 +26,7 @@ Observing existing services and methods should be in line with measurement if po
 
 ### 3. Entwickle iterativ mit Feedback
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+Widerstehe der Versuchung alles auf einmal zu machen. Teile es! Kleine Schritte oder Meilensteine ​​\(Iterationen\) können zeitnah ausgeführt werden. Jedes Ziel wird leichter zu erreichen sein, es ist motivierend statt frustrierend. Der Fokus auf jede Anstrengung wird schärfer sein. Reflektiere alle Änderungen der Umstände und konzentriere dich auf den Wert, um jede Iteration sowie die gesamte Initiative neu zu bewerten und möglicherweise zu überarbeiten. Ehrliches Feedback ist dein Werkzeug, um deine getroffenen Maßnahmen zu überprüfen - analysiere deine Verbesserungsmöglichkeiten, -risiken und -probleme. Geben Sie Feedback einen Wert, um daraus zu Lernen, zu Bauen und zu Verbessern.
 
 * Kleine Schritte oder Meilensteine setzen, dabei aber das Ganze verstehen.
 * Feedback ist essentiell – Umstände ändern sich schnell.
