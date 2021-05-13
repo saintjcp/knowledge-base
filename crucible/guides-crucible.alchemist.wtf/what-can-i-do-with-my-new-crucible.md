@@ -1,4 +1,4 @@
-# What can I do with my new Crucible?
+# Ce pot sa fac cu noul meu NFT Crucible?
 
 There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
 
