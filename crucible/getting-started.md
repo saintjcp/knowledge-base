@@ -4,23 +4,22 @@ Cateva notificari importante, precautii necesare, inainte de orice alt pas ca pa
 
 {% hint style="danger" %}
 **Nota Importanta**  
-Crucibles pot fi create doar din **Uniswap V2** LP Tokens.  
+NFT-urile Crucibles pot fi create doar din **Uniswap V2** LP Tokens.  
 Va rugam sa va asigurati ca ati adaugat lichiditate in Fondul V2 si nu in Fondul V3.
 {% endhint %}
 
 {% hint style="warning" %}
- **Nu recomandam folosirea browser-ului Brave, fiind incompatibil la ora asta, tranzactiile vor esua si astfel se pierd taxele.**
-
-**Nu recomandam folosirea unui wallet hardware deoarece la ora asta nu suporta semnatura EIP-712. Cand ei vor rezolva, noi il vom implementa.**
-
-**Nu recomandam sa creati Crucible NFT pe mobil.**
+* Nu folositi![](../.gitbook/assets/brave.png)browser-ul Brave, fiind incompatibil la ora asta, tranzactiile vor esua si astfel se pierd taxele.
+* Nu recomandam folosirea unui wallet hardware deoarece inca nu suporta semnatura EIP-712. Cand ei vor rezolva, noi il vom implementa.
+* Unii utilizatori au raportat probleme folosind Trust Wallet. Va rugam sa luati in considerare.
+* Nu recomandam sa creati Crucible NFT pe mobil.
 {% endhint %}
 
 {% hint style="info" %}
-The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
+Sistemul de recompensa Aludel este inca un experiment in desfasurare, de aceea noi va rugam sa aveti in vedere aceste precautii inainte de a lua parte in program. 
 {% endhint %}
 
-If you've read the above notices, then you're ready to move on to learning [about Crucibles](teach-me-about-crucibles.md).
+Daca ai citit notificarile de mai sus, atunci esti deja gata sa treci la lectia [Invata-ma despre NTF-urile Crucible](teach-me-about-crucibles.md).
 
 {% page-ref page="teach-me-about-crucibles.md" %}
 
