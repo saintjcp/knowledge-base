@@ -14,7 +14,7 @@ Crucible accepta LP doar din Fondul de Lichiditati creat in **Uniswap V2**. Daca
 **Mare Atentie!**
 
 * Nu folositi![](../.gitbook/assets/brave.png)browser-ul Brave, fiind incompatibil la ora asta, tranzactiile vor esua si astfel se pierd taxele.
-* Nu recomandam folosirea unui wallet hardware deoarece inca nu suporta semnatura EIP-712. Cand ei vor rezolva, noi il vom implementa.
+* Nu recomandam folosirea unui wallet hardware deoarece Alchemist inca nu suporta semnatura EIP-712. Cand ei vor rezolva, noi il vom implementa.
 * Unii utilizatori au raportat probleme folosind Trust Wallet. Va rugam sa luati in considerare.
 * Nu recomandam sa creati Crucible NFT pe mobil.
 {% endhint %}
@@ -41,19 +41,19 @@ Recompensele sunt distribuite din fondul de recompensa proportional cu cantitate
 
 Fondul de recompensa poate fi vazut [aici.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
 
-## **How do I become an certified Alchemist in Discord?**
+## **Cum pot sa devin un Alchimist Certificat in Discord?**
 
-* Please use this [guide](how-to-become-a-certified-alchemist-on-discord.md)
-* Join Discord
-* Go to the Welcome channelType !join
-* You will then get a message from the Collab.Land bot
-* Connect Your wallet containing your ⚗️$mist
-* The bot will then message you  ~ Updating roles, Please check assigned roles in Alchemist
-* Close bot and return to the main alchemy channel and you will now be a certified Alchemist!
+* Urmeaza acest [ghid](how-to-become-a-certified-alchemist-on-discord.md)
+* Intra pe canalul [Discord](https://discord.com/invite/qWQQMMKjKe)
+* Mergi la Welcome channel Trimite un mesaj !join in canal.
+* Vei primi un mesaj de la robotul Collab.Land
+* Conecteaza-ti walletul in care detii ⚗️$mist
+* Robotul iti va trimite un mesaj in care poti afla rolul desemnat in Alchemist 
+* Inchide robotul si intoarce-te in canalul principal ca un Alchimist certificat!
 
-## **How do I claim the rewards?**
+## **Cum pot solicita recompensele?**
 
-All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. You will need to use Taichi Network when doing this to prevent bots from front-running your rewards. See this [guide](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. Va trebui sa folosesti reteaua Taichi cand retragi recompensele pentru a preveni robotii sa intre in fata recompenselor voastre. Vezi acest ghid [ghid](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
 
 ## **Does it matter how many LP tokens go into the Crucible?**
 
