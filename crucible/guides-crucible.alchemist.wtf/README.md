@@ -1,13 +1,16 @@
-# Guides: crucible.alchemist.wtf
+# Guías: crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**Las siguientes guías son para la página comunitaria**[ **crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)
+
+Por favor, haga [clic aquí](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-alchemist.farm) si está utilizando [alchemist.farm](https://alchemist.farm/)
 {% endhint %}
 
 ### Contents
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1. [¿Cómo se crea un Crucible?](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible)
+2. [¿Qué puedo hacer con mi nuevo Crucible?](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible)
+3. [¿Cómo reclamo las recompensas y cancelo la suscripción del LP?](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp)
+
+
 

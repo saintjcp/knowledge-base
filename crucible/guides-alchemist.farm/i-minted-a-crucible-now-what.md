@@ -1,26 +1,26 @@
-# I have minted a Crucible, now what?
+# ¿Qué puedo hacer con mi nuevo Crucible?
 
-## You can checking how many LP tokens are in your Crucible
+## Comprobar el valor de my Crucible 
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Visita [alchemist.farm](https://alchemist.farm/), conecta tu wallet y haz clic en la pestaña Crucible.
 
-The Total Balance reflects your Crucible LP value.
+Bajo de "Total Balance" encuentras el valor de tu Crucible LP.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Como puedes ver, también muestra otras métricas útiles para seguir el rendimiento.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## ¿Cómo sé si he suscrito el LP dentro de mi Crucible?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Debería hacerse automáticamente. También puedes utilizar [alchemist.farm](https://alchemist.farm/) para comprobar tu Crucible. Habrá un icono de candado en la esquina superior derecha de la pantalla del Crucible que indica la cantidad de LP que se ha suscrito al programa de recompensas de Aludel: ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Comprobar las recompensas
 
 You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## Si he creado mi Crucible y suscrito mi LP... ¿es eso?
 
-Yes. Now you sit back and see what happens.
+Sí. Ahora siéntete y ve lo que sucede.
 
 #### 
 

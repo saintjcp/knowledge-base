@@ -1,4 +1,4 @@
-# Enséñame sobre los Crucible
+# Cuenta me sobre los Crucible
 
 ## ¿Qué es un Crucible?
 
