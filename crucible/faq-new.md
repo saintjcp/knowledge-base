@@ -69,27 +69,27 @@ Unica varianta recomandata de noi pentru a creea mai multe NFT-uri Crucible este
 
 De fiecare data cand puneti tokenii LP in programul de recompense Aludel, programul ține evidența timpului în care aceste jetoane sunt alocate. Aludel aplică un multiplicator de recompensă care începe de la 1x și crește la 10x în 60 de zile. Când solicitati o sumă parțială, Aludel solicită mai întâi Abonamentul cu cel mai mic multiplicator \(Ultimul Intrat, Primul Iesit\).
 
-## **Pot in vre-un fel sa vad cata recompensa am acumulat intre timp?**
+## **Pot in vre-un fel sa vad recompensele pe care le-am acumulat intre timp?**
 
 Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) cat si de pe [alchemist.farm](https://alchemist.farm/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/)
 
-## **Can I add more LP to an existing Crucible?**
+## **Pot adauga mai multi tokeni LP unui NFT Crucible existent?**
 
-Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.
+Da. Costurile aferente adaugarii de tokeni LP la un Crucible NFT existent este mult mai mic decat la creatia initiala a acelui NFT Crucible. Fiecare subscriere, alocare de LP este un act independent, asa ca fiecare adaugare de LP nou va contoriza propriul factor de multiplicare recompnesa independent de celelalt de pe acelasi Crucible NFT. 
 
-## **Does “Claim Rewards and Unsubscribe LP” remove my LP & rewards from the Crucible?**
+## Imi elimină tokenul LP din **Crucible solicitarea  de a primi recompensele prin “Claim Rewards and Unsubscribe LP”?**
 
-No. This only claims the rewards earned, your LP will remain in the Crucible until you “Withdraw Unsubscribed LP”.
+Nu. Asta doar cere recompensele castigate, tokenii LP vor ramane alocati NFT-ului tau Crucible pana cand tu vei solicita retragerea LP prin “Withdraw Unsubscribed LP”.
 
-## **Does “Withdraw Unsubscribed LP” destroy the Crucible?**
+## **Cererea de retragere a tokenilor LP din Crucible NFT prin “Withdraw Unsubscribed LP” va distruge acest NFT Crucible?**
 
-No, it only empties it. You retain the empty Crucible.
+Nu se distruge, doar ca NFT-ul Crucible va ramane gol de valoarea LP continuta anterior retragerii LP-ului. Vei ramane cu acest Crucible NFT dar gol de valoare LP. 
 
-## **Can I transfer the Crucible NFT to another wallet?**
+## **Pot sa trasfer NFT-ul Crucible pe alt wallet?**
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/)
+Da, proprietatea asupra NFT-ului Crucible \(și a tokenilor LP alocati\) poate fi transferată către orice portofel compatibil ERC721. Acest lucru se poate face prin intermediul butonului „Transfer Crucible” de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) sau de pe [alchemist.farm](https://alchemist.farm/)
 
-## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
+## **Daca eu transfer NFT-ul Crucible de pe un wallet pe alt wallet se va reseta multiplicatorul de recompensa?**
 
-No, as long as the rewards are not unsubscribed from the Aludel.
+Nu se reseteaza, atata timp cat recompnesele nu au fost retrase din Aludel.
 
