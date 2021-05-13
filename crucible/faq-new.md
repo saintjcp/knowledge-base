@@ -1,48 +1,45 @@
-# FAQ 📖 \(new\)
+# Intrebari Frecvente 📖
 
 
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
 
-## **How do I participate in the Aludel / How do I mint a Crucible NFT?**
+## **Cum pot participa in Aludel / Cum sa creez un Crucible NFT?**
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible accepta LP doar din Fondul de Lichiditati creat in **Uniswap V2**. Daca adaugati lichiditati in Fondul de pe **Uniswap V3,** trebuie sa stiti ca LP-ul repartizat din acest Fond nu este compatibil cu Programul de Recompensa Aludel.
 {% endhint %}
 
 {% hint style="warning" %}
-**Precautions**
+**Mare Atentie!**
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
-
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
-
-Some users have reported issues with Trustwallet.
-
-We do not recommend you do this on a mobile.
+* Nu folositi![](../.gitbook/assets/brave.png)browser-ul Brave, fiind incompatibil la ora asta, tranzactiile vor esua si astfel se pierd taxele.
+* Nu recomandam folosirea unui wallet hardware deoarece inca nu suporta semnatura EIP-712. Cand ei vor rezolva, noi il vom implementa.
+* Unii utilizatori au raportat probleme folosind Trust Wallet. Va rugam sa luati in considerare.
+* Nu recomandam sa creati Crucible NFT pe mobil.
 {% endhint %}
 
-Please use one of the guides below to mint a crucible
+Va rugam sa folositi unul din ghidurile de mai jos despre cum sa creati un Crucible NFT
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* C[reeaza NFT Crucible pe crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-## **Why can’t I see my ⚗️Mist in my wallet?**
+## **De ce nu pot sa vad token-ul ⚗️Mist in walletul meu?** 
 
-You can add the contract address **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** to make them visible.
+Trebuie sa adaugi adresa contractului**`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ca sa fie vizibil in wallet.
 
-## **Why can’t I see my LP in my wallet?**
+## **De ce nu pot sa vad token-ul LP in walletul meu?**
 
-You can add the contract address **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** to make them visible.
+Trebuie sa adaugi adresa contractului **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ca sa fie vizibil in wallet.
 
-## **Why can’t I see my Crucible in my wallet?**
+## **De ce nu pot sa vad NFT-ul Crucible in walletul meu?**
 
-You can add the contract address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** to make your Crucible\(s\) visible.
+Trebuie sa adaugi adresa contractului  **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ca NFT-ul Crucible sa fie vizibil in wallet.
 
-## **What are the rewards for Subscribing in the Aludel?**
+## **Care este recompensa pentru a subscrie in programul Aludel?**
 
-Rewards are distributed from the reward pool proportionally to the amount and duration of a Subscription. The more ⚗️$mist/ETH Uniswap LP tokens you Subscribe and the longer you leave it for, the more rewards it will accumulate. The Aludel reward program is designed to reward long term participants.
+Recompensele sunt distribuite din fondul de recompensa proportional cu cantitatea si durata de timp pentru care a subscris in Aludel. Cu cat alocam o cantitate mai mare de tokeni ⚗️$mist/ETH Uniswap LP si cu cat mai mare este perioada pentru care subscriem programului Aludel cu atat mai mare va fi recompensa acumulata. Programul de recompensa Aludel este creat ca sa recompenseze participantii pe termen lung.
 
-You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
+Fondul de recompensa poate fi vazut [aici.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
 
 ## **How do I become an certified Alchemist in Discord?**
 
