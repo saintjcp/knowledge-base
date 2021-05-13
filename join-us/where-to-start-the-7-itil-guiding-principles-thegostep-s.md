@@ -15,9 +15,9 @@ Alles, was die Organisation tut, sollte direkt oder indirekt mit dem Mehrwert f�
 
 ### 2. Beginne dort, wo du bist
 
-Wenn du nach einer Verbesserungsmöglichkeit suchst, starte nicht von vorne ohne bereits Verfügbares in Betracht zu ziehen. Du sollest keine Zeit damit verschwenden dein Fundament der bereits geleisteeten Arbeit zu zerstören - sei dir bewusst, was bereits investiert wurde \(Kosten, Schweiß und Zeit\).
+Wenn du nach einer Verbesserungsmöglichkeit suchst, starte nicht von vorne ohne bereits Verfügbares in Betracht zu ziehen. Du sollest keine Zeit damit verschwenden dein Fundament der bereits geleisteten Arbeit zu zerstören - sei dir bewusst, was bereits investiert wurde \(Kosten, Schweiß und Zeit\).
 
-Die Beobachtung bestehender Dienste und Methoden sollte nach Möglichkeit im Einklang mit der Messung stehen, um ihren aktuellen Status und die von ihnen wiederverwendbaren Daten richtig zu verstehen. Informationen sollten immer so genau wie möglich sein, um objektive Entscheidungen treffen zu können. Sehe die Messung immer als Unterstützung für die Analyse. Sei dir bewusst - Messungen werden verwendet, um die Analyse des Beobachters zu unterstützen, anstatt diese zu ersetzen, da eine übermäßige Abhängigkeit von Datenanalyse und Berichterstellung unbeabsichtigt zu Verzerrungen und Risiken bei der Entscheidungsfindung führen kann.
+Die Beobachtung bestehender Dienste und Methoden sollte nach Möglichkeit im Einklang mit der Messung stehen, um ihren aktuellen Status und die von ihnen wieder verwendbaren Daten richtig zu verstehen. Informationen sollten immer so genau wie möglich sein, um objektive Entscheidungen treffen zu können. Sehe die Messung immer als Unterstützung für die Analyse. Sei dir bewusst - Messungen werden verwendet, um die Analyse des Beobachters zu unterstützen, anstatt diese zu ersetzen, da eine übermäßige Abhängigkeit von Datenanalyse und Berichterstellung unbeabsichtigt zu Verzerrungen und Risiken bei der Entscheidungsfindung führen kann.
 
 * Der Startpunkt ist entweder der Kunde oder das Ergebnis. Beurteile deine bestehenden Methoden so objektiv wie möglich!
 * Hast du bereits erfolgreiche existierende Anwendungsbeispiele? Benutze sie! Versuche zu evaluieren, ob und wie diese erweitert und repliziert werden können, um eine erhoffte Verbesserung zu erreichen.
@@ -26,7 +26,7 @@ Die Beobachtung bestehender Dienste und Methoden sollte nach Möglichkeit im Ein
 
 ### 3. Entwickle iterativ mit Feedback
 
-Widerstehe der Versuchung alles auf einmal zu machen. Teile es! Kleine Schritte oder Meilensteine ​​\(Iterationen\) können zeitnah ausgeführt werden. Jedes Ziel wird leichter zu erreichen sein, es ist motivierend statt frustrierend. Der Fokus auf jede Anstrengung wird schärfer sein. Reflektiere alle Änderungen der Umstände und konzentriere dich auf den Wert, um jede Iteration sowie die gesamte Initiative neu zu bewerten und möglicherweise zu überarbeiten. Ehrliches Feedback ist dein Werkzeug, um deine getroffenen Maßnahmen zu überprüfen - analysiere deine Verbesserungsmöglichkeiten, -risiken und -probleme. Gebe Feedback einen Wert, um daraus zu Lernen, zu Bauen und zu Verbessern.
+Widerstehe der Versuchung alles auf einmal zu machen. Teile es! Kleine Schritte oder Meilensteine ​​\(Iterationen\) können zeitnah ausgeführt werden. Jedes Ziel wird leichter zu erreichen sein, es ist motivierend statt frustrierend. Der Fokus auf jede Anstrengung wird schärfer sein. Reflektiere alle Änderungen der Umstände und konzentriere dich auf den Wert, um jede Iteration sowie die gesamte Initiative neu zu bewerten und möglicherweise zu überarbeiten. Ehrliches Feedback ist dein Werkzeug, um deine getroffenen Maßnahmen zu überprüfen - analysiere deine Verbesserungsmöglichkeiten, -Risiken und -Probleme. Gebe Feedback einen Wert, um daraus zu Lernen, zu Bauen und zu Verbessern.
 
 * Kleine Schritte oder Meilensteine setzen, dabei aber das Ganze verstehen.
 * Feedback ist essentiell – Umstände ändern sich schnell.
@@ -48,9 +48,9 @@ Stakeholder brauchen eine klare Vorstellung von Fortschritt und Arbeitsbelastung
 
 ### 5. Denke und arbeite ganzheitlich
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+In einem komplexen System kann sich die Änderung eines Elements auf andere auswirken. Diese Auswirkungen müssen identifiziert, analysiert und geplant werden. Nichts steht für sich allein - ob Service, Praxis, Prozess oder Abteilung. Das Ergebnis wird darunter leiden, wenn es nicht auf integrierte Weise arbeitet, um seine Aktivitäten als Ganzes und nicht als separate Teile abzuwickeln
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+Ein ganzheitlicher Ansatz für ITIL-Konzepte umfasst die Schaffung eines Verständnisses für die Zusammenarbeit aller Teile einer Organisation \(vier Dimensionen: Organisationen und Personen, Information und Technologie, Partner und / oder Lieferanten, Werteströme und Prozesse\). Die Nachfrage wird erfasst und in Ergebnisse umgesetzt.
 
 * Erkenne die Komplexität von jedem einzelnen Element.
 * Zusammenarbeit ist der Schlüssel, um ganzheitlich zu arbeiten.
@@ -59,11 +59,11 @@ Taking a holistic approach to ITIL concepts includes establishing an understandi
 
 ### 6. Halte es simpel und praktikabel
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+Verwende immer die Mindestanzahl von Schritten, um ein Ziel zu erreichen. Ergebnisbasiertes Denken sollte verwendet werden, um praktische Lösungen zu entwickeln, die wertvolle Ergebnisse liefern. Wenn ein Prozess, eine Aktion oder eine Metrik keinen Mehrwert oder kein nützliches Ergebnis liefert, beseitige sie. Konzentriere dich nicht auf jede Ausnahme, da dies automatisch zu Überkomplikationen führt. Stattdessen sollten Regeln, Workflows oder Prozesse entworfen werden, mit denen Ausnahmen allgemein behandelt werden können.
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+Wertschöpfung ist dein Ziel - einfach und praktisch zu halten hilft, den Beitrag zu verstehen. Etabliere und kommuniziere eine ganzheitliche Sicht auf die Arbeit. Einzelne Teams oder Gruppen können verstehen, wie deine Arbeit von anderen beeinflusst wird und diese wiederum beeinflusst.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+Halte deine Augen offen für widersprüchliche Ziele, wenn du Prozesse entwirfst, verwaltest oder betreibst. Zum Beispiel möchten Manager möglicherweise viele Daten \(Menge\), aber Serviceteams können bei der Priorisierung der Erfassung und der Details dieser Daten eingeschränkt werden. Finde  einen Kompromiss zwischen konkurrierenden Zielen.
 
 * Stelle Mehrwert sicher.
 * Simplizität ist der Schlüssel.
@@ -74,11 +74,11 @@ Keep your eyes open of conflicting objectives when designing, managing, or opera
 
 ### 7. Optimiere und automatisiere
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+Maximiere den Wert der Arbeit, die von personellen und technischen Ressourcen ausgeführt wird. Technologie kann Organisationen dabei helfen, häufige und sich wiederholende Aufgaben zu skalieren und zu übernehmen. Technologie sollte jedoch nicht immer ohne menschliches Mitwirken eingesetzt werden, da Automatisierung, um der Automatisierung willen, die Kosten erhöhen und die Robustheit und Ausfallsicherheit verringern kann.
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+Die Optimierung beabsichtigt, etwas so effektiv und nützlich zu machen, wie es bestmöglich sein sollte. Optimiere immer zuerst, bevor du eine Automatisierung in Betracht ziehst. Beachte, dass du Einschränkungen für die Optimierung festgelegt haben solltest! Zum Beispiel Kosten, Zeit oder Ressourcen könnten unnötigerweise verschwendet werden.
 
-The path to optimization follows these high-level steps:
+Der Pfad der Optimierung folgt grundsätzlich folgenden Schritten:
 
 * Definiere den Kontext in dem die vorgeschlagene Optimierung vorhanden sein soll.
 * Beurteile den aktuellen Status der vorgeschlagenen Optimierung.
@@ -87,7 +87,7 @@ The path to optimization follows these high-level steps:
 * Erinnere dich an die Iterationen - Optimierungen und auch jedermann involviert liebt die tiefhängenden Früchte.
 * Beobachte den Einfluss/Effekt der Optimierungen.
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+Automatisierung bezieht sich normalerweise auf die Verwendung von Technologie, um einen Schritt oder eine Reihe von Schritten korrekt auszuführen. Richte die Automatisierung im Kontext der Standardisierung und Rationalisierung manueller Aufgaben ein. Zum Beispiel definiere Regeln, um Entscheidungen zu ermöglichen, ohne einzeln überprüft zu werden. Stoppe die menschliche Beteiligung und Bewertung jedes Teils eines Prozesses, um mehr Effizienz zu erzielen. Automatisierung ist eine Möglichkeit, Kosten zu senken, menschliche Fehler zu reduzieren und \(wichtig!\) die gemachten Erfahrungen der Beteiligten zu verbessern.
 
 * Optimierung &gt;&gt;&gt;&gt; Automatisierung
 * Nutze Automatisierung um bessere Erlebnisse zu schaffen, Fehler zu reduzieren und schlussendlich Kosten und Zeit zu sparen.

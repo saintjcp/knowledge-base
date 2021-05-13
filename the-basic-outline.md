@@ -4,7 +4,7 @@ Wir nennen unseren Token Alchemist. Wir benutzen folgendes Ticker Symbol "⚗️
 
 Wofür ist ⚗️ gut? Siehe hierzu das [offizielle FAQ](faq.md)
 
-Du kannst deine Mist ⚗️ wie andere Coins als Liquidität benutzen und schlussendlich damit ein [Crucible NFT](crucible/teach-me-about-crucibles.md) erstellen, welches im [Aludel](the-basic-outline.md#3-aludel) Programm teilnimmt.
+Du kannst deine Mist ⚗️ wie andere Coins als Liquidität benutzen und schlussendlich damit ein Crucible NFT erstellen, welches im [Aludel](the-basic-outline.md#3-aludel) Programm teilnimmt.
 
 ## Wie kann ich meinen Reichtum mit der Hilfe von ⚗️ erhöhen?
 

@@ -18,10 +18,9 @@ Bitte stellen daher sicher, dass du, wenn du Liquidität hinzufügst, dies bei d
 * Wir empfehlen für keinen unserer Prozesse, diese auf dem Smartphone oder Handy durchzuführen.
 {% endhint %}
 
-Bitte benutze eine der beiden untenstehenden Anleitungen, um ein Crucible zu minten:
+Bitte benutze die untenstehende Anleitung, um ein Crucible zu minten:
 
 * [Wie erstelle ich ein Crucible auf crucible.alchemist.wtf](guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
-* [Wie erstelle ich ein Crucible auf alchemist.farm]()
 
 ## **Warum kann ich meine ⚗️ $MIST nicht in meiner Wallet sehen?**
 
