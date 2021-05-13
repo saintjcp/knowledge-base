@@ -1,8 +1,8 @@
-# Alchemist Builders Onboarding Guide
+# Alchemist Builder Onboarding Leitfaden
 
 ## Vision
 
-Du meinst, du hast alles was man braucht um ein Alchemist zu werden -  bereit zu sein den Pfad zu wandern auf unbekannten Reisen in unerforschten Territorien - wie die großen Alchemisten unserer Zeit. Der berühmte Psychiater Carl Jung sagte einst: "Man wird nicht erleuchtet, indem man sich Lichtfiguren vorstellt, sondern indem man sich die Dunkelheit bewusst macht."
+Du meinst, du hast alles was man braucht um ein Alchemist zu werden -  bereit zu sein den Pfad zu wandern auf unbekannten Reisen in unerforschten Territorien - wie die großen Alchemisten unserer Zeit? Der berühmte Psychiater Carl Jung sagte einst: "Man wird nicht erleuchtet, indem man sich Lichtfiguren vorstellt, sondern indem man sich die Dunkelheit bewusst macht."
 
 In den Alchemisten Laboren konzentrieren sich die Experimente auf die Erforschung hochtechnischer Konzepte, um die Zutaten zu ermitteln, die für die ordnungsgemäße Synthese des Stein der Weisen erforderlich sind - beispielsweise die Entwicklung des "Mint a Crucible NFT"-Erlebnisses oder der mistX Benzin-lose DEX.
 
@@ -30,11 +30,11 @@ Wir sind aufgeschlossen und heißen alle willkommen, die sich uns anschließen u
 
 ## Hierarchie
 
-Unsere Hierarchie ist klar definiert und relativ flach. Unsere Multi-Sig Unterzeichner & Senior-Alchemisten, genauso wie @thegostep als Gründer repräsentieren dabei die Führung & gleichzeitige Überwachung für Alchemist selbst. Zusätzlich zu Zielen, Meilensteinen und Zeitvorgaben, geben sie die grundsätzliche Richtung vor, so dass Alchemist den größtmöglichen Mehrwert bietet und so sich selber eine prächtige Zukunft ebenet.
+Unsere Hierarchie ist klar definiert und relativ flach. Unsere Multi-Sig Unterzeichner & Senior-Alchemisten, genauso wie @thegostep als Gründer repräsentieren dabei die Führung & gleichzeitige Überwachung für Alchemist selbst. Zusätzlich zu Zielen, Meilensteinen und Zeitvorgaben, geben sie die grundsätzliche Richtung vor, so dass Alchemist den größtmöglichen Mehrwert bietet und so sich selber eine prächtige Zukunft ebnet.
 
-Als nächstes kommt die Builder Gruppe, gespickt mit Experten von verschiedensten Bereichen. Einerseits sind natürlich Entwickler an Bord, die sich vornehmlich mit Konzepten, Architekturen und Implementationen von diversen Projekten beschäftigen. Die Builder Gruppe besteht allerdings nicht nur aus Entwicklern sondern ebenso Gelehrte aus allen Lebensbereichen - Marketing Experten, Künstler und extrem engagierte Community Mitglieder. Jeder der gerne aktiv teilnehmen möchte, kann ein Teil der Builder Gruppe werden. Unabhängig von den vorhandenen Fähigkeiten, ist ein reger Austausch im Discord oder anderen Tools wie Basecamp sehr gerne gesehen und geschätzt. Die Builder Rolle wird den Nutzer ermöglichen sensible technische Konzepte und Produkte in der Entwicklung in unseren Alchemistenlaboren zu sehen.
+Als nächstes kommt die Builder Gruppe, gespickt mit Experten von verschiedensten Bereichen. Einerseits sind natürlich Entwickler an Bord, die sich vornehmlich mit Konzepten, Architekturen und Implementationen von diversen Projekten beschäftigen. Die Builder Gruppe besteht allerdings nicht nur aus Entwicklern sondern ebenso Gelehrte aus allen Lebensbereichen - Marketing Experten, Künstler und extrem engagierte Community Mitglieder. Jeder der gerne aktiv teilnehmen möchte, kann ein Teil der Builder Gruppe werden. Unabhängig von den vorhandenen Fähigkeiten, ist ein reger Austausch im Discord oder anderen Tools wie Basecamp sehr gerne gesehen und geschätzt. Die Builder Rolle wird den Nutzer ermöglichen sensible technische Konzepte und Produkte in der Entwicklung in unseren Alchemisten Laboren zu sehen.
 
-Um die Builder-Teams weiterhin fokussiert auf ihre Transmutationen zu belassen, wurde eine weitere Rolle erstellt - der apprentice \(Lehrling\). Diese Rolle gibt jungen Alchemisten die Möglichkeit in viele Projekte Einblick, beschützt sie allerdings davor Bereiche mit fortgeschrittener Alchemie zu betreten, da hier mit unbedarftem und ausversehenem Handeln schnell das halbe Gebäude in die Luft fliegt. Die Builder Rolle dient damit als nächster Schritt des Lehrlings, sobald dieser sich bewiesen hat und die technische Seite von alchemistischen Experimenten gemeistert hat.
+Um die Builder-Teams weiterhin fokussiert auf ihre Transmutationen zu belassen, wurde eine weitere Rolle erstellt - der apprentice \(Lehrling\). Diese Rolle gibt jungen Alchemisten die Möglichkeit in viele Projekte Einblick, beschützt sie allerdings davor Bereiche mit fortgeschrittener Alchemie zu betreten, da hier mit unbedarftem und aus versehenem Handeln schnell das halbe Gebäude in die Luft fliegt. Die Builder Rolle dient damit als nächster Schritt des Lehrlings, sobald dieser sich bewiesen hat und die technische Seite von alchemistischen Experimenten gemeistert hat.
 
 Die vierte Gruppe stellt die "regulären" Community Mitglieder und zertifizierten Alchemisten dar, die hauptsächlich aus $MIST und / oder Crucible Besitzern besteht. Die Community spielt eine wichtige Rolle für uns - Kooperation, ein weitverbreitetes Stimmungsbild und wertvolles Feedback zu bestehenden Produkten und Services, sowie Futter für weitere Experimente. Wir schätzen jeden, der seinen Weg zu uns gefunden hat und möchten jeden einzelnen sich so weit es nur geht in unserer Community wohlfühlen lassen.
 
@@ -42,71 +42,71 @@ Die vierte Gruppe stellt die "regulären" Community Mitglieder und zertifizierte
 
 ### Discord
 
-#### **General**
+#### **Allgemein**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+Discord ist eine VoIP-, Sofortnachricht-- und digitale Vertriebsplattform, die zum Erstellen von Communities entwickelt wurde. Benutzer kommunizieren mit Sprachanrufen, Videoanrufen, Textnachrichten, Medien und Dateien in privaten Chats oder als Teil von Communitys, die als "Server" bezeichnet werden. Server sind eine Sammlung von dauerhaften Chatrooms und Voice-Chat-Kanälen. Discord läuft unter Windows, MacOS, Android, iOS, iPadOS, Linux und in Webbrowsern. Ab Dezember 2020 hat Discord monatlich über 140 Millionen aktive Benutzer.
 
-#### **How we use it**
+#### **Wie wir es verwenden**
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+Discord ist unser bevorzugtes Kommunikationsinstrument, da es eine schnelle, unkomplizierte und nachhaltige Lösung für Gespräche bietet - sei es schriftlich oder akustisch. Wir unterscheiden in 2 Kategorien - Community & Builder. Während der Community Bereich für jeden Alchemisten offen ist, hat der Builder fernab von Ablenkung seinen eigenen isolierten Bereich. Der Builder-Bereich ist in verschiedene Projekte oder Themen unterteilt, steht jedoch grundsätzlich jedem Builder offen und soll zur Anteilnahme anregen.
 
 **Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
 
 ### Basecamp
 
-#### **General**
+#### **Allgemein**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+Basecamp ist eine Projektmanagement-Applikation, auf die du in deinem Browser und auf deinem Telefon zugreifen kannst. Du erhältst die Tools, die du zum Einrichten von Aufgaben, zum Planen, Erstellen und Hochladen von Dokumenten und Dateien, zum Versenden von Nachrichten und zum Chatten mit deinen Kollegen sowie zum regelmäßigen Einchecken in deine Gruppe benötigst - alles an einem Ort!
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+Egal, ob du alleine arbeitst oder dich mit deiner Arbeit organisieren musst oder damit an einem Projekt, mit der Arbeit oder etwas Persönlichem zusammenarbeiten möchtest, Basecamp macht es dir einfach. Es ist schnell einzurichten und wenn du es konsequent verwendst, sollte es die Kommunikation mit deinem Team erheblich erleichtern. Besonders für Teams, wie uns, die virtuell sind.
 
-#### **How we use it**
+#### **Wie wir es verwenden**
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+Basecamp ist der Ort, an dem wir alle Projekte sammeln, entwickeln und kartieren. Eine genauere Zuordnung von Aufgaben und Verantwortlichkeiten sowie Abschriften von Anrufen und Besprechungen werden ebenfalls abgebildet. Es wird in erster Linie verwendet, um einen Überblick zu geben, wenn du und insbesondere die beteiligten Multisig-Unterzeichner, Senior-Alchemisten und Builder ein Projekt als Ganzes betrachten und bewerten möchten.
 
 ### Github
 
-#### **General**
+#### **Allgemein**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+GitHub ist eine webbasierte Plattform für Versionskontrolle und Zusammenarbeit für Softwareentwickler. GitHub erleichtert die gemeinsame Codierung, indem es eine Weboberfläche für das Git-Code-Repository und die Verwaltungstools für die Zusammenarbeit bereitstellt. GitHub kann als seriöse Social-Networking-Seite für Softwareentwickler angesehen werden. Mitglieder können einander folgen, ihre Arbeit bewerten, Updates für bestimmte Projekte erhalten und öffentlich oder privat kommunizieren.
 
-#### **How we use it**
+#### **Wie wir es verwenden**
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub ist das digitale Zuhause unserer Entwickler. Wie bereits in der Beschreibung erwähnt, ist es die perfekte Plattform für die Zusammenarbeit bei Bereitstellung und Entwicklung, insbesondere für uns als dezentrale autonome Organisation. Es repräsentiert, aufgeteilt in verschiedene Repository, den Kern unserer Produkte.
 
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
 
-#### **General**
+#### **Allgemein**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+Linear hilft bei der Optimierung von Softwareprojekten, Sprints, Aufgaben und der Fehlerverfolgung. Es ist für Hochleistungsteams konzipiert. Es ist direkt mit GitHub verbunden.
 
-#### **How we use it**
+#### **Wie wir es verwenden**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+Linear wird von uns hauptsächlich verwendet, um entwicklerrelevante Fälle, Probleme und / oder Hürden zu dokumentieren, die während der Architektur und Verarbeitung einzelner Aufgaben \(zuvor im Basecamp definiert\) auftreten, und um letztendlich Lösungen und / oder Workarounds bereitzustellen. Somit stellt Linear das Werkzeug dar, das einzelne Aufgaben für technische Themen transparent und detailliert aufschlüsselt. Hier werden unsere Aufgaben auf GitHub verfolgt.
 
 ### Figma
 
-#### **General**
+#### **Allgemein**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+Figma ist ein Cloud-basiertes Designtool, das in Funktionalität und Features Sketch ähnelt, jedoch große Unterschiede aufweist, die Figma gerade in Bezug auf das Thema Teamzusammenarbeit deutlich erleichtert. Für diejenigen, die solchen Behauptungen skeptisch gegenüberstehen, werden wir erklären, wie Figma den Entwurfsprozess vereinfacht und effektiver als andere Programme Designer und Teams bei der effizienten Zusammenarbeit unterstützt.
 
-#### **How we use it**
+#### **Wie wir es verwenden**
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+Figma wird hauptsächlich von uns verwendet, um kreative Inhalte zu teilen und gemeinsam daran zu arbeiten. Dies können beispielsweise UI-relevante Entwürfe sein, aber auch Erstentwürfe von Community-Projekten jeglicher Art - ein Beispiel hierfür wäre der One-Pager. Insbesondere bei Designentscheidungen, da diese häufig vom persönlichen Geschmack beeinflusst werden, sollten sie unserer Meinung nach erst geteilt werden, bevor sie veröffentlicht werden.
 
 **Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
-#### **General**
+#### **Allgemein**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape ist eine Plattform für DAOs, um Ressourcen einfach und fair an Mitwirkende zu verteilen. Community Zuschüsse, interne Gehälter und spezielle Projekte können von der Community selbst gefördert und belohnt werden. Anstelle von umständlichen Abstimmungen oder Black-Box-Ausschüssen können die Mitwirkenden selbst schnell und transparent den Wert belohnen, den sie für angemessen halten.
 
-#### **How we use it**
+#### **Wie wir es verwenden**
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+Alchemisten, die Auszahlungen von der Multisig erhalten haben, werden in Circles gesetzt und haben die Möglichkeit, ihre Mitwirkenden zu belohnen.
 
 ## Meeting Calender
 
