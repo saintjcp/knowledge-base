@@ -55,23 +55,23 @@ Fondul de recompensa poate fi vazut [aici.](https://etherscan.io/address/0x04108
 
 Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de pe butonul "Claim Rewards and Unsubscribe LP". Trebuie sa stii ca solicitarea recompenselor reseteaza factorul de multiplicare a recompenselor. Va trebui sa folosesti reteaua Taichi cand retragi recompensele pentru a preveni robotii sa intre in fata recompenselor voastre. Vezi acest ghid [ghid](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
 
-## **Does it matter how many LP tokens go into the Crucible?**
+## Contează câti tokeni LP intră în **Crucible?**
 
-The more LP tokens you get the higher amount of liquidity you provided therefore a larger percentage of the rewards pool you will receive. There is no minimum LP required, but we do suggest you be mindful of the ethereum gas cost when considering this.
+Cantitatea de tokeni LP obtinuta este mai mare cu cat cantitatea de lichiditate oferita este mai mare, prin urmare, vei primi un procent mai mare din fondul de recompense. Nu exista o cerinta minima de token LP, dar noi sugeram sa luati in calcul costurile de tranzactii ethereum cand ganditi ce cantitate de LP sa folositi.
 
-### **Is it more advantageous to have more Crucibles or a higher Subscription in one Crucible?**
+### **Este mai avantajos sa am mai multe NFT-uri Crucible sau sa aloc o mai mare cantitate de LP intr-un singur NFT Crucible?**
 
-It’s almost always better to accumulate LP in a single Crucible as it minimizes the gas costs.
+Pentru a minimaliza costurile cu tranzactiile in ethereum este mai bine sa acumulezi mai mult LP intr-un singur NFT Crucible.
 
-The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with some active Subscription on it.
+Unica varianta recomandata de noi pentru a creea mai multe NFT-uri Crucible este doar daca doriti sa transferati sau sa vindeti unul din NFT-urile Crucible cu valoarea LP subscrisa lui.
 
-## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
+## **Cum Solicitarea Recompenselor prin "Claim Rewards and Unsubscribe LP" impacteaza factorul de multiplicare a recompenselor?**
 
-Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
+De fiecare data cand puneti tokenii LP in programul de recompense Aludel, programul ține evidența timpului în care aceste jetoane sunt alocate. Aludel aplică un multiplicator de recompensă care începe de la 1x și crește la 10x în 60 de zile. Când solicitati o sumă parțială, Aludel solicită mai întâi Abonamentul cu cel mai mic multiplicator \(Ultimul Intrat, Primul Iesit\).
 
-## **Can I somehow see how much rewards I have acquired in the meantime?**
+## **Pot in vre-un fel sa vad cata recompensa am acumulat intre timp?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+Poti vedea recompensele acumulate pentru NFT-urile tale Crucible folosind interfata pentru useri atat de pe [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) cat si de pe [alchemist.farm](https://alchemist.farm/) iar recompensele acumulate din Uniswap corespondente tokenilor LP detinuti le poti verifica folosind [apy.vision](https://apy.vision/) sau [croco.finance](https://croco.finance/)
 
 ## **Can I add more LP to an existing Crucible?**
 
