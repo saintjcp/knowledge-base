@@ -1,12 +1,12 @@
 # Cum pot creea un NFT Crucible?
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## Schimband si Alocand $MIST ⚗️ ca sa creezi un NFT Crucible
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+În primul rând, trebuie să aveți $MIST și să îl alocati fondului de lichiditate Uniswap-V2 
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+Dacă nu ați făcut deja acest lucru, este nevoie să consultați ghidul nostru în două părți privind achiziționarea $MIST și alocarea lui pentru fondul de lichiditate urmand ghidul: [Obtine & Ofera Lichiditate.](../../acquiring-and-subscribing.md)
 
-## Minting a Crucible using LP tokens
+## Creeaza un NFT Crucible folosind tokeni LP
 
 {% hint style="warning" %}
 **Important information:** 
