@@ -26,7 +26,7 @@ Die Beobachtung bestehender Dienste und Methoden sollte nach Möglichkeit im Ein
 
 ### 3. Entwickle iterativ mit Feedback
 
-Widerstehe der Versuchung alles auf einmal zu machen. Teile es! Kleine Schritte oder Meilensteine ​​\(Iterationen\) können zeitnah ausgeführt werden. Jedes Ziel wird leichter zu erreichen sein, es ist motivierend statt frustrierend. Der Fokus auf jede Anstrengung wird schärfer sein. Reflektiere alle Änderungen der Umstände und konzentriere dich auf den Wert, um jede Iteration sowie die gesamte Initiative neu zu bewerten und möglicherweise zu überarbeiten. Ehrliches Feedback ist dein Werkzeug, um deine getroffenen Maßnahmen zu überprüfen - analysiere deine Verbesserungsmöglichkeiten, -risiken und -probleme. Geben Sie Feedback einen Wert, um daraus zu Lernen, zu Bauen und zu Verbessern.
+Widerstehe der Versuchung alles auf einmal zu machen. Teile es! Kleine Schritte oder Meilensteine ​​\(Iterationen\) können zeitnah ausgeführt werden. Jedes Ziel wird leichter zu erreichen sein, es ist motivierend statt frustrierend. Der Fokus auf jede Anstrengung wird schärfer sein. Reflektiere alle Änderungen der Umstände und konzentriere dich auf den Wert, um jede Iteration sowie die gesamte Initiative neu zu bewerten und möglicherweise zu überarbeiten. Ehrliches Feedback ist dein Werkzeug, um deine getroffenen Maßnahmen zu überprüfen - analysiere deine Verbesserungsmöglichkeiten, -risiken und -probleme. Gebe Feedback einen Wert, um daraus zu Lernen, zu Bauen und zu Verbessern.
 
 * Kleine Schritte oder Meilensteine setzen, dabei aber das Ganze verstehen.
 * Feedback ist essentiell – Umstände ändern sich schnell.
@@ -34,13 +34,13 @@ Widerstehe der Versuchung alles auf einmal zu machen. Teile es! Kleine Schritte 
 
 ### 4. Arbeite zusammen und fördere die Transparenz
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+Durch die Einbeziehung der richtigen Personen in den richtigen Rollen profitieren die Bemühungen von größerer Relevanz \(Beurteilung für die Entscheidungsfindung hat mehr Wert\) und führen zu einem gesteigerten langfristigen Erfolg. Inklusion ist im Allgemeinen eine bessere Politik als Ausgrenzung, da engagierte Beiträge, kreative Lösungen und wichtige Perspektiven aus unerwarteten Quellen erhalten werden können. Voraussetzungen für den Erfolg sind Information, Verständnis und Vertrauen.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+Identifizieren und verwalte alle beteiligten Stakeholder oder Gruppen. Die offensichtlichste Stakeholder-Gruppe sind die Kunden, da das Hauptziel der Organisation in ITIL darin besteht, die Kundenergebnisse zu verbessern. Weitere Beispiele für die Zusammenarbeit von Stakeholdern sind: Entwickler \(Zusammenarbeit mit anderen internen Teams - wie z. B. Forschung\) oder interne und externe Lieferanten.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+Der Beitrag zur Verbesserung jeder Interessengruppe auf jeder Ebene sollte verstanden werden, ebenso wie die effektivsten Methoden, um mit dir in Kontakt zu treten. Erwarte je nach Beziehung zwischen Organisation und Nutzer Unterschiede in Bezug auf Umfang und Art der Zusammenarbeit. Gehe auf die Bedürfnisse der beteiligten Stakeholder ein! Bestimmen Sie die Art, die Methode und die Häufigkeit solcher Kommunikation! Eine organisierte Aktivität zum Thema Kommunikation wird dringend empfohlen.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+Stakeholder brauchen eine klare Vorstellung von Fortschritt und Arbeitsbelastung! Erwecke niemals den Eindruck, dass nichts passiert! Eine unzureichende Sichtbarkeit führt zu einer schlechten Entscheidungsfindung und beeinträchtigt die Fähigkeit, die internen Aktivitäten zu verbessern. Um dies zu vermeiden, benötigst du eine kritische \(und aufrichtige!\) Analyse des Workflows, der Engpässe und der Überkapazitäten.
 
 * Zusammenarbeit =/= Konsens
 * Schreie es laut heraus – Häufige Kommunikation ist der richtige Weg.
