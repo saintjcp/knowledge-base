@@ -1,4 +1,4 @@
-# Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la r
+# Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la red Taichi
 
 {% hint style="info" %}
 Antecedentes: La razón por la que necesitarás hacer esto es para proteger al usuario de ser adelantado por los bots cuando se desabona.

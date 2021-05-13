@@ -1,33 +1,33 @@
 # How to Become a "Certified Alchemist" on Discord 💬
 
-If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
+Si tienes un Crucible, puedes convertirte en Alquimista Certificado en nuestro canale [Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
 
-If your Crucible was minted using the online site, please jump to [**Part 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
+Si tu Crucible se creo utilizando la pagina web en línea, pase a [**Parte 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
 
-If your Crucible was minted using [command line](https://github.com/alchemistcoin/alchemist), you need to log into a new MetaMask account using the mnemonics from your command line wallet. This is shown in [**Part 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)\*\*\*\*
+Si tu Crucible fue creado usando la [línea de comandos](https://github.com/alchemistcoin/alchemist), tienes que conectarte con un nuevo wallet de MetaMask usando los mnemónicos de tu wallet de la línea de comandos. Esto se muestra en la [Parte 1](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_aTwaVOksvpE2u3Iv7/v/spanish/crucible/how-to-become-a-certified-alchemist-on-discord#part-1).
 
-## **Part 1**
+## **Parte 1**
 
-1. In your new MetaMask wallet, import your seed phrase \(mnemonics\) obtained when creating your wallet using command line
+1. En tu nuevo wallet MetaMask, importe tu mnemónicos \(seed phrase\) obtenida al crear tu wallet utilizando la línea de comandos
 
 ![](https://i.imgur.com/4RxfjZs.png)
 
-## **Part 2**
+## **Parte 2**
 
-After you have gained access to the wallet containing your Crucible, you can become a certified alchemist following these steps:
+Una vez que hayas accedido al wallet que contiene tu Crucible, puedes convertirte en alquimista certificado siguiendo estos pasos:
 
-1. On the [_\#welcome_](http://discord.alchemist.wtf) channel write the command **!join**
-2. You will receive a private message from Collab.Land
+1. En el canale [_\#welcome_](http://discord.alchemist.wtf) escribe la comanda **!join**
+2. Recibirá un mensaje privado de Collab.Land
 
-   If you do not receive a message please [check your privacy settings](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-) to make sure you can receive messages from others  
+   Si no recibes un mensaje, [comprueba tu configuración de privacidad](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-) para asegurarte de que puedes recibir mensajes de otras personas.   
    ![](https://i.imgur.com/2UvO1ZL.png)
 
-3. Press the ‘Click Here’ link sent to you by Collab.Land and follow the link
-4. Select the wallet your Crucible is in ![](https://i.imgur.com/y4bXisJ.png)
-5. Sign a message ![](https://i.imgur.com/nF29cFo.png)
-6. You will see the following message and can now return to Discord ![](https://i.imgur.com/WVIelT9.png)
-7. Collab.Land will send you the following message and if you really own a Crucible the bot will update your role ![](https://i.imgur.com/1UMmipM.png)
-8. The font color of your name should now be the color red on the Discord chat screen
-9. If you left click on your Discord name you should see the role certified alchemist circled in red ![](https://i.imgur.com/KTO91Q1.png)
-10. Congratulations, your now a Certified Alchemist! 🧙‍♂️⚗
+3. Pulse el enlace "Click Here" que te ha enviado Collab.Land y sigues el enlace
+4. Seleccione el wallet donde se encuentra tu Crucible ![](https://i.imgur.com/y4bXisJ.png)
+5. Firma el mensaje ![](https://i.imgur.com/nF29cFo.png)
+6. Verás el siguiente mensaje y podrás volver a Discord ![](https://i.imgur.com/WVIelT9.png)
+7. Collab.Land te enviará el siguiente mensaje y si realmente posees un Crucible el bot actualizará tu rol ![](https://i.imgur.com/1UMmipM.png)
+8. El color de la fuente de tu nombre debe ser ahora rojo en la pantalla de chat de Discord
+9. Si haces clic con el botón izquierdo del ratón en tu nombre de Discord deberías ver el rol de "certified alchemist" rodeado de rojo ![](https://i.imgur.com/KTO91Q1.png)
+10. Enhorabuena, ya eres un alquimista certificado. 🧙‍♂️⚗
 

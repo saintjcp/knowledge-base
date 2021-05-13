@@ -1,9 +1,9 @@
 # Wallet Compatibility
 
-Based on limited testing and feedback from users, we have come up with the following compatibility chart.
+Basándonos en pruebas limitadas y en los comentarios de los usuarios, hemos elaborado la siguiente tabla de compatibilidad.
 
 {% hint style="info" %}
-The accuracy of this information may change over time and is only to be used as a guide.
+La exactitud de esta información puede cambiar con el tiempo y sólo debe utilizarse como guía.
 {% endhint %}
 
 <table>
