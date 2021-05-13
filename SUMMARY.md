@@ -27,6 +27,7 @@
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [FAQ 📖](crucible/faq.md)
+* [FAQ 📖 \(new\)](crucible/faq-new.md)
 
 ## Join us
 
