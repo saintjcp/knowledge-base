@@ -59,7 +59,7 @@ Toate recompensele asociate contului tau vor fi incasate atunci cand soliciti de
 
 Cantitatea de tokeni LP obtinuta este mai mare cu cat cantitatea de lichiditate oferita este mai mare, prin urmare, vei primi un procent mai mare din fondul de recompense. Nu exista o cerinta minima de token LP, dar noi sugeram sa luati in calcul costurile de tranzactii ethereum cand ganditi ce cantitate de LP sa folositi.
 
-### **Este mai avantajos sa am mai multe NFT-uri Crucible sau sa aloc o mai mare cantitate de LP intr-un singur NFT Crucible?**
+### **Este mai avantajos sa am mai multe NFT-uri Crucible sau sa aloc o mai mare cantitate de LP unui singur NFT Crucible?**
 
 Pentru a minimaliza costurile cu tranzactiile in ethereum este mai bine sa acumulezi mai mult LP intr-un singur NFT Crucible.
 
@@ -91,5 +91,5 @@ Da, proprietatea asupra NFT-ului Crucible \(și a tokenilor LP alocati\) poate f
 
 ## **Daca eu transfer NFT-ul Crucible de pe un wallet pe alt wallet se va reseta multiplicatorul de recompensa?**
 
-Nu se reseteaza, atata timp cat recompnesele nu au fost retrase din Aludel.
+Nu se reseteaza, atata timp cat recompensele nu au fost retrase din Aludel.
 
