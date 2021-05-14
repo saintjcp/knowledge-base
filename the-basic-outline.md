@@ -1,34 +1,34 @@
-# The basic outline
+# L' essentiel
 
-There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
+Il y a un token nommé Alchemist. Il a pour symbole de ticker "⚗️". On l'appelle également "mist" et "$MIST".  Ne confondez pas avec [MUST](https://www.coingecko.com/en/coins/must) - malgré l'alambique qu'il affiche actuellement, il n'a pas de lien avec Alchemist.
 
-What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](faq.md)
+A quoi sert ⚗️ ? Je ne suis pas là pour y répondre. Référez vous au [FAQ officiel](faq.md).
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+Vous pouvez staker  ⚗️ comme avec d'autres coins, et vous pouvez l'utiliser pour [minter des NFT Crucible](crucible/teach-me-about-crucibles.md) dans le programme [Aludel](the-basic-outline.md#3-aludel).
 
-## How could I increase my wealth using ⚗️?
+## Comment puis-je augmenter ma richesse en utilisant ⚗️?
 
-### 1. Speculation
+### 1. La spéculation
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+La première façon est de spéculer sur sa valeur. En d'autres mots : vous en achetez en espérant que son prix monte puis vous le vendez. Avertissement : il n'y a aucune garantie que le prix monte.
 
-### 2. Staking
+### 2. Le staking
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Le Crucible supporte uniquement la pool de liquidité **Uniswap V2**. L'ajout de liquidité à la pool **Uniswap V3** n'est pas compatible avec le programme de récompenses \(Rewards Program\).
 {% endhint %}
 
-The second way is to stake it in a liquidity pool alongside an equal value portion of Ether \(ETH\). When you do so you receive Liquidity Pool tokens \(LP\) that represent your stake in that pool. Ultimately these LP tokens are used to withdraw your original ⚗️ and ETH from the pool when you decide you are finished with it.
+La seconde façon est de le staker dans une pool de liquidité avec une portion égale en valeur d'Ether \(ETH\). Quand vous faites cela, vous recevez des tokens de Liquidity Pool \(LP\) qui représentent votre part dans la pool. A terme, ces LP tokens sont utilisés pour retirer vos ⚗️ et vos ETH initiaux de la pool quand vous décidez de mettre un terme à cela.
 
-The liquidity pool is used to facilitate trades between ⚗️ and ETH that other people wish to make. Every trade made incurs a small fee for the person making the trade. Whilst you hold LP tokens, you receive a portion of those fees, proportional to the LP you hold relative to the total LP. \(For example, if your LP makes up 1% of the total LP then you receive 1% of the pool fees\)
+La pool de liquidité est utilisée pour faciliter les échanges que d'autres personnes souhaitent faire entre ⚗️ et ETH. Chaque échange réalisé génère un peu de frais pour la personne réalisant l'échange. Lorsque vous détenez des tokens LP, vous recevez une portion de ces frais, proportionnelle aux LP que vous détenez par rapport au total de LP. \(Par exemple, si vos LP représentent 1% du total de LP alors vous recevez 1% des frais de la pool\).
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+Ce mécanisme de profit des frais d'une pool de liquidité n'est en aucunement différent d'un staking de tout autre coin dans toute autre pool de liquidité. En tant que tel, il est susceptible aux "pertes impermanentes" \(impermanent loss\) qui en tant que staker vous font perdre de l'argent lorsque vous retirez vos coins stakés après qu'ils aient perdus en valeur relative depuis le moment où vous les avez souscrits. Si vous n'êtes pas familier avec ce concept, je vous recommande d'approfondir vos recherches pour comprendre - il existe plein de ressources qui l'expliqueront bien mieux que moi.
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
 ### 3. Aludel
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+C'est ici que l'alchimie opère. "Aludel" est le nom du programme de récompense qui vous fait gagner des ⚗️ et des ETH lorsque vous y souscrivez avec les LP tokens contenus dans un Crucible.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+Vous pouvez en apprendre plus à propos des Crucibles à la page "[Enseignez moi les Crucibles](crucible/teach-me-about-crucibles.md)"
 

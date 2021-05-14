@@ -1,20 +1,20 @@
 # Table of contents
 
-* [Qu'est-ce que l'Alchemist?](README.md)
+* [Qu'est-ce qu'Alchemist ?](README.md)
 * [Liens communautaires officiels 🔗](official-community-links.md)
 
-## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
+## Le Token Alchemist ⚗️ $MIST <a id="alchemist-token"></a>
 
 ---
 
-* [The basic outline](the-basic-outline.md)
-* [Acquiring & Subscribing](acquiring-and-subscribing.md)
+* [L' essentiel](the-basic-outline.md)
+* [Acquisition & Souscription](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 
 ## Crucible
 
-* [Getting Started](crucible/getting-started.md)
-* [Teach me about Crucibles](crucible/teach-me-about-crucibles.md)
+* [Bien débuter](crucible/getting-started.md)
+* [Enseignez moi les Crucibles](crucible/teach-me-about-crucibles.md)
 * [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)

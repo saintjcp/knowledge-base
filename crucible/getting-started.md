@@ -1,25 +1,25 @@
-# Getting Started
+# Bien débuter
 
-There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
+Il y a quelques précautions à prendre avant de prendre part au programme Crucible, veuillez lire les notices et les avertissements avant de poursuivre.
 
 {% hint style="danger" %}
-**Important Notice**  
-Crucibles can only be minted from **Uniswap V2** LP Tokens.  
-Please make sure you are adding tokens to the V2 pool and not V3.
+**Avis Important**  
+Les Crucibles ne peuvent être mintés que depuis les LP Tokens **Uniswap V2**.  
+Assurez vous d'ajouter des tokens à la pool V2 et non V3.
 {% endhint %}
 
 {% hint style="warning" %}
-* **Do not** use ![](../.gitbook/assets/brave.png) Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
-* We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing.
-* Some users have reported issues with Trust Wallet. Please express caution when using it.
-* We do not recommend you do any of these processes on a mobile device.
+* **N'utilisez pas** le navigateur Brave![](../.gitbook/assets/brave.png)car il n'est pas compatible avec le process actuel. Votre transaction échouera et entrainera la perte de vos frais de transaction.
+* A ce stade, nous ne recommandons pas l'utilisation d'un wallet hardware car actuellement beaucoup ne supportent pas la signature EIP-712.
+* Certains utilisateurs ont signalé des problèmes avec Trust Wallet. Veuillez faire preuve de prudence lors de son utilisation.
+* Nous vous déconseillons d’effectuer l'un de ces process sur un appareil mobile.
 {% endhint %}
 
 {% hint style="info" %}
-The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
+Le système de récompense Aludel est toujours en cours d'expérimentation, gardez à l'esprit les précautions suivantes avant de prendre part au programme.
 {% endhint %}
 
-If you've read the above notices, then you're ready to move on to learning [about Crucibles](teach-me-about-crucibles.md).
+Si vous avez lu tous les notices ci-dessus, alors vous êtes prêt à passer à l' [apprentissage des Crucibles](teach-me-about-crucibles.md).
 
 {% page-ref page="teach-me-about-crucibles.md" %}
 

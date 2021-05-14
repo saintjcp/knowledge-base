@@ -1,18 +1,18 @@
 # Liens communautaires officiels 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Si vous choisissez d'utiliser des liens issus de sources externes, assurez vous qu'ils correspondent à nos liens officiels. **Si le lien n'est pas présent dans cette liste, ce n'est pas le notre.**
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Utilisez seulement notre liste de liens officiels lorsque vous interagissez avec Alchemist.
 
 ### Sites
 
 | Site | Description |
 | :--- | :--- |
-| [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
-| [alchemist.farm](https://alchemist.farm) | Crucible Website |
+| [alchemist.wtf](http://alchemist.wtf) | RGitHub |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Website Crucible le plus récent |
+| [alchemist.farm](https://alchemist.farm) | Website Crucible |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 
 ### Community
