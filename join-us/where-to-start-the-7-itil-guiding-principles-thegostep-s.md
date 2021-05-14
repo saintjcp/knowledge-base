@@ -15,13 +15,13 @@ Alles, was die Organisation tut, sollte direkt oder indirekt mit dem Mehrwert f�
 
 ### 2. Beginne dort, wo du bist
 
-Wenn du nach einer Verbesserungsmöglichkeit suchst, starte nicht von vorne ohne bereits Verfügbares in Betracht zu ziehen. Du sollest keine Zeit damit verschwenden dein Fundament der bereits geleisteten Arbeit zu zerstören - sei dir bewusst, was bereits investiert wurde \(Kosten, Schweiß und Zeit\).
+Wenn du nach einer Verbesserungsmöglichkeit suchst, starte nicht von vorne ohne bereits Verfügbares in Betracht zu ziehen. Du sollest keine Zeit damit verschwenden dein Fundament aus bereits geleisteter Arbeit zu zerstören - sei dir bewusst, was bereits investiert wurde \(Kosten, Zeit und Schweiß\).
 
 Die Beobachtung bestehender Dienste und Methoden sollte nach Möglichkeit im Einklang mit der Messung stehen, um ihren aktuellen Status und die von ihnen wieder verwendbaren Daten richtig zu verstehen. Informationen sollten immer so genau wie möglich sein, um objektive Entscheidungen treffen zu können. Sehe die Messung immer als Unterstützung für die Analyse. Sei dir bewusst - Messungen werden verwendet, um die Analyse des Beobachters zu unterstützen, anstatt diese zu ersetzen, da eine übermäßige Abhängigkeit von Datenanalyse und Berichterstellung unbeabsichtigt zu Verzerrungen und Risiken bei der Entscheidungsfindung führen kann.
 
 * Der Startpunkt ist entweder der Kunde oder das Ergebnis. Beurteile deine bestehenden Methoden so objektiv wie möglich!
 * Hast du bereits erfolgreiche existierende Anwendungsbeispiele? Benutze sie! Versuche zu evaluieren, ob und wie diese erweitert und repliziert werden können, um eine erhoffte Verbesserung zu erreichen.
-* Evaluiere unter Beachtung des Risikomanagements.
+* Evaluiere unter Beachtung deines Risikomanagements.
 * Siehe es ein! Manchmal ist fast nichts oder sogar gar nichts erneut brauchbar.
 
 ### 3. Entwickle iterativ mit Feedback
@@ -40,7 +40,7 @@ Identifizieren und verwalte alle beteiligten Stakeholder oder Gruppen. Die offen
 
 Der Beitrag zur Verbesserung jeder Interessengruppe auf jeder Ebene sollte verstanden werden, ebenso wie die effektivsten Methoden, um mit dir in Kontakt zu treten. Erwarte je nach Beziehung zwischen Organisation und Nutzer Unterschiede in Bezug auf Umfang und Art der Zusammenarbeit. Gehe auf die Bedürfnisse der beteiligten Stakeholder ein! Bestimmen Sie die Art, die Methode und die Häufigkeit solcher Kommunikation! Eine organisierte Aktivität zum Thema Kommunikation wird dringend empfohlen.
 
-Stakeholder brauchen eine klare Vorstellung von Fortschritt und Arbeitsbelastung! Erwecke niemals den Eindruck, dass nichts passiert! Eine unzureichende Sichtbarkeit führt zu einer schlechten Entscheidungsfindung und beeinträchtigt die Fähigkeit, die internen Aktivitäten zu verbessern. Um dies zu vermeiden, benötigst du eine kritische \(und aufrichtige!\) Analyse des Workflows, der Engpässe und der Überkapazitäten.
+Stakeholder brauchen eine klare Vorstellung vom Fortschritt und der Arbeitsbelastung! Erwecke niemals den Eindruck, dass nichts passiert! Eine unzureichende Sichtbarkeit führt zu einer schlechten Entscheidungsfindung und beeinträchtigt die Fähigkeit, die internen Aktivitäten zu verbessern. Um dies zu vermeiden, benötigst du eine kritische \(und aufrichtige!\) Analyse des Workflows, der Engpässe und der Überkapazitäten.
 
 * Zusammenarbeit =/= Konsens
 * Schreie es laut heraus – Häufige Kommunikation ist der richtige Weg.
