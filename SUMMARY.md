@@ -1,7 +1,7 @@
 # Table of contents
 
 * [अलकेमिस्ट क्या है?](README.md)
-* [Official Community Links 🔗](official-community-links.md)
+* [आधिकारिक सामुदायिक लिंक्स 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
