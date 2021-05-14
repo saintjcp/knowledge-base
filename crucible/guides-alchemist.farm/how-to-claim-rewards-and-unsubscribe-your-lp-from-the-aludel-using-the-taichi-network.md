@@ -28,5 +28,9 @@ The reason for using the TaiChi network is to protect your transaction from bein
 
 14. Click refresh and you will now see the Crucible with the LP tokens removed
 
+
+
+
+
 \*\*\*\*
 
