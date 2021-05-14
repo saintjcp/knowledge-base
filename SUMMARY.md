@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Wat is Alchemist?](README.md)
-* [Alchemist ⚗️$mist Veelgestelde vragen](alchemist-usdmist-veelgestelde-vragen.md)
 
 ## Crucible
 
