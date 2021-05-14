@@ -22,7 +22,7 @@ Sunt o multime de lucruri care se pot face cu noile Crucbile NFT create, mai jos
 2. Click pe butonul "Increase LP Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
 3. Specifica cat LP token doresti sa adaugi, crescand astfel alocarea cantitatii detinute de tine in Crucible NFT-ul tau, dand click pe "Increase Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
 4. Accepta cele 2 cereri de semnatura solicitate si confirma tranzactia. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
-5. Acum ar trebui ca LP-ul sa fie lansat in blockchain spre alocare propriului tau NFT Crucible, tu putand vedea statusul fiecarei tranzactii prin mesajul care apare imediat dupa lansarea respectivei tranzactii.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+5. Acum ar trebui ca LP-ul sa fie lansat in blockchain spre alocare propriului tau NFT Crucible, tu putand vedea statusul fiecarei tranzactii prin notificarile primite care apar imediat dupa lansarea respectivei tranzactii.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
 6. Dupa finalizarea tranzacțiilor, NFT-ului tau Crucible ii este deja alocat LP-ul nou depus. 
 
 ## Verificarea LP-ului alocat NFT-ului tau Crucible 
@@ -33,17 +33,17 @@ Sunt o multime de lucruri care se pot face cu noile Crucbile NFT create, mai jos
 ## Transferarea NFT-ului tau Crucible spre alt wallet
 
 1. Urmeaza pasii 1 - 5 din [Verificarea recompenselor tale din Aludel](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Localizeaza pagina de administrare a NFT-ului Crucible, potrivit imaginii de mai jos ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
-4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
-6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
+2. Localizeaza pagina de administrare a NFT-ului Crucible, cum vezi mai jos: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Localizeaza pictograma "avion de hartie" din partea dreapta si da click pe ea ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
+4. In campul "Recipient Address" adauga adresa wallet-ului in care vrei sa trimiti acest NFT Crucible \(Obligatoriu Compatibila ERC-721\) si apoi click pe "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
+5. Ti se va solicita să confirmi acest transfer, dar înainte de a da drumul tranzactiei asigura-te că adresa wallet-ului este corecta.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
+6. NFT-ul Crucible va fi acum in drum spre noul wallet, foloseste notificarile ca sa monitorizezi tranzactiile.   ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
-## Locating and Copying your Crucible Address
+## Localizarea si Copierea Adresei NFT-ului tau Crucible
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
+1. Urmeaza pasii 1 - 5 din [Verificarea recompenselor tale din Aludel](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Localizeaza pagina de administrare a NFT-ului Crucible, cum vezi mai jos: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Localizeaza pictograma "copiaza", adica cele 2 patrate suprapuse din stanga pictogramei "avion de hartie", da click pe aceasta pictograma si acum adresa NFT-ului tau Crucible este copiata in Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 
 
