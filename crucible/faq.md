@@ -74,7 +74,7 @@ Die bislang verdienten Belohnungen sind über die Benutzeroberfläche auf entwed
 
 ## **Kann ich mehr LP Token zu meinem bereits erstellten Crucible hinzufügen?**
 
-Ja. Die anfallenden Gaskosten werden für das Hinzufügen von weiteren LP Token deutlich geringer sein, als bei der Erstellung \(Mint\) des Crucibles. Jede Teilnahme ist unabhängig von einander, jeder weitere LP Token wird seinen eigenen Multiplikator erhalten.
+Ja. Die anfallenden Gaskosten werden für das Hinzufügen von weiteren LP Token deutlich geringer sein, als bei der Erstellung \(Minting\) des Crucibles. Jede Teilnahme ist unabhängig von einander, jeder weitere LP Token wird seinen eigenen Multiplikator erhalten.
 
 ## **Wird "Claim Rewards and Unsubscribe LP" \(Belohnungen einfordern und Teilnahme der LP Token beenden\) meine LP & Belohnungen aus meinem Crucible entfernen?**
 
@@ -86,7 +86,7 @@ Nein, es wird lediglich geleert. Du wirst ein leeres Crucible dein Eigen nennen.
 
 ## **Kann ich das Crucible NFT an eine andere Wallet senden?**
 
-Ja, der Besitz des NFT \(und damit auch mit die teilnehmenden / den gestakten LP Token\) kann an jede ERC721 kompatible Wallet gesendet werden. Dies kann über die Funktion "Transfer Crucible" auf [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oder [alchemist.farm](https://alchemist.farm/) durchgeführt werden. 
+Ja, der Besitz des NFT \(und damit auch mit die teilnehmenden LP Token\) kann an jede ERC721 kompatible Wallet gesendet werden. Dies kann über die Funktion "Transfer Crucible" auf [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oder [alchemist.farm](https://alchemist.farm/) durchgeführt werden. 
 
 ## **Wird der Transfer meines Crucibles von einer Wallet zu einer anderen den Belohnungsmultiplikator zurücksetzen?**
 

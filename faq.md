@@ -24,7 +24,7 @@ Die aktuelle Verteilung ist wie folgt:
 
 Ein Belohnungsprogramm wurde entwickelt und würdigt die Teilnehmer, die Liquidität zum ⚗️/ETH Uniswap Pool hinzufügen. Wir taufen es Aludel. \(Stell es dir vor wie einen durch unseren Gildenmeister erschaffenen Staking-smart-contract\)
 
-Eine Community Multisig wurde erstellt, sodass Mittel für Kopfgelder \(Bounties\) zur Verfügung stehen. Wirf doch einmal einen Blick in den [\#builders-applications](https://discord.gg/92hQDCw25u) Channel auf unserem Discord und/oder spende an die [Multisig](https://etherscan.io/address/multisig.alchemistcoin.eth).
+Eine Community Multisig wurde ins Leben gerufen, sodass Mittel für Kopfgelder \(Bounties\) zur Verfügung stehen. Wirf doch einmal einen Blick in den [\#builders-applications](https://discord.gg/92hQDCw25u) Channel auf unserem Discord und/oder spende an die [Multisig](https://etherscan.io/address/multisig.alchemistcoin.eth).
 
 ## Multisig FAQ
 

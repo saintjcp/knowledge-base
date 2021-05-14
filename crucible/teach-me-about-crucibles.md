@@ -23,11 +23,9 @@ Sicher erwähnenswert: Wenn du ein Crucible erstellst, befinden sich deine Mist 
 
 Ursprünglich war die einzige Methode direkt Hand anzulegen und es via offiziellem CLI Tool zu erstellen. Glücklicherweise haben inzwischen Community Mitglieder Web-Apps erstellt, die den Prozess deutlich vereinfachen. Aufgrund des besonders großen Gefahr Fehler zumachen, empfehlen wir nicht mehr den Ansatz via CLI Tool. 
 
-Bitte benutze einen der folgenden Anleitungen, um ein Crucible zu erstellen \(minten\):
+Bitte benutze die folgende Anleitung, um ein Crucible zu erstellen \(minten\):
 
 * [Minting eines Crucibles auf crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
-
-
 
 ## Was ist ein Crucible wert?
 
@@ -37,7 +35,7 @@ Abseits von Spekulation, gibt es mit dem unterliegenden LP Token einen klar mess
 
 Damit kann man sehr gut den minimalen Wert bestimmen, wenn man die unterliegen LP Token wieder zurück gibt und schlussendlich wieder zurück zu FIAT Währung handelt.
 
-In [diesem Abschnitt](teach-me-about-crucibles.md#wie-kann-ich-herausfinden-wie-viele-lp-token-sich-in-anderen-crucibles-befinden) erfahren Sie mehr über die Methoden zur Bestimmung der unterliegenden Token des Crucibles.
+In [diesem Abschnitt](teach-me-about-crucibles.md#wie-kann-ich-herausfinden-wie-viele-lp-token-sich-in-anderen-crucibles-befinden) erfährst du mehr über die Methoden zur Bestimmung der unterliegenden Token des Crucibles.
 
 ## Solltest du ein Crucible minten?
 
@@ -81,7 +79,7 @@ Ob sich dies lohnt, musst du selber entscheiden und bewerten.
 
 ## Wie kann ich herausfinden, wie viele LP Token sich in anderen Crucibles befinden?
 
-Du kannst die Crucible Token ID kopieren, diese zu Hexadezimal konvertieren \(wenn sie dezimal ist\) und anschließend die Adresse auf [etherscan.io](https://etherscan.io) suchen.
+Du kannst die Crucible Token ID kopieren, diese zu Hexadezimal konvertieren \(wenn sie in dezimal ist\) und anschließend die Adresse auf [etherscan.io](https://etherscan.io) suchen.
 
 Du wirst so den Inhalt \(unterliegende LP Token\) als auch den Verlauf der Transaktionen im Crucible nachvollziehen können.
 

@@ -1,10 +1,10 @@
 # Offizielle Community Links 🔗
 
 {% hint style="warning" %}
-Wenn du dich dazu entscheidest Links von externen Quellen zu benutzen, vergleiche und überprüfe diese zunächst nach Korrektheit mit den offiziellen Links. **Falls der Link nicht in unserer Liste auftaucht, ist es nicht einer von unseren.**
+Wenn du dich dazu entscheidest Links von externen Quellen zu benutzen, vergleiche und überprüfe diese zunächst nach Korrektheit mit den offiziellen Links. **Falls der Link nicht in unserer Liste auftaucht, ist es keiner von unseren.**
 {% endhint %}
 
-Bitte benutzen nur unsere Liste mit offiziellen Links, wenn du teil der Alchemisten sein willst.
+Bitte benutze nur unsere Liste mit offiziellen Links, wenn du Teil der Alchemisten sein willst.
 
 ### Webseiten
 

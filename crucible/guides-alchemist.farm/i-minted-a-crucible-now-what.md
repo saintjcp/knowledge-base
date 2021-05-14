@@ -4,7 +4,7 @@
 
 Besuche [alchemist.farm](https://alchemist.farm/) und verbinde deine Wallet und klicke auf den "Crucibles" Reiter.
 
-Die  "Total Balance" repräsentiert deinen Wert der Crucible LP Token.
+Die  "Total Balance" repräsentiert die Menge der Crucible LP Token.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 

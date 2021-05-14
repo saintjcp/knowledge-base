@@ -2,11 +2,11 @@
 
 ## Vision
 
-Du meinst, du hast alles was man braucht um ein Alchemist zu werden -  bereit zu sein den Pfad zu wandern auf unbekannten Reisen in unerforschten Territorien - wie die großen Alchemisten unserer Zeit? Der berühmte Psychiater Carl Jung sagte einst: "Man wird nicht erleuchtet, indem man sich Lichtfiguren vorstellt, sondern indem man sich die Dunkelheit bewusst macht."
+Du meinst, du hast alles was man braucht um ein Alchemist zu werden -  du bist bereit den Pfad zu wandern auf unbekannten Reisen in unerforschten Territorien - wie die großen Alchemisten unserer Zeit? Der berühmte Psychiater Carl Jung sagte einst: "Man wird nicht erleuchtet, indem man sich Lichtfiguren vorstellt, sondern indem man sich die Dunkelheit bewusst macht."
 
-In den Alchemisten Laboren konzentrieren sich die Experimente auf die Erforschung hochtechnischer Konzepte, um die Zutaten zu ermitteln, die für die ordnungsgemäße Synthese des Stein der Weisen erforderlich sind - beispielsweise die Entwicklung des "Mint a Crucible NFT"-Erlebnisses oder der mistX Benzin-lose DEX.
+In den Alchemisten Laboren konzentrieren sich die Experimente auf die Erforschung hochtechnischer Konzepte, um die Zutaten zu ermitteln, die für die ordnungsgemäße Synthese des Stein der Weisen erforderlich sind - beispielsweise die Entwicklung des "Mint a Crucible NFT"-Erlebnisses oder der mistX gasloser DEX.
 
-Neben technischen Experimenten hat sich unsere Gilde zu einem dezentralen sicheren Hafen entwickelt, in dem sich müde Gelehrte wohl und sicher fühlen können. Kreative Projekte wie der Bau des Alchemist Radios oder die Suche nach der richtigen Kunstrichtung für das Crucible NFT sind nur einige der endlosen Beispiele für die Ergebnisse der Alchemisten, die in ihrer Freizeit mit einigen Bechern und Trichtern herumspielen.
+Neben technischen Experimenten hat sich unsere Gilde zu einem dezentralen sicheren Hafen entwickelt, in dem sich Gelehrte wohl und sicher fühlen können. Kreative Projekte wie der Bau des Alchemist Radios oder die Suche nach der richtigen Kunstrichtung für das Crucible NFT sind nur einige der endlosen Beispiele für die Ergebnisse der Alchemisten, die in ihrer Freizeit mit einigen Bechern und Trichtern herumspielen.
 
 Im Allgemeinen folgen wir den Leitprinzipien, die den Alchemisten seit der Epoche der Smaragdtafel am Herzen liegen, um in jedem Prozess effektiv einen Mehrwert zu schaffen. Alle aktiven Teilnehmer haben diese Denkweise verinnerlicht, sodass wir im Grunde eine gleichermaßen polarisierte Vision teilen:
 
@@ -22,7 +22,7 @@ Für weitere Details, lese bitte folgenden [Artikel](where-to-start-the-7-itil-g
 
 ## Compliance & Ethik
 
-Wir sind aufgeschlossen und heißen alle willkommen, die sich uns anschließen und aktiv an der Entdeckung des Lebenselixiers teilhaben möchten. Die Alchemisten Gilde hat keine Grenzen oder Vorschriften, die unser Wachstumspotenzial einschränken würden. Es gibt keine Firma, keinen Entwickler oder einen dunklen Marionettenspieler hinter den Kulissen, der die Fäden zieht. Unsere Community wächst von Tag zu Tag und führt das Projekt in neue, jetzt noch ungeahnte Bereiche. Als dezentrale Organisation ist es aus unserer Sicht wichtig, sich auf Ethik und gemeinsame Verhaltensregeln zu einigen. Wir haben uns darauf geeinigt, die folgenden Regeln zu befolgen:
+Wir sind aufgeschlossen und heißen alle willkommen, die sich uns anschließen und aktiv an der Entdeckung des Lebenselixiers mitwirken möchten. Die Alchemisten Gilde hat keine Grenzen oder Vorschriften, die unser Wachstumspotenzial einschränken würden. Es gibt keine Firma, keinen Entwickler oder einen dunklen Marionettenspieler hinter den Kulissen, der die Fäden zieht. Unsere Community wächst von Tag zu Tag und führt das Projekt in neue, jetzt noch ungeahnte Bereiche. Als dezentrale Organisation ist es aus unserer Sicht wichtig, sich auf Ethik und gemeinsame Verhaltensregeln zu verständigen. Wir haben uns darauf geeinigt, die folgenden Regeln zu befolgen:
 
 * Seid respektvoll zueinander
 * Kein Rassismus, Sexismus, Hetze oder jegliches Handeln, welches der Community Schaden zufügt.
@@ -30,13 +30,13 @@ Wir sind aufgeschlossen und heißen alle willkommen, die sich uns anschließen u
 
 ## Hierarchie
 
-Unsere Hierarchie ist klar definiert und relativ flach. Unsere Multi-Sig Unterzeichner & Senior-Alchemisten, genauso wie @thegostep als Gründer repräsentieren dabei die Führung & gleichzeitige Überwachung für Alchemist selbst. Zusätzlich zu Zielen, Meilensteinen und Zeitvorgaben, geben sie die grundsätzliche Richtung vor, so dass Alchemist den größtmöglichen Mehrwert bietet und so sich selber eine prächtige Zukunft ebnet.
+Unsere Hierarchie ist klar definiert und relativ flach. Unsere Multi-Sig Unterzeichner & Senior-Alchemisten, genauso wie @thegostep als Gründer repräsentieren dabei die Führung & gleichzeitige Überwachung für Alchemist selbst. Zusätzlich zu Zielen, Meilensteinen und Zeitvorgaben, geben sie die grundsätzliche Richtung vor, so dass Alchemist den größtmöglichen Mehrwert bietet und so sich selber eine blumige Zukunft ebnet.
 
-Als nächstes kommt die Builder Gruppe, gespickt mit Experten von verschiedensten Bereichen. Einerseits sind natürlich Entwickler an Bord, die sich vornehmlich mit Konzepten, Architekturen und Implementationen von diversen Projekten beschäftigen. Die Builder Gruppe besteht allerdings nicht nur aus Entwicklern sondern ebenso Gelehrte aus allen Lebensbereichen - Marketing Experten, Künstler und extrem engagierte Community Mitglieder. Jeder der gerne aktiv teilnehmen möchte, kann ein Teil der Builder Gruppe werden. Unabhängig von den vorhandenen Fähigkeiten, ist ein reger Austausch im Discord oder anderen Tools wie Basecamp sehr gerne gesehen und geschätzt. Die Builder Rolle wird den Nutzer ermöglichen sensible technische Konzepte und Produkte in der Entwicklung in unseren Alchemisten Laboren zu sehen.
+Als nächstes kommt die Builder Gruppe, gespickt mit Experten von verschiedensten Bereichen. Einerseits sind natürlich Entwickler an Bord, die sich vornehmlich mit Konzepten, Architekturen und Implementationen von diversen Projekten beschäftigen. Die Builder Gruppe besteht allerdings nicht nur aus Entwicklern sondern ebenso aus Gelehrten aus allen Lebensbereichen - Marketing Experten, Künstler oder extrem engagierte Community Mitglieder. Jeder, der gerne aktiv teilnehmen möchte, kann ein Teil der Builder Gruppe werden. Unabhängig von den vorhandenen Fähigkeiten, ist ein reger Austausch im Discord oder anderen Tools wie Basecamp sehr gerne gesehen und geschätzt. Die Builder Rolle wird den Nutzer ermöglichen sensible technische Konzepte und Produkte in der Entwicklung in unseren Alchemisten Laboren zu sehen.
 
-Um die Builder-Teams weiterhin fokussiert auf ihre Transmutationen zu belassen, wurde eine weitere Rolle erstellt - der Apprentice \(Lehrling\). Diese Rolle gibt jungen Alchemisten die Möglichkeit in viele Projekte Einblick, beschützt sie allerdings davor Bereiche mit fortgeschrittener Alchemie zu betreten, da hier mit unbedarftem und aus versehenem Handeln schnell das halbe Gebäude in die Luft fliegt. Die Builder Rolle dient damit als nächster Schritt des Lehrlings, sobald dieser sich bewiesen hat und die technische Seite von alchemistischen Experimenten gemeistert hat.
+Um die Builder-Teams weiterhin fokussiert auf ihre Transmutationen zu belassen, wurde eine weitere Rolle erstellt - der Apprentice \(Lehrling\). Diese Rolle gibt jungen Alchemisten die Möglichkeit in viele Projekte Einblick, beschützt sie allerdings davor Bereiche mit fortgeschrittener Alchemie zu betreten, da hier mit unbedarftem und auch aus versehenem Handeln schnell das halbe Gebäude in die Luft fliegt. Die Builder Rolle dient damit als nächster Schritt des Lehrlings, sobald dieser sich bewiesen hat und die technische Seite von alchemistischen Experimenten nachvollziehbar gemeistert hat.
 
-Die vierte Gruppe stellt die "regulären" Community Mitglieder und zertifizierten Alchemisten dar, die hauptsächlich aus $MIST und / oder Crucible Besitzern besteht. Die Community spielt eine wichtige Rolle für uns - Kooperation, ein weitverbreitetes Stimmungsbild und wertvolles Feedback zu bestehenden Produkten und Services, sowie Futter für weitere Experimente. Wir schätzen jeden, der seinen Weg zu uns gefunden hat und möchten jeden einzelnen sich so weit es nur geht in unserer Community wohlfühlen lassen.
+Die vierte Gruppe stellt die "regulären" Community Mitglieder und zertifizierten Alchemisten dar, die hauptsächlich aus $MIST und / oder Crucible Besitzern besteht. Die Community spielt eine wichtige Rolle für uns - Kooperation, das Einfangen eines weitverbreiteten Stimmungsbildes und wertvolles Feedback zu bestehenden Produkten und Diensten, sowie Futter für weitere Experimente. Wir schätzen jeden, der seinen Weg zu uns gefunden hat und möchten jeden einzelnen sich so weit es nur geht in unserer Community wohlfühlen lassen.
 
 ## Tools
 
@@ -72,7 +72,7 @@ GitHub ist eine webbasierte Plattform für Versionskontrolle und Zusammenarbeit 
 
 #### **Wie wir es verwenden**
 
-GitHub ist das digitale Zuhause unserer Entwickler. Wie bereits in der Beschreibung erwähnt, ist es die perfekte Plattform für die Zusammenarbeit bei Bereitstellung und Entwicklung, insbesondere für uns als dezentrale autonome Organisation. Es repräsentiert, aufgeteilt in verschiedene Repository, den Kern unserer Produkte.
+GitHub ist das digitale Zuhause unserer Entwickler. Wie bereits in der Beschreibung erwähnt, ist es die perfekte Plattform für die Zusammenarbeit bei Bereitstellung und Entwicklung, insbesondere für uns als dezentrale autonome Organisation. Es repräsentiert, aufgeteilt in verschiedene Repository, den Kern unserer Produkte und Dienste.
 
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
@@ -90,7 +90,7 @@ Linear wird von uns hauptsächlich verwendet, um entwicklerrelevante Fälle, Pro
 
 #### **Allgemein**
 
-Figma ist ein Cloud-basiertes Designtool, das in Funktionalität und Features Sketch ähnelt, jedoch große Unterschiede aufweist, die Figma gerade in Bezug auf das Thema Teamzusammenarbeit deutlich erleichtert. Für diejenigen, die solchen Behauptungen skeptisch gegenüberstehen, werden wir erklären, wie Figma den Entwurfsprozess vereinfacht und effektiver als andere Programme Designer und Teams bei der effizienten Zusammenarbeit unterstützt.
+Figma ist ein Cloud-basiertes Designtool, das in Funktionalität und Features der Lösung Sketch ähnelt, jedoch große Unterschiede aufweist, die Figma gerade in Bezug auf das Thema Teamzusammenarbeit deutlich erleichtert. Figma vereinfacht den Entwurfsprozess und unterstützt effektiver als andere Programme Designer und Teams bei der Zusammenarbeit.
 
 #### **Wie wir es verwenden**
 
@@ -114,11 +114,11 @@ Du kannst unseren geteilten Kalender [hier](https://calendar.google.com/calendar
 
 ## Gewohnheiten zur Förderung der Transparenz
 
-In einem dezentralen Team ist es manchmal schwierig einen Überblick zu behalten, wer was und wie viel dazu beigetragen hat. Um diesem Fakt entgegenzuwirken, haben wir uns dazu entschieden einige Gewohnheiten zu etablieren, so dass wir Transparenz und Sichtbarkeit fördern, sowohl für direkte Kollegen, als auch für die Builder & Senior-Alchemisten, die nicht direkt in dem entsprechenden Projekt involviert sind.
+In einem dezentralen Team ist es manchmal schwierig einen Überblick zu behalten, wer was und wie viel zum Projekt beigetragen hat. Um diesem Fakt entgegenzuwirken, haben wir uns dazu entschieden einige Gewohnheiten zu etablieren, so dass wir Transparenz und Sichtbarkeit fördern, sowohl für direkte Kollegen, als auch für die Builder & Senior-Alchemisten, die nicht direkt in dem entsprechenden Projekt involviert sind.
 
 ### Builder Stand Up
 
-Um den Prozess für alle transparenter zu gestalten, erstellen wir einen \#Builders-Standup-Kanal, über den wir aktive Projektmitarbeiter ermutigen möchten, regelmäßig Updates über ihren verrichteten Aufwand zu veröffentlichen. Woran hast du zuletzt gearbeitet und welche Fortschritte hast du gemacht? Woran arbeitest du gerade? Auf welche Blocker / Probleme bist du seit deinem letzten Update gestoßen und benötigst du Hilfe bei irgendetwas? 
+Um den Prozess für alle transparenter zu gestalten, erstellten wir einen \#Builders-Standup-Kanal, über den wir aktive Projektmitarbeiter ermutigen möchten, regelmäßig Updates über ihren verrichteten Aufwand zu veröffentlichen. Woran hast du zuletzt gearbeitet und welche Fortschritte hast du gemacht? Woran arbeitest du gerade? Auf welche Blockaden / Probleme bist du seit deinem letzten Update gestoßen und benötigst du Hilfe bei irgendetwas? 
 
 Wir möchten dich auch dazu ermutigen, alle deine WIP-Branches regelmäßig und insbesondere donnerstags über GitHub zu senden, damit Senior Alchemisten eine bessere Vorstellung davon haben, wie die Stipendienverteilung für die Woche berechnet werden kann.
 

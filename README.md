@@ -4,7 +4,7 @@
 
 Alchemist wurde ursprünglich durch einen [Tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) von [@thegostep](https://twitter.com/thegostep) initiiert.
 
-Es gibt kein Entwickler Team. Keine Firma oder Unternehmen. Es gibt nur die Gemeinschaft der Alchemisten, die versuchen herauszufinden was man alles erschaffen kann.
+Es gibt kein Entwickler Team. Keine Firma oder Unternehmen. Es gibt nur die Community der Alchemisten, die versuchen herauszufinden was man alles erschaffen kann.
 
 Es gibt keine Roadmap. Ein Alchemist macht niemals Versprechen für die Zukunft, einfach weil diese unvorhersehbar ist.
 
