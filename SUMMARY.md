@@ -24,7 +24,7 @@
   * [¿Qué puedo hacer con mi nuevo Crucible?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Cómo reclamar las recompensas y desabonar tus token LP del programa Aludel utilizando la red Taichi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Guías visuales 🎞](crucible/guides-alchemist.farm/visual-guides.md)
-* [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
+* [Cómo convertirse en un "Alquimista Certificado" en Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
 * [FAQ 📖](crucible/faq.md)
 * [FAQ 📖 \(new\)](crucible/faq-new.md)

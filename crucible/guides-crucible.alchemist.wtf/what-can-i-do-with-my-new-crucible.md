@@ -2,11 +2,11 @@
 
 Hay una serie de cosas que puedes hacer con tu Crucible recién creado, a continuación están las cosas más comunes que puedes hacer usando crucible.alchemist.wtf
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+* [Comprobar las recompensas](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_ad0DGX1nFbyLsg8G0/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-your-rewards)
+* [Aumentar l](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)[a suscripción de tu LP](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_ad0DGX1nFbyLsg8G0/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#increasing-your-lp-subscription)
+* [Comprobar la cantidad de LP que has suscrito a tu Crucible](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_ad0DGX1nFbyLsg8G0/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-how-much-lp-youve-subscribed-to-your-crucible)
+* [Transferir tu Crucible a otro wallet](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_ad0DGX1nFbyLsg8G0/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#transferring-your-crucible-to-another-wallet)
+* [Localizar y copiar la dirección de un Crucible](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_ad0DGX1nFbyLsg8G0/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#locating-and-copying-your-crucible-address)
 
 ## Comprobar las recompensas
 
@@ -30,7 +30,7 @@ Hay una serie de cosas que puedes hacer con tu Crucible recién creado, a contin
 1. Sigue los pasos 1 - 5 de [Comprobar las recompensas](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-your-rewards)
 2. Debería ver "Subscribed Crucible LP" y "Unsubscribed Crucible LP"
 
-## Transferring your Crucible to another wallet
+## Transferir tu Crucible a otro wallet
 
 1. Sigue los pasos 1 - 5 de [Comprobar las recompensas](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-your-rewards)
 2. Localiza tu resumen de Crucible que está abierto actualmente ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)

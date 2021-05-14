@@ -10,25 +10,25 @@ Debido a la baja liquidez en **Uniswap V3**, el deslizamiento \(o slippage\) adi
 
 1. Dirígete a [Swap $MIST en Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
 2. Conecta tu MetaMask wallet
-3. Debería ver algo así:
+3. Deberías ver algo así:
 
     ![](https://i.imgur.com/5rzgvpf.png)
 
 4. Introduce la cantidad de ⚗️ que deseas comprar, asegurándote de que te queda un valor equivalente de ETH para usar en el programa Aludel.
-5. Click "Swap" y realice las aprobaciones necesarias a través de MetaMask, espere a que se complete la transacción
-   * Mis dos primeros intentos fallaron, porque el precio de la transacción no era estable y las transacciones estaban siendo procesados suficientemente rápido
+5. Click "Swap" y realiza las aprobaciones necesarias a través de MetaMask, espera a que se  te complete la transacción
+   * Mis dos primeros intentos fallaron, porque el precio de la transacción no era estable y las transacciones no estaban siendo procesadas suficientemente rápido
    * MetaMask te deja acelerar una transacción en la pestaña "Actividad" y eligiendo pagar más gas para un procesamiento de mayor prioridad
 6. Navegue hasta [https://etherscan.io/address/](https://etherscan.io/address/) para ver las transacciones pendientes y todos los tokens asociados a tu cuenta.
-   * si utiliza MetaMask puede hacer clic en los puntos triples y luego "View on Etherscan" para acceder la página:
+   * si utilizas MetaMask puedes hacer clic en los puntos triples y luego "View on Etherscan" para acceder la página:
 
      ![](https://i.imgur.com/jdzodQP.png)
-7. Deberías ver tus nuevos ⚗️ mostrado así:
+7. Deberías ver tus nuevos ⚗️ de esa forma:
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
 ### 2. Suscripción de $MIST ⚗️ para recibir LP tokens
 
-¿Ha oferto alguna vez liquidez en Uniswap? Si es así, ya sabes cómo hacerlo.
+¿Has oferto alguna vez liquidez en Uniswap? Si es así, ya sabes cómo hacerlo.
 
 {% hint style="danger" %}
 Crucible sólo es compatible con el fondo de liquidez **Uniswap V2**. Añadir liquidez al pool **Uniswap V3** no es compatible con el Programa de Recompensas
@@ -36,11 +36,11 @@ Crucible sólo es compatible con el fondo de liquidez **Uniswap V2**. Añadir li
 
 1. Dirígete a [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
    * Conecta tu MetaMask wallet si no lo has hecho ya
-2. Debería ver algo así:
+2. Deberías ver algo así:
 
     ![](https://i.imgur.com/7paIEyF.png)
 
-3. Introduzca las cantidades que desea stakear. Ambos lados deben tener el mismo valor, por lo que al cambiar uno cambiará el otro. Lo más probable es que quieras hacer clic en el botón "MAX" del lado ⚗️.
+3. Introduce las cantidades que deseas stakear. Ambos lados deben tener el mismo valor, por lo que al cambiar uno cambiará el otro. Lo más probable es que quieras hacer clic en el botón "MAX" del lado ⚗️.
 4. Pulsa "Stake" o "Supply", realiza las aprobaciones necesarias a través de MetaMask, espera a que se complete la transacción
 5. Deberías ver tus nuevos tokens LP \(llamados UNI-V2\) en Etherscan:
 
