@@ -1,12 +1,11 @@
 # כיצד לתבוע תגמולים ולהסיר את ההרשמה TaiChi -באמצעות רשת ה Aludel -שלך מ LP  ל
 
-**היא שהיא תגן על המשתמש מפני הקדמה של בוטים בעת** **TaiChi** -**רקע: הסיבה לשימוש ברשת** **ה** **ביטול הרישום**
+[Alchemist.farm](https://alchemist.farm) עבור אל 
 
-1. [Alchemist.farm](https://alchemist.farm) עבור אל 
-2. חבר את הארנק שלך כרגיל ברשת אתריום רגילה
-3. Crucibles עבור לכרטיסיית
-4. “Claim Rewards and Unsubscribe LP” לחץ על 
-5. בכחול ולעקוב אחר ההוראות  “[this guide](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” תופיע לך תיבה קופצת ובה תצטרך ללחוץ על 
+1. חבר את הארנק שלך כרגיל ברשת אתריום רגילה
+2. Crucibles עבור לכרטיסיית
+3. “Claim Rewards and Unsubscribe LP” לחץ על 
+4. בכחול ולעקוב אחר ההוראות  “[this guide](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” תופיע לך תיבה קופצת ובה תצטרך ללחוץ על 
 
    שלך MetaMask -לארנק ה TaiChi -אשר ינחו אותך להוסיף את רשת ה
 
