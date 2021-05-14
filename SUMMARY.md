@@ -14,7 +14,7 @@
 ## Crucible
 
 * [Sa Incepem](crucible/getting-started.md)
-* [Invata-ma despre Crucible NFT](crucible/teach-me-about-crucibles.md)
+* [Invata-ma Despre Crucible](crucible/teach-me-about-crucibles.md)
 * [Ghid: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Cum pot creea un NFT Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Ce pot sa fac cu noul meu NFT Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)

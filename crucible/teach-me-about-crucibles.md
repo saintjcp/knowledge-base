@@ -1,4 +1,4 @@
-# Invata-ma despre Crucible NFT
+# Invata-ma Despre Crucible
 
 ## Ce este un Crucible NFT?
 
@@ -37,57 +37,57 @@ Cel puțin, ați putea aprecia un Crucible pe baza a ceea ce ați primi înapoi 
 
 Consultati [aceasta sectiune](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) pentru a afla cum se verifica continutul unui Crucible NFT.
 
-## Should you mint a Crucible?
+## Ar trebui sa creez un Crucible NFT?
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+.Trebuie sa decizi personal. Fii sigur ca intelegi ce poti castiga, ce poti pierde, si apoi decide daca este o alegere buna pentru tine.
 
-#### The cost of minting
+#### Costul creearea unui Crucible
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+Când avem de-a face cu tokeni și contracte bazate pe Ethereum, avem de-a face cu taxe de gaz în aproape fiecare etapă. 
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+Pretul Gaz-ului in Ethereum este intr-o continua fluctuatie iar asta joaca un rol major in a estima cat vei plati, fapt pentru care nu putem indica costurile crearii unui Crucible. 
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+Cu toate acestea, putem spune că ar trebui să luați în considerare valoarea tekenilor LP alocati în raport cu costul gazului atunci când sunteți pe cale să trimiteți o tranzacție pentru a crea un Crucible.
 
 #### The tools
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+Am creat aceste ghiduri alegand walletul MetaMask![](../.gitbook/assets/metamask-fox.svg). Dacă doriti sa folositi alt wallet si aveti neclaritati, intrați în canalul nostru discord unde membrii comunitatii Alchemist o sa va ofere cu placere indrumarile necesare.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+MetaMask nu va recunoaste si nu va poate afisa NFT-urile Crucible pana cand nu [adaugati adresa smarcontractului ](faq.md#why-cant-i-see-my-mist-in-my-wallet)in aplicatie. 
 {% endhint %}
 
-## What wallets can I use to store my Crucible?
+## Ce wallet pot folosi pentru a stoca NFT-ul meu Crucible?
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+NFT-urile Crucible sunt tokeni ERC-721 și semnarea acestor tranzacții nu este acceptată de toate aplicațiile Wallet.
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+Vă rugăm să consultați [Ghidul wallete-lor compatibile](wallet-compatibility.md).
 
-## How much LP tokens do I need to create a Crucible?
+## Cat token LP am nevoie ca sa creez un NFT Crucible?
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+Membrii comunitatii au creat cu succes Crucible cu doar 0.1 token LP. 
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+Bine-inteles, un NFT Crucible are costuri de Caz, asa ca trebuie luat in considerare aceste costuri cand vrei sa creezi un Crucible folosind o cantitate mica de token LP. 
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+Retine, castigi recompensa proportional cu cat token LP ca parte ai alocat din totalul LP alocat de toti ceilalti participanti la programul Aludel. 
 
-## Can I create multiple Crucibles?
+## Pot creea mai multe NFT-uri Crucible?
 
-Yes. Many users in the community have already minted multiple Crucibles.
+Da. Multi utilizatori din comunitate deja au creat mai multe NFT-uri Crucible. 
 
-Whether this is beneficial or not, this is up to you to decide.
+Daca este benefic sau nu pentru tine, tu esti cel care vei decide. 
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## Cum pot verifica cati tokeni LP valoreaza un NFT Crucible al cuiva?
 
-You can take the take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+Puteți lua ID-ul tokenului NFT Crucible , îl puteți converti în hexazecimal \(dacă este în zecimal\) și apoi căutați adresa pe [etherscan.io](https://etherscan.io).
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+Etherscan va afișa conținutul și istoricul tranzacțiilor care au avut loc în NFT-ul Crucible asociat ID-ului.
 
-If you can't see any tokens displayed for it, then it's most likely empty.
+Daca nu vezi nici un token LP asociat acestui NFT Crucible, inseamna ca acesta nu contine nici un LP. 
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+## Cum vad tokenii mei pe MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+Consulta sectiunea [Intrebari Frecvente ](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gKDlT66PxxS-2GQoi/v/romanian/crucible/teach-me-about-crucibles#pot-creea-mai-multe-nft-uri-crucible)pentru a fi ghidat pas cu pas despre cum sa adaugi adresele de smartcontract in MetaMask, apoi vei vedea acesti tokeni corespondenti acestor adrese. 
 
 \*\*\*\*
 
