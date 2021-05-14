@@ -21,7 +21,7 @@
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
-  * [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+  * [Jak użyć opcji Claim Rewards and Unsubscribe your LP z programu Aludel używając sieci TaiCh](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Visual Guides 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [How to Become a "Certified Alchemist" on Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Wallet Compatibility](crucible/wallet-compatibility.md)
