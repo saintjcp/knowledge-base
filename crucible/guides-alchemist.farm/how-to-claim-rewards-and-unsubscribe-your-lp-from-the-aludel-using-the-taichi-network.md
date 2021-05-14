@@ -32,5 +32,8 @@ The reason for using the TaiChi network is to protect your transaction from bein
 
 
 
+**היא שהיא תגן על המשתמש מפני הקדמה של בוטים בעת** **TaiChi** -**רקע: הסיבה לשימוש ברשת** **ה** **ביטול הרישום**
+
+1. 
 \*\*\*\*
 
