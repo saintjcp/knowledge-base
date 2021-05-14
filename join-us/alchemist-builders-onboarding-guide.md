@@ -1,6 +1,6 @@
 # Alchemist Builders Onboarding Guide
 
-## Vision
+## Viziune
 
 So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
 

@@ -1,4 +1,4 @@
-# Intrebari Frecvente 📖
+# Intrebari Frecvente 📖 FAQ New
 
 
 

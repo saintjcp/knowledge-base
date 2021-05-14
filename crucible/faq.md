@@ -1,4 +1,4 @@
-# FAQ 📖
+# Intrebari Frecvente 📖 FAQ
 
 ## **Te rog sa vezi acest Video despre Pierderea Impermanenta inainte de a participa in programul de recompensa Aludel**
 

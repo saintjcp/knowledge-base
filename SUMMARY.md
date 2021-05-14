@@ -24,9 +24,9 @@
   * [Cum sa revendicati recompensele si sa retrageti LP-ul din Aludel utilizand reteaua Taichi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Ghiduri Vizuale 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Cum poti deveni un Alchimist Certificat in Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
-* [Wallet Compatibility](crucible/wallet-compatibility.md)
-* [FAQ 📖](crucible/faq.md)
-* [Intrebari Frecvente 📖](crucible/faq-new.md)
+* [Wallete-le Compatibile](crucible/wallet-compatibility.md)
+* [Intrebari Frecvente 📖 FAQ](crucible/faq.md)
+* [Intrebari Frecvente 📖 FAQ New](crucible/faq-new.md)
 
 ## Join us
 
