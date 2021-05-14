@@ -1,4 +1,4 @@
-# How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network
+# כיצד לתבוע תגמולים ולהסיר את ההרשמה TaiChi -באמצעות רשת ה Aludel -שלך מ LP  ל
 
 {% hint style="info" %}
 The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
