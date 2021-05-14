@@ -1,4 +1,4 @@
-# How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network
+# अपने रिवार्ड्स को क्लेम एवं अपने एलपी \(लिक्विडिटी पूल\) की ऐलूडेल से ताइची नेटवर्क पर सदस्यता
 
 {% hint style="info" %}
 The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
