@@ -1,8 +1,8 @@
-# Claiming Rewards & Unsubscribing your LP
+# Solicita Recompensele & Retrage LP-ul
 
-At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
+La un moment dat tu poti decide ca vrei sa Soliciti Recompensele si sa Retragi LP-ul alocat NFT-ului tau Crucible. 
 
-The guide below is designed to step you through that process.
+Ghidul de mai jos este conceput sa te conduca prin pasii acestui proces. 
 
 {% hint style="warning" %}
 You will need to switch to the TaiChi network to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.

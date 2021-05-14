@@ -3,10 +3,10 @@
 
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Daca vrei sa utilizezi linkuri din surse externe, verifica mai întâi dacă acestea corespund link-urilor oficiale Alchemist. **Dacă linkul respectiv nu există în această pagina, nu este al nostru.** 
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Pentru a participa in Alchemist va rugam sa folositi doar link-urile oficiale.
 
 ### Site-urile Oficiale
 
