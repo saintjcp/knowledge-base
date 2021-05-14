@@ -1,4 +1,4 @@
-# Claiming Rewards & Unsubscribing your LP
+# Récupérer les récompenses & Désengager vos LP
 
 At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
 

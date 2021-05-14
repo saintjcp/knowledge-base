@@ -1,4 +1,4 @@
-# I have minted a Crucible, now what?
+# J'ai minté un Crucible, et maintenant ?
 
 ## You can checking how many LP tokens are in your Crucible
 

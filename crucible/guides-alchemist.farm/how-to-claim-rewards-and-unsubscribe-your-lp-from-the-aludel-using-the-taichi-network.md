@@ -1,4 +1,4 @@
-# Comment réclamer des récompenses et désengager votre LP de l'Aludel en utilisant le réseau TaiChi
+# Comment récupérer les récompenses et désengager votre LP de l'Aludel en utilisant le réseau TaiChi
 
 {% hint style="info" %}
 The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
