@@ -6,49 +6,36 @@ Crucible este un NFT reprezentand valoarea LP pe care ai alocat-o lui. Actul de 
 
 Cand un Crucible NFT are LP token alocat in Aludel, detinatorul primeste anumite cantitati de tokeni ⚗️MIST si ETH ca recompnesa. Cantitatea totala disponibila pentru acest fond de recompensa este de 50% din cei 1% ⚗️MIST intrati in circulatie ca rata de inflatie la fiecare 14 zile, plus o cantitate de ETH obtinuta din fondul initial de pe Balancer. Crucible NFT-urile cu LP-ul intrat in Aludel primesc o parte procentual egala din recompensele totale raportat la LP-ul total din Aludel dar si raportat la durata de timp în care LP-ul lor a fost alocat in Aludel, totul comparativ si raportat la LP-ul celorlalti participanti.
 
-### What is an NFT?
+### Ce este un NFT?
 
-Ce este un NFT? NFT inseamna Non Fungibil Token, adica ceva care, ca si token, are reprezentare unica.
+Ce este un NFT? NFT vine de la "Non Fungibil Token", adica ceva care, ca si token, are reprezentare si valoare unica.
 
 NFTurile sunt in direct contrast cu monedele, tokeni obisnuiti:
 
 * Monedele, tokenii obisnuiti: 1⚗️MIST is 1⚗️MIST, au utilitate si valoare echivalenta
 * NFT-urile: 1 Crucible NFT in cele mai multe cazuri nu este egal in valoare cu alt 1 Crucible NFT deoarece reprezinta valori unice.
 
-Aceasta caracterisitica a unui NFT token este un punct de intelegere necesar, deoarece unii deja au listat propriul lor Crucible NFT la vanzare in platforma de vanzare cumparare, poti vedea asta in Opensea [aici](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596). La timpul redactarii acestui material un Crucible in Opensea este listat la 0.77 ETH. Merita atat?
+Acesta este un punct important de înteles, deoarece oamenii au început deja să își listeze Crucible de vanzare pe platforme precum Opensea, poti sa vezi [aici](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596). 
 
-Pentru a fi cat mai clari tinem sa mentionam ca daca ai creat un Crucible NFT tu inca ai profit din staking in fondul de lichiditate Uniswap fiind efectiv angajat ca potential castig in toate cele 3 modalitati.
+Pentru a fi cat mai clari, mentionam ca daca ai creat un Crucible NFT inca ai profit din staking in fondul de lichiditate Uniswap fiind efectiv angajat ca potential castig in toate cele 3 modalitati.
 
-###  It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique". <a id="Cat-valoreaza-un-Crucible-NFT"></a>
+## Cum creezi un Crucible?
 
-NFTs are a direct contrast to coins:
-
-* Coins: 1⚗️ is 1⚗️, they have equivalent value and use
-* NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
-
-This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
-
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
-
-## How do you mint a Crucible?
-
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
-
-Please use the guide below to mint a Crucible:
+La inceput, singura modalitate de a creea un Crucible era folosind ca instrument oficial CLI. Membrii comunității Alchemist au creat treptat aplicații web care facilitează procesul. Datorită riscului de a greși folosind CLI, recomandam să nu creati astfel Crucible NFT-ul. ‌ Recomandam să folosiți ghidul de mai jos pentru a crea un Crucible:
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
 
 
-## What is a Crucible worth?
+## Cat valoreaza un Crucible NFT?
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+Valoarea unui Crucible NFT este dificil de determinat. Ca si potential, natura NFT a unui Crucible face ca valoarea lui sa fie mai degraba speculativa in functie de optiunile pietei decat valoarea ei de moment, unele NFT Crucible fiind mai valoroase, mai speciale decat altele.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+Ceea ce stim, dincolo de speculatii este ca un Crucible NFT este creat pentru o cantitate variabila de jetoane LP consemnate in smartcontract, avand deja o valoare imediat masurabila.
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+Cel puțin, ați putea aprecia un Crucible pe baza a ceea ce ați primi înapoi pentru retragerea conținutului său LP și tranzacționarea înapoi la moneda dorita.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+Consultati [aceasta sectiune](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) pentru a afla cum se verifica continutul unui Crucible NFT.
 
 ## Should you mint a Crucible?
 
