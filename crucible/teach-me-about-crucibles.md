@@ -1,14 +1,25 @@
 # Invata-ma despre Crucible NFT
 
-## What is a Crucible?
+## Ce este un Crucible NFT?
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+Crucible este un NFT reprezentand valoarea LP pe care ai alocat-o lui. Actul de a creea un Crucible se numeste “minting” termen folosit la baterea de monede, noi numindu-l aici creare Crucible.
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+Cand un Crucible NFT are LP token alocat in Aludel, detinatorul primeste anumite cantitati de tokeni ⚗️MIST si ETH ca recompnesa. Cantitatea totala disponibila pentru acest fond de recompensa este de 50% din cei 1% ⚗️MIST intrati in circulatie ca rata de inflatie la fiecare 14 zile, plus o cantitate de ETH obtinuta din fondul initial de pe Balancer. Crucible NFT-urile cu LP-ul intrat in Aludel primesc o parte procentual egala din recompensele totale raportat la LP-ul total din Aludel dar si raportat la durata de timp în care LP-ul lor a fost alocat in Aludel, totul comparativ si raportat la LP-ul celorlalti participanti.
 
 ### What is an NFT?
 
-It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+Ce este un NFT? NFT inseamna Non Fungibil Token, adica ceva care, ca si token, are reprezentare unica.
+
+NFTurile sunt in direct contrast cu monedele, tokeni obisnuiti:
+
+* Monedele, tokenii obisnuiti: 1⚗️MIST is 1⚗️MIST, au utilitate si valoare echivalenta
+* NFT-urile: 1 Crucible NFT in cele mai multe cazuri nu este egal in valoare cu alt 1 Crucible NFT deoarece reprezinta valori unice.
+
+Aceasta caracterisitica a unui NFT token este un punct de intelegere necesar, deoarece unii deja au listat propriul lor Crucible NFT la vanzare in platforma de vanzare cumparare, poti vedea asta in Opensea [aici](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596). La timpul redactarii acestui material un Crucible in Opensea este listat la 0.77 ETH. Merita atat?
+
+Pentru a fi cat mai clari tinem sa mentionam ca daca ai creat un Crucible NFT tu inca ai profit din staking in fondul de lichiditate Uniswap fiind efectiv angajat ca potential castig in toate cele 3 modalitati.
+
+###  It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique". <a id="Cat-valoreaza-un-Crucible-NFT"></a>
 
 NFTs are a direct contrast to coins:
 
