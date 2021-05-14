@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wat is Alchemist?](README.md)
+* [What is Alchemist?](README.md)
 * [Officiële Community Links 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>

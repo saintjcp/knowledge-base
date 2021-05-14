@@ -1,4 +1,4 @@
-# Wat is Alchemist?
+# What is Alchemist?
 
 Alchemist was started with a [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) by [@thegostep](https://twitter.com/thegostep).
 
