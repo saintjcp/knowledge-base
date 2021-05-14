@@ -4,5 +4,3 @@
 
 ## Crucible
 
-* [Jak użyć opcji Claim Rewards and Unsubscribe your LP z programu Aludel używając sieci TaiCh](crucible/untitled.md)
-
