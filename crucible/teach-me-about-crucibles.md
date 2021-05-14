@@ -4,7 +4,7 @@
 
 Il s'agit d'un NFT représentant le LP que vous avez souscrit. L'acte de sa création est appelé "minting".
 
-Lorsqu'un Crucible a un LP souscrit à l'Aludel the détenteur gagne des ⚗️ et des ETH. Le nombre de récompenses disponibles représente 50% des ⚗️ créé par l'inflation de 1% qui a lieu tous les 14 jours, et par les ETH levés durant la pool initiale Balancer. Les Crucibles avec des LP souscrits reçoivent un fraction du total des récompenses basée sur la fraction que représente leur LP souscrit par rapport au total de LP souscrits, et sur la durée durant laquelle leur LP a été souscrit par rapport aux autres LP.
+Lorsqu'un Crucible a un LP souscrit à l'Aludel le détenteur gagne des ⚗️ et des ETH. Le nombre de récompenses disponibles représente 50% des ⚗️ créé par l'inflation de 1% qui a lieu tous les 14 jours, et par les ETH levés durant la pool initiale Balancer. Les Crucibles avec des LP souscrits reçoivent un fraction du total des récompenses basée sur la fraction que représente leur LP souscrit par rapport au total de LP souscrits, et sur la durée durant laquelle leur LP a été souscrit par rapport aux autres LP.
 
 ### Qu'est ce qu'un NFT ?
 
