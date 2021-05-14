@@ -2,7 +2,7 @@
 
 * [?Alchemist מה זה](README.md)
 * [שאלות נפוצות Alchemist ⚗️$mist FAQ](hebrew-alchemist-usdmist-faq.md)
-* [קישורים רשמיים לקהילה](undefined.md)
+* [a](undefined.md)
 
 ## Crucible
 
