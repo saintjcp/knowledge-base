@@ -53,14 +53,17 @@ Pozadina : Razlog zašto ovo treba da uradite je da zaštitite korisnika od toga
 
 **11. Savetujemo vam da proverite cenu Gas-a, tako što ćete da kliknete na EDIT dugme, jer su neki korisnici prijavili da je predložena \(default\) opcija najsporija.**
 
-1. Transakcija će sada biti poslana na Taichi network. Nemojte da se uspaničite jer ne možete da vidite samu transakciju na Eterskenu \(etherscan\)! Ona će se pojaviti kada u potpunosti prođe.
-2. Ako želite da proverite da li je vaša transakcija prošla kroz Taichi možete da prekopirate “transaction hash” na [https://taichi.network/](https://taichi.network/) kako bi ste videli proces.
-3. Taichi mreža je nešto malo sporija u odnosu na Ethereum mrežu.
-4. **Jednom kada transakcija prođe i bude završena treba da se vratite na Ethereum network kako biste videli Crucible**
+12. Transakcija će sada biti poslana na Taichi network. Nemojte da se uspaničite jer ne možete da vidite samu transakciju na Eterskenu \(etherscan\)! Ona će se pojaviti kada u potpunosti prođe.
+
+13. Ako želite da proverite da li je vaša transakcija prošla kroz Taichi možete da prekopirate “transaction hash” na [https://taichi.network/](https://taichi.network/) kako bi ste videli proces.
+
+14. Taichi mreža je nešto malo sporija u odnosu na Ethereum mrežu.
+
+**15. Jednom kada transakcija prođe i bude završena treba da se vratite na Ethereum network kako biste videli Crucible**
 
 ![](https://i.imgur.com/styRf2g.png)
 
-1. Kliknite na “refresh” i videćete Crucible sa LP tokenima koji su pokupljeni.
+16. Kliknite na “refresh” i videćete Crucible sa LP tokenima koji su pokupljeni.
 
 ![](https://i.imgur.com/O8xfbGJ.png)
 
