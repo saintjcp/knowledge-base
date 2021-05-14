@@ -1,24 +1,24 @@
-# Visual Guides 🎞
+# Ghiduri Vizuale 🎞
 
-### **Videos 🎬📺**
+### **Videoclipuri 🎬📺**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [alchemist.farm](https://alchemist.farm). Also, these videos are community made videos - but they can still be of assistance.
+Luati in considerare ca unele videoclipuri nu sunt actualizate în ceea ce privește stadiul actual al site-ului [alchemist.farm](https://alchemist.farm). De asemenea, aceste videoclipuri sunt realizate de comunitate - totuși va sunt de ajutor.
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
+Referințele la Uniswap din videoclipuri pot fi neactualizate. Vă rugăm să vă asigurați că utilizați Uniswap V2 pentru a furniza lichiditate, deoarece V3 nu este acceptat.
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../acquiring-and-subscribing.md).
+Daca nu esti sigur cum aa schimbi intre UniSwap V3 si V2 foloseste link-urile din acest [ghid](../../acquiring-and-subscribing.md).
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Creeaza un NFT Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* [Obtine LP, apoi Creaza un NFT Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* [Obtine LP, apoi creeaza un NFT Crucible si devino un Alchimist Certificat in Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* [Transfera un NFT Crucible folosind Alchemist.farm si OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Pierderea Impermanenta - vezi inainte sa pui in stake LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
-### **Images 🖼🎨**
+### **Imagini 🖼🎨**
 
 ![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 

@@ -1,26 +1,26 @@
-# I have minted a Crucible, now what?
+# Am creat un Crucible, ce urmeaza acum?
 
-## You can checking how many LP tokens are in your Crucible
+## Poti verifica cati tokeni LP contine NFT-ul tau Crucible
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Viziteaza [alchemist.farm](https://alchemist.farm/) si conecteaza wallet-ul tau, apoi da click pe fila Crucibles.
 
-The Total Balance reflects your Crucible LP value.
+Balanta totala reflecta valoarea LP a NFT-ului tau Crucible.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Dupa cum vezi sunt afisate si alte cateva valori utile in a masura performanta.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## De unde stiu daca am alocat LP-ul NFT-ului meu Crucible?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Asta ar trebui sa fie afisat automat. De altfel folosi [alchemist.farm](https://alchemist.farm/) ca sa verifici NFT-ul tau Crucible. Urmarind pictograma de lacăt în colțul din dreapta sus al afișajului Crucible, vezi ca ea indică cantitatea de LP care a fost alocata in Aludel: ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Cum verific recompensele din Aludel?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+Poti folosi [alchemist.farm](https://alchemist.farm/) pentru a afisa NFT-urile tale Crucible, poti vedea cantitatea de ⚗️ si de ETH castigata ca recompensa.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## Dava am creat NFT-ul meu Crucible si am alocat LP-ul ... asta este tot?
 
-Yes. Now you sit back and see what happens.
+Da. Acum stai relax asteptand sa vezi ce se intampla.
 
 #### 
 
