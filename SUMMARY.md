@@ -29,7 +29,7 @@
 
 ## Join us
 
-* [Alchemist Builders Onboarding Guide](join-us/alchemist-builders-onboarding-guide.md)
+* [Guide d'accueil des bâtisseurs d'Alchemist](join-us/alchemist-builders-onboarding-guide.md)
 * [Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## Links 🔗 <a id="discussion"></a>

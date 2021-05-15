@@ -1,56 +1,56 @@
-# Alchemist Builders Onboarding Guide
+# Guide d'accueil des bâtisseurs d'Alchemist
 
 ## Vision
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+Vous pensez donc avoir ce qu'il faut pour devenir un alchimiste, pour emprunter le chemin du Grand Œuvre qui pourrait vous conduire sur des sentiers jamais empruntés, des territoires inexplorés - comme l'a dit le plus grand alchimiste de notre temps, le célèbre psychiatre Carl Jung : "On ne s'illumine pas en imaginant des figures de lumière, mais en rendant l'obscurité consciente".
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+Dans les laboratoires de l'alchimiste, les expériences se concentrent sur l'exploration de concepts hautement techniques dans le but de découvrir les ingrédients nécessaires pour synthétiser correctement la Pierre Philosophale - par exemple en concevant l'expérience de Minter un Crucible NFT ou le mistX Gasless DEX.
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+Outre l'expérimentation technique, notre guilde s'est transformée en un havre de paix décentralisé où les érudits fatigués peuvent se sentir à l'aise et en sécurité. Des projets créatifs comme la construction de la Alchemist Radio ou la recherche de la bonne direction artistique pour le Crucible NFT ne sont que quelques-uns des innombrables exemples de résultats obtenus par les alchimistes qui jouent avec des béchers et des entonnoirs pendant leur temps libre.
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+En général, nous suivons les principes directeurs chers aux alchimistes depuis l'époque de la Tablette d'Emeraude afin de créer efficacement de la valeur dans chaque processus - tous les participants actifs ont intériorisé cet état d'esprit, de sorte que nous partageons fondamentalement une vision également polarisée :
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* Se concentrer sur la valeur 
+* Commencer là où vous êtes
+* Progresser de manière itérative grâce au retour d'information
+* Collaborer et promouvoir la visibilité
+* Penser et travailler de manière holistique
+* Rester simple et pratique
+* Optimiser et automatiser
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+Pour plus de détails, veuillez lire cet [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## Conformité et éthique
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+Nous sommes ouverts d'esprit et accueillons tous ceux qui veulent nous rejoindre et participer activement à la découverte de l'Elixir de Vie. La guilde Alchemist n'a pas de limites ou de règlements qui limiteraient notre potentiel de croissance. Il n'y a pas d'entreprise, de développeur ou de sombre marionnettiste qui tire les ficelles dans les coulisses. Notre communauté grandit jour après jour et mène le projet vers de nouvelles sphères, aujourd'hui inimaginables. En tant qu'organisation décentralisée, de notre point de vue, il est important de se mettre d'accord sur une éthique et des règles de conduite communes. Nous avons accepté de suivre ces règles :
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* Être respectueux les uns envers les autres 
+* Pas de racisme, de sexisme, d'agitation ou d'activité qui porte préjudice à la communauté
+* Pas de langage ou de contenu inapproprié
 
-## Hierachy
+## Hiérachie
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+Notre hiérarchie est clairement définie et relativement plate. Nos Signataires Multi-Sig & Alchimistes Senior ainsi que @thegostep en tant que fondateur représentent le leadership et la supervision simultanée d'Alchemist lui-même. Outre les objectifs, les jalons et les délais, ils définissent également la direction de base afin qu'Alchemist crée la plus grande valeur possible pour s'assurer un avenir brillant.
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+Vient ensuite le groupe des bâtisseurs, dont les membres proviennent de différents domaines d'expertise. D'un côté, il y a bien sûr les développeurs qui s'occupent principalement du concept, de l'architecture et de la mise en œuvre d'un ou plusieurs projets. Le groupe des bâtisseurs ne se compose pas seulement de développeurs, mais aussi d'universitaires de tous horizons - experts en marketing, artistes et certains membres de la communauté extrêmement engagés. Tous ceux qui souhaitent participer activement font partie du groupe des bâtisseurs. Quelles que soient les compétences existantes, un échange animé et constructif dans Discord ou dans d'autres outils tels que Basecamp est apprécié. Le rôle de bâtisseur permettra aux utilisateurs de voir les concepts techniques sensibles et les produits en cours de développement dans les laboratoires d'Alchemist.
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+Afin que les équipes de bâtisseurs restent concentrées sur leurs transmutations, un nouveau rôle a été créé : l'apprenti. Ce rôle permet aux jeunes alchimistes qui essaient encore de trouver leur voie d'accéder à une grande partie des expériences en cours dans le laboratoire, mais les protège du territoire impliquant une alchimie avancée qui pourrait entraîner l'explosion accidentelle de la moitié du bâtiment. Le rôle de "bâtisseur" évoluera pour servir d'étape suivante à l'apprenti une fois qu'il aura maîtrisé tout le côté technique de l'expérimentation alchimique.
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+Le quatrième groupe est constitué des membres "réguliers" de la communauté et des alchimistes certifiés, qui sont pour la plupart des $Mist et/ou des détenteurs de Crucibles. La communauté joue un rôle majeur pour nous : elle coopère, révèle des sentiments très répandus et fournit un retour d'information précieux sur les produits et services existants, ainsi que des éléments de réflexion pour de futures expériences. Nous apprécions tous ceux qui ont trouvé le chemin vers nous et nous souhaitons qu'ils se sentent le plus à l'aise possible dans notre communauté.
 
-## Tools
+## Outils
 
 ### Discord
 
-#### **General**
+#### **Général**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+Discord est une plateforme de VoIP, de messagerie instantanée et de distribution numérique conçue pour créer des communautés. Les utilisateurs communiquent par des appels vocaux, des appels vidéo, des messages texte, des médias et des fichiers dans des chats privés ou dans le cadre de communautés appelées "serveurs". Les serveurs sont un ensemble de salons de discussion persistants et de canaux de discussion vocale. Discord fonctionne sous Windows, macOS, Android, iOS, iPadOS, Linux et dans les navigateurs web. En décembre 2020, le service compte plus de 140 millions d'utilisateurs actifs mensuels
 
-#### **How we use it**
+#### **Comment nous l'utilisons**
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+Discord est notre outil de communication préféré, car il offre une solution rapide, simple et durable pour les conversations - qu'elles soient écrites ou verbales. Nous nous distinguons en 2 catégories - Communauté et Bâtisseur. Alors que la communauté est ouverte à tous les alchimistes, le bâtisseur a sa propre zone isolée, à l'écart des distractions. L'espace bâtisseur est divisé en différents projets ou sujets, mais il est fondamentalement ouvert à tous les bâtisseurs et est destiné à encourager la participation.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**Liens :** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
 
 ### Basecamp
 
