@@ -2,7 +2,6 @@
 
 * [Cosa è Alchemist?](README.md)
 * [Alchemist ⚗️$mist FAQ](alchemist-usdmist-faq.md)
-* [Link ufficiali della comunità](link-ufficiali-della-comunita.md)
 
 ## Crucible
 
