@@ -1,7 +1,7 @@
 # Guías: alchemist.farm
 
 {% hint style="info" %}
-**Las siguientes guías son para la página comunitaria** [**alchemist.farm**](https://alchemist.farm/)  
+**Las guías siguientes son para la página comunitaria** [**alchemist.farm**](https://alchemist.farm/)  
 Por favor, hag [clic aquí](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_aTwaVOksvpE2u3Iv7/v/spanish/crucible/guides-crucible.alchemist.wtf) si está utilizando [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 {% endhint %}
 

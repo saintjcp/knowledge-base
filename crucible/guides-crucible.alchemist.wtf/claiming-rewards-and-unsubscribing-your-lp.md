@@ -1,8 +1,8 @@
 # ¿Cómo reclamo las recompensas y cancelo la suscripción del LP?
 
-At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
+En cualquier momento puedes decidir que estás listo para reclamar tus recompensas y dar de baja tu LP de tu Crucible. 
 
-The guide below is designed to step you through that process.
+Las intrucciones siguiente estan diseñadas para guiarte a través de ese proceso.
 
 {% hint style="warning" %}
 Antecedentes: La razón por la que necesitarás hacer esto es para proteger al usuario de ser adelantado por los bots cuando se desinscribe.
