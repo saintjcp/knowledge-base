@@ -1,28 +1,28 @@
 # Oficjalne linki społeczności 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Jeżeli decydujesz się na używanie linków z zewnętrznych źródeł, najpierw sprawdź czy zgadzają się z naszymi oficjalnymi linkami. **Jeśli link nie występuje na poniższej liście to znaczy, że ten link nie jest nasz.**
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Prosimy o korzystanie wyłącznie z naszej oficjalnej listy linków podczas udzielania się w Alchemist.
 
-### Sites
+### Witryny
 
-| Site | Description |
+| Strona internetowa | Opis |
 | :--- | :--- |
-| [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
-| [alchemist.farm](https://alchemist.farm) | Crucible Website |
-| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [alchemist.wtf](http://alchemist.wtf) | Repozytorium GitHub |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Najnowsza strona internetowa Crucible |
+| [alchemist.farm](https://alchemist.farm) | Strona internetowa Crucible |
+| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokumentacja |
 
-### Community
+### Społeczność
 
-| Site | Description |
+| Strona internetowa | Opis |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
-| [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
-| [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
+| [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(Link do aplikacji\) |
+| [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Wersja internetowa\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
 
