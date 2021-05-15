@@ -22,8 +22,6 @@ Not yet. If you are interested in helping build one, check out [the lab](https:/
 
 
 
-[alchemist.wtf](https://github.com/alchemistcoin/alchemist)
-
 Alchemist 是从[@thegostep](https://twitter.com/thegostep)发的一条推文 [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) 开始的。
 
 没有“开发团队”，没有公司，只有一个 Alchemist 社区来决定具体要做什么。
