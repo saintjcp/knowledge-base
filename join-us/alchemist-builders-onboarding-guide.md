@@ -4,7 +4,7 @@
 
 Deci, crezi că ai obținut tot ce ai nevoie pentru a deveni alchimist, pentru a merge pe calea Marii Lucrări care ar putea să te conducă pe trasee niciodată parcurse, teritorii neexplorate - ca cel mai mare alchimist din vremurile noastre - faimosul psihiatru Carl Jung a spus: „Un iluminat nu devine prin imaginarea figurilor de lumină, ci prin conștientizarea întunericului".
 
-In laboratoarele alchimistilor de la Alchemist experimentele se concentrează pe explorarea conceptelor extrem de tehnice, în încercarea de a descoperi ingredientele necesare pentru a sintetiza în mod corespunzător Piatra Filozofală - exemple sunt experimentul Creatia unui Crucible NFT sau experimentul mistX DEX, platforma de schimb crypto fără taxe de gaz. 
+In laboratoarele alchimistilor de la Alchemist experimentele se concentrează pe explorarea conceptelor extrem de tehnice, în încercarea de a descoperi ingredientele necesare pentru a sintetiza în mod corespunzător Piatra Filozofală - exemple sunt experimentul de Creatie unui Crucible NFT sau experimentul mistX DEX, platforma de schimb crypto fără taxe de gaz. 
 
 In afara de experimentarea tehnică, breasla alchimistilor a devenit un refugiu sigur si descentralizat, unde cei obositi de studii se pot simți confortabil, în largul lor și în siguranță. Proiecte creative, precum postul de Radio Alchimist, sau identificarea liniei de creatie artă ideala pentru Crucible NFT, sunt doar câteva dintre exemplele nesfârșite de rezultate ale alchimiștilor care se joacă cu niște pahare și pâlnii în timpul liber.
 
@@ -30,39 +30,39 @@ Avem un orizont de gandire deschisa, salutănd pe toți cei care doresc să ni s
 
 ## Ierarhia
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+Ierarhia Alchemist este clar definită și relativ extinsa. Cei care au dreptul de multi-sig, semnatura comuna, alchimiștii seniori, precum și @thegostep, în calitate de fondator, reprezintă conducerea și supervizeaza, coordoneaza impreuna proiectul Alchemist. În plus față de obiective, repere și termene, echipa de coordonare stabileste și da direcția de bază, astfel încât Alchimist să creeze cea mai mare valoare posibilă pentru a-și asigura lor insisi un viitor luminos.
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+Imediat grupului de coordonare in ierarhiea Alchemist urmează grupul de constructori cu membri din diferite domenii de expertiză. Pe de o parte, desigur, există dezvoltatori la bord care se ocupă în primul rând de concept, arhitectură și implementarea unuia sau mai multor proiecte. Grupul de constructori nu este format doar din dezvoltatori, dar și cercetători din toate categoriile sociale - experți în marketing, artiști și unii membri ai comunității extrem de dedicați. Toți cei care doresc să participe activ fac parte din grupul de constructori. Indiferent de abilitățile existente, este apreciat un viu și constructiv schimb în Discord sau în alte instrumente, cum ar fi Basecamp. Rolul de constructor va permite utilizatorilor să examineze concepte tehnice sensibile și produse în curs de dezvoltare în laboratoarele Alchemist.
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+Pentru a menține echipele de constructori Alchemist concentrate pe transmutațiile lor, a fost creat un nou rol - ucenicul. Acest rol oferă tinerilor alchimiști \(care încă încearcă să-și găsească drumul lor\) accesul la o mulțime de experimente care se desfășoară în laborator, dar îi protejează de teritoriile care implică alchimie avansată, evitand astfel un accident de aruncare in aer a jumătății clădirii. Rolul de „constructor” se va oferi ucenicilor care vor evolua proband intreaga cunoastere privind tehnica experimentării alchimice.
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+Al patrulea grup sunt membrii „obișnuiți” ai comunității și alchimiștii certificați, care sunt compuși în cea mai mare parte din detinatorii de $Mist și / sau Crucible NFT. Comunitatea joacă un rol important pentru noi - coopereaza, dezvaluie sentimentele impartasite si ofera feedback valoros în legătură cu produsele și serviciile existente, fiind o sursa de idei pentru experimentele ulterioare. Apreciem pe toți cei care au intrat in contact cu noi și ne-ar place să se simtă cât mai confortabil în comunitatea Alchemist.
 
-## Tools
+## Instrumente
 
 ### Discord
 
-#### **General**
+#### **Descriere Generala**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+Discord este o platformă VoIP, mesagerie instantanee și distribuție digitală concepută pentru crearea comunităților. Utilizatorii Discord comunică prin apeluri vocale, apeluri video, mesaje text, conținut media și fișiere în chaturi private sau ca parte a comunităților numite „servere”. Serverele sunt o colecție de camere de chat persistente și canale de chat vocal. Discord rulează pe sistemele de operare Windows, MacOS, Android, iOS, iPadOS, Linux și în browserele web. Începând cu decembrie 2020, serviciul Discord are peste 140 de milioane de utilizatori activi lunar.
 
-#### **How we use it**
+#### **Cum folosim Discord**
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+Discord este instrumentul nostru preferat de comunicare, întrucât oferă o soluție rapidă, simplă și durabilă pentru conversații - fie în scris, fie acustic. Ne diferențiem în 2 categorii - Comunitate și Builder. În timp ce comunitatea este deschisă oricărui alchimist, constructorul are propria sa zonă izolată, fara a fi distras. Zona constructorului este împărțită în diferite proiecte sau subiecte, dar este practic deschisă pentru fiecare constructor și este destinată să încurajeze participarea.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**Link-ul Discord:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
 
 ### Basecamp
 
-#### **General**
+#### **Descriere Generala**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+Basecamp este o aplicație de gestionare a proiectelor pe care o puteți accesa în browser și pe telefon. Vă oferă instrumentele de care aveți nevoie pentru a configura sarcini, a programa, pentru a crea și încărca documente și fișiere, pentru a trimite mesaje și discutii cu colegii, precum și pentru a adauga în mod regulat membrii in grupul dvs. - totul într-un singur loc! 
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+Indiferent dacă lucrezi singur și ai nevoie să devii organizaț in munca ta, sau să folosesti Basecamp pentru a colabora la un proiect cu implicarea ta sau ceva personal, Basecamp te ajuta. Este rapid de configurat și, dacă sunteți consecvent în utilizarea acestui instrument, ar trebui să vă faciliteze comunicarea cu echipa. Mai ales echipe care sunt virtuale.
 
-#### **How we use it**
+#### **Cum sa folosim Basecamp**
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+Basecamp este locul în care colectăm, dezvoltăm și planificam toate proiectele. De asemenea, in Basecamp se efectuează o alocare mai precisă a sarcinilor și responsabilităților, precum și transcrierile apelurilor și întâlnirilor. Este utilizat în primul rând pentru a oferi o imagine de ansamblu dacă dvs. și mai ales semnatarii multisig, alchimiștii superiori și constructorii implicați, doriți să priviți la proiectul Alchemist în ansamblul lui.
 
 ### Github
 
