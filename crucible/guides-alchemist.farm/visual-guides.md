@@ -1,28 +1,28 @@
-# Guides Visuels 🎞
+# Modes d'emploi visuels 🎞
 
 ### **Videos 🎬📺**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [alchemist.farm](https://alchemist.farm). Also, these videos are community made videos - but they can still be of assistance.
+Veuillez noter que certaines des vidéos sont obsolètes par rapport à l'apparence actuelle de [alchemist.farm](https://alchemist.farm). Notez également que ces vidéos ont été réalisées par la communauté - néanmoins elles peuvent tout de même vous aider.
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
+Les références à Uniswap dans ces vidéos peuvent être obsolètes. Assurez vous d'utiliser **Uniswap V2** pour fournir de la liquidité étant donné que le V3 n'est pas supportée.
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../acquiring-and-subscribing.md).
+Si vous n'êtes pas certains de savoir comment passer de la V3 à la V2, utilisez nos liens dans le [mode d'emploi](../../acquiring-and-subscribing.md).
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Faire un a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* [Récupérer des LP, puis faire un Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* [Récupérer des LP, faire un Crucible, et devenir un Alchimiste Certifié sur Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* [Transférer un Crucible en utilisant Alchemist.farm et OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [Pertes impermanentes - à regarder avant de staker des LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **Images 🖼🎨**
 
-![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
+![Process d&apos;entr&#xE9;e dans le programme Aludel](https://i.imgur.com/7sK0Jr2.png)
 
-![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
+![L&apos;id&#xE9;e de l&apos;Aludel](https://i.imgur.com/sutIhed.png)
 
 
 
