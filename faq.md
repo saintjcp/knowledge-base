@@ -46,47 +46,45 @@ Current multisig signers are:
 
 
 
-**Gdzie mogę handlować tokenami ⚗️ \($ MIST\)?**
+**Dove posso scambiare ⚗️ \($MIST\) ?**
 
-[uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
+[uniswap.alchemist.wtf](http://uniswap.alchemist.wtf/)
 
-**Jaka jest całkowita/obiegowa podaż?**
+**A quanto ammonta l’approvvigionamento totale/circolante?**
 
-Podaż obiegowa i całkowita są równe. Początkowo podaż wynosiła 1,000,000, ale co dwa tygodnie podaż zwiększa się o 1%. Obecna podaż pokazana jest [tutaj](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab).
+L’approvvigionamento circolante e l’approvvigionamento totale sono la stessa cosa. L’importo iniziale era di 1.000.000 ma cresce dell’1% ogni due settimane. L’importo totale è mostrato [qui](https://etherscan.io/token/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab).
 
-**Czy planujecie przedsprzedaż lub sprzedaż prywatną/publiczną?**
+**Pianificate prevendite, vendite private/pubbliche?**
 
-Nie ma sprzedaży. Posiadaliśmy początkową pulę Balancera, a wszystkie zebrane ETH zostały zdeponowane w programie nagród.
+Non ci sono vendite. Abbiamo tenuto una Balancer pool inziale e tutti gli ETH raccolti sono stati depositati nel programma di ricompensa.
 
-**Czy token ma inflację?**
+**Il token è soggetto a inflazione?**
 
-Inflacja wynosi obecnie 1% co dwa tygodnie, ale może zostać zmieniona w górę lub w dół. Aby uniknąć osłabienia przez inflację, subskrybuj swoje tokeny ⚗️ $mist w programie nagród Aludel.
+Al momento l’inflazione è dell’1% ogni due settimane, ma può crescere o diminuire. Per evitare di essere colpito dall’inflazione, iscrivi i tuoi ⚗️$mist al programma di ricompensa Aludel.
 
-Obecny podział tokenów pochodzących z inflacji to:
+L’allocazione attuale dell’inflazione dei token è la seguente: 50% alla pool di ricompensa Aludel, 25% alla community multisig $mist e il 25% alla tesoreria $mist.
 
-50% do puli nagród Aludel, 25% do multisiga społeczności $mist i 25% do skarbca $mist.
+**Cosa posso fare con i miei ⚗️$mist?**
 
-**Co mogę zrobić ze swoimi tokenami ⚗️$mist?**
+Per la pool ⚗️$mist/ETH Uniswap è stato implementato un programma di ricompensa per i fornitori di liquidità. Questo programma si chiama Aludel \(immaginati un contratto intelligente di staking progettato dal nostro capogilda\).
 
-Na Uniswap wdrożony został program nagradzania dostawców płynności dla puli ⚗️$mist/ETH. Nazwa tego programu to Aludel. \(Pomyśl o tym jak o smart kontrakcie do stakowania, zaprojektowanym przez naszego mistrza gildii\).
+É stato creato un multisig comunitario per accumulare fondi che possono essere utilizzati per le taglie \(bounties\). Dai un'occhiata al [canale bounties su discord](https://discord.gg/92hQDCw25u) o dona al multisig su [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth).
 
-Multisig społeczności został stworzony, aby gromadzić fundusze, które można wykorzystać na nagrody. Zajrzyj na [bounties channel](https://discord.gg/92hQDCw25u) na discordzie lub przekaż darowiznę na rzecz multisig na [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
+## FAQ sul multisig
 
-## **Multisig FAQ**
+**Chi sono i titolari delle chiavi multisig?**
 
-**Kim są posiadacze klucza multisig?**
+I titolari delle chiavi multisig sono stati scelti dalla comunità in base alla fiducia e ai contributi al progetto.
 
-Posiadacze klucza Multisig zostali wybrani przez społeczność na podstawie zaufania i wkładu w projekt.
-
-Obecni sygnatariusze multisig to:
+Gli attuali firmatari multisig sono:
 
 * [@ees2oo](https://twitter.com/ees2oo) : [stussy.eth](https://etherscan.io/address/stussy.eth)
-* [@sal_ash_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
+* [@sal_ash_ :](https://twitter.com/sal_ash_) [salash.eth](https://etherscan.io/address/salash.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
 * [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
 
-## \*\*\*\*
+\*\*\*\*
 
 
 
