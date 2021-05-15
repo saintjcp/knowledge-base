@@ -22,8 +22,6 @@ Not yet. If you are interested in helping build one, check out [the lab](https:/
 
 
 
-[alchemist.wtf](https://github.com/alchemistcoin/alchemist)
-
 Alchemist iniziò da un [tweet](https://twitter.com/thegostep/status/1358159173440184322?s=20) di [@thegostep](https://twitter.com/thegostep).
 
 Non c’è un team di sviluppatori. Non c’è un’azienda. C’è semplicemente una comunità di alchemisti che cerca di capire cosa costruire liberamente.
