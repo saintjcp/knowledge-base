@@ -1,7 +1,7 @@
 # Table of contents
 
 * [什么是 Alchemist?](README.md)
-* [Official Community Links 🔗](official-community-links.md)
+* [官方社区链接如下 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
 
