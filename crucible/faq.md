@@ -96,100 +96,98 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 
 
-## **Przed kontynuowaniem obejrzyj ten film o nietrwałej stracie \(Impermanent loss\)**
+## Per favore guarda questo video sulle perdite impermanenti prima di procedere
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" %}
 
-**Jak wziąć udział w Aludel / Jak wybić Crucible NFT \(How to mint Crucible NFT\)?**
+**Come posso partecipare ad Aludel / Come posso coniare un NFT Crucible?**
 
-Aby wziąć udział w Aludel, musisz wybić Crucible NFT, a następnie zdeponować w nim tokeny LP ⚗️$mist/ETH z Uniswap \(pomyśl o tym jako o wirtualnym skarbcu\). Następnie Crucible gromadzi nagrody z programu Aludel proporcjonalnie do ilości i czasu subskrypcji tokenów LP.. Koszt wybicia Crucible i subskrypcji zależy od aktualnych cen gazu ethereum, można się spodziewać, że wyniesie ok. 0,1-0,2 ETH.
+Per partecipare ad Aludel, devi coniare un NFT Crucible e depositarvi alcuni token ⚗️$mist/ETH LP Uniswap \(pensa a una sorta di caveau virtuale\). Il Crucible matura quindi ricompense dal programma Aludel proporzionali alla quantità e alla durata dei token LP sottoscritti. Il costo per coniare un Crucible e per il deposito dipende dai prezzi attuali del gas Ethereum. Puoi aspettarti che sarà approssimativamente attorno a 0,1-0,2 ETH.
 
 {% hint style="warning" %}
-**Ważna informacja :**
+**Informazione importante:**
 
-Nie używaj przeglądarki Brave, ponieważ nie jest ona obecnie zgodna z procesem, a transakcja zakończy się niepowodzeniem, co spowoduje utratę opłat.
+Non usare il browser Brave perché non è compatibile con il processo in questo momento e la tua transazione fallirà e con essa perderai l'importo del gas pagato.
 
-Obecnie nie zalecamy korzystania z portfela sprzętowego, ponieważ wiele z nich obecnie nie obsługuje podpisu EIP-712. Gdy to naprawią, będziemy mogli to zaimplementować.
+Non raccomandiamo l'uso di un hardware wallet in questo momento perché molti non supportano la firma EIP-712. Quando risolveranno questo problema, potremo implementare questo sistema.
 
-Niektórzy użytkownicy zgłaszali problemy z Trustwallet.
+Alcuni utenti hanno riportato problemi con Trustwallet.
 
-Nie zalecamy przechodzenia przez proces na telefonie komórkowym.
+Non ti consigliamo di farlo su un cellulare.
 {% endhint %}
 
-1. W celu wybicia Crucible przejdź do strony internetowej, [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
-2. Podłącz portfel MetaMask
-3. Wpisz ilość LP, którą chcesz umieścić w Crucible.
-4. Kliknij “Mint Crucible and Subscribe LP to Aludel”. Otrzymasz 2 komunikaty za pośrednictwem wyskakującego okienka MetaMask, podpisz je i poczekaj na zakończenie.
-5. Następnie zostaniesz poproszony o potwierdzenie transakcji, aby utworzyć Crucible. Zwykle kosztuje to około 0,1-0,2 Eth. Jeśli zgadzasz się na cenę gazu, naciśnij przycisk confirm i poczekaj, aż transakcja zostanie zakończona.
-6. Po zakończeniu zobaczysz swój nowy Crucible na Etherscan w zakładce tokenów Erc721.
+1. Per coniare un Crucible vai al sito web [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
+2. Connetti il wallet MetaMask
+3. Inserisci la quantità di token LP che vuoi mettere nel Crucible
+4. Premi "Mint Crucible and Subscribe LP to Aludel". Otterrai 2 approvazioni attraverso dei pop up su MetaMask.  Firmale e attendi il completamento. 
+5. Successivamente ti verrà chiesto di confermare la transazione, per un importo che normalmente costa attorno a  0,1-0,2 ETH.  Per creare un Crucible, se sei contento del prezzo del gas, premi “confirm” e attendi che la transazione vada a buon fine.
+6. Una volta completata la transazione, vedrai il tuo nuovo Crucible nella tua scheda token Erc721 su Etherscan.
 
-**Dlaczego nie widzę tokenów ⚗️$mist w moim portfelu?**
+**Perché non riesco a vedere i miei ⚗️Mist nel mio wallet?**
 
-Możesz dodać adres kontraktu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** aby tokeny zaczeły być widoczne.
+Puoi aggiungere l’indirizzo di contratto **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** ``per renderli visibili.
 
-**Dlaczego nie widzę mojego LP w portfelu?**
+**Perché non riesco a vedere i miei LP nel mio wallet?**
 
-Możesz dodać adres kontraktu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** aby tokeny LP zaczeły być widoczne.
+Puoi aggiungere l’indirizzo di contratto **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** ``per renderli visibili.
 
-**Dlaczego nie widzę mojego Crucible w portfelu?**
+**Perché non riesco a vedere i miei Crucible nel mio wallet?**
 
-Możesz dodać adres kontraktu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** aby Crucible zaczął być widoczny.
+Puoi aggiungere l’indirizzo di contratto **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** ``per rendere i Crucible visibili.
 
-**Jakie są nagrody za subskrypcję w Aludel?**
+**Quali sono le ricompense per la deposito su Aludel?**
 
-Nagrody są rozdzielane z puli nagród proporcjonalnie do ilości i czasu trwania Subskrypcji. Im więcej ⚗️$mist/ETH Uniswap LP tokenów subskrybujesz i na im dłużej je zostawiasz, tym więcej nagród zgromadzisz. Program Aludel został stworzony, aby nagradzać długoterminowych uczestników.
+Le ricompense vengono distribuite dal pool di ricompensa in modo proporzionale alla quantità e alla durata di un deposito. Più ⚗️$mist/ETH Uniswap LP token sottoscrivi e più a lungo li lasci, più le ricompense si accumulano. Il programma di ricompense di Aludel è progettato per premiare i partecipanti a lungo termine.
 
-Pulę nagród możesz zobaczyć [tutaj.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
+Puoi vedere la pool di ricompensa [qui](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541).
 
-**Jak zostać certyfikowanym alchemikiem na Discordzie?**
+**Come posso diventare un alchemist certificato su discord?**
 
-* Proszę skorzystaj z tego [przewodnika](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
-* Dołącz do Discord
-* Przejdź do kanału Welcome i wyślij wiadomość !join
-* Otrzymasz wtedy wiadomość od bota Collab.Land
-* Podłącz swój portfel zawierający ⚗️$mist
-* Bot wyśle Ci wiadomość  ~ Updating roles, Please check assigned roles in Alchemist
-* Zamknij bota i wróć do głównego kanału alchemii, a zostaniesz certyfikowanym alchemikiem!
+* [Guida](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
+* Entra in discord 
+* Vai al canale "Welcome" e digita "!join" 
+*  Riceverai un messaggio dal bot di Collab.Land 
+* Connetti il tuo wallet contenente i tuoi ⚗️$mist 
+* Il bot ti manderà un messaggio ~ Updating roles, Please check assigned roles in Alchemist 
+* Chiudi il bot e torna al canale principale “alchemy” e ora sarai un alchimista certificato!
 
-**Jak odebrać nagrody?**
+**Come posso richiedere le ricompense?**
 
-Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród. Będziesz musiał w tym celu skorzystać z Taichi Network, aby uniemożliwić botom przejmowanie Twoich nagród. Zobacz ten [przewodnik]().
+Tutte le ricompense si ricevono digitando “Claim Rewards and Unsubscribe LP”. Fai attenzione, questo azzera il tuo moltiplicatore di ricompensa. Dovrai usare la Rete Taichi quando lo fai per evitare che i bot possano anticipare le tue ricompense. Leggi questa [guida]().
 
-**Czy ma znaczenie jak dużo tokenów LP trafia do Crucible?**
+**Ha importanza quanti token LP vanno nel Crucible?**
 
-Im więcej tokenów LP posiadasz, tym więcej płynności dostarczasz, a tym samym większy procent puli nagród przypada dla Ciebie. Nie ma wymagananej minimalnej ilość LP, ale sugerujemy rozważenie kosztu gazu etherum jaki trzeba ponieść.
+Piú token LP depositi,piú grande è la quantità di liquidità che hai fornito e di conseguenza maggiore sarà la tua parte della pool di ricompensa. Non c'è un minimo di LP richiesti, ma ti suggeriamo di tenere in considerazione il costo del gas Ethereum.
 
-**Czy bardziej opłaca się mieć kilka sztuk Crucible, czy większą subksrypcję w jednej sztuce Crucible?**
+**È più vantaggioso avere più Crucible o un deposito maggiore in un solo Crucible?**
 
-Prawie zawsze lepiej jest gromadzić LP w jednym Crucible, ponieważ minimalizuje to koszty gazu.
+É quasi sempre meglio accumulare token LP in un solo Crucible in quanto minimizza i costi del gas. L'unico caso in cui è piú vantaggioso usare diversi Crucible è se intendi trasferire / vendere un Crucible con qualche deposito attivo in esso.
 
-Jedynym przypadkiem, w którym mógłbyś użyć wielu Crucible, jest zamiar przeniesienia / sprzedaży Crucible z aktywną subskrypcją.
+**Come influisce "Claim Rewards and Unsubscribe LP" sul moltiplicatore di ricompensa?**
 
-**W jaki sposób opcja "Claim Rewards and Unsubscribe LP" wpływa na mnożnik nagrody?**
+Ogni volta che metti dei token LP nel programma di ricompensa Aludel, questo tiene traccia della durata di deposito di quei token. Aludel applica un moltiplicatore di ricompensa che inizia a 1x e aumenta fino a 10x in 60 giorni. Quando rivendichi un importo parziale, Aludel rivendica prima il deposito con il moltiplicatore più basso \(Last In, First Out\).
 
-Za każdym razem, gdy umieszczasz tokeny LP w programie nagród Aludel, program śledzi, jak długo te tokeny są subskrybowane. Aludel stosuje mnożnik nagrody, który zaczyna się od 1x i rośnie do 10x w ciągu 60 dni. Kiedy ubiegasz się o wypłatę częściowej kwoty, Aludel najpierw odbiera subskrypcję z najniższym mnożnikiem \(Last In, First Out\).
+**Posso vedere quante ricompense ho accumulato nel frattempo?**
 
-**Czy mogę w międzyczasie sprawdzić jak dużą nagrodę zdobyłem?**
+Puoi vedere la ricompensa accumulata per il tuo Crucible usando l’IU su [alchemist.farm](https://alchemist.farm/) e le tasse Uniswap LP accumulate usando [apy.vision](https://apy.vision/) o [https://croco.finance/](https://croco.finance/).
 
-Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [alchemist.farm](https://alchemist.farm), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/)
+**Posso aggiungere piú token LP ad un Crucible esistente?**
 
-**Czy mogę dodać więcej LP do istniejącego Crucible?**
+Sì. Il gas per aggiungere altri token LP al tuo Crucible attuale sarà molto più basso di quando hai coniato inizialmente un Crucible. Ogni evento di deposito è indipendente, quindi ogni token LP che aggiungi farà partire il proprio moltiplicatore in modo indipendente.
 
-Tak. Gaz potrzebny do dodania LP do obecnego Crucible będzie znacznie niższy niż podczas pierwszego wybicia Crucible. Każde wydarzenie związane z subskrypcją jest niezależne, więc każdy dodany LP będzie niezależnie rozpoczynał swój własny mnożnik.
+**La funzione "Claim Rewards and Unsubscribe LP" rimuove i miei token LP e le ricompense dal Crucible?**
 
-**Czy opcja “Claim Rewards and Unsubscribe LP” usuwa moje LP i nagrody z Crucible?**
+No. Questa funzione richiede solo le ricompense guadagnate, il tuo token LP rimarrà nel Crucible fino a quando non cliccherai su "Withdraw Unsubscribed LP”.
 
-Nie. To dotyczy tylko zdobytych nagród. Twój LP pozostanie w Crucible do momentu użycia opcji “Withdraw Unsubscribed LP”.
+**Cliccare "Withdraw Unsubscribed LP" porta alla distruzione del Crucible?**
 
-**Czy opcja “Withdraw Unsubscribed LP” niszczy Crucible?**
+No, lo svuota solo. Conserverai il Crucible vuoto.
 
-Nie, tylko go opróżnia. Zachowujesz pusty Crucible.
+**Posso trasferire il Crucible NFT ad un altro wallet?**
 
-**Czy mogę przenieść Crucible NFT do innego portfela?**
+Sì, la proprietà dell’NFT \(e i token LP sottoscritti\) può essere trasferita a qualsiasi wallet compatibile ERC721. Puoi farlo premendo il pulsante "Transfer Crucible" su [alchemist.farm](https://alchemist.farm/).
 
-Tak, własność NFT \(i subskrybowanych tokenów LP\) można przenieść na dowolny portfel zgodny z ERC721. Można to zrobić za pomocą przycisku "Transfer Crucible" na [alchemist.farm](https://alchemist.farm/)
+**Se trasferisco il mio Crucible da un wallet ad un altro, si azzera il moltiplicatore?**
 
-**Jeśli przeniosę swój Crucible z jednego portfela do innego, czy spowoduje to zresetowanie mnożnika?**
-
-Nie, o ile nagrody nie zostaną odsubskrybowane z Aludel.
+No, fino a quando le ricompense non vengono cancellate da Aludel.
 
