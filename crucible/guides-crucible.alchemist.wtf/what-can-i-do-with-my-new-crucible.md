@@ -33,8 +33,8 @@ Il y a de nombreuses choses que vous pouvez faire avec votre tout nouveau Crucib
 ## Transférer vos Crucible à un autre Wallet
 
 1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
-2. Localisez la synthèse de votre Crucible actuellement ouvert. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Localisez l'icône Avion en Papier à droite de votre Crucible et cliquez dessus.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
+2. Trouvez la synthèse de votre Crucible actuellement ouvert. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Trouvez l'icône Avion en Papier à droite de votre Crucible et cliquez dessus.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. Entrez l'adresse du wallet à laquelle vous souhaitez envoyer le Crucible dans le champ "Recipient Address" \(l'adresse doit être compatible ERC-721\) et appuyez sur "Transfer Crucible". ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
 5. Un message s'affiche pour confirmer le transfert, assurez vous que l'adresse est correcte avant de confirmer. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
 6. Le Crucible est maintenant en chemin vers son nouveau wallet, utilisez les liens des notifications pour suivre la transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
@@ -42,8 +42,8 @@ Il y a de nombreuses choses que vous pouvez faire avec votre tout nouveau Crucib
 ## Trouver et copier l'adresse de votre Crucible
 
 1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
-2. Localisez l'icône Avion en Papier à droite de votre Crucible et cliquez dessus.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
+2. Trouvez l'icône Avion en Papier à droite de votre Crucible et cliquez dessus.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Trouvez l'icône Copier à gauche de l'Avion en Papier, cliquez dessus, l'adresse de votre Crucible est maintenant dans votre presse-papier ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 
 
