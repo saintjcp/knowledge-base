@@ -1,4 +1,4 @@
-# Guides: alchemist.farm
+# Mode d'emploi : alchemist.farm
 
 {% hint style="info" %}
 **Guides below are for community site** [**alchemist.farm**](https://alchemist.farm/)  

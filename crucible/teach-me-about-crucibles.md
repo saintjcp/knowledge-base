@@ -15,7 +15,7 @@ Les NFT sont à l'opposé des coins :
 * Coins : 1⚗️ est 1⚗️, ils sont équivalent en valeur et en usage
 * NFTs: 1 Crucible NFT n'est pas un autre 1 Crucible NFT et il est très improbable que deux Crucibles aient une valeur équivalente.
 
-C'est un point important à comprendre, car des gens ont [déjà commencé à mettre en vente](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) leurs Crucibles sur des plateformes telles que OpenSea.
+C'est un point important à comprendre, car des personnes ont [déjà commencé à mettre en vente](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) leurs Crucibles sur des plateformes telles que OpenSea.
 
 Il convient de mentionner par souci de clarté que si vous mintez un Crucible, vous stakez également du ⚗️ dans la pool de liquidité Uniswap-V2. Vous vous engagez efficacement dans les 3 façons de gagner potentiellement de l'argent.
 

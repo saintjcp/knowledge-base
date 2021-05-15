@@ -15,11 +15,11 @@
 
 * [Bien débuter](crucible/getting-started.md)
 * [Enseignez moi les Crucibles](crucible/teach-me-about-crucibles.md)
-* [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
+* [Mode d'emploi : crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Comment minter un Crucible ?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Que puis-je faire avec mon nouveau Crucible ?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Récupérer les récompenses & Désengager vos LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
+* [Mode d'emploi : alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [J'ai minté un Crucible, et maintenant ?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Comment récupérer les récompenses et désengager votre LP de l'Aludel en utilisant le réseau TaiChi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [Guides Visuels 🎞](crucible/guides-alchemist.farm/visual-guides.md)
