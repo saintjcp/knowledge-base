@@ -1,34 +1,34 @@
-# Alchemist Builders Onboarding Guide
+# Ghidul de Integrare in Construirea Alchemist
 
 ## Viziune
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+Deci, crezi că ai obținut tot ce ai nevoie pentru a deveni alchimist, pentru a merge pe calea Marii Lucrări care ar putea să te conducă pe trasee niciodată parcurse, teritorii neexplorate - ca cel mai mare alchimist din vremurile noastre - faimosul psihiatru Carl Jung a spus: „Un iluminat nu devine prin imaginarea figurilor de lumină, ci prin conștientizarea întunericului".
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+In laboratoarele alchimistilor de la Alchemist experimentele se concentrează pe explorarea conceptelor extrem de tehnice, în încercarea de a descoperi ingredientele necesare pentru a sintetiza în mod corespunzător Piatra Filozofală - exemple sunt experimentul Creatia unui Crucible NFT sau experimentul mistX DEX, platforma de schimb crypto fără taxe de gaz. 
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+In afara de experimentarea tehnică, breasla alchimistilor a devenit un refugiu sigur si descentralizat, unde cei obositi de studii se pot simți confortabil, în largul lor și în siguranță. Proiecte creative, precum postul de Radio Alchimist, sau identificarea liniei de creatie artă ideala pentru Crucible NFT, sunt doar câteva dintre exemplele nesfârșite de rezultate ale alchimiștilor care se joacă cu niște pahare și pâlnii în timpul liber.
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+La modul general, ne ghidam dupa principiile directoare pretuite de alchimiști încă din epoca Tablei de Smarald pentru a crea în mod eficient valoare în fiecare proces - toți participanții activi au incorporat această mentalitate, astfel încât practic sa împărtășim o viziune polarizata comuna:
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* Concentreaza-te pe valoare
+* Incepe de unde esti 
+* Progreseaza treptat facand corectii in urma feedback-ului
+* Colaboreaza și promoveaza vizibilitatea 
+* Gândește și lucrează holistic
+* Mentine-l simplu și practic 
+* Optimizeaza și automatizeaza
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+Pentru mai multe detalii citeste acest [articol](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## Acordul de Conformitate si Etica
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+Avem un orizont de gandire deschisa, salutănd pe toți cei care doresc să ni se alăture ca să participăm activ la descoperirea Elixirului Vieții. Breasla Alchimist nu limiteaza si nu pune reguli care să limiteze potențialul de creștere. Nu există nicio companie, dezvoltator sau un maestru papusar din spatele scenei care să tragă sforile. Comunitatea noastră crește zi de zi, conducand proiectul în noi - chiar inimaginate sfere. Ca organizație descentralizată, din punctul nostru de vedere este important să ne punem de acord asupra eticii și a regulilor comune de conduită. Am convenit să respectăm aceste reguli: 
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* Fii respectuos unul cu celălalt
+* Fara rasism, sexism, agitație sau activitati care dauneaza comunității 
+* Fără limbaj sau conținut neadecvat 
 
-## Hierachy
+## Ierarhia
 
 Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
 
