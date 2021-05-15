@@ -24,7 +24,7 @@ Serviciile și metodele existente ar trebui să fie privite, observate in concor
 * Evaluează abilitățile de gestionare a riscurilor.
 * Recunoaste! Uneori, aproape nimic sau chiar nimic nu poate fi refolosit. 
 
-### 3. Progress iteratively with feedback.
+### 3. Progres treptat prin feedback
 
 Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
 
