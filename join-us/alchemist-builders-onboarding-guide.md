@@ -42,7 +42,7 @@ Al patrulea grup sunt membrii „obișnuiți” ai comunității și alchimiști
 
 ### Discord
 
-#### **Descriere Generala**
+#### **Prezentare Generala**
 
 Discord este o platformă VoIP, mesagerie instantanee și distribuție digitală concepută pentru crearea comunităților. Utilizatorii Discord comunică prin apeluri vocale, apeluri video, mesaje text, conținut media și fișiere în chaturi private sau ca parte a comunităților numite „servere”. Serverele sunt o colecție de camere de chat persistente și canale de chat vocal. Discord rulează pe sistemele de operare Windows, MacOS, Android, iOS, iPadOS, Linux și în browserele web. Începând cu decembrie 2020, serviciul Discord are peste 140 de milioane de utilizatori activi lunar.
 
@@ -54,95 +54,95 @@ Discord este instrumentul nostru preferat de comunicare, întrucât oferă o sol
 
 ### Basecamp
 
-#### **Descriere Generala**
+#### **Prezentare Generala**
 
 Basecamp este o aplicație de gestionare a proiectelor pe care o puteți accesa în browser și pe telefon. Vă oferă instrumentele de care aveți nevoie pentru a configura sarcini, a programa, pentru a crea și încărca documente și fișiere, pentru a trimite mesaje și discutii cu colegii, precum și pentru a adauga în mod regulat membrii in grupul dvs. - totul într-un singur loc! 
 
 Indiferent dacă lucrezi singur și ai nevoie să devii organizaț in munca ta, sau să folosesti Basecamp pentru a colabora la un proiect cu implicarea ta sau ceva personal, Basecamp te ajuta. Este rapid de configurat și, dacă sunteți consecvent în utilizarea acestui instrument, ar trebui să vă faciliteze comunicarea cu echipa. Mai ales echipe care sunt virtuale.
 
-#### **Cum sa folosim Basecamp**
+#### **Cum folosim Basecamp**
 
 Basecamp este locul în care colectăm, dezvoltăm și planificam toate proiectele. De asemenea, in Basecamp se efectuează o alocare mai precisă a sarcinilor și responsabilităților, precum și transcrierile apelurilor și întâlnirilor. Este utilizat în primul rând pentru a oferi o imagine de ansamblu dacă dvs. și mai ales semnatarii multisig, alchimiștii superiori și constructorii implicați, doriți să priviți la proiectul Alchemist în ansamblul lui.
 
 ### Github
 
-#### **General**
+#### **Prezentare Generala**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+GitHub este o versiune de gazduire web - de control și colaborare pentru dezvoltatorii de software. GitHub facilitează colaborarea formală și informală in conding solcial oferind o interfață web către depozitul de coduri Git și instrumente de gestionare pentru colaborare. GitHub poate fi considerat un site de rețele sociale serioase pentru dezvoltatorii de software. Membrii se pot urmări reciproc, pot evalua munca reciprocă, pot primi actualizări pentru proiecte specifice și pot comunica public sau privat.
 
-#### **How we use it**
+#### Cum folosim GitHub
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub este casa digitală a dezvoltatorilor noștri. După cum s-a menționat deja în prezentare, este platforma perfectă pentru colaborarea în implementare și dezvoltare, în special pentru noi, ca organizație autonomă descentralizată. Reprezintă, separat în diferite depozite, nucleul produselor noastre.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**Link-ul GitHub:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
 
-#### **General**
+#### **Prezentare Generala**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+Linear ajută la eficientizarea proiectelor software, sprinturilor, sarcinilor și urmăririi erorilor. Este construit pentru echipe performante. Este conectat direct la Github.
 
-#### **How we use it**
+#### **Cum folosim Linear App**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+Linear este utilizat în principal de noi pentru a documenta problemele relevante pentru dezvoltatori, problemele și / sau obstacolele care apar în timpul constructiei și procesarii sarcinilor individuale \(definite anterior în Basecamp\) și în cele din urmă pentru a oferi soluții sau alternative. Astfel, Linear reprezintă instrumentul, care descompune sarcinile individuale în mod transparent și detaliat pentru subiecte tehnice. Urmărirea sarcinilor pe Github.
 
 ### Figma
 
-#### **General**
+#### **Prezentare Generala**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+Figma este un instrument de proiectare bazat pe cloud, similar cu Sketch în ceea ce privește funcționalitatea și caracteristicile, dar cu diferențe mari care fac ca Figma să fie mult mai bună pentru colaborarea în echipă. Pentru cei sceptici cu privire la astfel de afirmații, vom explica modul în care Figma simplifică procesul de proiectare și este mai eficient decât alte programe pentru a ajuta proiectanții și echipele să lucreze împreună eficient. 
 
-#### **How we use it**
+#### **Cum folosim Figma**
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+Figma este utilizată de noi, in primul rand pentru a partaja conținut creativ și a lucra împreună cu acest continut. Acestea pot fi, spre exemplu, schite de proiectare, design-uri, relevante pentru interfața de utilizare, dar și modele inițiale de proiecte comunitare de orice fel - un exemplu aici ar fi design-uri pentru one-pager. Mai ales când vine vorba de decizii de proiectare design, deoarece acestea sunt adesea influențate de gustul personal, în opinia noastră, acestea ar trebui mai întâi să fie împărtășite înainte de a fi publicate.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**Link-ul Figma:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
-#### **General**
+#### **Prezentare Generala**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape este o platformă pentru DAO-uri pentru a distribui in mod ușor și corect resursele către colaboratori. Subvențiile comunitare, salariile interne și proiectele speciale pot fi toate stimulate și recompensate chiar de comunitate. În loc de votarea groaie sau de comitete de tip cutia neagra, contribuabilii înșiși pot recompensa rapid și transparent valoarea pe care o văd fiind creată.
 
-#### **How we use it**
+#### **Cum folosesc Coordinape**
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+Alchimiștii care au primit plăți de la multisig vor fi plasați în cercuri și vor avea posibilitatea de a-și recompensa colegii lor care au contribuit.
 
-## Meeting Calender
+## Calendarul Intalnirilor
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
+Puteți găsi calendarul nostru comun [aici](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Toate datele sunt incluse, fie cele relativ la proiect sau de interes general pentru întreaga organizație. Întâlnirile sunt esențiale pentru a chestiona abordările individuale și pentru a le discuta în echipă. O transcriere va fi apoi scrisă pentru a ramane ca proba in timp pe Basecamp. Deoarece participanții sunt răspândiți în întreaga lume, orele sunt de obicei alese astfel încât să poată participa cât mai mulți cu putință
 
-## Routines to Achieve Transparency
+## Practica Transparentei
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+Într-o echipă descentralizată, uneori este dificil să se obțină o imagine de ansamblu a cine a contribuit cu ce și cât de des. Pentru a contracara acest lucru, am decis să introducem câteva practici pentru a promova transparența și vizibilitatea chiar și pentru constructori și alchimiști seniori care nu sunt implicați direct în proiect.
 
 ### Builder Stand Up
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+Pentru a face procesul mai transparent pentru toată lumea, creăm un canal \#builders-standup prin care dorim să-i încurajăm pe colaboratorii activi în proiect să posteze actualizări în mod regulat. La ce ați lucrat ultima dată și ce progrese ați făcut? La ce lucrezi în prezent? Ce blocaje / probleme ați întâmpinat de la ultima actualizare și aveți nevoie de ajutor pentru ceva?
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+De asemenea, dorim să vă încurajăm să vă împingeți frecvent toate ramurile "Work In Progress" către GitHub și mai ales Joi, astfel încât alchimiștii seniori să aibă o idee mai bună despre cum să calculați distribuția de salarii pentru acea săptămână.
 
-### Participation on Scheduled Meetings
+### Participarea la Intalnirile Programate
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+Așa cum s-a descris deja la subiectul „Calendarul întâlnirilor”, apreciem schimbul plin de viață din echipă pe teme actuale. Cel mai simplu și mai putin complicat mod de a face acest lucru este întotdeauna cuvântul rostit. Prin urmare, participarea regulată este esențială din mai multe motive în același timp - găsirea de soluții rapide, gruparea mai multor opinii cu privire la anumite subiecte, găsirea unei abordări majoritare și promovarea integrității. Dacă nu este posibil si nu puteți participa în principiu sau ca excepție, informați echipa dvs. și apoi luați transcrierea \(Basecamp\) pentru a fi la curent.
 
-### Communication and Tool Interactions
+### Comunicare si Folosirea Instrumentelor
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+Avem diferite instrumente în utilizare, pe care, desigur, dorim să le folosim, pentru a putea recunoaște progresul așteptărilor stabilite. Munca depusă ar trebui să fie concentrată în ambele sensuri. Comunicarea etapelor mici sau mari este adesea relevantă pentru întregul proiect, chiar dacă acest lucru nu este întotdeauna vizibil neapărat la prima vedere și, prin urmare, ar trebui să fie în Basecamp \(Project Management\), Linear \(dezvoltator\), Figma \(artist\) și / sau pot fi găsite în Discord. De aceea, dorim să vă încurajăm să comunicați cat mai mult și activ prin oricare dintre canalele puse la dispoziția voastra.
 
 ## Feedback
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+Am dori să vă susținem cu integrarea în calitate de constructor și, prin urmare, am încorporat discuții de feedback fix în faza inițială. Un alchimist senior sau un coleg constructor vă va răspunde la întrebări după prima dvs. prezentare generală și vă va atribui un punct de la care sa porniti. Scopul conversației este de a clarifica ambiguitățile și de a răspunde la întrebări de tot felul, astfel încât să puteți face parte din proiectul dvs. cât mai mult posibil de la început.
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+O altă întâlnire de feedback este stabilită după aproximativ 2 săptămâni, când am dori să știm în special cât de bine te-ai stabilit și cât de lipsit de simptome ai reușit să-ți aduci punctele forte la valoarea proiectului. De asemenea, încercăm să ne optimizăm procesul de integrare prin feedback-ul pe care ni-l oferiți.
 
-## The Builders' Stipend
+## Bursa Stimulent a Constructorului
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+Odată ce încep eforturile de dezvoltare, alchimiștii seniori încep să aloce o bursă  stimulent destinata constructorilor pentru a o distribui între membrii echipei care contribuie activ la proiect. Acest stimulent provine dintr-un fond finit de $MIST și este distribuită săptămânal pe baza a ceea ce Alchimiștii Seniori consideră a fi cea mai benefică alocare pentru alimentarea creșterii proiectului. Se poate modifica cu fiecare plată, dar alchimiștii seniori vor oferi de obicei o justificare aproximativă pentru motivul pentru care fondurile au fost distribuite în mod specific.
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+Bursa stimulent pentru constructori este aici pentru a vă ușura să lăsați deoparte alte distrageri și să vă concentrați asupra construirii împreună cu restul alchimiștilor. Nu este un salariu. Nu este menit să fie principalul stimulent pentru a vă conduce contribuțiile. Dacă sunteți aici ca mercenar și doriți doar să fiți plătiți, atunci probabil că vă aflați într-o comunitate greșită.
 
-## Onboarding Form
+## Formularul de Integrare
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Pentru a lua parte in procesul de integrare, te rog sa completezi acest [formular](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 
