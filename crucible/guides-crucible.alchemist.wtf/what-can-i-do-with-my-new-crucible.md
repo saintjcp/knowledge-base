@@ -18,31 +18,31 @@ Il y a de nombreuses choses que vous pouvez faire avec votre tout nouveau Crucib
 
 ## Augmenter votre souscription en LP
 
-1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Cliquez sur le bouton "Increase LP Subscription" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
-3. Précisez le nombre de LP que vous souhaitez ajouter à la souscription et appuyez sur "Increase Subscription" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
+1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
+2. Cliquez sur le bouton "Increase LP Subscription". ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
+3. Précisez le nombre de LP que vous souhaitez ajouter à la souscription et appuyez sur "Increase Subscription". ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
 4. Signez les 2 demandes de signature et confirmez la demande de transaction.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
 5. Vos LP devraient maintenant être soumis à la souscription du Crucible, vous pouvez voir votre transaction en regardant les messages qui apparaissent une fois que votre transaction a été soumise.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
 6. Une fois la transaction terminée, votre Crucible devrait représenter vos LP nouvellement soumis.
 
 ## Vérifier le nombre de LP que vous avez soumis au Crucible
 
-1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
 2. Vous devriez voir vos "Subscribed Crucible LP" \(LP soumis au Crucible\) et vos "Unsubscribed Crucible  LP" \(LP non soumis au Crucible\).
 
 ## Transférer vos Crucible à un autre Wallet
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
-4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
-6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
+1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
+2. Localisez la synthèse de votre Crucible actuellement ouvert. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. Localisez l'icône Avion en Papier à droite de votre Crucible et cliquez dessus.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
+4. Entrez l'adresse du wallet à laquelle vous souhaitez envoyer le Crucible dans le champ "Recipient Address" \(l'adresse doit être compatible ERC-721\) et appuyez sur "Transfer Crucible". ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
+5. Un message s'affiche pour confirmer le transfert, assurez vous que l'adresse est correcte avant de confirmer. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
+6. Le Crucible est maintenant en chemin vers son nouveau wallet, utilisez les liens des notifications pour suivre la transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
-## Locating and Copying your Crucible Address
+## Trouver et copier l'adresse de votre Crucible
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+1. Suivez les étapes 1 à 5 de [Vérifier vos récompenses](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
+2. Localisez l'icône Avion en Papier à droite de votre Crucible et cliquez dessus.![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 
