@@ -20,15 +20,15 @@ Crucible obsługuje tylko pulę płynności **Uniswap V2**. Dodanie płynności 
 
 Drugim sposobem jest postawienie go w puli płynności obok równowartościowej części Etheru \(ETH\). Kiedy to zrobisz, otrzymasz tokeny puli płynności \(LP\), które reprezentują Twoją stawkę w tej puli płynności. Ostatecznie tokeny LP są używane do wycofania oryginalnego ⚗️ i ETH z puli, gdy zdecydujesz się na zakończenie udziału.
 
-Pula płynności służy do ułatwiania transakcji pomiędzy ⚗️ a ETH innym osobom, które chcą taką transakcję zawrzeć. Każda transakcja wiąże się z niewielką opłatą dla osoby dokonującej transakcji. Posiadając tokeny LP, otrzymujesz część tych opłat, proporcjonalnie do LP, które posiadasz w stosunku do całkowitego LP. \(Na przykład, jeśli Twój LP stanowi 1% całkowitego LP, otrzymujesz 1% opłat z całej puli\)
+Mechanizm puli płynności służy do ułatwiania transakcji pomiędzy ⚗️ a ETH innym osobom, które chcą zawrzeć taką transakcję. Każda transakcja wiąże się z niewielką opłatą ponoszoną przez osobę dokonującą transakcji. Posiadając tokeny LP, otrzymujesz część tych opłat, proporcjonalnie do LP, które posiadasz w stosunku do całkowitego LP. \(Na przykład, jeśli Twój LP stanowi 1% całkowitego LP, otrzymujesz 1% opłat z całej puli\)
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+Ten mechanizm czerpania zysków z opłat za udział w puli płynności nie różni się od stakowania jakiejkolwiek innej monety w jakiejkolwiek innej puli płynności. W związku z tym jest podatny na „nietrwałą stratę” \(Impermanent loss\), w wyniku której jako staker tracisz pieniądze, wycofując postawione monety po tym, jak ich względna wartość zmieniła się od czasu ich zasubskrybowania. Jeśli nie jesteś zaznajomiony z tą koncepcją, zalecam dalsze badania, dopóki jej nie zrozumiesz - istnieje wiele zasobów, które wyjaśniają to lepiej niż ja.
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
 ### 3. Aludel
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+Tutaj dzieje się alchemia. "Aludel" to nazwa programu nagród, w którym można zdobyć ⚗️ i ETH w zamian za subskrypcję tokenów LP w Crucible.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+Więcej informacji na temat Crucibles znajdziesz na stronie "[Dowiedz się więcej o Crucibles](crucible/teach-me-about-crucibles.md)".
 
