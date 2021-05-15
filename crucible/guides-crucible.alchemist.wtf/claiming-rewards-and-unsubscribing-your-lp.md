@@ -1,26 +1,22 @@
 # Récupérer les récompenses & Désengager vos LP
 
-At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
+À un moment donné, vous pouvez décider que vous êtes prêt à récupérer vos récompenses et à désengager vos LP de votre Crucible.
 
-The guide below is designed to step you through that process.
+Le mode d'emploi ci-dessous vous guidera pas à pas dans ce process. 
 
 {% hint style="warning" %}
-You will need to switch to the TaiChi network to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
+Vous aurez besoin de passer sur le réseau TaiChi pour protéger votre transaction des bots de front run au moment de vous désengager / récupérer vos récompense.
 
-This step is mandatory and instructions are included in the steps below
+Cette étape est obligatoire et les instructions sont incluses dans les étapes ci-dessous.
 {% endhint %}
 
-1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
-2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to claim rewards from and unsubscribe LP by clicking the downwards facing arrow:
-
-  
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-
-3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. Click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. You should now be shown a more complex list of statistics under the tab "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
-6. Click "Claim rewards and unsubscribe" at the bottom of the page  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. **Before continuing to the next step,** you will now need to connect your wallet to the TaiChi Network, please refer to [this link for connection details and instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md), we have made animated tutorial below to step you through this process.  ![](../../.gitbook/assets/taichi-network-add.gif) 
+1. Ouvrez [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connectez votre wallet et ouvrez l'onlget "Your Crucibles".
+2. Une fois sur l'onglet "Your Crucibles", affichez les détails du Crucible pour lequel vous souhaitez récupérer les récompenses et désengager les LP en cliquant sur la flèche pointant vers les bas. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+3. Votre Crucible devrait maitenant vous afficher davantage d'informations, telles que le nombre de MIST ou d'ETH gagnés en récompenses. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+4. Cliquez sur le bouton "Manage Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
+5. Vous devriez alors voir une liste plus complexe de statistiques sous l'onglet "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+6. Cliquez sur "Claim rewards and unsubscribe" en bas de la page. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
+7. **Avant de passer à l'étape suivante,** vous aurez besoin de connecter votre wallet au réseau TaiChi, référez vous à ce [lien pour les détails de connexion et les instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md), nous avons réalisé un tutoriel animé ci-dessous pour vous guider pas à pas dans ce process. ![](../../.gitbook/assets/taichi-network-add.gif) 
 8. Make sure MetaMask is showing the TaiChi network as below.
 
    ![](https://i.imgur.com/kszVVbq.png)
