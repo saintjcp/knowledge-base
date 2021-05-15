@@ -16,7 +16,7 @@ Upewnij się, że dodajesz tokeny do puli V2, a nie V3.
 {% endhint %}
 
 {% hint style="info" %}
-System nagród Aludel to ciągle trwający eksperyment. Przed wzięciem udziału w programie pamiętaj o poniższych środkach ostrożności.
+System nagród Aludel to ciągle trwający eksperyment. Przed wzięciem udziału w programie pamiętaj o wspomnianych środkach ostrożności.
 {% endhint %}
 
 Jeśli przeczytałeś powyższe uwagi, jesteś gotowy, aby przejść do nauki [na temat Crucibles](teach-me-about-crucibles.md).
