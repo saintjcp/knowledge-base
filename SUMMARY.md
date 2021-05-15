@@ -1,7 +1,6 @@
 # Table of contents
 
 * [什么是 Alchemist?](README.md)
-* [Alchemist ⚗️$mist 常见问题解答](alchemist-mist-chang-jian-wen-ti-jie-da.md)
 
 ## Crucible
 
