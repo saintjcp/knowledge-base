@@ -8,7 +8,7 @@
 ---
 
 * [Podstawy](the-basic-outline.md)
-* [Acquiring & Subscribing](acquiring-and-subscribing.md)
+* [Pozyskiwanie i Subskrybowanie](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 
 ## Crucible
