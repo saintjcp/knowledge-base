@@ -96,100 +96,102 @@ No, as long as the rewards are not unsubscribed from the Aludel.
 
 
 
-## **Przed kontynuowaniem obejrzyj ten film o nietrwałej stracie \(Impermanent loss\)**
+## **請觀看有關暫時性損失的視頻，然後再繼續**
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" %}
 
-**Jak wziąć udział w Aludel / Jak wybić Crucible NFT \(How to mint Crucible NFT\)?**
+**如何參加 Aludel / 如何鑄造 Crucible NFT?**
 
-Aby wziąć udział w Aludel, musisz wybić Crucible NFT, a następnie zdeponować w nim tokeny LP ⚗️$mist/ETH z Uniswap \(pomyśl o tym jako o wirtualnym skarbcu\). Następnie Crucible gromadzi nagrody z programu Aludel proporcjonalnie do ilości i czasu subskrypcji tokenów LP.. Koszt wybicia Crucible i subskrypcji zależy od aktualnych cen gazu ethereum, można się spodziewać, że wyniesie ok. 0,1-0,2 ETH.
+參加 Aludel 之前，您需要鑄造一個 Crucible NFT，並將一些 ⚗️$mist/ETH Uniswap LP 代幣存入其中\(將其視為虛擬金庫\)。 Crucible 從 Aludel 中獲得的獎勵與認購的 LP 代幣的數量和持續時間成比例。鑄造 Crucible 和訂閱的成本取決於以太坊當前的手續費價格，預計為0.1-0.2 ETH。
 
 {% hint style="warning" %}
-**Ważna informacja :**
+**重要信息:**
 
-Nie używaj przeglądarki Brave, ponieważ nie jest ona obecnie zgodna z procesem, a transakcja zakończy się niepowodzeniem, co spowoduje utratę opłat.
+請勿使用Brave瀏覽器，因為它目前與該流程不兼容，這可能會導致交易失敗，造成費用損失。
 
-Obecnie nie zalecamy korzystania z portfela sprzętowego, ponieważ wiele z nich obecnie nie obsługuje podpisu EIP-712. Gdy to naprawią, będziemy mogli to zaimplementować.
+我們目前不建議您使用硬件錢包，因為很多錢包目前不支持EIP-712簽名，可以等他們解決這個問題之後再使用
 
-Niektórzy użytkownicy zgłaszali problemy z Trustwallet.
+有些用戶在使用 Trustwallet 時出現問題。
 
-Nie zalecamy przechodzenia przez proces na telefonie komórkowym.
+我們不建議您在移動設備上執行此操作。
 {% endhint %}
 
-1. W celu wybicia Crucible przejdź do strony internetowej, [https://crucible.alchemist.wtf/](https://crucible.alchemist.wtf/)
-2. Podłącz portfel MetaMask
-3. Wpisz ilość LP, którą chcesz umieścić w Crucible.
-4. Kliknij “Mint Crucible and Subscribe LP to Aludel”. Otrzymasz 2 komunikaty za pośrednictwem wyskakującego okienka MetaMask, podpisz je i poczekaj na zakończenie.
-5. Następnie zostaniesz poproszony o potwierdzenie transakcji, aby utworzyć Crucible. Zwykle kosztuje to około 0,1-0,2 Eth. Jeśli zgadzasz się na cenę gazu, naciśnij przycisk confirm i poczekaj, aż transakcja zostanie zakończona.
-6. Po zakończeniu zobaczysz swój nowy Crucible na Etherscan w zakładce tokenów Erc721.
+1. 鑄造 Crucible 首先訪問網站 [alchemist.farm](https://alchemist.farm/) 。
+2. 連接MetaMask錢包。
+3. 輸入您希望放入 Crucible 的LP數量。
+4. 點擊 “鑄造 Crucible，並向 Aludel 訂閱 LP”。 MetaMask 會彈出兩個需要簽字的窗口，對它們進行簽名並等待完成。
+5. 接下來，系統會要求您確認交易，通常需要 0.1-0.2 Eth。如果您接受這個手續費，請按確認並等待交易完成。
+6. 完成後，您將在 Etherscan 的 Erc721 代幣選項卡中看到新的 Crucible。
 
-**Dlaczego nie widzę tokenów ⚗️$mist w moim portfelu?**
+**為什麼我的錢包裡看不到我的 ⚗️Mist ?**
 
-Możesz dodać adres kontraktu **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** aby tokeny zaczeły być widoczne.
+您可以添加合約地址 **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** 以使其可見。
 
-**Dlaczego nie widzę mojego LP w portfelu?**
+**為什麼我的錢包裡看不到我的 LP?**
 
-Możesz dodać adres kontraktu **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** aby tokeny LP zaczeły być widoczne.
+您可以添加合約地址 **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** 以使其可見。
 
-**Dlaczego nie widzę mojego Crucible w portfelu?**
+**為什麼我的錢包裡看不到 Crucible?**
 
-Możesz dodać adres kontraktu **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** aby Crucible zaczął być widoczny.
+您可以添加合約地址 **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** 以使其可見。
 
-**Jakie są nagrody za subskrypcję w Aludel?**
+**訂閱 Aludel 有什麼獎勵？**
 
-Nagrody są rozdzielane z puli nagród proporcjonalnie do ilości i czasu trwania Subskrypcji. Im więcej ⚗️$mist/ETH Uniswap LP tokenów subskrybujesz i na im dłużej je zostawiasz, tym więcej nagród zgromadzisz. Program Aludel został stworzony, aby nagradzać długoterminowych uczestników.
+獎勵是根據獎勵的數量和持續時間從獎勵池中按比例分配的。您訂閱的⚗️$mist/ETH Uniswap LP 代幣越多，留下的時間越長，它累積的獎勵就越多。 Aludel 獎勵計劃旨在獎勵長期參與者。
 
-Pulę nagród możesz zobaczyć [tutaj.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
+您可以在[此](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)查看獎勵池。
 
-**Jak zostać certyfikowanym alchemikiem na Discordzie?**
+**如何成為 Discord 認證的 Alchemist?**
 
-* Proszę skorzystaj z tego [przewodnika](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
-* Dołącz do Discord
-* Przejdź do kanału Welcome i wyślij wiadomość !join
-* Otrzymasz wtedy wiadomość od bota Collab.Land
-* Podłącz swój portfel zawierający ⚗️$mist
-* Bot wyśle Ci wiadomość  ~ Updating roles, Please check assigned roles in Alchemist
-* Zamknij bota i wróć do głównego kanału alchemii, a zostaniesz certyfikowanym alchemikiem!
+* 請使用[指南](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
+* 加入Discord
+* 轉到 “Welcome” 頻道, 輸入 !join
+* 然後，您將從 Collab.Landbot 中收到一條消息
+* 連接您放置 ⚗️$mist 的錢包
+* 然後機器人會給您發信息 ~更新角色，請在 Alchemist 中檢查分配的角色
+* 關閉機器人並返回主 Alchemist 頻道，您將成為一個合格的 Alchemist!
 
-**Jak odebrać nagrody?**
+**我該如何領取獎勵?**
 
-Wszystkie nagrody otrzymasz, gdy użyjesz opcji "Claim Rewards and Unsubscribe LP". Uważaj, to resetuje również mnożnik nagród. Będziesz musiał w tym celu skorzystać z Taichi Network, aby uniemożliwić botom przejmowanie Twoich nagród. Zobacz ten [przewodnik]().
+當您“申領獎勵並退訂 LP ”時，所有的獎勵都將收到。請注意，這也會重置您的獎勵乘數。執行此操作時，您需要使用太極網絡，以防機器人搶先獲得您的獎勵。請參閱本[指南](https://hackmd.io/@alchemistcoin/SkySqTTIu)。
 
-**Czy ma znaczenie jak dużo tokenów LP trafia do Crucible?**
+**有多少 LP 代幣放入 Crucible 重要嗎?**
 
-Im więcej tokenów LP posiadasz, tym więcej płynności dostarczasz, a tym samym większy procent puli nagród przypada dla Ciebie. Nie ma wymagananej minimalnej ilość LP, ale sugerujemy rozważenie kosztu gazu etherum jaki trzeba ponieść.
+您獲得的LP代幣越多，提供的流動性就越高，因此您獲得獎勵池的比重就越大。沒有最低 LP 要求，但我們建議您在考慮這一點時注意以太坊Gas的成本。
 
-**Czy bardziej opłaca się mieć kilka sztuk Crucible, czy większą subksrypcję w jednej sztuce Crucible?**
+**是擁有更多的 Crucible 更有利，還是在一個 Crucible 中擁有更高的訂閱量更有利?**
 
-Prawie zawsze lepiej jest gromadzić LP w jednym Crucible, ponieważ minimalizuje to koszty gazu.
+在單個 Crucible 中累積 LP 代幣總是更好的，因為它可以最大程度地減少礦工成本。
 
-Jedynym przypadkiem, w którym mógłbyś użyć wielu Crucible, jest zamiar przeniesienia / sprzedaży Crucible z aktywną subskrypcją.
+唯一要使用多個 Crucible 的情況是，您打算轉讓或出售被激活與訂閱的 Crucible。
 
-**W jaki sposób opcja "Claim Rewards and Unsubscribe LP" wpływa na mnożnik nagrody?**
+**“申領獎勵和退訂 LP” 如何影響獎勵乘數?**
 
-Za każdym razem, gdy umieszczasz tokeny LP w programie nagród Aludel, program śledzi, jak długo te tokeny są subskrybowane. Aludel stosuje mnożnik nagrody, który zaczyna się od 1x i rośnie do 10x w ciągu 60 dni. Kiedy ubiegasz się o wypłatę częściowej kwoty, Aludel najpierw odbiera subskrypcję z najniższym mnożnikiem \(Last In, First Out\).
+每次您把 LP 代幣放入 Aludel 獎勵程序時，它會跟踪這些代幣認購了多長時間。 Aludel 應用獎勵乘數，從1倍開始，在60天內增加到10倍。當您申領部分金額時，Aludel 率先從訂閱中申領最低乘數的金額\(後進先出\)。
 
-**Czy mogę w międzyczasie sprawdzić jak dużą nagrodę zdobyłem?**
+**我能以某種方式看到我在此期間獲得了多少獎勵嗎?**
 
-Możesz zobaczyć zgromadzoną nagrodę za swój Crucible używając interfejsu użytkownika na [alchemist.farm](https://alchemist.farm), a skumulowane opłaty za Uniswap LP możesz sprawdzić za pomocą [apy.vision](https://apy.vision/) lub [croco.finance](https://croco.finance/)
+您可以使用 [alchemist.farm](https://alchemist.farm) 上的UI 來查看Crucible 的累積獎勵，並使用[apy.vision](https://apy.vision/) 或 [croco.finance](https://croco.finance/)來查看Uniswap LP累積的費用。
 
-**Czy mogę dodać więcej LP do istniejącego Crucible?**
+**我可以在現有的 Crucible 中添加更多的 LP 嗎?**
 
-Tak. Gaz potrzebny do dodania LP do obecnego Crucible będzie znacznie niższy niż podczas pierwszego wybicia Crucible. Każde wydarzenie związane z subskrypcją jest niezależne, więc każdy dodany LP będzie niezależnie rozpoczynał swój własny mnożnik.
+可以。向您當前的 Crucible 中添加更多 LP 的礦工費比最初鑄造Crucible 時要低得多。每個訂閱都是獨立的，因此您添加的任何 LP 都會獨立啟動自己的乘法器。
 
-**Czy opcja “Claim Rewards and Unsubscribe LP” usuwa moje LP i nagrody z Crucible?**
+**“申領獎勵和退訂 LP”是否會從 Crucible 中刪除我的 LP 和獎勵?**
 
-Nie. To dotyczy tylko zdobytych nagród. Twój LP pozostanie w Crucible do momentu użycia opcji “Withdraw Unsubscribed LP”.
+不會。這僅要求獲得所獲得的獎勵，您的 LP 將保留在 Crucible 中，直到您 “撤回未訂閱的 LP” 為止。
 
-**Czy opcja “Withdraw Unsubscribed LP” niszczy Crucible?**
+**“撤回未訂閱的 LP”是否會破壞 Crucible ？**
 
-Nie, tylko go opróżnia. Zachowujesz pusty Crucible.
+不會。它只是將其清空，您會保留空的 Crucible。
 
-**Czy mogę przenieść Crucible NFT do innego portfela?**
+**我可以將 Crucible NFT 轉移到另一個錢包嗎?**
 
-Tak, własność NFT \(i subskrybowanych tokenów LP\) można przenieść na dowolny portfel zgodny z ERC721. Można to zrobić za pomocą przycisku "Transfer Crucible" na [alchemist.farm](https://alchemist.farm/)
+可以。可以將 NFT（和訂閱的 LP 代幣）的所有權轉移到任何 ERC721 兼容的錢包。這可以通過 [alchemist.farm](https://alchemist.farm/) 上的 “轉移 Crucible” 按鈕來完成。
 
-**Jeśli przeniosę swój Crucible z jednego portfela do innego, czy spowoduje to zresetowanie mnożnika?**
+**如果我將 Crucible 從一個錢包轉移到另一個錢包，那會重置乘數嗎?**
 
-Nie, o ile nagrody nie zostaną odsubskrybowane z Aludel.
+不會。只要獎勵不是從 Aludel 退訂即可。
+
+\*\*\*\*
 
