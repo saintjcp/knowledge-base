@@ -1,10 +1,10 @@
-# Dowiedz się więcej o Crucibles
+# Dowiedz się więcej o Crucible
 
-## What is a Crucible?
+## Czym jest Crucible?
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+Jest to NFT, który reprezentuje zasubskrybowane tokeny LP. Czynność tworzenia jednej sztuki określana jest jako wybijanie \(minting\).
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+Jeżeli Crucible ma zasubskrybowane tokeny LP w programie Aludel to jego właściciel zyskuje ⚗️ oraz ETH. Całkowita dostępna nagroda to 50% tokenów ⚗️ pochodzących z 1% inflacji, która występuje co 14 dni oraz z ETH zebranego podczas inicjalnej puli Balancera. Crucible z zasubskrybowanymi tokenami LP otrzymuje ułamek z całości nagród w zależności od wielkości udziału w całkowitej puli płynności wraz z uwzględnieniem czasu jaki LP był subskrybowany w porównaniu z innymi LP tokenami.
 
 ### What is an NFT?
 
