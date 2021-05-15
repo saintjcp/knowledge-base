@@ -1,6 +1,6 @@
 # Ghidul de Integrare in Construirea Alchemist
 
-## Viziune
+## Viziunea Alchemist
 
 Deci, crezi că ai obținut tot ce ai nevoie pentru a deveni alchimist, pentru a merge pe calea Marii Lucrări care ar putea să te conducă pe trasee niciodată parcurse, teritorii neexplorate - ca cel mai mare alchimist din vremurile noastre - faimosul psihiatru Carl Jung a spus: „Un iluminat nu devine prin imaginarea figurilor de lumină, ci prin conștientizarea întunericului".
 
