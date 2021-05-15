@@ -1,4 +1,4 @@
-# Teach me about Crucibles
+# Dowiedz się więcej o Crucibles
 
 ## What is a Crucible?
 
