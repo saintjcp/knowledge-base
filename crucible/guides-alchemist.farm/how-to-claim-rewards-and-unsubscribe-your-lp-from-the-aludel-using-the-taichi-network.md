@@ -1,4 +1,4 @@
-# Jak użyć opcji Claim Rewards and Unsubscribe your LP z programu Aludel używając sieci TaiCh
+# How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network
 
 {% hint style="info" %}
 The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
@@ -30,33 +30,37 @@ The reason for using the TaiChi network is to protect your transaction from bein
 
 \*\*\*\*
 
-**Kontekst: powodem korzystania z sieci TaiChi jest to, że chroni ona użytkownika przed atakiem botów podczas rezygnacji z subskrypcji**
+**背景：使用太极网络的原因是它可以防止用户在退订时被机器人抢占先机。**
 
-1. Przejdź do [Alchemist.farm](https://alchemist.farm)
-2. Podłącz portfel jak zwykle do normalnej sieci ethereum
-3. Przejdź do zakładki Crucibles
-4. Kliknij “Claim Rewards and Unsubscribe LP” 
-5. Pojawi się wyskakujące okienko i będziesz musiał przejść przez  “[przewodnik](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” zaznaczony na niebiesko i postępować zgodnie z instrukcjami, które poinstruują Cię, jak dodać sieć TaiChi do portfela MetaMask ![](https://i.imgur.com/GvfeO9X.png)
-6. Po dodaniu sieci TaiChi, musisz się upewnić, że MetaMask jej używa. Aby to sprawdzić, powinieneś zobaczyć TaiChi na górze swojego MetaMask ![](https://i.imgur.com/kszVVbq.png)
-7. Po połączeniu się z TaiChi możesz teraz kliknąć “Claim Rewards and Unsubscribe LP”
-8. Wprowadź ilość LP, którą chcesz odebrać i anulować dla nich subskrypcję, a następnie naciśnij niebieski przycisk ~ “Claim Rewards and Unsubscribe LP”
-9. Pojawi się teraz wyskakujące okienko MetaMask z “Signature Request” kliknij “sign”
-10. Następnie otrzymasz powiadomienie o transferze środków z MetaMask, jak pokazano poniżej. **Sugerujemy sprawdzenie Gas Fee poprzez kliknięcie przycisku EDIT.  Niektórzy użytkownicy zgłosili, że domyślna opcja jest najwolniejsza, co może opóźnić zakończenie transakcji. Jeśli obawiasz się, że opłaty za gaz są zbyt wysokie, użyj** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/)**, aby zdecydować, kiedy opłaty za gas mogą być najniższe**
+1. 前往 [Alchemist.farm](https://alchemist.farm/)
+2. 在普通的以太坊网络上连接你的钱包
+3. 转到 Crucibles 选项
+4. 点击“领取奖励并退订LP”
+5. 这时会弹出一个提示框，你需要点击蓝色的“[指南](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)”, 然后按照提示将太极网络添加到你的 MetaMask 钱包中
 
-    ![](https://i.imgur.com/FKnztJS.png)
+   ![](https://i.imgur.com/GvfeO9X.png)
 
-11. Transakcja zostanie teraz wysłana do sieci TaiChi. Nie będziesz mógł zobaczyć tej transakcji na etherscan, więc nie panikuj! Pojawi się tam po zakończeniu transakcji
-12. Jeśli chcesz sprawdzić, czy transakcja jest realizowana na TaiChi, możesz wkleić hash transakcji do [https://taichi.network/](https://taichi.network/), aby zobaczyć jej postęp
-13. Sieć TaiChi jest trochę wolniejsza niż sieć ethereum
-14. Gdy transakcja przejdzie i zostanie zakończona, będziesz musiał przełączyć się z powrotem do sieci ethereum, aby wyświetlić Crucible
+6. 一旦添加了太极网络，你需要确保 MetaMask 正在使用它。操作正确的情况下，你会在 MetaMask 的顶部看到 TAICHI 
 
-    ![](https://i.imgur.com/fcPY6Zp.png)
+![](https://i.imgur.com/kszVVbq.png)
 
-15. Kliknij odśwież, a zobaczysz teraz Crucible z usuniętymi tokenami LP
+1. 连接到太极之后，你可以点击 “领取奖励并退订 LP”
+2. 输入你想申领和退订的 LP 数额，然后按蓝色按钮 “领取奖励并退订 LP”
+3. 这时，MetaMask 会弹出一个提示框，询问“签名请求”，然后你单击“签名”
+4. 接下来，MetaMask 会弹出一个转账通知框，如下所示。 **我们建议你点击“编辑”按钮查看矿工费。一些用户已将此默认值设置为最慢的选项，但可能会延迟交易完成。如果你担心矿工费太高，请使用**[**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **帮助确定何时可能出现最低的矿工费**
+
+![](https://i.imgur.com/FKnztJS.png)
+
+1. 此时，交易将被发送到太极网络。你无法在etherscan上看到这个交易，但不要惊慌！一旦交易完成，它就会出现在下图所示的这里
+2. 如果你想检查交易是否在太极网络上进行，可以将交易哈希值粘贴到 [https://taichi.network/](https://taichi.network/) 中以查看其进度
+3. 太极网络会比以太坊网络慢一点
+4. 交易通过并完成后，你需要切换回以太坊网络以查看 Crucible
+
+![](https://i.imgur.com/fcPY6Zp.png)
+
+1. 单击刷新，你将看到已删除 LP 代币的 Crucible
 
 ![](https://i.imgur.com/f3rwsfA.png)
-
-\*\*\*\*
 
 \*\*\*\*
 
