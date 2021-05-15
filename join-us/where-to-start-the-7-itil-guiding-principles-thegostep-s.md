@@ -1,28 +1,28 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# Unde să încep? - Cele 7 principii directoare ITIL \(thegostep\(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+Un principiu director este o recomandare care oferă o îndrumare universală și durabilă unei organizații, care se aplică în toate circumstanțele, indiferent de schimbările în obiective, strategii, tipul de muncă sau structura de management.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1. Concentrare pe valoare 
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+Tot ceea ce face organizația ar trebui in mod direct sau indirect, sa aduca plus valoare pentru organizatie „clienții” săi și alte părți interesate. Când vă concentrați asupra valorii, primul pas este să știu cine sunt clienții și părțile cheie interesate carora valoarea mea le este oferita. În al doilea rând, este important să înțelegem ce reprezintă valoarea din perspectiva consumatorului. De asemenea, este esențial să înțelegem experiența clientului cu organizația și produsul / serviciul printr-o conștientizare clară a experienței clientului sau a experienței utilizatorului.
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* Cunoaște utilizarea serviciului / produsului / organizației
+* Încurajeaza concentrarea asupra valorii în rândul membrilor echipei.
+* Concentreaza-te pe valoare în timpul fiecărei activități operaționale normale.
+* Include în orice inițiativă de îmbunătățire accentul pe valoare.
 
-### 2. Start where you are.
+### 2. Începe de unde esti
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+Când căutați o oportunitate de îmbunătățire, nu o luați de la capăt fără a lua în considerare ceea ce este deja disponibil pentru a fi multiplicat, imbunatatit. Nu ar trebui să vă pierdeți timpul dărâmând baza muncii - fiți conștienți de ceea ce a fost investit \(costuri, transpirație și timp\).
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+Serviciile și metodele existente ar trebui să fie privite, observate in concordanta cu măsuratori specifice, dacă este posibil, pentru a înțelege corect starea lor actuală și ceea ce poate fi reutilizat din acestea. Informațiile ar trebui să fie întotdeauna cât mai exacte posibil pentru a lua decizii obiective. Întotdeauna vedeți măsurarea ca un suport pentru analiză. Fiți conștienți - măsurarea este utilizată pentru a sprijini analiza a ceea ce a fost observat, mai degrabă decât pentru a-l înlocui, deoarece excesul de dependență de analiza și raportarea datelor poate introduce în mod neintenționat prejudecăți și riscuri în luarea deciziilor.
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+* Punctul de plecare este fie „clientul”, fie rezultatul. Judeca metodele existente cât mai obiective posibil! 
+* Ai găsit practici existente de succes? Utilizati-le! Determinați dacă și cum acestea pot fi extinse și reproduse pentru a obține o îmbunătățire dorită.
+* Evaluează abilitățile de gestionare a riscurilor.
+* Recunoaste! Uneori, aproape nimic sau chiar nimic nu poate fi refolosit. 
 
 ### 3. Progress iteratively with feedback.
 
