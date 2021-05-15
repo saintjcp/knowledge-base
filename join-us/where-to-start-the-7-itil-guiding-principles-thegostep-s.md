@@ -1,4 +1,4 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# Où commencer ? – les 7 principes directeurs ITIL  \(thegostep\(s\);\)\)!
 
 A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
 
