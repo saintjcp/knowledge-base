@@ -47,18 +47,20 @@ The reason for using the TaiChi network is to protect your transaction from bein
 1. 连接到太极之后，你可以点击 “领取奖励并退订 LP”
 2. 输入你想申领和退订的 LP 数额，然后按蓝色按钮 “领取奖励并退订 LP”
 3. 这时，MetaMask 会弹出一个提示框，询问“签名请求”，然后你单击“签名”
-4. 接下来，MetaMask 会弹出一个转账通知框，如下所示。 **我们建议你点击“编辑”按钮查看矿工费。一些用户已将此默认值设置为最慢的选项，但可能会延迟交易完成。如果你担心矿工费太高，请使用**[**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **帮助确定何时可能出现最低的矿工费**
+4. 接下来，MetaMask 会弹出一个转账通知框，如下所示。 **我们建议你点击“编辑”按钮查看矿工费。一些用户已将此默认值设置为最慢的选项，但可能会延迟交易完成。如果你担心矿工费太高，请使用**[**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **帮助确定何时可能出现最低的矿工费**  
 
-![](https://i.imgur.com/FKnztJS.png)
 
-1. 此时，交易将被发送到太极网络。你无法在etherscan上看到这个交易，但不要惊慌！一旦交易完成，它就会出现在下图所示的这里
-2. 如果你想检查交易是否在太极网络上进行，可以将交易哈希值粘贴到 [https://taichi.network/](https://taichi.network/) 中以查看其进度
-3. 太极网络会比以太坊网络慢一点
-4. 交易通过并完成后，你需要切换回以太坊网络以查看 Crucible
+   ![](https://i.imgur.com/FKnztJS.png)
 
-![](https://i.imgur.com/fcPY6Zp.png)
+5. 此时，交易将被发送到太极网络。你无法在etherscan上看到这个交易，但不要惊慌！一旦交易完成，它就会出现在下图所示的这里
+6. 如果你想检查交易是否在太极网络上进行，可以将交易哈希值粘贴到 [https://taichi.network/](https://taichi.network/) 中以查看其进度
+7. 太极网络会比以太坊网络慢一点
+8. 交易通过并完成后，你需要切换回以太坊网络以查看 Crucible  
 
-1. 单击刷新，你将看到已删除 LP 代币的 Crucible
+
+   ![](https://i.imgur.com/fcPY6Zp.png)
+
+9. 单击刷新，你将看到已删除 LP 代币的 Crucible
 
 ![](https://i.imgur.com/f3rwsfA.png)
 
