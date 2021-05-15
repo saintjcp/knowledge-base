@@ -2,7 +2,6 @@
 
 * [什麼是 Alchemist?](README.md)
 * [Alchemist ⚗️$mist 常見問題解答](alchemist-mist-chang-jian-wen-ti-jie-da.md)
-* [官方社區鏈接如下](guan-fang-she-ou-lian-jie-ru-xia.md)
 
 ## Crucible
 
