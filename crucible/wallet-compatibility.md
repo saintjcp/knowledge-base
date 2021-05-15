@@ -1,30 +1,30 @@
 # Compatibilité des Wallets
 
-Based on limited testing and feedback from users, we have come up with the following compatibility chart.
+Sur la base de tests limités et du retours des utilisateurs, nous avons établi le tableau de compatibilité ci-dessous.
 
 {% hint style="info" %}
-The accuracy of this information may change over time and is only to be used as a guide.
+L'exactitude de ces informations peut changer avec le temps, elles ne doivent être utilisées qu'à titre d'indication.
 {% endhint %}
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Wallet</th>
-      <th style="text-align:center">Connect wallet <em>alchemist.farm</em>
+      <th style="text-align:center">Connecter le wallet <em>alchemist.farm</em>
       </th>
       <th style="text-align:center">
-        <p>Connect Wallet</p>
+        <p>Connecter le wallet</p>
         <p><em>crucible.alchemist.wtf</em>
         </p>
       </th>
-      <th style="text-align:center">Minting</th>
-      <th style="text-align:center">Unsubscribing &amp; Viewing Crucibles</th>
+      <th style="text-align:center">Minter</th>
+      <th style="text-align:center">D&#xE9;sengager &amp; Voir les Crucibles</th>
       <th style="text-align:center">TaiChi Network</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">MetaMask *recommended</td>
+      <td style="text-align:left">MetaMask *recommand&#xE9;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
