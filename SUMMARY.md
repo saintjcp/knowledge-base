@@ -6,5 +6,4 @@
 ## Crucible
 
 * [Come reclamare le ricompense e disiscrivere i tuoi token LP da Aludel utilizzando la rete](crucible/italian-come-reclamare-le-ricompense-e-disiscrivere-i-tuoi-token-lp-da-aludel-utilizzando-la-rete.md)
-* [FAQ su Aludel/Crucible](crucible/faq-su-aludel-crucible.md)
 
