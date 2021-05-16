@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Что такое Alchemist?](README.md)
-* [Alchemist ⚗️$mist ЧАВО](alchemist-usdmist-chavo.md)
 * [Official Community Links](official-community-links-1.md)
+* [Alchemist ⚗️$mist ЧАВО](alchemist-usdmist-chavo.md)
 
 ## Crucible
 
