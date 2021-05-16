@@ -33,7 +33,7 @@ Hay una serie de cosas que puedes hacer con tu Crucible recién creado, a contin
 ## Transferir tu Crucible a otro wallet
 
 1. Sigue los pasos 1 - 5 de [Comprobar las recompensas](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_VHiL63dIBNcjxTUwi/v/spanish/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-your-rewards)
-2. Localiza tu resumen de Crucible que está abierto actualmente ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+2. Localiza tu resumen de Crucibles que está abierto actualmente ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Localiza el icono del avión de papel en la parte derecha de tu Crucible y haz click ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. Introduzca la dirección del wallet a la que deseas enviar el Crucible en el campo "Recipient Address" \(Debe ser compatible con ERC-721\) y haz clic en "Transfer Crucible". ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
 5. Sé te pedirá que confirmes la transferencia, asegúrete de que la dirección del wallet es correcta antes de enviarla. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 

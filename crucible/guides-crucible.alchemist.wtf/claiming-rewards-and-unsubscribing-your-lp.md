@@ -5,7 +5,7 @@ En cualquier momento puedes decidir que estás listo para reclamar tus recompens
 Las intrucciones siguiente estan diseñadas para guiarte a través de ese proceso.
 
 {% hint style="warning" %}
-Antecedentes: La razón por la que necesitarás hacer esto es para proteger al usuario de ser adelantado por los bots cuando se desinscribe.
+Antecedentes: La razón por la que necesitarás hacer esto es para protegerte de ser adelantado por los bots cuando te desinscribe/das de baja del programa Aludel.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -13,7 +13,7 @@ Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
 {% endhint %}
 
 1. Ir a [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), conecte tu wallet y haz clic "Your Crucibles" tab.
-2. Una vez en la pestaña "Your Crucible", amplíe los detalles del Crucible que desea ver utilizando la flecha que mira hacia abajo:
+2. Una vez en la pestaña "Your Crucible", amplíe los detalles del Crucible que deseas ver utilizando la flecha que mira hacia abajo:
 
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
@@ -40,9 +40,9 @@ Este paso es obligatorio y las instrucciones se incluyen en los pasos siguientes
    ![](https://i.imgur.com/kszVVbq.png)
 
 9. Ahora vuelva a la página web y rellene la solicitud con la cantidad de LP que deseas dar de baja y haz clic en "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. Si no has hecho el paso 7-8 correctamente verás un error, si ves este error, por favor vuelve al paso 7 e inténtelo de nuevo. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
-11. Ahora aparecerá un cuadro emergente de MetaMask pidiéndote una "Signature Request" haga clic en "sign" ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. A continuación obtendrás un cuadro de notificación de transferencia de fondos de MetaMask como se muestra a continuación. **Te sugerimos que compruebe la tasa de gas haciendo clic en el botón EDITAR. Algunos usuarios han informado de que la opción la más lenta esta, a veces, selectionada automaticamente, lo que puede retrasar la finalización de tu transacción. Si te preocupa que las tasas de gas sean demasiado altas, utilice** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **para ayudar a decidir cuándo pueden producirse las tasas de gas más bajas**
+10. Si no has hecho el paso 7-8 correctamente verás un error, si ves este error, por favor vuelve al paso 7 e inténtalo de nuevo. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
+11. Ahora aparecerá una ventana de diálogo de MetaMask pidiéndote una "Signature Request" haga clic en "sign" ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
+12. A continuación obtendrás un cuadro de notificación de transferencia de fondos de MetaMask como se muestra a continuación. **Te sugerimos que compruebes la tasa de gas haciendo clic en el botón EDITAR. Algunos usuarios han informado de que la opción la más lenta esta, a veces, selectionada automaticamente, lo que puede retrasar la finalización de tu transacción. Si te preocupa que las tasas de gas sean demasiado altas, utilice** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **para ayudar a decidir cuándo pueden producirse las tasas de gas más bajas**
 
 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
 
