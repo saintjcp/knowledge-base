@@ -79,7 +79,7 @@ Whether this is beneficial or not, this is up to you to decide.
 
 ## How can I check how many LP tokens someone else's Crucible is worth?
 
-You can take the take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+You can take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
 
 This will display what the contents are and the history of transactions that have occurred within the Crucible.
 
