@@ -14,7 +14,7 @@ Becoming an alchemist requires learning and practice. Training is a way of life 
 
 ⚗️ $MIST is used to coordinate and reward committed alchemists. Whether you are an artist, a developer, a community manager, or a liquidity provider, there is a role for you.
 
-Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the \#bounties channel.
+Come meet the other alchemists at [discord.alchemist.wtf](http://discord.alchemist.wtf) and offer your skills in the \#builders-application channel.
 
 **Is there a website?**
 
