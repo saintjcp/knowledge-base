@@ -1,13 +1,12 @@
 # Mode d'emploi : alchemist.farm
 
 {% hint style="info" %}
-**Guides below are for community site** [**alchemist.farm**](https://alchemist.farm/)  
-Please [click here](../guides-crucible.alchemist.wtf/) if you are using [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+**Les modes d'emploi ci-dessous sont pour le site de la communauté** [**alchemist.farm**](https://alchemist.farm/)**.**      [Cliquez ici ](../guides-crucible.alchemist.wtf/)si vous utilisez [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
 {% endhint %}
 
 ### Contents
 
-1. [I have minted a Crucible, now what?](i-minted-a-crucible-now-what.md)
-2. [How to Claim Rewards and Unsubscribe your LP from the Aludel using the TaiChi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
-3. [Visual Guides 🎞](visual-guides.md)
+1. [J'ai minté un Crucible, et maintenant ?](i-minted-a-crucible-now-what.md)
+2. [Comment récupérer les récompenses et désengager votre LP de l'Aludel en utilisant le réseau TaiChi](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
+3. [Modes d'emploi visuels 🎞](visual-guides.md)
 
