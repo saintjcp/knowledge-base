@@ -34,45 +34,45 @@ Résistez à la tentation de tout faire en même temps. Décomposez ! De petites
 
 De petites étapes ou des jalons, tout en appréhendant l'ensemble. Le retour d'information est essentiel - les circonstances changent rapidement. Rapide =/= incomplet.
 
-### 4. Collaborate and promote visibility.
+### 4. . Collaborez et promouvez la visibilité.
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+En impliquant les bonnes personnes dans les bons rôles, les efforts bénéficient d'une plus grande pertinence \(le jugement pour la prise de décision a plus de valeur\) et créent un succès accru à long terme. L'inclusion est généralement une meilleure politique que l'exclusion, car des contributions enthousiastes, des solutions créatives et des perspectives importantes peuvent être obtenues de sources inattendues. Les conditions du succès sont l'information, la compréhension et la confiance.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+Identifiez et gérez toutes les parties prenantes ou groupes impliqués. La partie prenante la plus évidente est celle des "clients", car dans ITIL, l'objectif principal de l'organisation est de faciliter les résultats pour les clients. D'autres exemples de collaboration entre parties prenantes sont : les développeurs \(collaboration avec d'autres équipes internes - comme la recherche\) ou les fournisseurs internes et externes.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+Chaque groupe de parties prenantes, à chaque niveau, doit comprendre la contribution à l'amélioration, tout comme les méthodes les plus efficaces pour y contribuer. Attendez-vous à des variations sur le niveau et le type de collaboration, en fonction de la relation entre l'organisation et le "consommateur". Répondez aux besoins des parties prenantes concernées ! Déterminer le type, la méthode et la fréquence de ces messages ! Une communication organisée de l'activité est fortement recommandée.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+Les parties prenantes ont besoin d'une vision claire de l'avancement et de la charge de travail ! Ne jamais donner l'impression que rien ne se passe ! Une visibilité insuffisante entraîne une mauvaise prise de décision et nuit à la possibilité d'améliorer les capacités internes. Pour éviter cela, vous aurez besoin d'une analyse critique \(et sincère !\) du flux de travail, des goulets d'étranglement et des capacités excédentaires.
 
 * Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* Criez haut et fort - la communication fréquente est la voie à suivre. 
+* Les "bonnes" décisions ne peuvent être prises qu'avec de la visibilité.
 
-### 5. Think and work holistically.
+### 5. Pensez et travaillez de manière holistique.
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+Dans un système complexe, la modification d'un élément peut avoir un impact sur les autres éléments. Ces impacts doivent être identifiés, analysés et planifiés. Rien n'est isolé, que ce soit un service, une pratique, un processus ou un département. Le résultat en pâtira s'il ne fonctionne pas de manière intégrée pour traiter ses activités comme un tout, plutôt que comme des parties séparées.
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+L'adoption d'une approche holistique des concepts ITIL implique de comprendre comment toutes les parties d'une organisation fonctionnent ensemble \(quatre dimensions : organisations et personnes, informations et technologies, partenaires et/ou fournisseurs, flux de valeurs et processus\). La demande est saisie et traduite en résultats. Reconnaître la complexité de chaque élément.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+* Reconnaissez la complexité de chaque élément.
+* La collaboration est essentielle pour travailler de manière holistique.
+* Cherchez des modèles dans les besoins et les interactions entre ces éléments.
+* L'automatisation peut faciliter un travail intégré.
 
-### 6. Keep it simple and practical.
+### 6. Restez simple et pragmatique.
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+Utilisez toujours le nombre minimum d'étapes pour atteindre un objectif. Une réflexion axée sur les résultats doit être utilisée pour produire des solutions pragmatiques qui produisent des résultats utiles. Si un processus, une action ou une mesure n'apporte pas de valeur ou ne produit pas de résultat utile, il faut l'éliminer. Ne vous concentrez pas sur chaque exception, car cela conduira automatiquement à une complication excessive. Au lieu de cela, il convient de concevoir des règles, des flux de travail ou des processus qui peuvent être utilisés pour gérer les exceptions de façon général.
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+La création de valeur est votre objectif - rester simple et pragmatique aide à comprendre la contribution. Établissez et communiquez une vision globale du travail. Les équipes ou les groupes individuels peuvent comprendre comment leur travail est influencé par les autres, et inversement.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+Soyez attentif aux objectifs contradictoires lors de la conception, de la gestion ou du fonctionnement des pratiques. Par exemple, les responsables peuvent vouloir beaucoup de données \(quantité\), mais les équipes de service peuvent être limitées dans la priorité de la collecte et du niveau de détail de ces données. Trouvez un compromis entre les objectifs contradictoires.
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+* Assurer la valeur.
+* La simplicité est la clé.
+* Ne fixez que quelques règles pour couvrir les principales pratiques.
+* Respectez le temps et le travail des personnes concernées.
+* L'adoption est plus facile lorsque ce n'est pas compliqué.
+* Cueillez les fruits à portée de main.
 
 ### 7. Optimize and automate.
 
