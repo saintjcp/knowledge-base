@@ -27,12 +27,12 @@
 * [Compatibilité des Wallets](crucible/wallet-compatibility.md)
 * [FAQ 📖](crucible/faq.md)
 
-## Join us
+## Nous rejoindre <a id="join-us"></a>
 
 * [Guide d'accueil des bâtisseurs d'Alchemist](join-us/alchemist-builders-onboarding-guide.md)
 * [Où commencer ? – les 7 principes directeurs ITIL  \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Links 🔗 <a id="discussion"></a>
+## Liens 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](https://discord.com/invite/qWQQMMKjKe)

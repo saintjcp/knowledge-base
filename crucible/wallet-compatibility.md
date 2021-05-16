@@ -3,7 +3,7 @@
 Sur la base de tests limités et du retours des utilisateurs, nous avons établi le tableau de compatibilité ci-dessous.
 
 {% hint style="info" %}
-L'exactitude de ces informations peut changer avec le temps, elles ne doivent être utilisées qu'à titre d'indication.
+L'exactitude de ces informations peut changer avec le temps, elles ne doivent être utilisées qu'à titre indicatif.
 {% endhint %}
 
 <table>

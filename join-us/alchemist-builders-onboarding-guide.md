@@ -28,7 +28,7 @@ Nous sommes ouverts d'esprit et accueillons tous ceux qui veulent nous rejoindre
 * Pas de racisme, de sexisme, d'agitation ou d'activité qui porte préjudice à la communauté
 * Pas de langage ou de contenu inapproprié
 
-## Hiérachie
+## Hiérarchie
 
 Notre hiérarchie est clairement définie et relativement plate. Nos Signataires Multi-Sig & Alchimistes Senior ainsi que @thegostep en tant que fondateur représentent le leadership et la supervision simultanée d'Alchemist lui-même. Outre les objectifs, les jalons et les délais, ils définissent également la direction de base afin qu'Alchemist crée la plus grande valeur possible pour s'assurer un avenir brillant.
 
@@ -42,7 +42,7 @@ Le quatrième groupe est constitué des membres "réguliers" de la communauté e
 
 ### Discord
 
-#### **Général**
+#### **Généralités**
 
 Discord est une plateforme de VoIP, de messagerie instantanée et de distribution numérique conçue pour créer des communautés. Les utilisateurs communiquent par des appels vocaux, des appels vidéo, des messages texte, des médias et des fichiers dans des chats privés ou dans le cadre de communautés appelées "serveurs". Les serveurs sont un ensemble de salons de discussion persistants et de canaux de discussion vocale. Discord fonctionne sous Windows, macOS, Android, iOS, iPadOS, Linux et dans les navigateurs web. En décembre 2020, le service compte plus de 140 millions d'utilisateurs actifs mensuels
 
@@ -54,75 +54,77 @@ Discord est notre outil de communication préféré, car il offre une solution r
 
 ### Basecamp
 
-#### **General**
+#### **Généralités**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+Basecamp est une application de gestion de projet à laquelle vous pouvez accéder dans votre navigateur et sur votre téléphone. Elle vous offre les outils dont vous avez besoin pour établir des to-do, un calendrier, créer et télécharger des documents et des fichiers, envoyer des messages et chatter avec vos collègues, et faire le point régulièrement avec votre groupe, le tout en un seul endroit !
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+Que vous travailliez seul et ayez besoin de vous organiser dans votre travail ou que vous l'utilisiez pour collaborer sur un projet, avec votre travail ou quelque chose de personnel, Basecamp vous facilite la tâche. Il est rapide à mettre en place et si vous l'utilisez régulièrement, la communication avec votre équipe devrait être beaucoup plus facile. Surtout pour les équipes virtuelles.
 
-#### **How we use it**
+#### **Comment nous l'utilisons**
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+Basecamp est l'endroit où nous rassemblons, développons et cartographions tous les projets. On y procède à une répartition plus précise des tâches et des responsabilités, ainsi qu'à la transcription des appels et des réunions. Basecamp est principalement utilisé pour fournir une vue d'ensemble si vous, et en particulier les signataires du multi-sig, les alchimistes seniors et les constructeurs impliqués, souhaitez regarder un projet dans son ensemble.
 
 ### Github
 
-#### **General**
+#### **Généralités**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+GitHub est une plateforme web de collaboration et de contrôle de version pour les développeurs de logiciels. GitHub facilite le codage social en fournissant une interface web pour le dépôt de code Git et des outils de gestion pour la collaboration. GitHub peut être considéré comme un site de réseau social sérieux pour les développeurs de logiciels. Les membres peuvent se suivre, évaluer le travail des autres, recevoir des mises à jour pour des projets spécifiques et communiquer publiquement ou en privé.
 
-#### **How we use it**
+#### **Comment nous l'utilisons**
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub est la maison numérique de nos développeurs. Comme indiqué dans la description, il s'agit de la plateforme idéale pour la collaboration en matière de déploiement et de développement, en particulier pour nous qui sommes une organisation autonome décentralisée. Elle représente, séparée en différents répertoires, le cœur de nos produits.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**Liens:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
 
-#### **General**
+#### **Généralités**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+Linear permet de rationaliser les projets logiciels, les sprints, les tâches et le suivi des bogues. Il est conçu pour les équipes performantes. Il est directement connecté à Github.
 
-#### **How we use it**
+#### **Comment nous l'utilisons**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+Nous utilisons Linear principalement pour documenter pour les développeur les questions pertinentes, les problèmes et / ou les obstacles qui surviennent au cours de l'architecture et de la réalisation des tâches individuelles \(précédemment définies dans le Basecamp\) et, pour fournir des solutions ou des moyens de contournement. Ainsi, Linear représente l'outil qui décompose les tâches individuelles de manière transparente et détaillée pour les sujets techniques. En suivants les tâches sur Github.
 
 ### Figma
 
-#### **General**
+#### **Généralités**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+Figma est un outil de conception basé sur le cloud qui est similaire à Sketch en termes de fonctionnalités et de caractéristiques, mais avec de grandes différences qui rendent Figma meilleur pour la collaboration en équipe. Pour les sceptiques, nous allons expliquer comment Figma simplifie le processus de conception et est plus efficace que d'autres programmes pour aider les concepteurs et les équipes à travailler ensemble de manière efficace.
 
-#### **How we use it**
+#### **Comment nous l'utilisons**
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+Nous utilison Figma principalement pour partager du contenu créatif et y travailler ensemble. Il peut s'agir, par exemple, d'ébauches de conception relatives à l'interface utilisateur, mais aussi de conceptions initiales de projets communautaires de toute sorte - un exemple ici serait la conception de pages uniques. Les décisions en matière de conception sont souvent influencées par des goûts personnels. Nous pensons donc qu'elles doivent être partagées avant d'être publiées.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**Liens :** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
-#### **General**
+#### **Généralités**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape est une plateforme permettant aux DAO de distribuer facilement et équitablement des ressources aux contributeurs. Les subventions communautaires, les salaires internes et les projets spéciaux peuvent tous être encouragés et récompensés par la communauté elle-même. Au lieu d'un vote fastidieux ou d'une boîte noire, les contributeurs eux-mêmes peuvent récompenser rapidement et de manière transparente la valeur qu'ils voient être créée. 
 
-#### **How we use it**
+#### **Comment nous l'utilisons**
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+Les alchimistes qui ont reçu des paiements du multisig seront placés dans des cercles et auront la possibilité de récompenser leurs collègues contributeurs.
 
-## Meeting Calender
+## Calendrier des réunions
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
+Vous pouvez trouver notre calendrier partagé [ici](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Toutes les dates sont incluses, qu'elles soient liées à un projet ou qu'elles soient généralement intéressantes pour l'ensemble de l'organisation. Les réunions sont essentielles pour remettre en question les approches individuelles et en discuter en équipe. Une transcription sera ensuite rédigée pour la postérité dans le base camp. Les participants étant répartis dans le monde entier, les horaires sont généralement choisis de manière à ce que le plus grand nombre possible puisse y prendre part.
 
-## Routines to Achieve Transparency
+## Routines pour atteindre la transparence
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+Dans une équipe décentralisée, il est parfois difficile d'avoir une vue d'ensemble de qui a contribué à quoi et à quelle fréquence. Pour contrer cela, nous avons décidé d'introduire quelques routines pour promouvoir la transparence et la visibilité, même pour les bâtisseurs et les alchimistes seniors qui ne sont pas directement impliqués dans le projet.
 
-### Builder Stand Up
+### Bâtisseur levez-vous
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+Afin de rendre le processus plus transparent pour tous, nous avons créé un canal \# builders-standup sur lequel nous voulons encourager les contributeurs actifs du projet à poster régulièrement des mises à jour. Sur quoi avez-vous travaillé la dernière fois et quels progrès avez-vous réalisés ? Sur quoi travaillez-vous actuellement ? Quels sont les blocages ou les problèmes que vous avez rencontrés depuis votre dernière mise à jour et avez-vous besoin d'aide ?
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+Nous voulons également vous encourager à push fréquemment toutes vos branches WIP sur GitHub, et surtout le jeudi, afin que les alchimistes seniors aient une meilleure idée de la façon de calculer la distribution des allocations pour la semaine.
 
-### Participation on Scheduled Meetings
+### Participation aux réunions programmées
+
+Comme déjà décrit dans le sujet "Calendrier des réunions", nous apprécions les échanges animés dans l'équipe sur les problématiques en cours. Le moyen le plus simple et le moins compliqué d'y parvenir reste toujours la parole. Une participation régulière est donc essentielle pour plusieurs raisons à la fois : trouver des solutions rapides, regrouper plusieurs opinions sur certains sujets, trouver une approche majoritaire et promouvoir l'intégrité. S'il est possible que vous ne puissiez pas participer par principe ou à titre exceptionnel, faites-le savoir à votre équipe et reprenez ensuite la transcription \(Basecamp\) pour vous tenir au courant.
 
 As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
 
