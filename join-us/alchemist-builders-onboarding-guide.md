@@ -84,7 +84,7 @@ Linear permet de rationaliser les projets logiciels, les sprints, les tâches et
 
 #### **Comment nous l'utilisons**
 
-Nous utilisons Linear principalement pour documenter pour les développeur les questions pertinentes, les problèmes et / ou les obstacles qui surviennent au cours de l'architecture et de la réalisation des tâches individuelles \(précédemment définies dans le Basecamp\) et, pour fournir des solutions ou des moyens de contournement. Ainsi, Linear représente l'outil qui décompose les tâches individuelles de manière transparente et détaillée pour les sujets techniques. En suivants les tâches sur Github.
+Nous utilisons Linear principalement pour documenter pour les développeur les questions pertinentes, les problèmes et / ou les obstacles qui surviennent au cours de l'architecture et de la réalisation des tâches individuelles \(précédemment définies dans le Basecamp\) et, pour fournir des solutions ou des moyens de contournement. Ainsi, Linear représente l'outil qui décompose les tâches individuelles de manière transparente et détaillée pour les sujets techniques en suivants les tâches sur Github.
 
 ### Figma
 
@@ -112,39 +112,37 @@ Les alchimistes qui ont reçu des paiements du multisig seront placés dans des 
 
 Vous pouvez trouver notre calendrier partagé [ici](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Toutes les dates sont incluses, qu'elles soient liées à un projet ou qu'elles soient généralement intéressantes pour l'ensemble de l'organisation. Les réunions sont essentielles pour remettre en question les approches individuelles et en discuter en équipe. Une transcription sera ensuite rédigée pour la postérité dans le base camp. Les participants étant répartis dans le monde entier, les horaires sont généralement choisis de manière à ce que le plus grand nombre possible puisse y prendre part.
 
-## Routines pour atteindre la transparence
+## Routines pour Atteindre la Transparence
 
 Dans une équipe décentralisée, il est parfois difficile d'avoir une vue d'ensemble de qui a contribué à quoi et à quelle fréquence. Pour contrer cela, nous avons décidé d'introduire quelques routines pour promouvoir la transparence et la visibilité, même pour les bâtisseurs et les alchimistes seniors qui ne sont pas directement impliqués dans le projet.
 
-### Bâtisseur levez-vous
+### Bâtisseur Levez-Vous
 
 Afin de rendre le processus plus transparent pour tous, nous avons créé un canal \# builders-standup sur lequel nous voulons encourager les contributeurs actifs du projet à poster régulièrement des mises à jour. Sur quoi avez-vous travaillé la dernière fois et quels progrès avez-vous réalisés ? Sur quoi travaillez-vous actuellement ? Quels sont les blocages ou les problèmes que vous avez rencontrés depuis votre dernière mise à jour et avez-vous besoin d'aide ?
 
 Nous voulons également vous encourager à push fréquemment toutes vos branches WIP sur GitHub, et surtout le jeudi, afin que les alchimistes seniors aient une meilleure idée de la façon de calculer la distribution des allocations pour la semaine.
 
-### Participation aux réunions programmées
+### Participation aux Réunions Programmées
 
 Comme déjà décrit dans le sujet "Calendrier des réunions", nous apprécions les échanges animés dans l'équipe sur les problématiques en cours. Le moyen le plus simple et le moins compliqué d'y parvenir reste toujours la parole. Une participation régulière est donc essentielle pour plusieurs raisons à la fois : trouver des solutions rapides, regrouper plusieurs opinions sur certains sujets, trouver une approche majoritaire et promouvoir l'intégrité. S'il est possible que vous ne puissiez pas participer par principe ou à titre exceptionnel, faites-le savoir à votre équipe et reprenez ensuite la transcription \(Basecamp\) pour vous tenir au courant.
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+### Communication et Outils d'Interaction
 
-### Communication and Tool Interactions
+Nous disposons de divers outils, que nous souhaitons bien sûr également utiliser afin de pouvoir reconnaître les progrès réalisés par rapport aux attentes que nous nous sommes fixées. Dans les deux sens, le travail accompli doit être mis en évidence. La communication des petites ou grandes étapes est souvent pertinente pour l'ensemble du projet, même si cela n'est pas toujours nécessairement visible au premier coup d'œil, et devrait donc se faire dans Basecamp \(gestion de projet\), Linear \(développeur\), Figma \(artiste\) et / ou se trouver dans le Discord. Nous souhaitons donc vous encourager à communiquer beaucoup et activement via l'un des canaux mis à votre disposition.
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+## Commentaires / Retours
 
-## Feedback
+Nous souhaitons vous aider dans votre intégration en tant que bâtisseur et avons donc intégré des discussions de feedback ponctuelles en phase de démarrage. Un alchimiste senior ou un collègue bâtisseur répondra à vos questions après que vous ayez eu votre premier aperçu et vous attribuera un point de départ. L'objectif de cette conversation est de lever les ambiguïtés et de répondre aux questions de toutes sortes, afin que vous puissiez être le plus possible partie prenante de votre projet dès le début.
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+Un autre rendez-vous de feedback est ensuite fixé après environ 2 semaines, au cours duquel nous souhaitons savoir notamment si vous avez trouvé vos marques et si vous avez pu, sans difficultés, contribuer à la valeur du projet grâce à vos points forts. Nous essayons également d'optimiser notre processus d'intégration grâce aux retours que vous nous faites.
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+## L'Allocation des Bâtisseurs
 
-## The Builders' Stipend
+Une fois que les efforts de développement ont commencé, les alchimistes seniors commencent à distribuer une allocation de bâtisseur aux membres de l'équipe qui contribuent activement au projet. L'allocation provient d'une réserve limitée de $MIST et est distribuée chaque semaine en fonction de ce que les alchimistes seniors considèrent comme l'allocation la plus bénéfique pour alimenter la croissance du projet. Elle est sujette à changement à chaque versement, mais les alchimistes seniors donnent généralement une justification approximative de la raison pour laquelle les fonds ont été distribués de cette manière.
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+L'allocation pour les Bâtisseurs est là pour vous permettre de mettre de côté les autres distractions et de vous concentrer sur la construction avec le reste des alchimistes. Il ne s'agit pas d'un salaire. Elle n'est pas destinée à être la principale motivation pour vos contributions. Si vous êtes ici en tant que mercenaire et que vous voulez juste être payé, vous êtes probablement dans la mauvaise communauté.
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+## Formulaire d'intégration
 
-## Onboarding Form
-
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Pour prendre part au processus d'intégration, veuillez remplir ce [formulaire](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 

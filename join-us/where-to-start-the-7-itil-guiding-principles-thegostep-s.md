@@ -1,10 +1,12 @@
 # Où commencer ? – les 7 principes directeurs ITIL  \(thegostep\(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+Un principe directeur est une recommandation qui fournit une orientation universelle et durable à une organisation, qui s'applique en toutes circonstances, indépendamment des changements d'objectifs, des stratégies, du type de travail ou de la structure de gestion.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1. Se concentrer sur la valeur.
+
+Tout ce que fait l'organisation doit être lié, directement ou indirectement, à la valeur en tant que telle, ses "clients" et les autres parties prenantes. Lorsque vous vous concentrez sur la valeur, la première étape consiste à savoir qui sont les clients et les principales parties prenantes auxquels la valeur est destinée. Ensuite, il est important de comprendre ce qui constitue la valeur du point de vue du consommateur. Il est également essentiel de comprendre l'expérience client avec l'organisation et le produit/service en ayant une compréhension claire de l'expérience client ou de l'expérience utilisateur. Connaissez l'utilisation de votre service/produit/organisation. Encouragez les membres de votre équipe à se concentrer sur la valeur. Mettez l'accent sur la valeur au cours de chaque activité opérationnelle normale. Incluez dans toute initiative d'amélioration l'accent mis sur la valeur.
 
 Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
 
