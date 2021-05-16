@@ -1,38 +1,38 @@
 # Jak wybić Crucible?
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## Wymiana i Subskrypcja $MIST ⚗️ w celu wybicia Crucible
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+Przede wszystkim musisz mieć $MIST i zasubskrybować go do puli płynności Uniswap-V2.
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+Jeżeli jeszcze tego nie zrobiłeś, zapoznaj się z naszym dwuczęściowym przewodnikiem dotyczącym [Pozyskiwania i Subskrybowania](../../acquiring-and-subscribing.md).
 
-## Minting a Crucible using LP tokens
+## Wybijanie Crucible za pomocą tokenów LP
 
 {% hint style="warning" %}
-**Important information:** 
+**Ważna informacja:** 
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
+Nie używaj przeglądarki Brave, ponieważ nie jest ona obecnie zgodna z procesem, a transakcja zakończy się niepowodzeniem, co spowoduje utratę opłat.
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+Obecnie nie zalecamy korzystania z portfela sprzętowego, ponieważ obecnie wiele z nich nie obsługuje podpisywania EIP-712. Kiedy to naprawią, będziemy mogli to zaimplementować.
 
-We do not recommend you do this on a mobile
+Nie zalecamy przechodzenia przez proces na telefonie komórkowym
 {% endhint %}
 
-### Step by Step guide
+### Przewodnik krok po kroku
 
-1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+1. Na początku przejdź do [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+2. Połącz portfel przy pomocy przycisku "Connect Wallet". W tym przykładzie użyjemy Metamask
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - lub - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
 
-3. You should see something like this:
+3. Powinieneś zobaczyć coś takiego:
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+4. Wprowadź ilość LP tokenów, które chcesz umieścić w Crucible. Prawdopodobnie chcesz kliknąć "Max", aby wprowadzić pełną kwotę.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
+5. Kliknij "Mint a Crucible", dokonaj niezbędnych zatwierdzeń przy pomocą MetaMask i poczekaj na zakończenie transakcji. **Uwaga: Powinny być 2 żądania podpisu oraz żądanie transakcji, jeśli nie wyskakują, może być konieczne otwarcie MetaMask.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+6. Po potwierdzeniu transakcji powinieneś otrzymać następujące monity, kliknij aby wyświetlić swoją transakcję. Po tym jak transakcja zostanie potwierdzona przejdź do następnego kroku. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+7. Teraz kiedy transakcja została potwierdzona, możesz zamknąć wyskakujące okienko i kliknąć kratę "Crucibles", co powinno pokazać nowo wybity Crucible. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Congratulations, if you've made it this far, you're now an Alchemist**
+## Gratulacje, jeśli dotarłeś tak daleko to jesteś teraz Alchemikiem
 

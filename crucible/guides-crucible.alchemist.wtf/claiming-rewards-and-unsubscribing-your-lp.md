@@ -1,4 +1,4 @@
-# Claiming Rewards & Unsubscribing your LP
+# Odbieranie nagród i anulowanie subskrypcji LP
 
 At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
 
