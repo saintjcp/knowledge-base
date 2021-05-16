@@ -6,7 +6,7 @@ Vous pensez donc avoir ce qu'il faut pour devenir un alchimiste, pour emprunter 
 
 Dans les laboratoires de l'alchimiste, les expériences se concentrent sur l'exploration de concepts hautement techniques dans le but de découvrir les ingrédients nécessaires pour synthétiser correctement la Pierre Philosophale - par exemple en concevant l'expérience de Minter un Crucible NFT ou le mistX Gasless DEX.
 
-Outre l'expérimentation technique, notre guilde s'est transformée en un havre de paix décentralisé où les érudits fatigués peuvent se sentir à l'aise et en sécurité. Des projets créatifs comme la construction de la Alchemist Radio ou la recherche de la bonne direction artistique pour le Crucible NFT ne sont que quelques-uns des innombrables exemples de résultats obtenus par les alchimistes qui jouent avec des béchers et des entonnoirs pendant leur temps libre.
+Outre l'expérimentation technique, notre guilde s'est transformée en un havre de paix décentralisé où les érudits fatigués peuvent se sentir à l'aise et en sécurité. Des projets créatifs comme la construction de l' Alchemist Radio ou la recherche de la bonne direction artistique pour le Crucible NFT ne sont que quelques-uns des innombrables exemples de résultats obtenus par les alchimistes qui jouent avec des béchers et des entonnoirs pendant leur temps libre.
 
 En général, nous suivons les principes directeurs chers aux alchimistes depuis l'époque de la Tablette d'Emeraude afin de créer efficacement de la valeur dans chaque processus - tous les participants actifs ont intériorisé cet état d'esprit, de sorte que nous partageons fondamentalement une vision également polarisée :
 
