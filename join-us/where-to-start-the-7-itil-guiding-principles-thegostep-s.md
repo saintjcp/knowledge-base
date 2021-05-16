@@ -74,25 +74,25 @@ Soyez attentif aux objectifs contradictoires lors de la conception, de la gestio
 * L'adoption est plus facile lorsque ce n'est pas compliqué.
 * Cueillez les fruits à portée de main.
 
-### 7. Optimize and automate.
+### 7. Optimisez et automatisez.
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+Maximisez la valeur du travail effectué par les ressources humaines et techniques. La technologie peut aider les organisations à se développer et à prendre en charge des tâches fréquentes et répétitives. Toutefois, il ne faut pas toujours se fier à la technologie, il faut se garder la possibilité d'une intervention humaine, car l'automatisation pour l'automatisation peut augmenter les coûts et réduire la robustesse et la résilience.
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+L'optimisation vise à rendre une chose aussi efficace et utile qu'elle devrait l'être. Il faut toujours commencer par optimiser avant d'envisager une automatisation. Considérez que vous avez défini des limites de contraintes pour l'optimisation ! Par exemple, des coûts, du temps ou des ressources pourraient être gaspillés.
 
-The path to optimization follows these high-level steps:
+Le chemin de l'optimisation suit ces étapes de haut niveau : 
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
-* Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+* Définissez le contexte dans lequel l'optimisation proposée est en place. 
+* Évaluez l'état actuel de l'optimisation proposée. 
+* Concentrez vous, pour le résultat souhaité, sur la simplification et la valeur d'une optimisation. Fixez des limites !
+* Assurez-vous que l'optimisation est acceptable pour toutes les personnes concernées.
+* N'oubliez pas les itérations - les optimisations et que toutes les personnes concernées aiment les fruits à portée de main. 
+* Surveillez l'impact/l'effet des optimisations.
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+L'automatisation fait généralement référence à l'utilisation de la technologie pour exécuter correctement une étape ou une série d'étapes. Placez l'automatisation dans le contexte de la standardisation et de la rationalisation des tâches manuelles. Par exemple, définissez des règles pour prendre des décisions sans qu'elles soient examinées individuellement. Mettez fin à l'implication humaine et à l'évaluation de chaque partie d'un processus pour obtenir une plus grande efficacité. L'automatisation est une opportunité de réduire les coûts, de diminuer les erreurs humaines et \(très important !\) d'améliorer l'expérience des personnes impliquées.
 
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+* Optimisation &gt;&gt;&gt;&gt; Automation
+* Utilisez l'automatisation pour obtenir de meilleures expériences, réduire les erreurs et économiser des coûts et du temps.
+* Définissez vos indicateurs. 
+* Utilisez les autres principes directeurs lorsque vous appliquez celle-ci !
 
