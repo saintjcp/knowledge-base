@@ -1,23 +1,23 @@
 # Official Community Links
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Если вы решили использовать ссылки из внешних источников, сначала убедитесь, что они соответствуют нашим официальным ссылкам. Если ссылки нет в этом списке, **она не является официальной**. ‌
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Пожалуйста используйте только официальные сайты когда принимаете участие в Alchemist.
 
-### Sites
+### Веб-сайты
 
-| Site | Description |
+| Сайт | Описание |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 
-### Community
+### Сообщество
 
-| Site | Description |
+| Сайт | Описание |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
