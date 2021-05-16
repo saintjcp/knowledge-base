@@ -36,7 +36,7 @@ Not yet. If you are interested in helping build one, check out [the lab](https:/
 
 ⚗️$mist משמש לתיאום ותגמול של אלכימאים מחויבים. בין אם אתה אמן, מפתח, מנהל קהילה או ספק נזילות, יש תפקיד עבורך
 
-### bounties והציעו את כישוריכם בערוץ [discord.alchemist.wtf](http://discord.alchemist.wtf) -בואו לפגוש את האלכימאים האחרים ב
+bounties והציעו את כישוריכם בערוץ [discord.alchemist.wtf](http://discord.alchemist.wtf) -בואו לפגוש את האלכימאים האחרים ב
 
 **? האם קיים אתר אינטרנט**
 
