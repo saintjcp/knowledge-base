@@ -24,11 +24,11 @@ La pool de liquidité est utilisée pour faciliter les échanges que d'autres pe
 
 Ce mécanisme de profit des frais d'une pool de liquidité n'est en aucunement différent d'un staking de n'importe quel autre coin dans n'importe quelle autre pool de liquidité. En tant que tel, il est sujet aux "pertes impermanentes" \(impermanent loss\) qui en tant que staker vous font perdre de l'argent lorsque vous retirez vos coins stakés après qu'ils aient perdus en valeur relative depuis le moment où vous les avez souscrits. Si vous n'êtes pas familier avec ce concept, je vous recommande d'approfondir vos recherches pour comprendre - il existe plein de ressources qui l'expliqueront bien mieux que moi.
 
-{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
+{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Regardez cette vidéo sur les \"pertes impermanentes\" avant de continuer" %}
 
 ### 3. Aludel
 
 C'est ici que l'alchimie opère. "Aludel" est le nom du programme de récompense qui vous fait gagner des ⚗️ et des ETH lorsque vous y souscrivez avec les LP tokens contenus dans un Crucible.
 
-Vous pouvez en apprendre plus à propos des Crucibles à la page "[Enseignez moi les Crucibles](crucible/teach-me-about-crucibles.md)"
+Vous pouvez en apprendre plus à propos des Crucibles à la page "[Dites m'en plus sur les Crucibles](crucible/teach-me-about-crucibles.md)"
 

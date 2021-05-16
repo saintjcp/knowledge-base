@@ -67,26 +67,26 @@ La création de valeur est votre objectif - rester simple et pragmatique aide à
 
 Soyez attentif aux objectifs contradictoires lors de la conception, de la gestion ou du fonctionnement des pratiques. Par exemple, les responsables peuvent vouloir beaucoup de données \(quantité\), mais les équipes de service peuvent être limitées dans la priorité de la collecte et du niveau de détail de ces données. Trouvez un compromis entre les objectifs contradictoires.
 
-* Assurer la valeur.
+* Assurez la valeur.
 * La simplicité est la clé.
 * Ne fixez que quelques règles pour couvrir les principales pratiques.
 * Respectez le temps et le travail des personnes concernées.
 * L'adoption est plus facile lorsque ce n'est pas compliqué.
-* Cueillez les fruits à portée de main.
+* Choisissez la facilité.
 
 ### 7. Optimisez et automatisez.
 
 Maximisez la valeur du travail effectué par les ressources humaines et techniques. La technologie peut aider les organisations à se développer et à prendre en charge des tâches fréquentes et répétitives. Toutefois, il ne faut pas toujours se fier à la technologie, il faut se garder la possibilité d'une intervention humaine, car l'automatisation pour l'automatisation peut augmenter les coûts et réduire la robustesse et la résilience.
 
-L'optimisation vise à rendre une chose aussi efficace et utile qu'elle devrait l'être. Il faut toujours commencer par optimiser avant d'envisager une automatisation. Considérez que vous avez défini des limites de contraintes pour l'optimisation ! Par exemple, des coûts, du temps ou des ressources pourraient être gaspillés.
+L'optimisation vise à rendre une chose aussi efficace et utile qu'elle devrait l'être. Il faut toujours commencer par optimiser avant d'envisager une automatisation. Considérez que vous avez défini des limites/contraintes pour l'optimisation ! Par exemple, des coûts, du temps ou des ressources pourraient être gaspillés.
 
 Le chemin de l'optimisation suit ces étapes de haut niveau : 
 
-* Définissez le contexte dans lequel l'optimisation proposée est en place. 
-* Évaluez l'état actuel de l'optimisation proposée. 
+* Définissez le contexte dans lequel l'optimisation proposée existe. 
+* Évaluez l'état actuel de l'optimisation proposée.
 * Concentrez vous, pour le résultat souhaité, sur la simplification et la valeur d'une optimisation. Fixez des limites !
 * Assurez-vous que l'optimisation est acceptable pour toutes les personnes concernées.
-* N'oubliez pas les itérations - les optimisations et que toutes les personnes concernées aiment les fruits à portée de main. 
+* N'oubliez pas les itérations - les optimisations et que toutes les personnes concernées aiment la facilité
 * Surveillez l'impact/l'effet des optimisations.
 
 L'automatisation fait généralement référence à l'utilisation de la technologie pour exécuter correctement une étape ou une série d'étapes. Placez l'automatisation dans le contexte de la standardisation et de la rationalisation des tâches manuelles. Par exemple, définissez des règles pour prendre des décisions sans qu'elles soient examinées individuellement. Mettez fin à l'implication humaine et à l'évaluation de chaque partie d'un processus pour obtenir une plus grande efficacité. L'automatisation est une opportunité de réduire les coûts, de diminuer les erreurs humaines et \(très important !\) d'améliorer l'expérience des personnes impliquées.
