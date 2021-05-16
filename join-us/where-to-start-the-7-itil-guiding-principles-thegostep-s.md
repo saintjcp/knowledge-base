@@ -6,33 +6,33 @@ Un principe directeur est une recommandation qui fournit une orientation univers
 
 ### 1. Se concentrer sur la valeur.
 
-Tout ce que fait l'organisation doit être lié, directement ou indirectement, à la valeur en tant que telle, ses "clients" et les autres parties prenantes. Lorsque vous vous concentrez sur la valeur, la première étape consiste à savoir qui sont les clients et les principales parties prenantes auxquels la valeur est destinée. Ensuite, il est important de comprendre ce qui constitue la valeur du point de vue du consommateur. Il est également essentiel de comprendre l'expérience client avec l'organisation et le produit/service en ayant une compréhension claire de l'expérience client ou de l'expérience utilisateur. Connaissez l'utilisation de votre service/produit/organisation. Encouragez les membres de votre équipe à se concentrer sur la valeur. Mettez l'accent sur la valeur au cours de chaque activité opérationnelle normale. Incluez dans toute initiative d'amélioration l'accent mis sur la valeur.
+Tout ce que fait l'organisation doit être lié, directement ou indirectement, à la valeur en tant que telle, ses "clients" et les autres parties prenantes. Lorsque vous vous concentrez sur la valeur, la première étape consiste à savoir qui sont les clients et les principales parties prenantes auxquels la valeur est destinée. Ensuite, il est important de comprendre ce qui constitue la valeur du point de vue du consommateur. Il est également essentiel de comprendre l'expérience client avec l'organisation et le produit/service en ayant une compréhension claire de l'expérience client ou de l'expérience utilisateur. 
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+* Connaisser l'utilisation de votre service/produit/organisation.
+* Encouragez les membres de votre équipe à se concentrer sur la valeur.
+* Mettez l'accent sur la valeur au cours de chaque activité opérationnelle normale. 
+* Dans toute initiative d'amélioration mettez le focus sur la valeur.
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+### 2. Commencez là où vous êtes.
 
-### 2. Start where you are.
+Lorsque vous recherchez une opportunité d'amélioration, ne commencez pas sans prendre compte ce qui et déjà disponible et exploitable. Vous ne devez pas perdre votre temps en détruisant la base de votre travail - soyez conscient de ce qui a été investi \(coûts, sueur et temps\).
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+L'observation des services et des méthodes préexistants doit aller de pair, si possible, avec une mesure, afin de bien comprendre leurs états actuels et ce qui peut en être réutilisé. Les informations doivent toujours être aussi précises que possible pour prendre des décisions objectives. Il faut toujours considérer la mesure comme un soutien à l'analyse. Soyez conscient - la mesure est utilisée pour soutenir l'analyse de ce qui a été observé plutôt que pour la remplacer, car une dépendance excessive à l'égard de l'analyse des données et des rapports peut introduire involontairement des biais et des risques dans la prise de décision.
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+* Le point de départ est soit le "client" soit le résultat. Evaluez vos méthodes existantes aussi objectivement que possible ! 
+* Vous avez trouvé des pratiques préexistantes efficaces ? Utilisez-les ! Déterminez si et comment elles peuvent être déployées et reproduites pour obtenir l'amélioration souhaitée.
+* Évaluez avec des compétences en gestion des risques.
+* Soyez réaliste ! Parfois, presque rien ou même rien ne peut être réutilisé.
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+### 3. Progressez de manière itérative en tenant compte du feedback.
 
-### 3. Progress iteratively with feedback.
+Résistez à la tentation de tout faire en même temps. Décomposez ! De petites étapes ou jalons \(itérations\) peuvent être exécutés et finalisés en temps voulu. Chaque objectif sera plus facile à atteindre, il sera motivant au lieu d'être frustrant. L'attention portée à chaque effort sera plus grande. Tenez compte de tout changement de contexte et gardez à l'esprit l'objectif de la valeur pour réévaluer et éventuellement revoir chaque itération ainsi que l'ensemble de l'initiative. Le feedback honnête est votre outil pour revoir vos actions - analysez vos opportunités d'amélioration, vos risques et vos problématiques. Donnez au feedback une valeur pour apprendre, construire et améliorer. 
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+* De petites étapes ou des jalons, tout en appréhendant l'ensemble.
+* Le retour d'information est essentiel - le contexte change rapidement.
+* Rapide =/= incomplet.
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+De petites étapes ou des jalons, tout en appréhendant l'ensemble. Le retour d'information est essentiel - les circonstances changent rapidement. Rapide =/= incomplet.
 
 ### 4. Collaborate and promote visibility.
 
