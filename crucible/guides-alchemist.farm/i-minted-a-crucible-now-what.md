@@ -1,26 +1,26 @@
 # J'ai minté un Crucible, et maintenant ?
 
-## You can checking how many LP tokens are in your Crucible
+## Vous pouvez vérifier la quantité de token LP contenue dans votre Crucible
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Allez sur [alchemist.farm](https://alchemist.farm/) et connectez votre wallet et cliquez sur l'onglet Crucible.
 
-The Total Balance reflects your Crucible LP value.
+La Total Balance représente la valeur de votre Crucible
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Comme vous pouvez le voir,  d'autres indicateurs de performance sont également affichés.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Comment puis-je savoir si j'ai souscrit les LP dans mon Crucible ?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Cela devrait être fait automatiquement. Vous pouvez également utiliser [alchemist.farm](https://alchemist.farm/) pour examiner votre Crucible. Il y a une icône cadenas dans le coin en haut à droite de l'écran Crucible qui indique le montant de LP qui a été souscrit au programme de récompenses Aludel : ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Comment puis-je voir mes récompenses Aludel ?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+Vous pouvez utiliser [alchemist.farm](https://alchemist.farm/) pour afficher votre Crucible ; vos récompenses actuelle en ⚗️ et en ETH y seront affichées.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## J'ai minté mon Crucible et souscrit mes LP ... et après, c'est tout ?
 
-Yes. Now you sit back and see what happens.
+Oui. Maintenant, asseyez-vous et voyez ce qu'il arrive.
 
 #### 
 
