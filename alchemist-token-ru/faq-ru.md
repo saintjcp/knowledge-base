@@ -1,4 +1,4 @@
-# Alchemist ⚗️$mist ЧАВО
+# ЧАВО
 
 ## **$MIST ЧАВО**
 
