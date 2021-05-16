@@ -8,10 +8,10 @@ If you have not done this already, please refer to our 2-part guide on [Acquirin
 
 ## Minting a Crucible using LP tokens
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Important information:** 
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail resulting in lost fees. 
+Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
 
 We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
 
