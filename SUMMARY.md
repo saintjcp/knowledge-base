@@ -15,8 +15,8 @@
 
 * [Wprowadzenie](crucible/getting-started.md)
 * [Dowiedz się więcej o Crucible](crucible/teach-me-about-crucibles.md)
-* [Guides: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
-  * [How do I mint a Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
+* [Przewodniki: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
+  * [Jak wybić Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
