@@ -1,14 +1,10 @@
-# Acquiring & Subscribing Acquistare & Sottoscrivere
+# Acquistare & Iscriversi
 
-### 1. Getting $MIST ⚗️  Ricevere $MIST ⚗️ 
-
-Ever traded coins on Uniswap? If so you know how to do this already.
+### 1. Comprare $MIST ⚗️ 
 
 Hai mai scambiato monete su Uniswap? Se la risposta è si, allora sai già cosa fare. 
 
 {% hint style="warning" %}
-Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
-
 A causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può voler dire che non riceverai il miglior prezzo per il tuo acquisto. Per favore, usa il nostro link **Uniswap V2** sotto per scambiare il token. 
 {% endhint %}
 
@@ -18,17 +14,12 @@ A causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può
 
     ![](https://i.imgur.com/5rzgvpf.png)
 
-4. Digita il numero di ⚗️ che vorresti comprare, assicurandoti di avere un valore equivalente di ETH rimanenti da usare per la sottoscrizione
-5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
-   * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
-   * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
-6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
-
-   * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
-
-Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta il completamento della transazione  Ho scoperto che i miei primi due tentativi sono falliti, apparentemente perché non sono stati elaborati abbastanza velocemente perché il prezzo rimanesse stabile prima che finissero MetaMask ha la capacità di permetterti di accellerare una transazione localizzandola nella finestra "Attività" e scegliendo di pagare più gas per un'elaborazione a priorità più alta Vai su [https://etherscan.io/address/](https://etherscan.io/address/) per visualizzare le transazioni in sospeso e tutti i token associati al tuo account. Se usi MetaMask puoi cliccare sui tre punti e poi su "View on Etherscan" per arrivarci:
-
-
+4. Digita l'importo di ⚗️ che vorresti comprare, assicurandoti di avere un valore equivalente di ETH rimanenti da usare per l'iscrizione
+5.  Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta il completamento della transazione
+   *  Ho scoperto che i miei primi due tentativi sono falliti, apparentemente perché non sono stati elaborati abbastanza velocemente per garantire che il prezzo rimanesse stabile prima del fine della transazione
+   *  MetaMask può permetterti di accellerare una transazione localizzandola nella finestra "Activity" e scegliendo di pagare più gas per un'elaborazione a priorità più alta
+6. Vai su [https://etherscan.io/address/](https://etherscan.io/address/) per visualizzare le transazioni in sospeso e tutti i token associati al tuo account.
+   *  Se usi MetaMask puoi cliccare sui tre punti e poi su "View on Etherscan" per arrivarci:
 
 ![](https://i.imgur.com/jdzodQP.png)
 
@@ -36,16 +27,12 @@ Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta il comple
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Subscribing $MIST ⚗️ to receive LP tokens Sottoscrivere$MIST ⚗️ per ricevere Token LP. 
-
-Ever provided liquidity on Uniswap? If so you know how to do this already.
+### 2. Sottoscrivere$MIST ⚗️ per ricevere Token LP
 
 Hai già fornito liquidità su Uniswap? Se si, sai già il contenuto di questo step. 
 
-
-
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool.  Crucible supporta solamente la pool di liquidità **Uniswap V2**  
+ Crucible supporta solamente la pool di liquidità **Uniswap V2**  
 Aggiungere liquidità alla pool **Uniswap V3** non è compatibile con il Programma di ricompense. 
 {% endhint %}
 
