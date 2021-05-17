@@ -1,93 +1,93 @@
-# Teach me about Crucibles
+# Bana Crucible'ları öğret
 
-## What is a Crucible?
+## Crucible nedir?
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+Katılım sağlayarak elde ettiğiniz LP'yi temsil eden bir NFT'dir. Bir tane oluşturma eylemine "minting" denir.
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+Bir Crucible, Aludel'e LP katılımı yaptığında, sahibi ⚗️ ve ETH kazanır. Mevcut toplam ödül, her 14 günde bir meydana gelen %1'lik enflasyon ve ilk Balancer havuzu sırasında toplanan ETH'nin karşılığı olan ⚗️'in %50'sidir. Katılım sağlayan LP'ye sahip crucible, katılım sağlamış LP'nin katılım sağlamış toplam LP'nin oranına ve LP'lerinin diğer LP'lere göre katılım sağlama süresinin uzunluğuna bağlı olarak toplam ödüllerin bir kısmını alır.
 
-### What is an NFT?
+### NFT nedir?
 
-It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+Non-Fungible Token anlamına gelir. Bu kavram sizin için anlaşılmazsa, "non-fungible" kavramını "eşsiz" anlamında düşünebilirsiniz.
 
-NFTs are a direct contrast to coins:
+NFT'ler, coinlerin doğrudan zıttıdır:
 
-* Coins: 1⚗️ is 1⚗️, they have equivalent value and use
-* NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
+* Coinler: 1⚗️'e 1⚗️, eşdeğer ve kullanıma sahiptirler
+* NFT'ler: 1 Crucible NFT, başka bir 1 Crucible NFT değildir ve herhangi iki Crucible'ın eşdeğere sahip olma olasılığı çok düşüktür.
 
-This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
+Bu anlaşılması gereken önemli bir noktadır, çünkü insanlar Crucibleları OpenSea gibi platformlarda [satışa sunmaya](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) çoktan başladılar.
 
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
+Açıklık getirmek adına: Bir Crucible oluşturursanız, Uniswap-V2 likidite havuzunda da ⚗️ tutarsınız. Potansiyel olarak kazanmanın 3 yolunu da etkin bir şekilde kullanıyorsunuz.
 
-## How do you mint a Crucible?
+## Bir Crucible nasıl oluştururum?
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
+Başlangıçta tek yöntem resmi CLI aracını kullanmaktı. Neyse ki, topluluk üyeleri o zamandan beri süreci çok daha kolay hale getiren web uygulamaları yarattılar. CLI aracını kullanırken fazladan hata yapma riski nedeniyle, artık bu yaklaşımı benimsemeniz önerilmez.
 
-Please use the guide below to mint a Crucible:
+Bir Crucible oluşturmak için lütfen aşağıdaki kılavuzu kullanın:
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [crucible.alchemist.wtf üzerinden Crucible oluşturmak](guides-crucible.alchemist.wtf/)
 
-## What is a Crucible worth?
+## Crucible'ı değerli yapan nedir? 
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+Bir Crucible'ın değerini belirlemek zordur. Crucible'ın NFT doğası, potansiyel olarak onun anlık değerinin ötesinde spekülatif bir değere sahip olmasını sağlayabilir, ancak bazı Crucible'lar diğerlerinden daha özel kabul edilebilir.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+Bununla birlikte, spekülasyon bir yana, bildiğimiz şey, içinde hemen ölçülebilir bir değere sahip olan bazı değişken miktarda LP tokenleri olan bir Crucible'ın oluşturulduğudur.
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+En azından, LP içeriklerinin katılımını iptal etmek ve itibari para biriminize geri dönüş yapmak için alacağınız tokenlara dayanarak bir crucible'a değer verebilirsiniz.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+Bir Crucible içeriğini kontrol etme yöntemleri için aşağıdaki [bu bölüme](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) bakın.
 
-## Should you mint a Crucible?
+## Bir Crucible oluşturmalı mısınız? 
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+Buna sen karar vereceksin. Neyin kazanabileceğini, neyi kaybedebileceğinizi anladığınızdan emin olun ve ardından bunun sizin için iyi bir seçim olup olmadığına karar verin.
 
-#### The cost of minting
+#### Oluşturmanın maliyeti
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+Ethereum tabanlı tokenlar ve sözleşmelerle uğraşırken, hemen hemen her aşamada gaz ücretleriyle karşılaşacaksınız.
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+Gaz fiyatları sürekli dalgalıdır ve bu, ne kadar gaz ödemeniz beklendiğinde önemli bir rol oynamaktadır, bu nedenle bir şey söylemek oldukça zordur.
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+Bununla birlikte, bir crucible oluşturmak için bir işlem göndermek üzereyken LP jetonlarınızın değerini gaz maliyetine karşı hesaba katmanız gerektiğini söyleyebiliriz.
 
-#### The tools
+#### Araçlar
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+Kılavuzlarımız, tercih ettiğimiz cüzdan ![](../.gitbook/assets/metamask-fox.svg)MetaMask'a dayanıyor. Diğer cüzdanların kullanımıyla ilgili tavsiyeye ihtiyacınız varsa, [discord](http://discord.alchemist.wtf) kanalımıza katılın. Topluluk cevap vermekten mutluluk duyacaktır.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+MetaMask, token [adreslerini uygulamaya ekleyene](faq.md#why-cant-i-see-my-mist-in-my-wallet) kadar Crucible jetonlarınızı tanımayacak veya görüntülemeyecektir.
 {% endhint %}
 
-## What wallets can I use to store my Crucible?
+## Crucible'ımı saklamak için hangi cüzdanları kullanabilirim?
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+Crucible'lar ERC-721 tokenlerdir ve bu işlemler tüm Cüzdan Uygulamaları tarafından desteklenmez. 
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+Lütfen [cüzdan uyumluluk kılavuzuna](wallet-compatibility.md) bakın.
 
-## How much LP tokens do I need to create a Crucible?
+## Crucible oluşturmak için ne kadar LP jetonuna ihtiyacım var?
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+Topluluk üyeleri, 0.1 LP token kadar düşük bir miktarla Crucible'ı başarıyla oluşturdu.
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+Tabii ki, bir Crucible belli bir komisyona ücretine mal oluyor, bu yüzden lütfen minimum LP ile oluştururken bu maliyeti dikkate alın.
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+Unutmayın, Aludel'de yatırdığınız toplam LP'deki LP payınızla orantılı olarak ödül kazanıyorsunuz.
 
-## Can I create multiple Crucibles?
+## Birden fazla Crucible oluşturabilir miyim?
 
-Yes. Many users in the community have already minted multiple Crucibles.
+Evet. Topluluktaki birçok kullanıcı zaten birden fazla Crucible oluşturmuştur.
 
-Whether this is beneficial or not, this is up to you to decide.
+Bunun yararlı olup olmadığına karar vermek size kalmış.
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## Başka birinin Crucible'ının ne kadar LP token değerinde olduğunu nasıl kontrol edebilirim?
 
-You can take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+Crucible'ın token ID'sini alabilir, eğer ondalık\(decimal\) ise onaltılık tabana\(hexadecimal\) dönüştürebilir ve ardından [etherscan.io](https://etherscan.io)'da adresi arayabilirsiniz.
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+Bu, Crucible'da içeriğin ne olduğunu ve gerçekleşen işlemlerin geçmişini gösterecektir.
 
-If you can't see any tokens displayed for it, then it's most likely empty.
+Bunun için gösterilen herhangi bir token göremiyorsanız, büyük olasılıkla boştur.
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+## Tokenlarımı ![](../.gitbook/assets/metamask-fox.svg)MetaMask'ta nasıl görebilirim ?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+Tokenı görebilmek için cüzdanınıza eklemeniz gereken adreslerle ilgili [SSS](faq.md#why-cant-i-see-my-mist-in-my-wallet)[ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)bölümümüze bakın.
 
 \*\*\*\*
 
