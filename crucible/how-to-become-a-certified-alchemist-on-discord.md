@@ -2,7 +2,7 @@
 
 Daca detii un Crucible NFT, tu poti deveni un Alchimist Certificat in [canalul nostru Discord](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
 
-Daca Crucible NFT detinut de tine a fost deja minat folosind [Alchemist.farm](https://alchemist.farm), te rog mergi direct la **Partea 2.**
+Daca Crucible NFT detinut de tine a fost deja creat folosind [Alchemist.farm](https://alchemist.farm), te rog mergi direct la **Partea 2.**
 
 Daca Crucible NFT detinut de tine a fost minat folosind [command line](https://github.com/alchemistcoin/alchemist), ai nevoie sa te loghezi in contul tau nou de Metamask folosind mnemonics care ai utilizat la minarea prin command line. Explicam asta in **Partea 1** a ghidului prezentat mai jos.
 
