@@ -2,13 +2,13 @@
 
 您可以用您新造的crucible做很多事情，下面是您使用crucible.alchemist.wtf最常遇到的事情
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards) 检查你的奖励
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)增加您的LP供应
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)检查您的Crucible中提供了多少LP
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)将你的Crucible转移到另一个钱包里
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)找到并复制你的Crucible地址
+* [查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)
+* [增加您的LP供应](what-can-i-do-with-my-new-crucible.md#zeng-jia-nin-de-lp-gong-ying)
+* [检查您的Crucible中提供了多少LP](what-can-i-do-with-my-new-crucible.md#jian-cha-nin-de-crucible-zhong-ti-gong-le-duo-shao-lp)
+* [将你的Crucible转移到另一个钱包里](what-can-i-do-with-my-new-crucible.md#jiang-ni-de-crucible-zhuan-yi-dao-ling-yi-ge-qian-bao-li)
+* [找到并复制你的Crucible地址](what-can-i-do-with-my-new-crucible.md#zhao-dao-bing-fu-zhi-ni-de-crucible-di-zhi)
 
-## 查看你的奖励
+### 查看您的奖励
 
 1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 连接你的钱包并访问 "Your Crucibles"标签。
 2. 进入“Your Crucibles”选项卡后，在您要查看的Crucibles上点击向下的箭头展开详细信息： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
@@ -16,9 +16,9 @@
 4. 如果您想看更详细的奖励信息，请点击 "Manage Crucible"按钮  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. 现在您应该可以在 "Rewards"标签下看到一个更复杂的统计列表，包括关于奖励乘数的信息，你的头寸价值以及你提供和取消提供的LP。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 
-## 增加您的LP供应
+### 增加您的LP供应
 
-1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+1. 进行[查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)中的步骤1-5。
 2. 点击"Increase LP Subscription"按钮
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
@@ -28,23 +28,23 @@
 5. 您的LP现在应该被提交到Crucible，您可以使用您的交易提交后出现的任一提示来查看您的交易。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
 6. 一旦交易完成，你的Crucible应该代表你新提交的LP。
 
-## 检查您的Crucible中提供了多少LP
+### 检查您的Crucible中提供了多少LP
 
-1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+1. 进行[查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)中的步骤1-5。
 2. 您应该能够看到您的 "Subscribed Crucible LP"和 "Unsubscribed Crucible LP"
 
-## 将你的Crucible转移到另一个钱包里
+### 将你的Crucible转移到另一个钱包里
 
-1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+1. 进行[查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)中的步骤1-5。
 2. 找到当前打开的Crucible摘要 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. 找到Crucible右手边的纸飞机图标并点击它                      ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. 在"Recipient Address"栏中输入你想发送Crucible的钱包地址（必须与ERC-721兼容），然后按"Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
 5. 你会被提示确认转账，在提交之前确保钱包地址是正确的。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
 6. 现在，Crucible将被转至其新的钱包，使用通知中的链接来监控交易。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
-## 找到并复制你的Crucible地址
+### 找到并复制你的Crucible地址
 
-1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+1. 进行[查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)中的步骤1-5。
 2. 找到当前打开的Crucible摘要 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. 找到纸飞机左边的复制图标，点击它，你的Crucible地址就会出现在剪贴板中。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 

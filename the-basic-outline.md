@@ -30,5 +30,5 @@ Crucible只支持**Uniswap V2**流动池。向**Uniswap V3**池添加流动性�
 
 这就是炼金术发生的地方。"Aludel"是奖励计划的名称，你可以通过在Crucible上质押LP令牌获得⚗️和ETH。
 
-你可以在“[教我关于Crucible](crucible/teach-me-about-crucibles.md#shen-me-shi-crucible)”页面了解更多关于Crucible的信息。
+你可以在“[带我了解Crucible](crucible/teach-me-about-crucibles.md)”页面了解更多关于Crucible的信息。
 

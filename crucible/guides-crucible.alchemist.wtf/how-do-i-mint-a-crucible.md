@@ -4,7 +4,7 @@
 
 首先，你需要有$MIST并将其提供到Uniswap-V2流动池。
 
-如果您还没有这样做，请参考我们关于获取和提供[Acquiring & Subscribing](../../acquiring-and-subscribing.md)两部分指南。
+如果您还没有这样做，请参考我们关于[获取和提供](../../acquiring-and-subscribing.md)两部分指南。
 
 ## 使用LP代币铸造一个Crucible
 

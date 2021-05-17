@@ -10,13 +10,13 @@
 这个步骤是强制性的，此说明包含在下面的步骤中
 {% endhint %}
 
-1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)连接您的钱包并访问 "Your Crucibles"页。
-2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to claim rewards from and unsubscribe LP by clicking the downwards facing arrow:进入“Your Crucibles”选项卡后，在您想从其领取奖励的Crucibles上点击向下的箭头展开详细信息，并取消供应LP： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 连接您的钱包并访问 "Your Crucibles"页。
+2. 进入“Your Crucibles”选项卡后，在您想从其领取奖励的Crucibles上点击向下的箭头展开详细信息，并取消供应LP： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 3. 你的Crucible现在会显示更多的信息，例如你在奖励中获得了多少MIST或ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
 4. 点击“Manage Crucible”按钮 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. 现在您应该在"Rewards"标签下看到一个更复杂的统计列表。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. 点击页面底部的 "Claim rewards and unsubscribe"。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. **在继续下一步之前**，您现在需要将您的钱包连接到TaiChi网络，请参考这个链接的连接细节和说明[this link for connection details and instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)，我们在下面制作了动画教程来引导你完成这个过程。 ![](../../.gitbook/assets/taichi-network-add.gif) 
+7. **在继续下一步之前**，您现在需要将您的钱包连接到TaiChi网络，请参考[这个链接的连接细节和说明](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)，我们在下面制作了动画教程来引导你完成这个过程。 ![](../../.gitbook/assets/taichi-network-add.gif) 
 8. 确保MetaMask显示的是TaiChi网络，如下图。
 
    ![](https://i.imgur.com/kszVVbq.png)

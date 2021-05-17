@@ -18,7 +18,7 @@
 * 保持简单和实用
 * 优化和自动化
 
-更多详情请阅读这篇文章[article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+更多详情请阅读这篇[文章](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## 合规与道德规范
 
@@ -62,7 +62,7 @@ Basecamp是一个项目管理应用程序，你可以在你的浏览器和手机
 
 #### 我们如何使用它
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.Basecamp是我们收集、开发和绘制所有项目的地方。还对任务和责任进行了更精确的分配，以及电话和会议的记录。它主要用于提供概述，特别如果您是多签名者、高级炼金术士和相关的构建者，希望从整体上看待项目时，这将非常适合您。
+Basecamp是我们收集、开发和绘制所有项目的地方。还对任务和责任进行了更精确的分配，以及电话和会议的记录。它主要用于提供概述，特别如果您是多签名者、高级炼金术士和相关的构建者，希望从整体上看待项目时，这将非常适合您。
 
 ### Github
 
@@ -110,7 +110,7 @@ Coordinape是dao的一个平台，可以方便而公平地向贡献者分配资�
 
 ## 会议日程安排
 
-你可以在这里[here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)找到我们的共享日历。所有日期都包括在内，无论是与项目相关的，还是整个组织感兴趣的。会议对于质疑个人的方法和在团队中讨论这些方法是必不可少的。然后将在大本营中写出可持续性的记录。由于参与者分布在世界各地，所以时间的选择通常是为了让尽可能多的人能够参加。
+你可以在[这里](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)找到我们的共享日历。所有日期都包括在内，无论是与项目相关的，还是整个组织感兴趣的。会议对于质疑个人的方法和在团队中讨论这些方法是必不可少的。然后将在大本营中写出可持续性的记录。由于参与者分布在世界各地，所以时间的选择通常是为了让尽可能多的人能够参加。
 
 ## 实现透明化的常规措施
 
@@ -144,5 +144,5 @@ Coordinape是dao的一个平台，可以方便而公平地向贡献者分配资�
 
 ## 入职表格
 
-要参与入职流程，请填写这张表格[form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+要参与入职流程，请填写这张[表格](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 

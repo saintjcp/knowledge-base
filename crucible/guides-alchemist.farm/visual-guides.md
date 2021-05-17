@@ -9,20 +9,20 @@
 {% hint style="warning" %}
 视频中提到的Uniswap可能已经过时。请确保你使用的是**Uniswap V2**来提供流动性，因为V3不被支持。
 
-如果您不知道如何在V3和V2之间切换，请使用我们指南[guide](../../acquiring-and-subscribing.md)中的链接。
+如果您不知道如何在V3和V2之间切换，请使用我们[指南](../../acquiring-and-subscribing.md)中的链接。
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)制作一个Crucible
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)获取LP，然后制作一个Crucible
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)获得LP，然后制作一个Crucible并成为Discord上的认证Alchemist
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)使用Alchemist.farm和OpenSea.io进行坩埚转移
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)无偿损失--在质押LP之前关注
+* [制作一个Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+* [获取LP，然后制作一个Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* [获得LP，然后制作一个Crucible并成为Discord上的认证Alchemist](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* [使用Alchemist.farm和OpenSea.io进行坩埚转移](https://www.youtube.com/watch?v=i2MCYimelBM)
+* [无偿损失--在质押LP之前关注](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
 ### **图片 🖼🎨**
 
-![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
+![&#x8FDB;&#x5165;Aludel&#x9879;&#x76EE;](https://i.imgur.com/7sK0Jr2.png)
 
-![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
+![Aludel&#x80CC;&#x540E;&#x7684;&#x7406;&#x5FF5;](https://i.imgur.com/sutIhed.png)
 
 
 

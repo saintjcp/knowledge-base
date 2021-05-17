@@ -47,8 +47,6 @@ Crucible的价值很难确定。Crucible的NFT性质有可能使其具有超越�
 
 gas价格持续波动，预计要支付多少gas起着很重要的作用，因此我们无法给出一个明确的指示。
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
-
 然而，我们可以说，当你准备提交一笔交易来铸造一个Crucible时，你应该考虑到你的LP代币的价值和gas的成本。
 
 #### 工具
@@ -56,22 +54,20 @@ We can say however, that you should take into account the value of your LP token
 我们的指南是基于我们选择的钱包，MetaMask。如果你需要关于使用其他钱包的指导建议，请进入我们的discord频道，社区将很乐意回答这个问题。
 
 {% hint style="warning" %}
-在您添加代币地址[add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet)之前，MetaMask不会识别或显示您的Crucible代币。
+在您[添加代币地址](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-mist)之前，MetaMask不会识别或显示您的Crucible代币。
 {% endhint %}
 
 ## 我可以用什么钱包来存储我的Crucible？
 
 Crucibles是ERC-721代币，并不是所有钱包都支持这些交易签名。
 
-请参考我们的钱包兼容性指南[wallet compatibility guide](wallet-compatibility.md)。
+请参考我们的[钱包兼容性指南](wallet-compatibility.md)。
 
 ## 我需要多少LP代币来创造一个Crucible？
 
 社区成员已经成功地用最低0.1LP的代币铸造了一个Crucible。
 
 当然，铸造Crucible仍然需要耗费gas，所以在用最小的LP创造Crucible时，请考虑到这一成本。
-
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
 
 请记住，你赚取的奖励与你在Aludel的总质押中的LP份额成正比。
 
@@ -91,7 +87,7 @@ Remember, you earn rewards proportional to your LP share of the total LP staked 
 
 ## 如何在MetaMask![](../.gitbook/assets/metamask-fox.svg)上查看我的代币？
 
-请参考我们的常见问题[our FAQ](faq.md#why-cant-i-see-my-mist-in-my-wallet)您需要添加到您的钱包才能看到代币的地址。
+请参考我们的[常见问题](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-lp)您需要添加到您的钱包才能看到代币的地址。
 
 \*\*\*\*
 
