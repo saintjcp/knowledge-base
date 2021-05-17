@@ -8,7 +8,9 @@ Le guide sottostanti si riferiscono al sito della community ****[**crucible.alch
 
 ### Cont**enuti**
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1.  [Come conio un Crucible?](https://app.gitbook.com/@alchemist-docs/s/mist/v/italian/crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible)
+2.  [Cosa posso fare con i miei nuovi Crucible?](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wCAg-4UamwHrdOoHU/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible)
+3.  [Richiedere Ricompense e Disiscrivere i tuoi token LP](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wCAg-4UamwHrdOoHU/v/italian/crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp)
+
+
 
