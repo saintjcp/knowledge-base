@@ -1,26 +1,28 @@
-# I have minted a Crucible, now what?
+# Wybiłem Crucible, co dalej?
 
-## You can checking how many LP tokens are in your Crucible
+## Możesz sprawdzić ile tokenów LP znajduje się w Twoim Crucible
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Przejdź do [alchemist.farm](https://alchemist.farm/), połącz swój portfel i kliknij zakładkę Crucibles.
 
-The Total Balance reflects your Crucible LP value.
+Total Balance określa wartość Twojego Crucible LP.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Jak widać, strona wyświetla również kilka innych przydatnych wskaźników do śledzenia wydajności.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Skąd mam wiedzieć, czy zasubskrybowałem LP w swoim Crucible?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Powinno się to stać automatycznie. Możesz również skorzystać z [alchemist.farm](https://alchemist.farm/), aby sprawdzić swój Crucible. W prawym górnym rogu ekranu wyświetlanego Crucible pojawi się ikona kłódki, która wskazuje ilość LP, które zostały zasubskrybowane w programie nagród Aludel:
 
-## How do I check my Aludel rewards?
+![](https://i.imgur.com/ed4d3m8.png)
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+## Jak mogę sprawdzić swoje nagrody Aludel?
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+Do wyświetlenia Crucible możesz skorzystać z witryny [alchemist.farm](https://alchemist.farm/), która pokazuje Twoje obecne nagrody ⚗️ i ETH.
 
-Yes. Now you sit back and see what happens.
+## Jeżeli wybiłem swój Crucible i zasubskrybowałem swoje LP... to czy to już wszystko?
+
+Tak. Teraz usiądź wygodnie i obserwuj, co się stanie.
 
 #### 
 
