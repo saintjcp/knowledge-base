@@ -7,7 +7,7 @@
 
 ---
 
-* [The basic outline](the-basic-outline.md)
+* [המתווה הבסיסי](the-basic-outline.md)
 * [Acquiring & Subscribing](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 

@@ -1,4 +1,8 @@
-# The basic outline
+# המתווה הבסיסי
+
+יש אסימון שנקרא Alchemist. הוא מזוהה עם הסמל הזה "⚗️". הוא מכונה גם "mist" ו "MIST$". אל תבלבל את זה עם [MUST](https://www.coingecko.com/en/coins/must) - על אף האלמבי שהוא מציג כעת אין לו שום קשר ל- Alchemist.
+
+בשביל מה ⚗️ טוב? אני לא כאן כדי לענות על זה. אנא עיין כאן[offici](faq.md)[al FAQ](faq.md)
 
 There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
 

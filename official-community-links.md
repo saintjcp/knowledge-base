@@ -6,18 +6,18 @@ If you decide to use links from external sources, check first that they match ou
 
 Please only use our list of official links when taking part in the Alchemist.
 
-### Sites
+### אתרים
 
-| Site | Description |
+| אתר | תיאור |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 
-### Community
+### קהילה
 
-| Site | Description |
+| אתר | תיאור |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
