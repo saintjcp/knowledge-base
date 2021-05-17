@@ -17,7 +17,7 @@
 * [Spiegami i Crucible](crucible/teach-me-about-crucibles.md)
 * [Guide: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Come conio un Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
-  * [What can I do with my new Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
+  * [Cosa posso fare con il mio nuovo Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [Claiming Rewards & Unsubscribing your LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [I have minted a Crucible, now what?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
