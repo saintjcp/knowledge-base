@@ -7,8 +7,8 @@
 
 ---
 
-* [The basic outline](the-basic-outline.md)
-* [Acquiring & Subscribing](acquiring-and-subscribing.md)
+* [Temel ana hat](the-basic-outline.md)
+* [Elde etmek & Katılım](acquiring-and-subscribing.md)
 * [FAQ](faq.md)
 
 ## Crucible

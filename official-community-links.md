@@ -1,23 +1,23 @@
 # Resmi Topluluk Bağlantıları 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Harici kaynaklardan gelen bağlantıları kullanmaya karar verirseniz, önce bunların resmi bağlantılarımızla eşleşip eşleşmediğini kontrol edin. **Eğer bağlantı bu listede yoksa bizimle alakası yoktur.**
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Alchemist'e katılırken lütfen yalnızca listelerde bulunan resmi bağlantıları kullanın.
 
-### Sites
+### Web siteleri
 
-| Site | Description |
+| Site | Açıklama |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Güncel Crucible Websitesi |
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
-| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokümantasyon |
 
-### Community
+### Topluluk
 
-| Site | Description |
+| Site | Açıklama |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
