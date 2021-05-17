@@ -1,12 +1,12 @@
 # Enlaces oficiales de la Comunidad 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Si decides utilizar enlaces de fuentes externas, comprueba primero que coinciden con nuestros enlaces oficiales. **Si el enlace no existe en esta lista, no es nuestro**.
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Por favor, utiliza sólo nuestra lista de enlaces oficiales cuando participe en el Alchemist.
 
-### Sites
+### Páginas web
 
 | Site | Description |
 | :--- | :--- |
@@ -15,7 +15,7 @@ Please only use our list of official links when taking part in the Alchemist.
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 
-### Community
+### Communidad
 
 | Site | Description |
 | :--- | :--- |
