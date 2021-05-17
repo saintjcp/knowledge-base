@@ -1,4 +1,4 @@
-# Wallet Compatibility
+# Compatibilidad de los Wallets
 
 Basándonos en pruebas limitadas y en los comentarios de los usuarios, hemos elaborado la siguiente tabla de compatibilidad.
 
