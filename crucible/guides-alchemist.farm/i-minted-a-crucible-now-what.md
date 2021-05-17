@@ -12,7 +12,7 @@ Jak widać, strona wyświetla również kilka innych przydatnych wskaźników do
 
 ## Skąd mam wiedzieć, czy zasubskrybowałem LP w swoim Crucible?
 
-Powinno się to stać automatycznie. Możesz również skorzystać z [alchemist.farm](https://alchemist.farm/), aby sprawdzić swój Crucible. W prawym górnym rogu ekranu wyświetlanego Crucible pojawi się ikona kłódki, która wskazuje ilość LP, które zostały zasubskrybowane w programie nagród Aludel:
+Powinno się to stać automatycznie. Możesz również skorzystać z [alchemist.farm](https://alchemist.farm/), aby sprawdzić swój Crucible. W prawym górnym rogu ekranu wyświetlanego Crucible pojawi się ikona kłódki, która określa ilość LP, które zostały zasubskrybowane w programie nagród Aludel:
 
 ![](https://i.imgur.com/ed4d3m8.png)
 
