@@ -13,7 +13,7 @@ The reason for using the TaiChi network is to protect your transaction from bein
    ![](https://i.imgur.com/kszVVbq.png)
 
 6. Once you are connected to TaiChi you can now click “Claim Rewards and Unsubscribe LP”
-7. Enter the amount of LP you wish to Claim and Unsubscribe then press the blue button ~ “Claim Rewards and Unsubscribe LP”
+7. Enter the amount of LP you wish to Claim and Unsubscribe then press the blue button “Claim Rewards and Unsubscribe LP”
 8. You will now get a pop up box from MetaMask asking you for a “Signature Request” click “sign”
 9. Next you will get a transfer funds notification box from MetaMask as shown below. **We suggest you check the Gas Fee by clicking the EDIT button.  Some users have reported this defaulting to the slowest option, which can delay the completion of your transaction. If you are concerned the gas fees are too high, use** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **to help decide when the lowest gas fees might occur**
 
