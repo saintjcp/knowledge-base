@@ -87,7 +87,7 @@ Daca nu vezi nici un token LP asociat acestui NFT Crucible, inseamna ca acesta n
 
 ## Cum vad tokenii mei pe MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
 
-Consulta sectiunea [Intrebari Frecvente ](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_gKDlT66PxxS-2GQoi/v/romanian/crucible/teach-me-about-crucibles#pot-creea-mai-multe-nft-uri-crucible)pentru a fi ghidat pas cu pas despre cum sa adaugi adresele de smartcontract in MetaMask, apoi vei vedea acesti tokeni corespondenti acestor adrese. 
+Consulta sectiunea [Intrebari Frecvente ](faq-new.md#de-ce-nu-pot-sa-vad-token-ul-mist-in-walletul-meu)pentru a fi ghidat pas cu pas despre cum sa adaugi adresele de smartcontract in MetaMask, apoi vei vedea acesti tokeni corespondenti acestor adrese. 
 
 \*\*\*\*
 
