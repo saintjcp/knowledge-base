@@ -26,7 +26,7 @@ A causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può
 
    * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
 
-Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta che la transazione si completi Ho scoperto che i miei primi due tentativi sono falliti, apparentemente perché non sono stati elaborati abbastanza velocemente perché il prezzo rimanesse stabile prima che finissero MetaMask ha la capacità di permetterti di accellerare una transazione localizzandola nella finestra "Attività" e scegliendo di pagare più gas per un'elaborazione a priorità più alta Vai su [https://etherscan.io/address/](https://etherscan.io/address/) per visualizzare le transazioni in sospeso e tutti i token associati al tuo account. Se usi MetaMask puoi cliccare sui tre punti e poi su "View on Etherscan" per arrivarci:
+Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta il completamento della transazione  Ho scoperto che i miei primi due tentativi sono falliti, apparentemente perché non sono stati elaborati abbastanza velocemente perché il prezzo rimanesse stabile prima che finissero MetaMask ha la capacità di permetterti di accellerare una transazione localizzandola nella finestra "Attività" e scegliendo di pagare più gas per un'elaborazione a priorità più alta Vai su [https://etherscan.io/address/](https://etherscan.io/address/) per visualizzare le transazioni in sospeso e tutti i token associati al tuo account. Se usi MetaMask puoi cliccare sui tre punti e poi su "View on Etherscan" per arrivarci:
 
 
 
@@ -40,22 +40,27 @@ Premi "Swap", fai le approvazioni necessarie tramite MetaMask, aspetta che la tr
 
 Ever provided liquidity on Uniswap? If so you know how to do this already.
 
+Hai già fornito liquidità su Uniswap? Se si, sai già il contenuto di questo step. 
+
 
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool.   
-Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible only supports the **Uniswap V2** Liquidity Pool.  Crucible supporta solamente la pool di liquidità **Uniswap V2**  
+Aggiungere liquidità alla pool **Uniswap V3** non è compatibile con il Programma di ricompense. 
 {% endhint %}
 
-1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
-   * Connect MetaMask wallet if not already done so
-2. You should see something like this:
+1.   Vai su [Aggiungi LP a $MIST su Uniswap V2](%20https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
+   * Connetti MetaMask wallet se non l'hai già fatto
+2. Dovresti riuscire a vedere questo:
 
     ![](https://i.imgur.com/7paIEyF.png)
 
 3. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-4. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
-5. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
+
+Inserisci la quantità che vuoi immobilizzare. Entrambi gli importi devono avere lo stesso valore, in modo tale che cambiare uno porti a cambiare l'altro. Ti consiglio di cliccare il pulsante "MAX" a fianco dell'⚗️
+
+1. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete  Premi "Stake" o "Supply", fai le approvazioni necessarie tramite MetaMask, aspetta il completamento della transizione 
+2. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:  
 
     ![](https://i.imgur.com/6hAoHGw.png)
 
