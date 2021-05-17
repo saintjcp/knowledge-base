@@ -34,7 +34,7 @@ Questo meccanismo che permette di trarre profitto dalle commissioni della pool d
 
 Il luogo dove avviene la magia. "Aludel" è il nome del Programma di Ricompense dove puoi guadagnare ⚗️ e ETH per iscriverti con i tokens LP dentro un Crucible. 
 
-Puoi scoprire molto sui crucibles nella pagina ["Spiegami i Crucibles"](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vYwpW1cVph6fWIvvk/v/italian/crucible/teach-me-about-crucibles). 
+Puoi scoprire molto sui crucible nella pagina ["Spiegami i Crucible"](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vYwpW1cVph6fWIvvk/v/italian/crucible/teach-me-about-crucibles)
 
 
 

@@ -19,7 +19,7 @@ Per favore, assicurati di aggiungere token alla pool V2 e non alla pool V3.
 Il Sistema di Ricompensa Aludel è ancora un esperimento in corso, tieni presente le seguenti precauzioni prima di prendere parte al programma.
 {% endhint %}
 
-Se hai letto gli avvisi riportati sopra, sei pronto per insegnami i Crucible.
+Se hai letto gli avvisi riportati sopra, sei pronto per [Spiegami i Crucible](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vYwpW1cVph6fWIvvk/v/italian/crucible/teach-me-about-crucibles).
 
 {% page-ref page="teach-me-about-crucibles.md" %}
 

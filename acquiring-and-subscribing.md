@@ -44,7 +44,7 @@ Aggiungere liquidità alla pool **Uniswap V3** non è compatibile con il Program
 
 3. Inserisci la quantità che vuoi bloccare. Entrambi gli importi devono avere lo stesso valore, in modo tale che cambiare uno porti a cambiare l'altro. Ti consiglio di cliccare il pulsante "MAX" a fianco dell'⚗️
 4.  Premi "Stake" o "Supply", fai le approvazioni necessarie tramite MetaMask, aspetta il completamento della transizione 
-5. Dovresti vedere i tuoi nuovi token LP \(chiamati UNI-V2\) su Etherscan  :  
+5. Dovresti vedere i tuoi nuovi token LP \(chiamati UNI-V2\) su Etherscan:  
 
     ![](https://i.imgur.com/6hAoHGw.png)
 
