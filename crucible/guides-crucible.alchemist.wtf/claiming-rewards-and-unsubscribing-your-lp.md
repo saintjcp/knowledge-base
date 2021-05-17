@@ -38,7 +38,7 @@ Ten krok jest obowiązkowy, a instrukcje znajdują w poniższych krokach.
 
     ![](https://i.imgur.com/fcPY6Zp.png) 
 
-16. Kliknij odśwież, a zobaczysz teraz Crucible z usuniętymi tokenami LP
+16. Kliknij odśwież, a zobaczysz Crucible z usuniętymi tokenami LP
 
 \*\*\*\*
 
