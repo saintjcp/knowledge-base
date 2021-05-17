@@ -1,78 +1,78 @@
-# Alchemist Builders Onboarding Guide
+# Alchemist Builders入职指南
 
-## Vision
+## 愿景
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+所以你认为你已经具备了成为一个Alchemist的条件，踏上了伟大事业的道路，这条道路可能会把你引向从未涉足过和探索过的领域——就像我们这个时代最伟大的Alchemist——著名的精神学家卡尔·荣格说过：“一个人不是通过想象光明的形象来获得启迪，而是通过让黑暗变得自觉。”
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+在Alchemist实验室里，实验的重点是探索高度技术性的概念，试图发现正确合成哲学家之石所需的成分--例如，设计Mint a Crucible NFT体验或mistX Gasless DEX。
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+除了技术实验，我们的行会已经成长为一个分散式的安全港湾，疲惫的学者们可以在这里感到舒适、轻松和安全。像创建Alchemist电台或为Crucible NFT找到正确的艺术方向等创造性项目便是来自Alchemists在闲暇时间摆弄烧杯和漏斗的无数例子。
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+总的来说，为了在每一个过程中有效地创造价值，我们遵循了自翡翠石板时代以来Alchemist所珍视的指导原则——所有积极的参与者都将这种心态内化了，所以我们基本上都拥有同样的两极化愿景:
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* 专注于价值
+* 从现在开始
+* 在反馈中不断进步
+* 合作并提高知名度
+* 全面地思考和工作
+* 保持简单和实用
+* 优化和自动化
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+更多详情请阅读这篇文章[article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## 合规与道德规范
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+我们持开放的态度，欢迎所有想要加入我们并积极参与发现长生不老药的人。Alchemist 行会没有限制我们成长潜力的规定。幕后没有公司、开发商或幕后操纵的傀儡。我们的社区一天天地成长，并引导项目进入新的，现在无法想象的领域。作为一个分散的组织，从我们的观点来看，在道德和共同的行为规则上达成一致是很重要的。我们同意遵守以下规则:
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* 互相尊重
+* 不得有种族歧视、性别歧视、煽动或对社区造成伤害的行为
+* 没有不恰当的语言或内容
 
-## Hierachy
+## 层级
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+我们的等级制度是明确的，而且相对扁平。我们的多重签名者和高级Alchemist，以及作为创始人的@thegostep代表了Alchemist本身的领导力和同步监督。除了目标、里程碑和时间表之外，他们还制定了基本的方向，以便Alchemist创造尽可能大的价值，确保我们有一个光明的未来。
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+接下来是建设者小组，成员来自不同的专业领域。一方面，当然有开发人员加入，他们主要负责一个或几个项目的概念、架构和实施。建设者小组不仅由开发者组成，还包括来自各行各业的学者--营销专家、艺术家和一些极其投入的社区成员。每个希望积极参与的人都是建设者小组的成员。无论现有的技能如何，在Discord或其他工具（如Basecamp）中进行生动的、有建设性的交流都是值得赞赏的。建设者的角色将使用户能够查看敏感的技术概念和炼金术士实验室正在开发的产品。
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+为了让建造者的团队专注于他们的转化，他们创造了一个新的角色——学徒。这个角色让一直努力寻找自己的途径的年轻炼金术士有机会接触到实验室里正在进行的许多实验，还能保护他们免受高级炼金术的领域的影响，因为这可能会导致意外地炸毁半个建筑。一旦学徒掌握了炼金术实验的全部技术面，"建设者"的角色将演变为学徒的下一步。
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+第四组是 "普通"社区成员和认证的alchemists，他们大多是由$Mist和/或crucible持有人组成。社区对我们起着重要的作用--合作，揭示广泛的情绪，提供与现有产品和服务有关的宝贵反馈，以及为进一步的实验提供思考。我们感谢每一个找到我们的人，并希望尽可能让他们在我们的社区中感到舒适。
 
-## Tools
+## 工具
 
 ### Discord
 
 #### **General**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+Discord是一个VoIP、即时通讯和数字分配平台，旨在创建社区。用户通过语音通话、视频通话、文本信息、媒体和文件在私人聊天室或作为被称为 "服务器 "的社区的一部分进行交流。服务器是一个持久的聊天室和语音聊天频道的集合。Discord在Windows、macOS、Android、iOS、iPadOS、Linux和网络浏览器上运行。截至2020年12月，该服务拥有超过1.4亿月度活跃用户。
 
-#### **How we use it**
+#### 我们如何使用它
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+Discord是我们首选的沟通工具，因为它为对话提供了一个快速、简单和可持续的解决方案--无论是书面的还是语音的。我们有2个类别的区分--社区和建设者。社区对每个alchemist开放，而建造者则有自己的隔离区，不受干扰。建设者区域被划分为不同的项目或主题，但基本上都对每个建设者开放，目的是鼓励参与。
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**链接:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
 
 ### Basecamp
 
 #### **General**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+Basecamp是一个项目管理应用程序，你可以在你的浏览器和手机上访问。它为你提供所需的工具，以设置待办事项、时间表、创建和上传文档和文件、与你的同事留言和聊天，并定期与你的小组签到--所有这些都在这一个地方!
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+无论你是独自工作，需要梳理你的工作，还是使用它来合作完成一个项目，工作或一些个人的东西，Basecamp都能使它变得很容易。它的设置非常快，如果您一直使用它，它应该会使您与团队的沟通更加容易。特别是虚拟团队。
 
-#### **How we use it**
+#### 我们如何使用它
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.Basecamp是我们收集、开发和绘制所有项目的地方。还对任务和责任进行了更精确的分配，以及电话和会议的记录。它主要用于提供概述，特别如果您是多签名者、高级炼金术士和相关的构建者，希望从整体上看待项目时，这将非常适合您。
 
 ### Github
 
 #### **General**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+GitHub是一个为软件开发者提供的基于网络的版本控制和协作平台。GitHub通过提供Git代码库的网络接口和协作的管理工具来促进公共编码。GitHub可以被认为是软件开发者的一个严肃的社交网站。成员可以互相关注，给对方的工作评分，接收特定项目的更新，并进行公开或私下交流。
 
-#### **How we use it**
+#### 我们如何使用它
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub是我们开发者的数字家园。正如描述中所说，它是部署和开发合作的完美平台，特别是对我们这个分散的自治组织而言。它代表了我们产品的核心，并被分成不同的库。
 
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
@@ -80,69 +80,69 @@ GitHub is the digital home of our developers. As already stated in the descripti
 
 #### **General**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+Linear帮助简化软件项目、sprint、任务和bug跟踪。它是为高性能团队设计的。直接连接到Github。
 
-#### **How we use it**
+#### 我们如何使用它
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+Linear主要被我们用来记录与开发人员相关的问题、难题和/或在单个任务的架构和处理过程中出现的障碍\(之前在Basecamp中定义\)，并最终提供解决方案或解决方案。因此，Linear代表了这个工具，它透明地、详细地为技术主题分解单个任务。在Github上跟踪任务。
 
 ### Figma
 
 #### **General**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+Figma是一个基于云的设计工具，在功能和特性上与Sketch类似，但有很大的不同，这使得Figma更适合团队协作。对于那些对这种说法持怀疑态度的人，我们将解释Figma如何简化了设计过程，在帮助设计师和团队高效工作方面，它比其他程序更有效。
 
-#### **How we use it**
+#### 我们如何使用它
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+Figma主要是我们用来分享创意内容和一起工作。例如，这些可以是ui相关的设计草案，也可以是任何类型的社区项目的初始设计——这里的一个例子就是单页设计。特别是当涉及到设计决策时，因为这些决策经常受到个人品味的影响，在我们看来，它们在发布之前应该首先被分享。
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**链接:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
 #### **General**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape是dao的一个平台，可以方便而公平地向贡献者分配资源。社区赠款、内部工资和特殊项目都可以由社区本身来激励和奖励。取代了繁琐的投票或黑箱委员会，贡献者自己可以快速和透明地奖励他们看到被创造的价值。
 
-#### **How we use it**
+#### 我们如何使用它
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+从多重签名密钥持有人中获得报酬的炼金术士将被放置在圈内，并有能力奖励他们的同伴。
 
-## Meeting Calender
+## 会议日程安排
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
+你可以在这里[here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)找到我们的共享日历。所有日期都包括在内，无论是与项目相关的，还是整个组织感兴趣的。会议对于质疑个人的方法和在团队中讨论这些方法是必不可少的。然后将在大本营中写出可持续性的记录。由于参与者分布在世界各地，所以时间的选择通常是为了让尽可能多的人能够参加。
 
-## Routines to Achieve Transparency
+## 实现透明化的常规措施
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+在一个分散的团队中，有时很难了解谁贡献了什么，多久贡献一次。为了解决这个问题，我们决定引入一些常规措施，以促进透明度和可视性，哪怕是没有直接参与项目的建设者和高级炼金术士。
 
-### Builder Stand Up
+### Builder Stand Up（建设者请起立）
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+为了使这个过程对每个人都更加透明，我们正在创建一个\#builders-standup频道，我们希望鼓励活跃的项目贡献者定期发布更新。你上次做了什么工作，取得了什么进展？你目前在做什么？自从你上次更新后，你遇到了什么障碍/问题，你需要什么帮助吗？
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+我们也想鼓励你经常把你的WIP分支推送到GitHub上，特别是在周四，这样高级炼金师就能更好地了解如何计算本周的津贴分配了。
 
-### Participation on Scheduled Meetings
+### 参加预定的会议
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+正如在 "会议日程安排 "主题下所描述的那样，我们很欣赏团队中就当前主题进行的热烈交流。最简单易行的方式就是口头表达。因此，定期参与是非常重要的，同时有几个原因--找到快速的解决方案，对某些主题的几个意见进行整合，找到一个多数人的方法，并促进完整性。如果你不能参与，请告知你的团队，然后拿着记录本（Basecamp）保持最新的信息。
 
-### Communication and Tool Interactions
+### 沟通和工具交互
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+我们有各种各样的工具在使用，当然我们也希望使用这些工具，以便我们能够根据我们设定的期望来查看进展。无论哪种方式，所做的工作都应该有重点。小的或大的里程碑的交互通常与整个项目相关，即使这不是第一眼就能看到的，因此应该在Basecamp\(项目管理\)，Linear\(开发者\)，Figma\(美术师\)和/或在Discord中找到。因此，我们希望鼓励您通过提供给您的一个渠道进行大量和积极的交流。
 
-## Feedback
+## 反馈
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+我们希望支持您作为建设者入职，因此在初始阶段加入了固定的反馈讨论。一位高级炼金术师或建设者同事会在你第一次概述后回答你的问题，并为你指定一个起点。谈话的目的是向您解释尚不清楚的问题，并回答各种问题，以便您从一开始就能尽可能多地参与到项目中。
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+然后在大约2周后安排另一次反馈邀约，届时我们特别想知道你的处理情况，以及你在没有其他问题的情况下如何为项目的价值贡献自己的力量。我们也试图通过你给我们的反馈来优化我们的入职过程。
 
-## The Builders' Stipend
+## 建设者的津贴
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+一旦开发工作开始，高级炼金术士就开始分配建设者津贴，会在给项目积极贡献的团队成员之间分配。津贴来自一个有限的$MIST池，每周根据高级炼金师认为最有利于滋养项目发展的分配方式进行分配。它可能会随着每笔支付而改变，但高级炼金师通常会给出一个粗略的理由，说明为什么这些资金以特定的方式分配。
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+建设者津贴在这里是为了让你很容易地放下其他干扰，集中精力与其他炼金术士一起建设。这不是薪水。它并不是驱动你做出贡献的主要动机。如果你来这里只是为了赚钱，那你可能来错了社区。
 
-## Onboarding Form
+## 入职表格
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+要参与入职流程，请填写这张表格[form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 

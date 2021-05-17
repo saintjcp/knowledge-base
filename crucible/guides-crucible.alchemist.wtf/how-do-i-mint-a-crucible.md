@@ -1,38 +1,38 @@
-# How do I mint a Crucible?
+# 如何铸造Crucible？
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## 交换和提供$MIST ⚗️来铸造一个Crucible
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+首先，你需要有$MIST并将其提供到Uniswap-V2流动池。
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+如果您还没有这样做，请参考我们关于获取和提供[Acquiring & Subscribing](../../acquiring-and-subscribing.md)两部分指南。
 
-## Minting a Crucible using LP tokens
+## 使用LP代币铸造一个Crucible
 
 {% hint style="warning" %}
-**Important information:** 
+**重要通知：**
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
+不要使用Brave浏览器，因为它与目前的程序不兼容，你的交易将会失败，造成费用的损失。
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+我们目前不建议使用硬件钱包，因为许多硬件钱包目前不支持EIP-712签名。当他们解决了这个问题时，我们才可以去实施使用。
 
-We do not recommend you do this on a mobile
+我们不建议您在手机上这样做。
 {% endhint %}
 
-### Step by Step guide
+### 一步一步的指引
 
-1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+1. 首先前往 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+2. 使用 "Connect Wallet"按钮连接一个钱包。在这个例子中，我们将使用Metamask
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - 或 - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
 
-3. You should see something like this:
+3. 你应该会看到像这样的页面:
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+4. 输入你希望投入Crucible的LP数量。你可能想点击"Max"来输入你的全部数额。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
+5. 点击 "Mint a Crucible"，通过MetaMask进行必要的授权，等待交易完成。 **注意：应该有2个签名请求和1个交易请求，如果它们没有弹出，你可能要打开MetaMask。** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+6. 一旦你确认了你的交易，你应该收到以下提示，点击查看你的交易。一旦你的交易被确认，请进入下一步。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+7. 现在你的交易已经确认，你可以关闭上面的弹出窗口，并点击"Crucibles"标签，这应该会显示你新铸造的Crucible。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Congratulations, if you've made it this far, you're now an Alchemist**
+## 恭喜你，如果你走到这一步，你现在是一名**Alchemist**了。
 

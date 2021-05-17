@@ -1,9 +1,9 @@
-# Wallet Compatibility
+# 钱包的兼容性
 
-Based on limited testing and feedback from users, we have come up with the following compatibility chart.
+根据有限的测试和用户的反馈，我们得出了以下兼容性图表。
 
 {% hint style="info" %}
-The accuracy of this information may change over time and is only to be used as a guide.
+这些信息的准确性可能会随着时间的推移而改变，只能作为一种参考。
 {% endhint %}
 
 <table>

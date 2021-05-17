@@ -1,8 +1,9 @@
-# Guides: crucible.alchemist.wtf
+# 指南:crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**以下是社区网站** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/) **的指南。**
+
+如果您使用的是[alchemist.farm](https://alchemist.farm/)，请点击这里[click here](../guides-alchemist.farm/)。
 {% endhint %}
 
 ### Contents

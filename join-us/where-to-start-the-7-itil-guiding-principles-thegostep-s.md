@@ -1,96 +1,96 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# 从哪里开始？- 7项ITIL指导原则（thegostep\(s\);）!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+指导原则是一种建议，它为组织提供普遍和持久的指导，适用于所有情况，无论其目标、战略、工作类型或管理结构的变化。
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1. 专注于价值
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+组织所做的一切都应该直接或间接地与自身、其 "客户"和其他利益相关者的价值联系起来。在关注价值的时候。第一步是要知道谁是我的价值所服务的顾客和关键利益相关者。其次，从消费者的角度理解什么是价值，这很重要。通过对客户体验或用户体验的清晰认识，了解客户对组织和产品/服务的体验也很重要。
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* 了解你的服务/产品/组织的用途。
+* 鼓励你的团队成员对价值的重视。
+* 在每一个正常的运营活动中，都要关注价值。
+* 在任何改进措施中，都要包含对价值的关注。
 
-### 2. Start where you are.
+### 2. 原地开始
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+当你寻求改进的机会时，不要在还没考虑有什么可以利用的东西前就重新开始。你不应该通过破坏你工作打好的基础来浪费你的时间--要知道已经投入了什么（成本、汗水和时间）。
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+如果可能的话，观察现有的服务和方法应该与测试保持一致，以正确了解它们的现状和可以从中为自己所重用的东西。信息应该尽可能的准确，以做出客观的决定。始终把测试看作是对分析的支持。要意识到--实际的测试是用来支持对所观察到的东西进行分析的，而不是用来取代它，因为过度依赖数据分析和报告会无意中在决策中引入偏见和风险。
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+* 起点要么是“客户”，要么是结果。尽可能客观地评价你现有的方法!
+* 您找到成功的现行作法了吗?使用它们!确定是否以及如何扩展和复制这些以实现期望的改进。
+* 用风险管理技能进行评估
+* 面对现实吧! 有时几乎甚至完全没有什么东西可以再利用。
 
-### 3. Progress iteratively with feedback.
+### 3. 在反馈的基础上迭代进步。
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+拒绝一次做完所有事情的诱惑。把它拆分开! 小的步骤或里程碑（迭代）可以被执行并及时完成。每个目标将更容易实现，它能激励你，而不是让你感到沮丧。每一项努力的焦点都将更加清晰。反映环境中的任何变化，并保持对价值的关注，以重新评估和潜在地修订每一次迭代以及整个计划。诚实的反馈是你回顾自身行动的工具——分析你改进的机会、风险和问题。给反馈一个学习、建立和改进的价值。
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+* 小的步骤或里程碑，同时理解整体。
+* 反馈是必要的——环境变化很快。
+* 快=/=不完整。
 
-### 4. Collaborate and promote visibility.
+### 4. 合作并提高知名度。
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+让正确的人担任正确的角色，努力就会从更多的相关性中受益\(决策的判断更有价值\)，并创造更多的长期成功。包容通常是比排斥更好的政策，因为热情的贡献、创造性的解决方案和重要的观点可以从意想不到的来源获得。成功的要求是信息、理解和信任。
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+识别和管理所有涉及的利益相关者或团体。最明显的利益相关者群体是 "客户"，因为在ITIL中，组织的主要目标是促进客户结果。其他利益相关者合作的例子包括：开发人员（与其他内部团队合作--如研究）或内部和外部供应商。
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+应该理解每个层次上每个利益相关者组对改进的贡献，以及与他们接触的最有效的方法。根据组织和“消费者”之间的关系，期望协作的级别和类型有不同的变化。解决涉众的需求!确定此类消息传递的类型、方法和频率!强烈推荐有组织的活动@交流。
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+利益相关者需要对进度和工作量有一个清晰的认识!永远不要给人留下什么都没发生的印象!可见性不足会导致决策失误，影响内部能力的提高。为了避免这种情况，您需要对工作流程、瓶颈和过剩的容量进行关键的\(并且真诚的\)分析。
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* 协作=/=共识
+* 大声喊出来--频繁的沟通是一种方式。
+* “好的”决策只能在可见的情况下做出。
 
-### 5. Think and work holistically.
+### 5. 全面思考和工作。
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+在一个复杂的系统中，一个元素的改变会影响其他元素。这些影响需要被识别、分析和计划。没有什么是单独存在的--无论是服务、实践、流程还是部门。除非它以综合的方式工作，将其活动作为一个整体来处理，而不是作为独立的部分来处理，否则结果会受到影响。
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+对ITIL概念采取全面的方法包括建立对组织的所有部分如何一起工作的理解\(四个维度:组织和人员、信息和技术、合作伙伴和/或供应商、价值流和流程\)。需求被捕获并转化为结果。
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+* 认识到每一个元素的复杂性。
+* 协作是整体工作的关键。
+* 了解元素之间的需求和交互的模式。
+* 自动化可以促进工作一体化。
 
-### 6. Keep it simple and practical.
+### 6. 保持简单和实用。
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+始终使用最少的步骤来完成一个目标。基于结果的思考应该被用来产生实用的解决方案，提供有价值的结果。如果一个过程、行动或指标不能提供价值或产生有用的结果，那么就取消它。不要关注每一个其他状况，这将自动导致过度复杂化。相反，应该设计规则、工作流或流程，可以用来处理一般的其他状况。
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+创造价值是你的目标--保持简单和实用有助于理解贡献。建立并交流对工作的整体看法。个别团队或小组可以理解他们的工作是如何被他人影响的，并反过来影响他人。
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+在设计、管理或操作实践时，要注意冲突的目标。例如，管理者可能想要大量的数据（数量），但服务团队可能在收集数据的优先次序和细节方面受到限制。在相互竞争的目标之间找到一个折中点。
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+* 保证价值。
+* 简洁是关键。
+* 只设置几条规则，以涵盖主要的做法。
+* 尊重相关人员的时间和工作。
+* 当它不复杂时，采用更容易。
+* 获得低垂的果实（完成一个简单的目标）。
 
-### 7. Optimize and automate.
+### 7. 优化和实现自动化。
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+使人力和技术资源所进行的工作价值最大化。技术可以帮助组织扩大规模，承担频繁和重复的任务。然而，不应该总是依赖技术而没有人的干预能力，因为为自动化而自动化会增加成本，降低稳健性和弹性。
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+优化的目的是让某些东西尽可能地有效和有用。总是在考虑自动化之前先优化。考虑到您已经为优化设置了约束限制!像成本、时间或资源可能会被浪费。
 
-The path to optimization follows these high-level steps:
+优化的途径遵循这些高层次的步骤：
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
-* Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+* 声明所建议的优化存在的背景。
+* 判断当前优化建议的状态。
+* 为了理想的结果，把重点放在简化和优化的价值上。设置限制!
+* 确保优化是为每个参与的人所接受的。
+* 记住迭代--优化，每个人都喜欢低垂的果实。
+* 监测优化的影响/效果。
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+自动化通常是指使用技术来正确执行一个步骤或一系列步骤。在标准化和精简人工任务的背景下设置自动化。如：定义规则，使决策无需单独审查。停止人为的参与和对一个过程的每个部分的评估，以达到更高的效率。自动化是一个降低成本、减少人为错误和（重要！）改善参与经验的机会。
 
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+* 优化 &gt;&gt;&gt;&gt; 自动化
+* 利用自动化来实现更好的体验，减少错误，节省成本和时间。
+* 定义你的指标。
+* 在应用这条原则时，请使用其他指导性原则！
 

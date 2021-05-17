@@ -1,12 +1,12 @@
 # 官方社区链接如下 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+如果您决定使用外部链接，请首先检查它们是否与我们的官方链接匹配。**如果该链接不存在于下列链接中，它便不是我们的。**
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+在加入 Alchemist 时，请认准我们下列官方链接。
 
-### Sites
+### 网址
 
 | Site | Description |
 | :--- | :--- |
@@ -15,7 +15,7 @@ Please only use our list of official links when taking part in the Alchemist.
 | [alchemist.farm](https://alchemist.farm) | Crucible Website |
 | [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
 
-### Community
+### 社区
 
 | Site | Description |
 | :--- | :--- |

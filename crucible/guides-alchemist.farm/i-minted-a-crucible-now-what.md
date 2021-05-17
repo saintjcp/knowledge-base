@@ -1,26 +1,26 @@
-# I have minted a Crucible, now what?
+# 我已经铸造了一个Crucible，现在怎么办？
 
-## You can checking how many LP tokens are in your Crucible
+## 您可以检查您的Crucible里有多少LP代币
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+访问 [alchemist.farm](https://alchemist.farm/) 并连接你的钱包，点击Crucibles标签。
 
-The Total Balance reflects your Crucible LP value.
+总余额反映了你的Crucible LP值。
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+正如您所看到的，它还显示了几个用于跟踪性能的其他有用指标。
 
-## How do I know if I've subscribed the LP within my Crucible?
+## 如何确认我是否已经在我的Crucible内订阅了LP？
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+它应该是自动完成的。你也可以使用 [alchemist.farm](https://alchemist.farm/) 来检查你的Crucible。在Crucible显示的右上角会有一个挂锁图标，它表示已订阅Aludel奖励计划的LP数量:![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## 如何查看我的Aludel奖励？
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+您可以使用 [alchemist.farm](https://alchemist.farm/) 来展示您的Crucibles，它将列出您当前的⚗️和ETH奖励。
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## 如果我已经铸造了我的Crucible并订阅了我的LP......就这些了吗？
 
-Yes. Now you sit back and see what happens.
+是的。现在您只需坐好，看看会发生什么。
 
 #### 
 

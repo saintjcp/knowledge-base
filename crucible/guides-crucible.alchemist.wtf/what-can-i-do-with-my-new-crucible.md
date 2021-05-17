@@ -1,49 +1,52 @@
-# What can I do with my new Crucible?
+# 我可以用我的新 Crucible 做什么？
 
-There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
+您可以用您新造的crucible做很多事情，下面是您使用crucible.alchemist.wtf最常遇到的事情
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards) 检查你的奖励
+* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)增加您的LP供应
+* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)检查您的Crucible中提供了多少LP
+* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)将你的Crucible转移到另一个钱包里
+* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)找到并复制你的Crucible地址
 
-## Checking your rewards
+## 查看你的奖励
 
-1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
-2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to view using the downwards facing arrow: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. If you want to see more detailed rewards, click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. You should now be shown a more complex list of statistics under the tab "Rewards", including information about the reward multiplier, the value of your position and your subscribed & unsubscribed LP.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 连接你的钱包并访问 "Your Crucibles"标签。
+2. 进入“Your Crucibles”选项卡后，在您要查看的Crucibles上点击向下的箭头展开详细信息： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+3. 您的Crucible现在应该显示了更多的信息，例如你在奖励中获得了多少MIST或ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+4. 如果您想看更详细的奖励信息，请点击 "Manage Crucible"按钮  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
+5. 现在您应该可以在 "Rewards"标签下看到一个更复杂的统计列表，包括关于奖励乘数的信息，你的头寸价值以及你提供和取消提供的LP。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 
-## Increasing your LP Subscription
+## 增加您的LP供应
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Click the "Increase LP Subscription" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
-3. Specify how much LP you wish to increase your subscription by and press "Increase Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
-4. Sign 2 signature requests and confirm the transaction request. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
-5. Your LP should now be submitted to be subscribed to the Crucible, you can view your transaction using either of the prompts that appear after your transaction has been submitted  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-6. Once the transactions are complete, your Crucible should represent your newly submitted LP.
+1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+2. 点击"Increase LP Subscription"按钮
 
-## Checking how much LP you've subscribed to your Crucible
+   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. You should be able to see your "Subscribed Crucible LP" and "Unsubscribed Crucible LP"
+3. 指定你希望增加多少LP，然后点击 "Increase Subscription"。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
+4. 签署2个签名请求并确认交易请求。      ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
+5. 您的LP现在应该被提交到Crucible，您可以使用您的交易提交后出现的任一提示来查看您的交易。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+6. 一旦交易完成，你的Crucible应该代表你新提交的LP。
 
-## Transferring your Crucible to another wallet
+## 检查您的Crucible中提供了多少LP
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
-4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
-6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
+1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+2. 您应该能够看到您的 "Subscribed Crucible LP"和 "Unsubscribed Crucible LP"
 
-## Locating and Copying your Crucible Address
+## 将你的Crucible转移到另一个钱包里
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
+1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+2. 找到当前打开的Crucible摘要 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. 找到Crucible右手边的纸飞机图标并点击它                      ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
+4. 在"Recipient Address"栏中输入你想发送Crucible的钱包地址（必须与ERC-721兼容），然后按"Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
+5. 你会被提示确认转账，在提交之前确保钱包地址是正确的。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
+6. 现在，Crucible将被转至其新的钱包，使用通知中的链接来监控交易。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
+
+## 找到并复制你的Crucible地址
+
+1. 进行查看您的奖励[Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)中的步骤1-5。
+2. 找到当前打开的Crucible摘要 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
+3. 找到纸飞机左边的复制图标，点击它，你的Crucible地址就会出现在剪贴板中。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
 #### 
 

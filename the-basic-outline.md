@@ -1,34 +1,34 @@
-# The basic outline
+# 基本概要
 
-There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
+代币名为Alchemist。它的符号为"⚗️"。它也可以被称为 "mist "和"$MIST"。不要把它与[MUST](https://www.coingecko.com/en/coins/must)混淆——尽管它现在显示的是个蒸馏器，但它与Alchemist没有关系。 
 
-What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](faq.md)
+⚗️有什么用？这里就不予赘述了。详情请参考[官方FAQ](faq.md)
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+你可以像其他代币一样将⚗️质押，最终你可以用它在[Aludel](the-basic-outline.md#3-aludel)中[铸造**Crucible（坩埚）** NFTs](crucible/teach-me-about-crucibles.md#ru-he-zhu-zao-yi-ge-gan-guo)。
 
-## How could I increase my wealth using ⚗️?
+## 我如何使用⚗️来增加我的财富？
 
-### 1. Speculation
+### 1. 投机
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+第一种方式是对其价值进行投机。换句话说：你买一些，希望价格上涨然后卖出。免责声明：不能保证价格会上涨。
 
-### 2. Staking
+### 2. 质押
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible只支持**Uniswap V2**流动池。向**Uniswap V3**池添加流动性不能获得奖励。
 {% endhint %}
 
-The second way is to stake it in a liquidity pool alongside an equal value portion of Ether \(ETH\). When you do so you receive Liquidity Pool tokens \(LP\) that represent your stake in that pool. Ultimately these LP tokens are used to withdraw your original ⚗️ and ETH from the pool when you decide you are finished with it.
+第二种方式是将其与同等价值的以太币（ETH）一起存入流动池中。当你这样做的时候，你会收到流动池的代币（LP），代表你在该池中的份额。最终，当你决定用完后，这些LP代币被用来从池子里提取你的原始⚗️和ETH。
 
-The liquidity pool is used to facilitate trades between ⚗️ and ETH that other people wish to make. Every trade made incurs a small fee for the person making the trade. Whilst you hold LP tokens, you receive a portion of those fees, proportional to the LP you hold relative to the total LP. \(For example, if your LP makes up 1% of the total LP then you receive 1% of the pool fees\)
+流动池用于撮合他人⚗️和ETH之间的交易。每笔交易都会对进行交易的人收取少量费用。当你持有LP代币时，你会收到这些费用中与你持有的LP相对于总LP的比例的一部分。（例如，如果你的LP占总LP的1%，那么你将收到1%的资金池费用。）
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+这种从流动池费用中获利的机制与在任何其他流动池中抵押任何其他代币没有区别。因此，它很容易受到 "无常损失 "的影响，即在你购买的代币的相对价值发生变化后，作为抵押者，你撤回你所抵押的代币就会造成财产损失。如果您不熟悉这个概念，我建议您做进一步研究，直到您能够理解它——有很多资源比我解释得更好。
 
-{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
+{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="在继续进行之前，请观看这个关于 \"无常损失 \"的视频。" %}
 
-### 3. Aludel
+### 3. Aludel\(梨形器\)
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+这就是炼金术发生的地方。"Aludel"是奖励计划的名称，你可以通过在Crucible上质押LP令牌获得⚗️和ETH。
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+你可以在“[教我关于Crucible](crucible/teach-me-about-crucibles.md#shen-me-shi-crucible)”页面了解更多关于Crucible的信息。
 
