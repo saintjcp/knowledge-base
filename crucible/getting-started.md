@@ -1,6 +1,6 @@
 # Bien débuter
 
-Il y a quelques précautions à prendre avant de prendre part au programme Crucible, veuillez lire les notices et les avertissements avant de poursuivre.
+Il y a des précautions à prendre avant de prendre part au programme Crucible, veuillez lire ces indications et ces avertissements avant de poursuivre.
 
 {% hint style="danger" %}
 **Avis Important**  
@@ -19,7 +19,7 @@ Assurez vous d'ajouter des tokens à la pool V2 et non V3.
 Le système de récompense Aludel est toujours en cours d'expérimentation, gardez à l'esprit les précautions suivantes avant de prendre part au programme.
 {% endhint %}
 
-Si vous avez lu tous les notices ci-dessus, alors vous êtes prêt à passer à l' [apprentissage des Crucibles](teach-me-about-crucibles.md).
+Si vous avez lu tous les indications ci-dessus, alors vous êtes prêt à passer à l' [apprentissage des Crucibles](teach-me-about-crucibles.md).
 
 {% page-ref page="teach-me-about-crucibles.md" %}
 

@@ -28,7 +28,7 @@ L’allocation actuelle des jetons d’inflation est :
 
 Un programme de récompense pour les fournisseurs de liquidité a été déployé pour le pool Uniswap ⚗️ $MIST/ETH. Ce programme de récompenses s’appelle l’Aludel. \(Considérez cela comme un smart-contract de staking conçu par notre chef de guilde\).
 
-Un multisig communautaire a été créé pour collecter les fonds qui peuvent être utilisés pour les primes. Jetez un œil au [\#builders-application](https://discord.gg/92hQDCw25u) sur discord ou faites un don au multisig à [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
+Un multisig communautaire a été créé pour collecter les fonds qui pourront être utilisés pour les primes. Jetez un œil au channel [\#builders-application](https://discord.gg/92hQDCw25u) sur discord ou faites un don au multisig à [multisig.alchemistcoin.eth.](https://etherscan.io/address/multisig.alchemistcoin.eth)
 
 ## **Multisig**
 

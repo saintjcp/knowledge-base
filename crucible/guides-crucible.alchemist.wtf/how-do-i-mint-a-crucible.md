@@ -33,9 +33,9 @@ Nous vous déconseillons d’effectuer l'un de ces process sur un appareil mobil
 
 4. Renseignez le montant de LP que vous souhaitez mettre dans le Crucible. Vous voudrez probablement juste cliquer sur le bouton "Max" à côté de ⚗️.
 5.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-6. Appuez sur "Mint a Crucible", faites les validations nécessaire via MetaMask, attendez que la transaction se termine. **Note: Il devrait y avoir 2 demandes de signature et une demande de transaction, si les demandes n'apparaissent pas vous devrez alors ouvrir Metamask.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-7. Une fois que vous avez confirmé la transaction vous devriez recevoir les messages suivants, cliquez pour voir votre transaction. Une fois que la transaction a été confirmé, passez à l'étape suivante. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-8. Maintenant que votre transaction est confirmée, vous pouvez fermer le pop-up ci-dessus et cliquer sur l'onglet "Crucibles", cela vous affichera les nouveau Crucible minté.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+6. Appuyez sur "Mint a Crucible", faites les validations nécessaire via MetaMask, attendez que la transaction se termine. **Note: Il devrait y avoir 2 demandes de signature et une demande de transaction, si les demandes n'apparaissent pas vous devrez alors ouvrir Metamask.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+7. Une fois que vous avez confirmé la transaction vous devriez recevoir les messages suivants, cliquez pour voir votre transaction. Une fois que la transaction a été confirmée, passez à l'étape suivante. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+8. Maintenant que votre transaction est confirmée, vous pouvez fermer le pop-up ci-dessus et cliquer sur l'onglet "Crucibles", cela vous affichera le nouveau Crucible minté.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Félicitation, si vous être arrivé jusqu'au bout, vous êtes désormais un Alchimiste !**
+## **Félicitations, si vous être arrivé jusqu'au bout, vous êtes désormais un Alchimiste !**
 

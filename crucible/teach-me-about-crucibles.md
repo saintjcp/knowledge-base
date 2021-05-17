@@ -4,7 +4,7 @@
 
 Il s'agit d'un NFT représentant le LP que vous avez souscrit. L'acte de sa création est appelé "minting".
 
-Lorsqu'un Crucible a un LP souscrit à l'Aludel le détenteur gagne des ⚗️ et des ETH. Le nombre de récompenses disponibles représente 50% des ⚗️ créé par l'inflation de 1% qui a lieu tous les 14 jours, et par les ETH levés durant la pool initiale Balancer. Les Crucibles avec des LP souscrits reçoivent un fraction du total des récompenses basée sur la fraction que représente leur LP souscrit par rapport au total de LP souscrits, et sur la durée durant laquelle leur LP a été souscrit par rapport aux autres LP.
+Lorsqu'un Crucible a un LP souscrit à l'Aludel le détenteur gagne des ⚗️ et des ETH. Le nombre de récompenses disponibles représente 50% des ⚗️ créés par l'inflation de 1% qui a lieu tous les 14 jours, et par les ETH levés durant la pool initiale Balancer. Les Crucibles avec des LP souscrits reçoivent un fraction du total des récompenses basée sur la fraction que représente leur LP souscrit par rapport au total de LP souscrits, et sur la durée durant laquelle leur LP a été souscrit par rapport aux autres LP.
 
 ### Qu'est ce qu'un NFT ?
 
@@ -21,9 +21,9 @@ Il convient de mentionner par souci de clarté que si vous mintez un Crucible, v
 
 ## Comment minter un Crucible ?
 
-Initialement, la seule méthode était de se familiariser avec l'outil officiel CLI. Heureusement, des membres de la communauté ont depuis créé des web-apps qui permettent de rendre le processus beaucoup plus facile. En raison du risque supplémentaire de faire des erreurs en utilisant l'outil CLI, il n'est plus recommandé d'adopter cette approche.
+Initialement, la seule méthode était de se familiariser avec l'outil officiel CLI. Heureusement, des membres de la communauté ont depuis créé des web-apps qui permettent de rendre le processus beaucoup plus simple. En raison du risque accru de faire des erreurs en utilisant l'outil CLI, il n'est plus recommandé d'adopter cette approche.
 
-Veuilez utiliser le guide suivant pour minter un Crucible:
+Veuillez utiliser le guide suivant pour minter un Crucible:
 
 * [Minter un Crucible sur crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
@@ -31,9 +31,9 @@ Veuilez utiliser le guide suivant pour minter un Crucible:
 
 La valeur d'un Crucible est difficile à déterminer. La nature NFT du Crucible pourrait potentiellement lui donner une valeur spéculative au-delà de sa valeur immédiate, mais certains Crucibles peuvent être considérés comme plus spéciaux que d'autres.
 
-Cependant, mise à part la spéculation, ce que nous savons c'est qu'un Crucible est créé avec un montant variable de token LP à l'intérieur, ce qui a une valeur mesurable immédiatement.
+Cependant, mise à part la spéculation, ce que nous savons c'est qu'un Crucible est créé avec un montant variable de token LP à l'intérieur, ce qui lui donne une valeur mesurable immédiate.
 
-A minima, vous pouvez évaluer la valeur d'un Crucible sur la base de ce que vous recevriez en retour en désengageant sont contenu en LP puis en l'échangeant contre votre monnaie fiat.
+A minima, vous pouvez évaluer la valeur d'un Crucible sur la base de ce que vous recevriez en retour du désengagement de son contenu en LP suivi de l'échange de ce dernier contre votre monnaie fiat.
 
 Se référer à [la section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) ci-dessous pour les méthodes de vérifications du contenu d'un Crucible.
 
@@ -67,9 +67,9 @@ Se référer à notre [guide de compatibilité des wallets.](wallet-compatibilit
 
 Les membre de la communauté ont minté avec succès des Crucibles allant jusqu'à 0.1 LP tokens seulement.
 
-Bien évidemment, un Crucible coûte toujours en gas, prenez donc en considération ce coût avant d'en créer un avec peu de LP.
+Bien évidemment, un Crucible a toujours un coût en gas, prenez donc en considération ce coût avant d'en créer un avec peu de LP.
 
-Souvenez vous, vous gagnez des récompenses proportionnelles à votre part de LP par rapport au nombre total de LP stakés dans l'Aludel
+Souvenez vous, vous gagnez des récompenses proportionnelles à votre part de LP par rapport au nombre total de LP stakés dans l'Aludel.
 
 ## Puis-je créer plusieurs Crucibles ?
 

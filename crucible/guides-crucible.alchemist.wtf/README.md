@@ -5,7 +5,7 @@
 [Cliquez ici](../guides-alchemist.farm/) si vous utilisez [alchemist.farm](https://alchemist.farm/)
 {% endhint %}
 
-### Contents
+### Sommaire
 
 1. [Comment minter un Crucible ?](how-do-i-mint-a-crucible.md)
 2. [Que puis-je faire avec mon nouveau Crucible ?](what-can-i-do-with-my-new-crucible.md)

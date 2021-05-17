@@ -15,9 +15,9 @@ A cause d'un manque de liquidé sur **Uniswap V3**, un slippage excessif peut si
     ![](https://i.imgur.com/5rzgvpf.png)
 
 4. Renseignez le montant de ⚗️ que vous souhaitez acheter, en vous assurant de conserver la valeur équivalente en ETH pour la souscription.
-5. Appuyer sur "Swap", faites les confirmations nécessaires via MetaMask, attendez que la transaction se termine.
-   * Je me suis aperçu que mes deux premières tentatives avaient échoué, car apparemment elles n'avaient pas été exécutées suffisamment rapidement pour que le prix reste table avant qu'elles ne soient terminées.
-   * MetaMask vous donne la possibilité d'accélérer un transaction en la localisant dans l'onglet "Activity" et en choisissant de payer davantage de gas pour un traitement prioritaire.
+5. Appuyez sur "Swap", faites les confirmations nécessaires via MetaMask, attendez que la transaction se termine.
+   * Je me suis aperçu que mes deux premières tentatives avaient échoué, car, semble-t-il, elles n'avaient pas été exécutées suffisamment rapidement pour que le prix reste stable avant qu'elles ne soient terminées.
+   * MetaMask vous donne la possibilité d'accélérer un transaction en la retrouvant dans l'onglet "Activity" et en choisissant de payer davantage de gas pour un traitement prioritaire.
 6. Rendez-vous à l'adresse [https://etherscan.io/address/](https://etherscan.io/address/) pour voir les transactions en cours ainsi que tous les tokens associés à votre compte.
    * si vous utilisez MetaMask vous pouvez cliquer sur les trois points puis sur "View on Etherscan" pour vous y rendre directement :
 
@@ -43,7 +43,7 @@ L'ajout de liquidité à la pool **Uniswap V3** n'est pas compatible avec le Rew
 
 3. Renseignez le montant que vous souhaitez staker. Les deux montants doivent être égaux en valeur, la modification de l'un entraînera la modification de l'autre. Vous voudrez probablement juste cliquer sur le bouton "Max" à côté de ⚗️.
 4. Appuyez sur "Stake" ou "Supply", faites les confirmations nécessaires via MetaMask, attendez que la transaction se termine.
-5. Vous devriez voir vos nouveaux LP tokens \(nommés UNI-V2\) sur Etherscan une nouvelle fois :
+5. Vous devriez voir vos nouveaux LP tokens \(nommés UNI-V2\) sur Etherscan :
 
     ![](https://i.imgur.com/6hAoHGw.png)
 

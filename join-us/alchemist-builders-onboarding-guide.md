@@ -6,13 +6,13 @@ Vous pensez donc avoir ce qu'il faut pour devenir un alchimiste, pour emprunter 
 
 Dans les laboratoires de l'alchimiste, les expériences se concentrent sur l'exploration de concepts hautement techniques dans le but de découvrir les ingrédients nécessaires pour synthétiser correctement la Pierre Philosophale - par exemple en concevant l'expérience de Minter un Crucible NFT ou le mistX Gasless DEX.
 
-Outre l'expérimentation technique, notre guilde s'est transformée en un havre de paix décentralisé où les érudits fatigués peuvent se sentir à l'aise et en sécurité. Des projets créatifs comme la construction de l' Alchemist Radio ou la recherche de la bonne direction artistique pour le Crucible NFT ne sont que quelques-uns des innombrables exemples de résultats obtenus par les alchimistes qui jouent avec des béchers et des entonnoirs pendant leur temps libre.
+Outre l'expérimentation technique, notre guilde s'est transformée en un havre de paix décentralisé où les érudits fatigués peuvent se sentir à l'aise et en sécurité dans leur élément. Des projets créatifs comme la construction de l' Alchemist Radio ou la recherche de la bonne direction artistique pour le Crucible NFT ne sont que quelques-uns des innombrables exemples de résultats obtenus par ces alchimistes qui jouent avec des béchers et des entonnoirs pendant leur temps libre.
 
 En général, nous suivons les principes directeurs chers aux alchimistes depuis l'époque de la Tablette d'Emeraude afin de créer efficacement de la valeur dans chaque processus - tous les participants actifs ont intériorisé cet état d'esprit, de sorte que nous partageons fondamentalement une vision également polarisée :
 
 * Se concentrer sur la valeur 
-* Commencer là où vous êtes
-* Progresser de manière itérative grâce au retour d'information
+* Commencer là où l'on est
+* Progresser de manière itérative grâce aux retours
 * Collaborer et promouvoir la visibilité
 * Penser et travailler de manière holistique
 * Rester simple et pratique
@@ -30,13 +30,13 @@ Nous sommes ouverts d'esprit et accueillons tous ceux qui veulent nous rejoindre
 
 ## Hiérarchie
 
-Notre hiérarchie est clairement définie et relativement plate. Nos Signataires Multi-Sig & Alchimistes Senior ainsi que @thegostep en tant que fondateur représentent le leadership et la supervision simultanée d'Alchemist lui-même. Outre les objectifs, les jalons et les délais, ils définissent également la direction de base afin qu'Alchemist crée la plus grande valeur possible pour s'assurer un avenir brillant.
+Notre hiérarchie est clairement définie et relativement horizontale. Nos Signataires Multi-Sig & Alchimistes Senior ainsi que @thegostep en tant que fondateur représentent le leadership et la supervision simultanée d'Alchemist lui-même. Outre les objectifs, les jalons et les délais, ils définissent également la direction de base afin qu'Alchemist crée la plus grande valeur possible pour s'assurer un avenir brillant.
 
 Vient ensuite le groupe des bâtisseurs, dont les membres proviennent de différents domaines d'expertise. D'un côté, il y a bien sûr les développeurs qui s'occupent principalement du concept, de l'architecture et de la mise en œuvre d'un ou plusieurs projets. Le groupe des bâtisseurs ne se compose pas seulement de développeurs, mais aussi d'universitaires de tous horizons - experts en marketing, artistes et certains membres de la communauté extrêmement engagés. Tous ceux qui souhaitent participer activement font partie du groupe des bâtisseurs. Quelles que soient les compétences existantes, un échange animé et constructif dans Discord ou dans d'autres outils tels que Basecamp est apprécié. Le rôle de bâtisseur permettra aux utilisateurs de voir les concepts techniques sensibles et les produits en cours de développement dans les laboratoires d'Alchemist.
 
 Afin que les équipes de bâtisseurs restent concentrées sur leurs transmutations, un nouveau rôle a été créé : l'apprenti. Ce rôle permet aux jeunes alchimistes qui essaient encore de trouver leur voie d'accéder à une grande partie des expériences en cours dans le laboratoire, mais les protège du territoire impliquant une alchimie avancée qui pourrait entraîner l'explosion accidentelle de la moitié du bâtiment. Le rôle de "bâtisseur" évoluera pour servir d'étape suivante à l'apprenti une fois qu'il aura maîtrisé tout le côté technique de l'expérimentation alchimique.
 
-Le quatrième groupe est constitué des membres "réguliers" de la communauté et des alchimistes certifiés, qui sont pour la plupart des détenteurs $Mist et/ou de Crucibles. La communauté joue un rôle majeur pour nous : elle coopère, révèle des sentiments très répandus et fournit un retour d'information précieux sur les produits et services existants, ainsi que des éléments de réflexion pour de futures expériences. Nous apprécions tous ceux qui ont trouvé le chemin vers nous et nous souhaitons qu'ils se sentent le plus à l'aise possible dans notre communauté.
+Le quatrième groupe est constitué des membres "réguliers" de la communauté et des alchimistes certifiés, qui sont pour la plupart des détenteurs de $Mist et/ou de Crucibles. La communauté joue un rôle majeur pour nous : elle coopère, révèle des ressentis communs et fournit un retour d'information précieux sur les produits et services existants, ainsi que des éléments de réflexion pour de futures expériences. Nous apprécions tous ceux qui ont trouvé le chemin vers nous et nous souhaitons qu'ils se sentent le plus à l'aise possible dans notre communauté.
 
 ## Outils
 
@@ -84,7 +84,7 @@ Linear permet de rationaliser les projets logiciels, les sprints, les tâches et
 
 #### **Comment nous l'utilisons**
 
-Nous utilisons Linear principalement pour documenter pour les développeur les questions pertinentes, les problèmes et / ou les obstacles qui surviennent au cours de l'architecture et de la réalisation des tâches individuelles \(précédemment définies dans le Basecamp\) et, pour fournir des solutions ou des moyens de contournement. Ainsi, Linear représente l'outil qui décompose les tâches individuelles de manière transparente et détaillée pour les sujets techniques en suivants les tâches sur Github.
+Nous utilisons Linear principalement pour documenter à destination des développeur les questions pertinentes, les problèmes et / ou les obstacles qui surviennent au cours de l'architecture et de la réalisation des tâches individuelles \(précédemment définies dans le Basecamp\) et, pour fournir des solutions ou des moyens de contournement. Ainsi, Linear représente l'outil qui décompose les tâches individuelles de manière transparente et détaillée pour les sujets techniques en suivants les tâches sur Github.
 
 ### Figma
 
@@ -94,7 +94,7 @@ Figma est un outil de conception basé sur le cloud qui est similaire à Sketch 
 
 #### **Comment nous l'utilisons**
 
-Nous utilison Figma principalement pour partager du contenu créatif et y travailler ensemble. Il peut s'agir, par exemple, d'ébauches de conception relatives à l'interface utilisateur, mais aussi de conceptions initiales de projets communautaires de toute sorte - un exemple ici serait la conception de pages uniques. Les décisions en matière de conception sont souvent influencées par des goûts personnels. Nous pensons donc qu'elles doivent être partagées avant d'être publiées.
+Nous utilisons Figma principalement pour partager du contenu créatif et y travailler ensemble. Il peut s'agir, par exemple, d'ébauches de conception relatives à l'interface utilisateur, mais aussi de conceptions initiales de projets communautaires de toute sorte - un exemple ici serait la conception de pages uniques. Les décisions en matière de conception sont souvent influencées par des goûts personnels. Nous pensons donc qu'elles doivent être partagées avant d'être publiées.
 
 **Liens :** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
@@ -110,7 +110,7 @@ Les alchimistes qui ont reçu des paiements du multisig seront placés dans des 
 
 ## Calendrier des réunions
 
-Vous pouvez trouver notre calendrier partagé [ici](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Toutes les dates sont incluses, qu'elles soient liées à un projet ou qu'elles soient généralement intéressantes pour l'ensemble de l'organisation. Les réunions sont essentielles pour remettre en question les approches individuelles et en discuter en équipe. Une transcription sera ensuite rédigée pour la postérité dans le base camp. Les participants étant répartis dans le monde entier, les horaires sont généralement choisis de manière à ce que le plus grand nombre possible puisse y prendre part.
+Vous pouvez trouver notre calendrier partagé [ici](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Toutes les dates sont incluses, qu'elles soient liées à un projet ou qu'elles soient, de façon générale, intéressantes pour l'ensemble de l'organisation. Les réunions sont essentielles pour remettre en question les approches individuelles et en discuter en équipe. Une transcription sera ensuite rédigée pour la postérité dans le base camp. Les participants étant répartis dans le monde entier, les horaires sont généralement choisis de manière à ce que le plus grand nombre possible puisse y prendre part.
 
 ## Routines pour Atteindre la Transparence
 
@@ -118,17 +118,17 @@ Dans une équipe décentralisée, il est parfois difficile d'avoir une vue d'ens
 
 ### Bâtisseur Levez-Vous
 
-Afin de rendre le processus plus transparent pour tous, nous avons créé un canal \# builders-standup sur lequel nous voulons encourager les contributeurs actifs du projet à poster régulièrement des mises à jour. Sur quoi avez-vous travaillé la dernière fois et quels progrès avez-vous réalisés ? Sur quoi travaillez-vous actuellement ? Quels sont les blocages ou les problèmes que vous avez rencontrés depuis votre dernière mise à jour et avez-vous besoin d'aide ?
+Afin de rendre le processus plus transparent pour tous, nous avons créé un canal \# builders dans lequel nous voulons encourager les contributeurs actifs du projet à poster régulièrement des mises à jour. Sur quoi avez-vous travaillé la dernière fois et quels progrès avez-vous réalisés ? Sur quoi travaillez-vous actuellement ? Quels sont les blocages ou les problèmes que vous avez rencontrés depuis votre dernière mise à jour et avez-vous besoin d'aide ?
 
-Nous voulons également vous encourager à push fréquemment toutes vos branches WIP sur GitHub, et surtout le jeudi, afin que les alchimistes seniors aient une meilleure idée de la façon de calculer la distribution des allocations pour la semaine.
+Nous voulons également vous encourager à pousser fréquemment toutes vos branches WIP sur GitHub, et surtout le jeudi, afin que les alchimistes seniors aient une meilleure idée de la façon de calculer la distribution des allocations pour la semaine.
 
 ### Participation aux Réunions Programmées
 
-Comme déjà décrit dans le sujet "Calendrier des réunions", nous apprécions les échanges animés dans l'équipe sur les problématiques en cours. Le moyen le plus simple et le moins compliqué d'y parvenir reste toujours la parole. Une participation régulière est donc essentielle pour plusieurs raisons à la fois : trouver des solutions rapides, regrouper plusieurs opinions sur certains sujets, trouver une approche majoritaire et promouvoir l'intégrité. S'il est possible que vous ne puissiez pas participer par principe ou à titre exceptionnel, faites-le savoir à votre équipe et reprenez ensuite la transcription \(Basecamp\) pour vous tenir au courant.
+Comme déjà décrit dans le sujet "Calendrier des réunions", nous apprécions les échanges animés dans l'équipe sur les problématiques en cours. Le moyen le plus simple et le moins compliqué d'y parvenir reste toujours la parole. Une participation régulière est donc essentielle pour plusieurs raisons : trouver des solutions rapides, regrouper plusieurs opinions sur certains sujets, trouver une approche majoritaire et promouvoir l'intégrité. S'il est possible que vous ne puissiez pas participer par principe ou à titre exceptionnel, faites-le savoir à votre équipe et reprenez ensuite la transcription \(Basecamp\) pour vous tenir au courant.
 
 ### Communication et Outils d'Interaction
 
-Nous disposons de divers outils, que nous souhaitons bien sûr également utiliser afin de pouvoir reconnaître les progrès réalisés par rapport aux attentes que nous nous sommes fixées. Dans les deux sens, le travail accompli doit être mis en évidence. La communication des petites ou grandes étapes est souvent pertinente pour l'ensemble du projet, même si cela n'est pas toujours nécessairement visible au premier coup d'œil, et devrait donc se faire dans Basecamp \(gestion de projet\), Linear \(développeur\), Figma \(artiste\) et / ou se trouver dans le Discord. Nous souhaitons donc vous encourager à communiquer beaucoup et activement via l'un des canaux mis à votre disposition.
+Nous disposons de divers outils, que nous souhaitons bien sûr également utiliser afin de pouvoir reconnaître les progrès réalisés par rapport aux attentes que nous nous sommes fixées. Dans les deux sens, le travail accompli doit être mis en avant. La communication des petites ou grandes étapes est souvent pertinente pour l'ensemble du projet, même si cela n'est pas toujours nécessairement visible au premier coup d'œil, et devrait donc se faire dans Basecamp \(gestion de projet\), Linear \(développeur\), Figma \(artiste\) et / ou se trouver dans le Discord. Nous souhaitons donc vous encourager à communiquer beaucoup et activement via l'un des canaux mis à votre disposition.
 
 ## Commentaires / Retours
 

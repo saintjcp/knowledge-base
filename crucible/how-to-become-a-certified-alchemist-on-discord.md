@@ -4,7 +4,7 @@ Si vous possédez un Crucible, vous pouvez devenir un Certified Alchemist sur le
 
 Si votre Crucible a été minté via le site en ligne, reportez vous à la [**Partie 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
 
-Si votre Crucible a été minté par [ligne de commande](https://github.com/alchemistcoin/alchemist), vous aurez besoin de vous logger sur un nouveau compte MetaMask en utilisant le mnémonique de votre wallet de ligne de commande. Cela est montré dans la [**Partie 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)**.**
+Si votre Crucible a été minté par [ligne de commande](https://github.com/alchemistcoin/alchemist), vous aurez besoin de vous logger sur un nouveau compte MetaMask en utilisant le mnémonique de votre wallet de ligne de commande. Ceci est présenté dans la [**Partie 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)**.**
 
 ## **Partie 1**
 
@@ -24,10 +24,10 @@ Après avoir obtenu l'accès du wallet contenant votre Crucible, vous pouvez dev
 
 3. Appuyez sur le lien ‘Click Here’ que vous a envoyé Collab.Land puis suivez le lien.
 4. Sélectionnez le wallet contenant votre Crucible. ![](https://i.imgur.com/y4bXisJ.png)
-5. Signez un message. ![](https://i.imgur.com/nF29cFo.png)
+5. Signez le message. ![](https://i.imgur.com/nF29cFo.png)
 6. Vous verrez le message suivant et pourrez alors retourner sur Discord ![](https://i.imgur.com/WVIelT9.png)
-7. Collab.Land vous enverra le message suivant et si vous possédez véritablement un Crucible le bot mettra à jour votre rôle. ![](https://i.imgur.com/1UMmipM.png)
-8. Votre nom devrait maintenant être de couleur rouge dans le chat du Discord.
+7. Collab.Land vous enverra le message suivant, et si vous possédez véritablement un Crucible, le bot mettra à jour votre rôle. ![](https://i.imgur.com/1UMmipM.png)
+8. Votre nom devrait maintenant apparaître en rouge dans le chat du Discord.
 9. Si vous faites un clic-gauche sur votre nom de Discord vous devriez voir le rôle "certified alchimist" entouré en rouge. ![](https://i.imgur.com/KTO91Q1.png)
 10. Félicitations, vous êtes désormais un Certified Alchemist! 🧙‍♂️⚗
 

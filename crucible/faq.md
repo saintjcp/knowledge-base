@@ -1,6 +1,6 @@
 # FAQ 📖
 
-{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Regardes cette vidéo sur les pertes impermanentes avant des souscrire des LP" %}
+{% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Regardez cette vidéo sur les pertes impermanentes avant des souscrire des LP" %}
 
 ## **Comment participer à l'Aludel / Comment minter un NFT Crucible ?**
 
@@ -50,11 +50,11 @@ Le pool de récompenses est visible [ici](https://etherscan.io/address/0x04108d6
 * Vous recevrez alors un message du bot Collab.Land
 * Connectez votre wallet contenant vos Crucible / ⚗️$MIST
 * Le bot vous enverra alors un message: “Updating roles, Please check assigned roles in Alchemist. Close bot and return to the main alchemy channel and you will now be a certified Alchemist!”
-* Fermez le bot et revenez au channel principal “Alchemy” et vous serez désormais un Alchimiste certifié!
+* Fermez le bot et revenez au channel principal “Alchemy” et vous serez désormais un Certified Alchemist !
 
-## **Comment puis-je réupérer les récompenses?**
+## **Comment puis-je récupérer les récompenses?**
 
-Vous pouvez récupérer toutes vos récompenses en appuyant sur “Claim Rewards and Unsubscribe LP”. Attention, cela réinitialise également votre multiplicateur de récompense. Vous devrez utiliser le réseau Taichi pour empêcher les bots de “front-run” vos récompenses. Consultez ce [mode d'empoi](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Vous pouvez récupérer toutes vos récompenses en appuyant sur “Claim Rewards and Unsubscribe LP”. Attention, cela réinitialise également votre multiplicateur de récompense. Vous devrez utiliser le réseau Taichi pour empêcher les bots de “front-run” vos récompenses. Consultez ce [mode d'emploi](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
 
 ## **Le nombre de jetons LP mis dans le Crucible importe-t-il ?** 
 
@@ -68,9 +68,9 @@ Le seul cas où vous pourriez être amené à utiliser plusieurs Crucibles est l
 
 ## **Quel est l'impact de récupérer les récompense et désengager les LP \(“Claim Rewards and Unsubscribe LP”\) sur le multiplicateur de récompenses ?**
 
-Chaque fois que vous mettez des tokens LP dans le programme de récompense Aludel, celui-ci garde en mémoire la durée d'abonnement de ces jetons. L'Aludel applique un multiplicateur de récompense qui débute à 1x et augmente jusqu’à 10x après 60 jours. Lorsque vous réclamez un montant partiel, l'Aludel réclame prioritairement la souscription avec le multiplicateur le plus bas \(“Last in, First Out”\).
+Chaque fois que vous mettez des tokens LP dans le programme de récompense Aludel, celui-ci garde en mémoire la durée de souscription de ces jetons. L'Aludel applique un multiplicateur de récompense qui débute à 1x et augmente jusqu’à 10x après 60 jours. Lorsque vous réclamez un montant partiel, l'Aludel réclame prioritairement la souscription avec le multiplicateur le plus bas \(“Last in, First Out”\).
 
-## **Puis-je voir d'une manière ou d'une autre le montant de récompenses que j'ai acquises entre-temps ?**
+## **Puis-je voir d'une manière ou d'une autre le montant de récompenses que j'ai acquis entre-temps ?**
 
 Vous pouvez voir les récompenses accumulées par votre Crucible en utilisant l’interface utilisateur [alchemist.farm](https://alchemist.farm/) et les frais Uniswap LP accumulés en utilisant [apy.vision](https://apy.vision/) ou [croco.finance](https://croco.finance/)
 
@@ -80,7 +80,7 @@ Oui. La quantité de gas pour ajouter des LP à un Crucible existant sera beauco
 
 ## **Est-ce que récupérer les récompense et désengager les LP \(“Claim Rewards and Unsubscribe LP”\) supprime mes LP et mes récompenses du Crucible ?**
 
-Non. Cela ne fait que réclamer les récompenses gagnées, vos LP resteront dans le Crucible jusqu'à ce que vous appuyiez sur “Withdraw Unsubscribed LP. ”
+Non. Cela ne fait que récupérer les récompenses gagnées, vos LP resteront dans le Crucible jusqu'à ce que vous appuyiez sur “Withdraw Unsubscribed LP. ”
 
 ## **Est-ce que retirer les LP non souscrits \(“Withdraw Unsubscribed LP”\) détruit le Crucible ?**
 

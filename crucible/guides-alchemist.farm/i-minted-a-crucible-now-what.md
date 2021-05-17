@@ -8,7 +8,7 @@ La Total Balance représente la valeur de votre Crucible
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-Comme vous pouvez le voir,  d'autres indicateurs de performance sont également affichés.
+Comme vous pouvez le voir, d'autres indicateurs de performance sont également affichés.
 
 ## Comment puis-je savoir si j'ai souscrit les LP dans mon Crucible ?
 

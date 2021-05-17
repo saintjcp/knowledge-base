@@ -4,7 +4,7 @@ Il y a un token nommé Alchemist. Il a pour symbole de ticker "⚗️". On l'app
 
 A quoi sert ⚗️ ? Je ne suis pas là pour y répondre. Référez vous au [FAQ officiel](faq.md).
 
-Vous pouvez staker  ⚗️ comme avec d'autres coins, et vous pouvez l'utiliser pour [minter des NFT Crucible](crucible/teach-me-about-crucibles.md) dans le programme [Aludel](the-basic-outline.md#3-aludel).
+Tout comme certains autres coins, vous pouvez staker  ⚗️ , et vous pouvez l'utiliser pour [minter des NFT Crucible](crucible/teach-me-about-crucibles.md) dans le programme [Aludel](the-basic-outline.md#3-aludel).
 
 ## Comment puis-je augmenter ma richesse en utilisant ⚗️?
 
