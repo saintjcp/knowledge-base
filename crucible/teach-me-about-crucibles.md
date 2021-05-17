@@ -1,6 +1,6 @@
 # Teach me about Crucibles
 
-## What is a Crucible?
+What is a Crucible?
 
 It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
 
