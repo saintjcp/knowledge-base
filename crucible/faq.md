@@ -4,20 +4,18 @@
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
 
-## **Cum pot particip in Aludel/ Cum pot sa minez un Crucible NFT?**
+## **Cum pot particip in Aludel/ Cum pot sa creez un Crucible NFT?**
 
 Pentru a participa in Aludel trebuie sa minati un Crucible NFT si sa depozitati lichiditati de cantitati egale in paritatea de tokeni ⚗️$MIST/ETH in Uniswap LP \(gandeste asta ca si un seif virtual\). Crucible acumulează recompense din programul Aludel proporțional cu suma și durata tokenurilor $MIST/ETH LP puse în stake. Costul minării unui Crucible \(creuzet\) și a depunerii in stake depinde de prețurile actuale ale gazului pe reteaua blockchain ethereum, si vă puteți aștepta să fie de aproximativ 0.1-0.2 ETH la ora actuala.
 
-Poti urma acest ghid pas cu pas sau poti folosi interfata construita de comunitate la adresa alchemist.farm.How do I participate in the Aludel / How do I mint a Crucible NFT?
-
-**How do I participate in the Aludel / How do I mint a Crucible NFT?**
+Poti urma acest ghid pas cu pas sau poti folosi interfata construita de comunitate la adresa alchemist.farm.
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible suporta doar Fondul de Lichiditate din **Uniswap V2**. Adaugand lichiditate Fondului de Lichiditate din **Uniswap V3,** LP-ul respectiv nu este compatibil cu Programul de Recompensa.
 {% endhint %}
 
 {% hint style="warning" %}
-Nu utilizați browserul Brave deoarece inca nu este compatibil cu platforma în acest moment și tranzacția dvs. va eșua, ceea ce va duce la pierderea taxelor de tranzactie in reteaua ethereum.
+Nu utilizați browserul Brave deoarece inca nu este compatibil cu platforma în acest moment și tranzacția dvs. va eșua, ceea ce va duce la pierderea taxelor de tranzactie in reteaua Ethereum.
 
 Noi nu recomandam sa utilizati un portofel electronic hardware atata timp cat multe din ele inca nu suporta semnatura EIP-721. Cand se va putea vom implementa si folosirea lor.
 
