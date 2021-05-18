@@ -46,11 +46,11 @@ Puoi vedere la pool di riconpense [qui](https://etherscan.io/address/0x04108d6e9
 
 * Usa questa [guida](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-vE9z81XHX75PC1UR/v/italian/crucible/how-to-become-a-certified-alchemist-on-discord) 
 * Entra in Discord
-* Go to the Welcome channelType !join
-* You will then get a message from the Collab.Land bot
-* Connect Your wallet containing your ⚗️$mist
-* The bot will then message you  ~ Updating roles, Please check assigned roles in Alchemist
-* Close bot and return to the main alchemy channel and you will now be a certified Alchemist!
+*  Nel canale \#welcome scrivi **!join**
+* Riceverai un messaggio privato dalla bot di Collab.Land
+* Cnnetti il tuo Wallet contenente gli ⚗️$mist
+* La bot ti invierà un messaggio  ~ Updating roles, Please check assigned roles in Alchemist
+* Chiudi la bot e torna al canale alchemy principale. Ora sarai un Alchemist certificato! 
 
 ## **How do I claim the rewards?**
 
