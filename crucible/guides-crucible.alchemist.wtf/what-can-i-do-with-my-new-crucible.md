@@ -2,11 +2,11 @@
 
 Jest wiele rzeczy, które możesz zrobić ze swoim nowo wybitym Crucible, poniżej znajduje się lista najpopularniejszych rzeczy, które możesz zrobić wykorzystując crucible.alchemist.wtf
 
-* [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Zwiększanie swojej subskrypcji LP](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Sprawdzanie jak dużo tokenów LP masz zasubskrybowanych w swoim Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
-* [Przenoszenie swojego Crucible do innego portfela](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* [Lokalizowanie i kopiowanie adresu swojego Crucible](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+* [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#sprawdzanie-swoich-nagrod)
+* [Zwiększanie swojej subskrypcji LP](what-can-i-do-with-my-new-crucible.md#zwiekszanie-swojej-subskrypcji-lp)
+* [Sprawdzanie jak dużo tokenów LP masz zasubskrybowanych w swoim Crucible](what-can-i-do-with-my-new-crucible.md#sprawdzanie-jak-duzo-tokenow-lp-masz-zasubskrybowanych-w-swoim-crucible)
+* [Przenoszenie swojego Crucible do innego portfela](what-can-i-do-with-my-new-crucible.md#przenoszenie-swojego-crucible-do-innego-portfela)
+* [Lokalizowanie i kopiowanie adresu swojego Crucible](what-can-i-do-with-my-new-crucible.md#lokalizowanie-i-kopiowanie-adresu-swojego-crucible)
 
 ## Sprawdzanie swoich nagród
 
@@ -18,7 +18,7 @@ Jest wiele rzeczy, które możesz zrobić ze swoim nowo wybitym Crucible, poniż
 
 ## Zwiększanie swojej subskrypcji LP
 
-1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#sprawdzanie-swoich-nagrod)
 2. Kliknij przycisk "Increase LP Subscription" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
 3. Określ o ile LP chcesz zwiększyć swoją pozycję, a następnie naciśnij "Increase Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
 4. Zatwierdź 2 żądania podpisu \(przycisk SIGN\)  i zatwierdź żądanie transakcji \(przycisk Confirm\). ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
@@ -27,12 +27,12 @@ Jest wiele rzeczy, które możesz zrobić ze swoim nowo wybitym Crucible, poniż
 
 ## Sprawdzanie jak dużo tokenów LP masz zasubskrybowanych w swoim Crucible
 
-1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#sprawdzanie-swoich-nagrod)
 2. Powinieneś być w stanie zobaczyć swoje Subskrybowane Crucible LP\("Subscribed Crucible LP"\) i Niezasubskrybowane Crucible LP \("Unsubscribed Crucible LP"\)
 
 ## Przenoszenie swojego Crucible do innego portfela
 
-1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#sprawdzanie-swoich-nagrod)
 2. Znajdź podsumowanie Crucible, który jest obecnie otwarty ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Znajdź ikonę Papierowego Samolociku po prawej stronie Crucible i kliknij w nią ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. Do pola "Recipient Address" wprowadź adres portfela, na który chcesz wysłać Crucible  \(Adres musi być zgodny z ERC-721\) i naciśnij "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
@@ -41,7 +41,7 @@ Jest wiele rzeczy, które możesz zrobić ze swoim nowo wybitym Crucible, poniż
 
 ## Lokalizowanie i kopiowanie adresu swojego Crucible
 
-1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Wykonaj kroki od 1 do 5 z [Sprawdzanie swoich nagród](what-can-i-do-with-my-new-crucible.md#sprawdzanie-swoich-nagrod)
 2. Znajdź podsumowanie Crucible, który jest obecnie otwarty ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Znajdź ikonę kopiowania, która znajduje się po lewej stronie ikony Papierowego Samolociku, kliknij ją, a adres Twojego Crucible znajdzie się w schowku. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
 
