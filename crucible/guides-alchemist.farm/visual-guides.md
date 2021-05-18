@@ -1,28 +1,28 @@
-# Visual Guides 🎞
+# Guide visive 🎞
 
-### **Videos 🎬📺**
+### **Video 🎬📺**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [alchemist.farm](https://alchemist.farm). Also, these videos are community made videos - but they can still be of assistance.
+Alcuni video non sono aggiornati rispetto all'aspetto attuale di [alchemist.farm](https://alchemist.farm/). Ci teniamo poi a dirti che questi video sono video fatti dalla comunità - ma possono ancora essere d'aiuto.
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
+I riferimenti nei video a Uniswap possono essere obsoleti. Assicurati di usare **Uniswap V2** per dare liquidità perchè Uniswap V3 non è supportata. 
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../acquiring-and-subscribing.md).
+Se non sai come fare a cambiare da V3 a V2 usa i nostri link in questa [guida](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-U4GBTZNhbbd3TAlb/v/italian/acquiring-and-subscribing).
 {% endhint %}
 
-* [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
-* [Get LP, then Make a Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
-* [Get LP, then Make a Crucible, and become a Certified Alchemist on Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
-* [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
-* [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
+* [Conia un Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
+*  [Ottieni token LP, poi conia un Crucible](https://www.youtube.com/watch?v=Ga1qcQ6x3as)
+* [Ottieni token LP, poi conia un Crucible e diventa un Alchemist certificato su Discord](https://www.youtube.com/watch?v=k7MO1QpqCds)
+* [Trasferisci Crucible usando Alchemist.farm e OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
+*  [Perdita impermanente - guarda prima di bloccare i token LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
-### **Images 🖼🎨**
+### **Immagini 🖼🎨**
 
-![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
+![Procedimenti per entrare nel Programma Aludel ](https://i.imgur.com/7sK0Jr2.png)
 
-![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
+![L&apos;idea dietro Aludel](https://i.imgur.com/sutIhed.png)
 
 
 
