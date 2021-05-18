@@ -11,41 +11,41 @@ Crucible supporta solamente la pool di liquidità **Uniswap V2**. Aggiungere liq
 {% hint style="warning" %}
 **Precauzioni**
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
+Non usare Brave browser in quanto non è compatibile con il processo in questo momento. La tua transazione fallirà, con conseguente perdita di commissioni.
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+ Non raccomandiamo di usare un hardware wallet in questo momento perché molti non supportano attualmente la firma EIP-712.
 
-Some users have reported issues with Trustwallet.
+ Alcuni utenti hanno riportato problemi usando Trust Wallet. Sii cauto nell'utilizzarlo. 
 
-We do not recommend you do this on a mobile.
+Ti sconsigliamo di eseguire ciascuno di questi processi su un dispositivo mobile.
 {% endhint %}
 
  Usa una delle guide sottostanti per coniare un Crucible
 
 * [Coniare un Crucible su crucible.alchemist.wtf](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-u8pbtC9OkHlc6DJr/v/italian/crucible/guides-crucible.alchemist.wtf)
 
-## **Why can’t I see my ⚗️Mist in my wallet?**
+## **Perchè non riesco a vedere  ⚗️Mist nel mio wallet?**
 
-You can add the contract address **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** to make them visible.
+Puoi aggiungere l'indirizzo di contratto  **`0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab`** per renderli visibili.
 
-## **Why can’t I see my LP in my wallet?**
+## **Perchè non riesco a vedere i miei token LP nel mio wallet?**
 
-You can add the contract address **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** to make them visible.
+Puoi aggiungere l'indirizzo di contratto  **`0xcd6bcca48069f8588780dfa274960f15685aee0e`** per renderli visibili. 
 
-## **Why can’t I see my Crucible in my wallet?**
+## **Perchè non riesco a vedere il mio Crucible nel mio wallet?**
 
-You can add the contract address **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** to make your Crucible\(s\) visible.
+Puoi aggiungere l'indirizzo di contratto **`0x54e0395CFB4f39beF66DBCd5bD93Cca4E9273D56`** per rendere il tuo/i tuoi Crucible visibili. 
 
-## **What are the rewards for Subscribing in the Aludel?**
+## **Quali sono le ricompense ottenute dall'iscrizione dei token in Aludel?**
 
-Rewards are distributed from the reward pool proportionally to the amount and duration of a Subscription. The more ⚗️$mist/ETH Uniswap LP tokens you Subscribe and the longer you leave it for, the more rewards it will accumulate. The Aludel reward program is designed to reward long term participants.
+Le ricompense sono distribuite dalla pool di ricompense in modo proporzionale all'importo e alla durata della sottoscrizione. Più ⚗️$mist/ETH Uniswap token LP sottoscrivi e più li lasci nel Crucible ie più ricompense accumulerai. Il Programma di Ricompense Aludel è stato concepito per premiare i partecipanti a lungo termine. 
 
-You can see the reward pool [here.](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541)
+Puoi vedere la pool di riconpense [qui](https://etherscan.io/address/0x04108d6e9a51bec5170f8fd953a156cf754ba541). 
 
-## **How do I become an certified Alchemist in Discord?**
+## Come divento un Alchemist certificato su Discord?
 
-* Please use this [guide](how-to-become-a-certified-alchemist-on-discord.md)
-* Join Discord
+* Usa questa [guida](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-vE9z81XHX75PC1UR/v/italian/crucible/how-to-become-a-certified-alchemist-on-discord) 
+* Entra in Discord
 * Go to the Welcome channelType !join
 * You will then get a message from the Collab.Land bot
 * Connect Your wallet containing your ⚗️$mist
