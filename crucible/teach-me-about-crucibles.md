@@ -54,7 +54,7 @@ Cu toate acestea, putem spune că ar trebui să luați în considerare valoarea 
 Am creat aceste ghiduri alegand walletul MetaMask![](../.gitbook/assets/metamask-fox.svg). Dacă doriti sa folositi alt wallet si aveti neclaritati, intrați în canalul nostru discord unde membrii comunitatii Alchemist o sa va ofere cu placere indrumarile necesare.
 
 {% hint style="warning" %}
-MetaMask nu va recunoaste si nu va poate afisa NFT-urile Crucible pana cand nu [adaugati adresa smarcontractului ](faq.md#why-cant-i-see-my-mist-in-my-wallet)in aplicatie. 
+MetaMask nu va recunoaste si nu va poate afisa NFT-urile Crucible pana cand nu [adaugati adresa smarcontractului ]()in aplicatie. 
 {% endhint %}
 
 ## Ce wallet pot folosi pentru a stoca NFT-ul meu Crucible?
