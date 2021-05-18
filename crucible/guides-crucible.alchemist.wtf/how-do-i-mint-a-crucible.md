@@ -36,5 +36,5 @@ Ti sconsigliamo di eseguire ciascuno di questi processi su un dispositivo mobile
 6. Una volta confermata la tua transazione, dovresti ricevere i seguenti messaggi. Clicca per vedere la tua transazione. Una volta che la transazione è stata confermata, passa allo step successivo.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
 7. Ora la tua transazione è confermata. Puoi chiudere il pop-up sopra e cliccare sulla finestra "Crucibles", che dovrebbe mostrarti i tuoi crucible appena coniati. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Congratulazioni, se sei arrivato fino a qui, sei un Alchemist!**
+## **Congratulazioni, se sei arrivato fino a qui sei un Alchemist!**
 

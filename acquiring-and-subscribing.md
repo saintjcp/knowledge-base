@@ -27,7 +27,7 @@ A causa della bassa liquidità su **Uniswap V3**, l'oscillamento aggiuntivo può
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Sottoscrivere$MIST ⚗️ per ricevere Token LP
+### 2. Sottoscrivere $MIST ⚗️ per ricevere Token LP
 
 Hai già fornito liquidità su Uniswap? Se si, sai già il contenuto di questo step. 
 
