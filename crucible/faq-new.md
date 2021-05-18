@@ -1,4 +1,4 @@
-# FAQ 📖 \(new\)
+# FAQ 📖
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
 

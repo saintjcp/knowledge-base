@@ -26,8 +26,7 @@
   * [Guías visuales 🎞](crucible/guides-alchemist.farm/visual-guides.md)
 * [Cómo convertirse en un "Alquimista Certificado" en Discord 💬](crucible/how-to-become-a-certified-alchemist-on-discord.md)
 * [Compatibilidad de los Wallets](crucible/wallet-compatibility.md)
-* [FAQ 📖](crucible/faq.md)
-* [FAQ 📖 \(new\)](crucible/faq-new.md)
+* [FAQ 📖](crucible/faq-new.md)
 
 ## Join us
 
