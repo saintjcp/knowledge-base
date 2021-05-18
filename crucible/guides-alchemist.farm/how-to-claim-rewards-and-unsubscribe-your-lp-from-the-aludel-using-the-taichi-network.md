@@ -17,18 +17,18 @@ Il motivo per il quale devi usare la rete TaiChi network è di proteggere la tua
 6. Una volta connesso a TaiChi puoi cliccare “Claim Rewards and Unsubscribe LP”
 7. EInserisci la quantità di token LP che vuoi richiedere e disiscrivere e poi schiaccia il bottone blu   ~ “Claim Rewards and Unsubscribe LP”
 8. Ora riceverai un pop-up da MetaMask che ti richiede una “Signature Request” \(richiesta di firma\) clicca “sign”
-9. Next you will get a transfer funds notification box from MetaMask as shown below. **We suggest you check the Gas Fee by clicking the EDIT button.  Some users have reported this defaulting to the slowest option, which can delay the completion of your transaction. If you are concerned the gas fees are too high, use** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **to help decide when the lowest gas fees might occur**
+9. Next you will get a transfer funds notification box from MetaMask as shown below. **Ti suggeriamo di controllare le commissioni per il gas cliccando il pulsante EDIT. Alcuni utenti hanno riferito che l'opzione predefinita è la più lenta, il che può ritardare il completamento della transazione. Se sei preoccupato che le commissioni sul gas siano troppo alte, usa** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **per vedere quando le commissioni sul gas saranno più convenienti.**
 
-   ![](https://i.imgur.com/FKnztJS.png)
+![](https://i.imgur.com/FKnztJS.png)
 
-10. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan so don't panic! It will appear there once the transaction has gone through
-11. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress
-12. The TaiChi network will be a little slower than the ethereum network
-13. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
+1. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan so don't panic! It will appear there once the transaction has gone through
+2. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress
+3. The TaiChi network will be a little slower than the ethereum network
+4. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
 
-    ![](https://i.imgur.com/fcPY6Zp.png) 
+   ![](https://i.imgur.com/fcPY6Zp.png) 
 
-14. Click refresh and you will now see the Crucible with the LP tokens removed
+5. Click refresh and you will now see the Crucible with the LP tokens removed
 
 
 
