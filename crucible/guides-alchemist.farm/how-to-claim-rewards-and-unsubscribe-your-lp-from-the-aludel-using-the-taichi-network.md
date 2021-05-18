@@ -1,20 +1,22 @@
-# Come reclamare le ricompense e disiscrivere i tuoi token LP da Aludel utilizzando la rete
+# Come richiedere le ricompense e disiscrivere i tuoi token LP da Aludel utilizzando la rete TaiChi
+
+
 
 {% hint style="info" %}
-The reason for using the TaiChi network is to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
+Il motivo per il quale devi usare la rete TaiChi network è di proteggere la tua transazione dal venire preceduta da bots quando disiscrivi i tuoi token LP/ richiedi ricompense. 
 {% endhint %}
 
-1. Go to [alchemist.farm](https://alchemist.farm)
-2. Connect your wallet as usual on normal ethereum network
-3. Go to the Crucibles tab
-4. Click “Claim Rewards and Unsubscribe LP” 
-5. Once you have added the TaiChi network as described [here](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md) you will need to make sure MetaMask is using it. To check you should see TaiChi at the top of your MetaMask like so
+1. Vai su [alchemist.farm](https://alchemist.farm)
+2. Connetti il tuo wallet come al solito alla rete Ethereum
+3. Vai sulla barra dei Crucible
+4. Clicca “Claim Rewards and Unsubscribe LP” 
+5. Una volta aggiunta la rete TaiChi come descritto [qui](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md) dovrai assicurarti che MetaMask la stia usando. Per saperlo dovresti riuscire a vedere TaiChi in alto su Metamask come segue:
 
    ![](https://i.imgur.com/kszVVbq.png)
 
-6. Once you are connected to TaiChi you can now click “Claim Rewards and Unsubscribe LP”
-7. Enter the amount of LP you wish to Claim and Unsubscribe then press the blue button ~ “Claim Rewards and Unsubscribe LP”
-8. You will now get a pop up box from MetaMask asking you for a “Signature Request” click “sign”
+6. Una volta connesso a TaiChi puoi cliccare “Claim Rewards and Unsubscribe LP”
+7. EInserisci la quantità di token LP che vuoi richiedere e disiscrivere e poi schiaccia il bottone blu   ~ “Claim Rewards and Unsubscribe LP”
+8. Ora riceverai un pop-up da MetaMask che ti richiede una “Signature Request” \(richiesta di firma\) clicca “sign”
 9. Next you will get a transfer funds notification box from MetaMask as shown below. **We suggest you check the Gas Fee by clicking the EDIT button.  Some users have reported this defaulting to the slowest option, which can delay the completion of your transaction. If you are concerned the gas fees are too high, use** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **to help decide when the lowest gas fees might occur**
 
    ![](https://i.imgur.com/FKnztJS.png)
