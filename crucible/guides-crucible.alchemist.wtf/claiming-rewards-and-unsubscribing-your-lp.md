@@ -1,4 +1,4 @@
-# Solicita Recompensele & Retrage LP-ul
+# Revendica Recompense & Retrage LP
 
 La un moment dat tu poti decide ca vrei sa Soliciti Recompensele si sa Retragi LP-ul alocat NFT-ului tau Crucible. 
 

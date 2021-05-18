@@ -26,71 +26,71 @@ Serviciile și metodele existente ar trebui să fie privite, observate in concor
 
 ### 3. Progres treptat prin feedback
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+Rezistați tentației de a face totul dintr-o dată. Impartiti in mai multe etape, secvente procesul Pași mici sau repere \(instante\) pot fi executati și finalizati în timp util. Fiecare obiectiv va fi mai ușor de atins, motivant în loc de a fi frustrant. Accentul pe fiecare efort va fi mai evident. Remarcati orice schimbări în circumstanțe și păstrați atenția avand in minte valorarea pentru a reevalua și eventual revizui fiecare instanta, precum și întreaga inițiativă. Feedbackul onest este instrumentul dvs. pentru a vă revizui acțiunile - analizați oportunitățile, riscurile și problemele dvs. de îmbunătățire. Oferiți feedback-ului o valoare de învățat, construiti și îmbunătățiti.
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+* Pași mici sau repere, din perspectiva întregului. 
+* Feedback-ul este esențial - circumstanțele se schimbă rapid. 
+* Reoede =/= incomplete.
 
-### 4. Collaborate and promote visibility.
+### 4. Colaboreaza si promoveaza vizibilitatea
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+Implicând persoanele potrivite în rolurile corecte, eforturile beneficiază de o mai mare relevanță \(judecata pentru luarea deciziilor are mai multă valoare\) și duce la cresterea ratei de succes pe termen lung. Incluziunea este, în general, o politică mai bună decât excluderea, deoarece contribuții entuziaste, soluții creative și perspective importante pot fi obținute din surse neașteptate. Cerințele pentru succes sunt informații, înțelegere și încredere.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+Identificați și gestionați toate părțile interesate sau grupurile implicate. Cel mai evident grup de părți interesate sunt „clienții”, deoarece în ITIL obiectivul principal al organizației este de a conduce la beneficii in favoarea clienților. Alte exemple de colaborare a părților interesate includ: dezvoltatorii \(colaborarea cu alte echipe interne - cum ar fi cercetarea\) sau furnizorii interni și externi.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+Contribuția la îmbunătățirea fiecărui grup de părți interesate la fiecare nivel ar trebui înțeleasă, la fel și cele mai eficiente metode de a interacționa cu aceste grupuri. Așteptați diferite variații cu privire la nivelul și tipul de colaborare, în funcție de relația dintre organizație și „consumator”. Adresați-vă nevoilor părților interesate implicate! Determinati tipul, metoda și frecvența unor astfel de mesaje! O activitate organizată si comunicarea este foarte recomandată.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+Părțile interesate au nevoie de o viziune clară a progresului și a volumului de muncă! Nu dați niciodată impresia că nu se întâmplă nimic! Vizibilitatea insuficientă duce la un proces decizional deficitar și afectează abilitatea de a îmbunătăți capacitățile interne. Pentru a evita acest lucru, veți avea nevoie de analize critice \(și sincere!\) ale fluxului de lucru, blocajelor și excesului de capacitate.
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* Colaborare =/= consens
+* Striga tare - comunicarea frecventă este calea de urmat.
+* Deciziile „bune” pot fi luate doar in mod vizibil.
 
-### 5. Think and work holistically.
+### 5. Gândește și lucrează holistic.
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+Într-un sistem complex, o modificare a unui element poate avea impact asupra altora. Aceste impacturi trebuie identificate, analizate și planificate. Intr-un sistem complex nimic nu sta in sine ca parte - indiferent dacă este un serviciu, o practică, un proces sau un departament. Rezultatul final va avea de suferit, daca nu funcționează într-un mod integrat pentru a gestiona toate activitățile sale ca un întreg, mai degrabă decât ca părți separate.
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+A avea o abordare holistică a conceptelor ITIL include stabilirea unei înțelegeri a modului în care toate părțile unei organizații funcționează împreună \(patru dimensiuni: organizații și oameni, informații și tehnologie, parteneri și / sau furnizori, fluxuri de valori și procese\). Cererea este captată și convertita în rezultate.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+* Recunoașteți complexitatea fiecărui element. 
+* Colaborarea este esențială pentru a lucra holistic.
+* Căutați tipare în nevoile și interacțiunile dintre elemente. 
+* Automatizarea poate facilita funcționarea integrată. 
 
-### 6. Keep it simple and practical.
+### 6. Mentine totul simplu si practic. 
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+Folosiți întotdeauna numărul minim de pași pentru a atinge un obiectiv. Gândirea bazată pe rezultate ar trebui utilizată pentru a produce soluții practice care să ofere rezultate valoroase. Dacă un proces, acțiune sau valoare nu reușește să ofere valoare sau să producă un rezultat util, atunci eliminați-o. Nu vă concentrați asupra fiecărei excepții, acest lucru va duce automat la supra-complicații. În schimb, regulile, fluxurile de lucru sau procesele ar trebui concepute pentru ca să poată fi utilizate in a gestiona excepțiile în general.
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+Crearea de valoare este obiectivul dvs. - mentine totul simplu și practic ajută la înțelegerea contribuției. Stabiliți și comunicați o viziune holistică a muncii. Echipele individuale sau grupurile pot înțelege modul în care munca lor este influențată și, la rândul lor, ei influențeaza pe alții.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+Păstrați ochii deschiși asupra obiectivelor care pot produce conflict atunci când proiectați, gestionați sau in practicile de operare. De exemplu, managerii ar putea dori o mulțime de date \(cantitativ\), insa echipele de service ar putea fi constrânse să acorde prioritate colectării și detaliilor acestor date. Găsiți un compromis între obiectivele concurente.
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+* Ai in vedere valoarea
+* Simplitatea este cheia.
+* Stabiliti cateva reguli pentru practicile importante. 
+* Respectați timpul și munca persoanelor implicate. 
+* Este mai ușor a adopta calea care nu este complicată. 
+* Cauta solutii care faciliteaza rezultate imediate.
 
-### 7. Optimize and automate.
+### 7. Optimizați și automatizați.
 
-Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
+Maximizați valoarea muncii desfășurate de resursele umane și tehnice. Tehnologia poate ajuta organizațiile să se extindă și să își asume sarcini frecvente și repetitive. Cu toate acestea, ar trebui să nu depindem doar de tehnologie fără capacitatea intervenției umane, deoarece automatizarea de dragul automatizării poate crește costurile și reduce robustețea și rezistența. 
 
-Optimization intents to make something as effective and useful as it should be. Always optimize first before considering an automation. Consider that you have set constraint limits for optimization! E.g. Costs, time or resources could be wasted.
+Optimizarea intenționează să facă ceva atât de eficient și util pe cât ar trebui. Optimizați întotdeauna mai întâi înainte de a lua în considerare o automatizare. Luați în considerare sa limitati impunerile pentru optimizare! De exemplu. Costurile, timpul sau resursele ar putea fi irosite.
 
-The path to optimization follows these high-level steps:
+Pasii necesari in procesul de optimizare:
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
-* Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+* Declarați contextul relativ la optimizarea propusă.  
+* Analizeaza starea actuală a optimizării propuse. 
+* Atentie pe rezultatul dorit in ce priveste simplificarea și valoarea unei optimizări. Stabilește limite! 
+* Asigurați-vă că optimizarea este acceptabilă pentru toți cei implicați.
+* Memoreaza ceea ce poate fi reprodus repetand - optimizeaza stiind ca toți cei implicați adoră rezultate facile. 
+* Monitorizați impactul / efectul optimizărilor. 
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+Automatizarea se referă de obicei la utilizarea tehnologiei pentru a efectua corect un pas sau o serie de pași. Setați automatizarea în contextul standardizării și eficientizării sarcinilor manuale. De exemplu. definiți reguli pentru a permite deciziile fără a fi revizuite individual. Opriți implicarea umană și evaluarea fiecărei părți a unui proces pentru a obține mai multă eficiență. Automatizarea este o oportunitate pentru reducerea costurilor, reducerea erorilor umane și \(important!\) Îmbunătățirea experiențelor pentru cei implicați.
 
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+* Optimizare &gt;&gt;&gt;&gt; Automatizare
+* Utilizați automatizarea pentru a obține experiențe mai bune, pentru a reduce erorile și pentru a economisi costuri și timp. 
+* Definiți-vă măsurile de evaluare. 
+* Folosiți si alte principii directoare atunci când le aplicați pe acestea! 
 
