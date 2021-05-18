@@ -32,47 +32,49 @@ Resisti alla tentazione di fare tutto in una volta. Dividi! Piccoli passi o piet
 *  ll feedback è essenziale - le circostanze cambiano velocemente.
 *  Veloce =/= incompleto.
 
-### 4. Collaborate and promote visibility.
+### 4. Collabora e promuovi visibilità. 
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+Coinvolgendo le persone giuste nei ruoli giusti, gli sforzi beneficiano di una maggiore rilevanza \(il giudizio per il processo decisionale ha più valore\) e creano un maggiore successo a lungo termine. L'inclusione è generalmente una politica migliore dell'esclusione, poiché contributi entusiasti, soluzioni creative e prospettive importanti possono essere ottenuti da fonti inaspettate.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+ I requisiti per il successo sono l'informazione, la comprensione e la fiducia. Identifica e gestisci tutti gli stakeholder o gruppi coinvolti. Il gruppo di stakeholder più ovvio è quello dei "clienti", poiché in ITIL l'obiettivo principale dell'organizzazione è facilitare i risultati dei clienti. Altri esempi di collaborazione tra stakeholder includono: sviluppatori \(collaborazione con altri team interni - come la ricerca\) o fornitori interni ed esterni. 
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+Dovresti comprendere il contributo al miglioramento di ogni gruppo di stakeholder ad ogni livello, così come i metodi più efficaci per impegnarsi con loro. Aspettati vari livelli e tipi di collaborazione, a seconda della relazione tra l'organizzazione e il "consumatore". Devi soddisfare i bisogni degli stakeholder coinvolti! Determinare il tipo, il metodo e la frequenza di una determinata messaggistica! Ti consigliamo vivamente un'attività organizzata di @comunicazione. 
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+Gli stakeholder hanno bisogno di una visione chiara dei progressi e del carico di lavoro! Non dare mai l'impressione che non stia succedendo nulla! Una visibilità insufficiente porta a un cattivo processo decisionale e incide sulla capacità di migliorare le capacità interne. Per evitare questo, è necessaria un'analisi critica \(e sincera!\) del flusso di lavoro, dei rallentamenti e delle capacità in eccesso.
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* Collaborazione =/= consenso
+* Parlare apertamente – il motto è: comunicazione frequente
+* Le "buone" decisioni possono solo essere prese in visibilità
 
-### 5. Think and work holistically.
+### 5. Pensa e lavora in modo olistico. 
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+In un sistema complesso, l'alterazione di un elemento provaca conseguenze su tutti gli altri. Questi impatti devono essere identificati, analizzati e pianificati. Niente sta in piedi da solo - che si tratti di un servizio, una pratica, un processo o un dipartimento. Il risultato soffrirà a meno che non lavori in modo integrato per gestire le tue attività come una sola cosa, piuttosto che come parti separate. 
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+Adottare un approccio olistico ai concetti di ITIL include stabilire una comprensione di come tutte le parti di un'organizzazione lavorano insieme \(quattro dimensioni: organizzazioni e persone, informazioni e tecnologia, partner e/o fornitori, flussi di valore e processi\). La domanda viene identificata e tradotta in risultati.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+*  Reconosci la complessità di ogni elemento. 
+*  Collaborazione: la base del lavoro olistico.
+*  Cerca modelli nei bisogni e nelle interazioni tra gli elementi.
+*  L'automazione può facilitare il lavoro integrato. 
 
-### 6. Keep it simple and practical.
+### 6.  Semplicità e praticità.
 
-Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
+Usa sempre il numero minimo di passi per realizzare un obiettivo. Il pensiero basato sul risultato dovrebbe essere usato per produrre soluzioni pratiche che forniscono risultati di valore. Se un processo, un'azione o una metrica non riesce a fornire valore o a produrre un risultato utile, allora eliminala. Non concentrarti su ogni eccezione: questo porterà automaticamente a complicarsi la vita. Invece, dovresti progettare regole, flussi di lavoro o processi che possono essere utilizzati per gestire le eccezioni in generale. 
 
-Value creation is your goal – keeping it simple and practical helps to understand the contribution. Establish and communicate a holistic view of the work. Individual teams or groups can understand how their work is being influenced by, and in turn influences, others.
+La creazione di valore è il tuo obiettivo - mantenerlo semplice e pratico aiuta a capire il contributo. Stabilisci e comunica una visione olistica del lavoro. I singoli team o gruppi possono capire come il loro lavoro viene influenzato, e come a sua volta influenza gli altri.
 
-Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
+Tieni gli occhi aperti su obiettivi contrastanti quando progetti, gestisci o implementi delle pratiche. Per esempio, i manager potrebbero volere molti dati \(quantità\), ma i team di servizio potrebbero essere limitati nel dare priorità alla raccolta e al dettaglio di quei dati. Trova un compromesso tra obiettivi contrastanti. 
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+Assicura il valore. La semplicità è la chiave. Stabilisci solo poche regole per coprire le pratiche principali. Rispetta il tempo e il lavoro delle persone coinvolte. L'adozione è più facile quando non è complicata. Prendi i frutti a portata di mano.
 
-### 7. Optimize and automate.
+*  Assicura il valore.
+* La semplicità è la chiave. 
+*  Stabilisci solo poche regole per coprire le pratiche principali.
+* Rispetta il tempo e il lavoro delle persone coinvolte.
+*  L'adozione è più facile quando non è complicata. 
+*  Prendi i frutti a portata di mano.
+
+### 7. Ottimizza e automatizza. 
 
 Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
 
@@ -93,4 +95,8 @@ Automation typically refers to the use of technology to perform a step or series
 * Use automation to achieve better experiences, reduce errors and save costs and time.
 * Define your metrics.
 * Use the other guiding principles when applying this one!
+
+Massimizza il valore del lavoro svolto dalle risorse umane e tecniche. La tecnologia può aiutare le organizzazioni a migliorare e a farsi carico di compiti frequenti e ripetitivi. Tuttavia, la tecnologia non dovrebbe sempre essere usata ciecamente senza la capacità di intervento umano, dato che l'automazione per il gusto dell'automazione può aumentare i costi e ridurre la robustezza e la resilienza. L'ottimizzazione mira a rendere qualcosa efficace e utile come dovrebbe essere. Quindi prima ottimizza, poi automatizza. Considera che hai fissato dei limiti di vincolo per l'ottimizzazione! Costi, tempo o risorse potrebbero essere sprecati. Il percorso verso l'ottimizzazione segue questi passi di alto livello:
+
+Dichiara il contesto in cui esiste l'ottimizzazione proposta. Giudica lo stato attuale dell'ottimizzazione proposta. Concentrati sul risultato desiderato che verte su semplificazione e sul valore di un'ottimizzazione. Stabilisci i limiti! Assicurati che l'ottimizzazione sia per tutte le persone coinvolte accettabile, Ricordati le iterazioni - le ottimizzazioni e tutte le persone coinvolte amano i frutti a portata di mano. Monitora l'impatto/effetto delle ottimizzazioni. L'automazione si riferisce tipicamente all'uso della tecnologia per eseguire correttamente un passo o una serie di passi. Imposta l'automazione nel contesto della standardizzazione e della razionalizzazione dei compiti manuali. Per esempio, stabilisci che siano delle regole a consentire decisioni senza rivederle individualemente. Ferma il coinvolgimento umano e la valutazione di ogni parte di un processo per ottenere più efficienza. L'automazione è un'opportunità per ridurre i costi, gli errori umani, e \(importante!\) migliorare le esperienze per chi è coinvolto Ottimizzazione &gt;&gt;&gt;&gt; Automazione Usa l'automazione per ottenere esperienze migliori, ridurre gli errori e risparmiare costi e tempo. Definisci le tue metriche. Usate gli altri principi guida quando applicate questo!
 
