@@ -90,9 +90,9 @@ No, lo svuota solamente, e ti rimane dunque il Crucible vuoto.
 
 Sì, la proprietà del NFT \(e dei token LP sottoscritti\) può essere trasferita a qualsiasi wallet compatibile con ERC721. Questo può essere fatto tramite il pulsante "Transfer Crucible" su [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oppure [alchemist.farm](https://alchemist.farm/)
 
-## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
+## **Se trasferisco il mio Crucible da un wallet ad un altro, il moltiplicatore si resetta?**
 
-No, as long as the rewards are not unsubscribed from the Aludel.
+No, fino a quando le ricompense non vengono disiscritte da Aludel. 
 
 
 
