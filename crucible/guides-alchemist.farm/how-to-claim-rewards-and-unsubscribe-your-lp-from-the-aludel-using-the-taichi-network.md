@@ -21,16 +21,17 @@ Il motivo per il quale devi usare la rete TaiChi network è di proteggere la tua
 
 ![](https://i.imgur.com/FKnztJS.png)
 
-1. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan so don't panic! It will appear there once the transaction has gone through
-2. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress
-3. The TaiChi network will be a little slower than the ethereum network
-4. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
+10. Ora la transazione verrà inviata alla rete TaiChi. Non sarai in grado di vedere questa trasnazione subito su Etherscan, ma non preoccuparti! Ti apparirà una volta finalizzata sulla rete TaiChi.
 
-   ![](https://i.imgur.com/fcPY6Zp.png) 
+11. Se vuoi controllare l'andamento della tua transazione su TaiChi, puoi incollare l'hash della transazione su [taichi.network](https://taichi.network/) per vederne il progresso. 
 
-5. Click refresh and you will now see the Crucible with the LP tokens removed
+12. Nota: La rete TaiChi sarà un po' più lenta della rete Ethereum. 
 
+13. Una volta che la transazione sarà finalizzata dovrai ritornare alla rete Ethereum per vedere il Crucible
 
+![](https://i.imgur.com/fcPY6Zp.png) 
+
+14. Clicca "refresh" per vedere il Crucible e i token LP rimossi.  
 
 Premessa: la ragione per cui ti serve questa guida è proteggere l’utente dall’essere preceduto dai bot quando si disiscrive.
 
@@ -38,7 +39,7 @@ Premessa: la ragione per cui ti serve questa guida è proteggere l’utente dall
 2. Connetti il tuo wallet come al solito alla normale rete Ethereum
 3. Vai su Crucibles
 4. Clicca su “Claim rewards and Unsubscribe LP”
-5. Apparirà una finestra pop-up e sarà necessario fare clic su “[**this guide**](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” in blu e seguire le istruzioni che ti guideranno nell’aggiungere la rete Taichi alla tua metamask.  ![](https://i.imgur.com/DobQofv.png)
+5. Apparirà un pop-up e sarà necessario fare clic su “[**this guide**](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md)” in blu e seguire le istruzioni che ti guideranno nell’aggiungere la rete Taichi alla tua metamask.  ![](https://i.imgur.com/DobQofv.png)
 6. Una volta aggiunta la rete Taichi, dovrai assicurarti che MetaMask la stia usando. Per controllare dovresti vedere Taichi nella parte superiore della tua MetaMask in questo modo.  ![](https://i.imgur.com/7ikfToc.png)
 7. Non appena sarai connesso a Taichi puoi cliccare su “Claim rewards and Unsubscribe LP”.
 8. Inserisci la quantità di token LP che desideri reclamare e disiscrivere, quindi premi il pulsante blu ~ “Claim Rewards and Unsubscribe LP”

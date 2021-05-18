@@ -40,7 +40,7 @@ Questo passaggio è obbligatorio e le istruzioni sono riportate di seguito
 
     ![](https://i.imgur.com/fcPY6Zp.png) 
 
-16. Clicca "refresh" per vedere il Crucible e i token rimossi. 
+16. Clicca "refresh" per vedere il Crucible e i token rimossi.
 
 \*\*\*\*
 
