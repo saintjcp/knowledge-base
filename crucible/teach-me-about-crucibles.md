@@ -1,6 +1,6 @@
 # Spiegami i Crucible
 
-**Cosa è un Crucible?**
+**Cosa è un Crucible?** 
 
 Si tratta di un NFT rappresentante i token LP che hai iscritto. Creare un Crucible viene definito "minting" \(coniare\). 
 

@@ -1,12 +1,12 @@
 # Link ufficiali della comunità 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Se decidi di usare link provenienti da fonti esterne, assicurat prima che siano in sintonia con i nostri link ufficiali. **Se il link non c'è in questa lista, non è un nostro link.** 
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Ti preghiamo di usa solo la nostra lista di link ufficiali quando prendi parte ad Alchemist. 
 
-### Sites
+### Siti
 
 | Site | Description |
 | :--- | :--- |

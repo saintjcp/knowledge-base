@@ -3,10 +3,10 @@
 Ci sono molte cose che puoi fare con il tuo Crucible appena coniato. Qui sotto troverai le cose più comuni che puoi fare usando crucible.alchemist.wtf
 
 *  [Controllare le tue ricompense](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-your-rewards)
-* [Aumentare la tua iscrizione di token LP](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#increasing-your-lp-subscription)
+*  [Aumentare la tua iscrizione di token LP](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#increasing-your-lp-subscription)
 *  [Controllare quanti token LP hai iscritto al tuo Crucible](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#checking-how-much-lp-youve-subscribed-to-your-crucible)
 *  [Trasferire il tuo Crucible su un altro wallet](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#transferring-your-crucible-to-another-wallet)
-* [Individuare e copiare il tuo indirizzo Crucible](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#locating-and-copying-your-crucible-address)
+*  [Individuare e copiare il tuo indirizzo Crucible](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_wGPEdr9MW5vDbYvi1/v/italian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible#locating-and-copying-your-crucible-address)
 
 ## Controllare le tue ricompense
 
