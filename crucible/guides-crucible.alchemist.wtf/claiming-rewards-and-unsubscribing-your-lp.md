@@ -1,4 +1,4 @@
-# Richiedere ricompense & disiscrivere i tuoi token LP
+# Richiedere ricompense e disiscrivere i tuoi token LP
 
  Ad un certo punto ti sentirai pronto per richiedere le tue ricompense e disiscrivere i tuoi token LP dal Crucible. 
 

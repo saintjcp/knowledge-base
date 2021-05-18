@@ -18,7 +18,7 @@
 * [Guide: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [Come conio un Crucible?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [Cosa posso fare con il mio nuovo Crucible?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
-  * [Richiedere ricompense & disiscrivere i tuoi token LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
+  * [Richiedere ricompense e disiscrivere i tuoi token LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [Guide: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [Ho coniato un Crucible, e adesso?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [Come richiedere le ricompense e disiscrivere i tuoi token LP da Aludel utilizzando la rete TaiChi](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
