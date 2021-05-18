@@ -1,9 +1,9 @@
 # Guide: crucible.alchemist.wtf
 
 {% hint style="info" %}
-Le guide sottostanti si riferiscono al sito della community ****[**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)
+**Le guide sottostanti si riferiscono al sito della community** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)\*\*\*\*
 
- [c](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vxNUgsa4MLY1753YJ/v/italian/crucible/guides-alchemist.farm)[licca qui](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vxNUgsa4MLY1753YJ/v/italian/crucible/guides-alchemist.farm) se stai usando [alchemist.farm](https://alchemist.farm/)
+ ****[**c**](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vxNUgsa4MLY1753YJ/v/italian/crucible/guides-alchemist.farm)\*\*\*\*[**licca qui**](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-M_vxNUgsa4MLY1753YJ/v/italian/crucible/guides-alchemist.farm) **se stai usando** [**alchemist.farm**](https://alchemist.farm/)\*\*\*\*
 {% endhint %}
 
 ### Cont**enuti**
