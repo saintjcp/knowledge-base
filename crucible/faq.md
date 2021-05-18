@@ -46,49 +46,49 @@ Puoi vedere la pool di riconpense [qui](https://etherscan.io/address/0x04108d6e9
 
 * Usa questa [guida](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-vE9z81XHX75PC1UR/v/italian/crucible/how-to-become-a-certified-alchemist-on-discord) 
 * Entra in Discord
-*  Nel canale \#welcome scrivi **!join**
+*  Nel canale [\#welcome](https://discord.com/invite/qWQQMMKjKe) scrivi **!join**
 * Riceverai un messaggio privato dalla bot di Collab.Land
 * Cnnetti il tuo Wallet contenente gli ⚗️$mist
 * La bot ti invierà un messaggio  ~ Updating roles, Please check assigned roles in Alchemist
 * Chiudi la bot e torna al canale alchemy principale. Ora sarai un Alchemist certificato! 
 
-## **How do I claim the rewards?**
+## **Come chiedo le ricompense?**
 
-All rewards are received when you "Claim Rewards and Unsubscribe LP". Be careful, this also resets your reward multiplier. You will need to use Taichi Network when doing this to prevent bots from front-running your rewards. See this [guide](guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md).
+Tutte le ricompense sono ricevute cliccando "Claim Rewards and Unsubscribe LP". Presta attenzione, perchè ciò andrà a resettare il tuo moltiplicatore di ricompense. Dovrai usare la rete Taichi per questo processo per prevenire che i bot superino le tue ricompense. Dai uno sguardo a questa [guida](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-zK1H1lQ4_Nz_pBOb/v/italian/crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network).
 
-## **Does it matter how many LP tokens go into the Crucible?**
+##  **Ha importanza la quantità di token LP che si trova nel Crucible?**
 
-The more LP tokens you get the higher amount of liquidity you provided therefore a larger percentage of the rewards pool you will receive. There is no minimum LP required, but we do suggest you be mindful of the ethereum gas cost when considering this.
+Più alta è la quantità di token LP e maggiore è la liquidità. Di conseguenza, maggiore sarà la percentuale che riceverai della pool di ricompense. Non c'è un minimo numero di token LP richiesto, ma ti suggeriamo di tenere in mente il costo del gas ethereum per decidere la quantità. 
 
-### **Is it more advantageous to have more Crucibles or a higher Subscription in one Crucible?**
+### È meglio avere più **Crucible o una maggiore sottoscrizione a un Crucible soltanto?** 
 
-It’s almost always better to accumulate LP in a single Crucible as it minimizes the gas costs.
+È quasi sempre meglio avere più token LP in un Crucible per minimizzare i costi del gas. 
 
-The only time you would use multiple Crucibles is if you aim to transfer / sell a Crucible with some active Subscription on it.
+L'unica occasione nella quale vorresti avere più Crucible è se vuoi trasferire/vendere un Crucible con una sottoscrizione attiva al suo interno.  
 
-## **How does "Claim Rewards and Unsubscribe LP" impact the reward multiplier?**
+## **Qual è l'impatto di "richiedere le ricompense e disiscrivere i tuoi token LP" sul moltiplicatore di ricompense?**
 
-Every time you put LP tokens in the Aludel reward program, it keeps track of how long those tokens are Subscribed. The Aludel applies a reward multiplier which starts at 1x and increases to 10x over 60 days. When you claim a partial amount, the Aludel first claims from the Subscription with the lowest multiplier \(Last In, First Out\).
+Ogni volta che metti dei token LP nel Programma di Ricompense Aludel, questo tiene traccia del tempo di sottoscrizione di quei token. Aludel applica un moltiplicatore di ricompense che inizia a 1x e aumenta fino a 10x in 60 giorni. Quando rivendichi un importo parziale, Aludel rivendica prima la sottoscrizione con il moltiplicatore più basso \(Last In, First Out, ovvero l'ultimo che entra è il primo che esce\).
 
-## **Can I somehow see how much rewards I have acquired in the meantime?**
+## **Posso vedere quante ricompense ho accumulato finora?**
 
-You can see the accumulated reward for your crucible by using the UI at either [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/) and the accumulated Uniswap LP fees using [apy.vision](https://apy.vision/) or [croco.finance](https://croco.finance/)
+Puoi vedere le ricompense accumulate per il tuo Crucible inserendo UI su [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oppure [alchemist.farm](https://alchemist.farm/) e le commissioni accumulate di token LP su Uniswap su [apy.vision](https://apy.vision/) oppure [croco.finance](https://croco.finance/)
 
-## **Can I add more LP to an existing Crucible?**
+## **Posso aggiungere** più token LP su un **Crucible esistente?**
 
-Yes. The gas for adding more LPs to your current Crucible will be much lower than when you initially minted a Crucible. Each Subscription event is independent, so any LP you add will start their own multiplier independently.
+Sì. Il gas per aggiungere altri token LP al tuo Crucibel attuale sarà molto più basso di quando hai coniato un Crucibel all'inizio. Ogni sottoscrizione è indipendente, quindi ogni token LP che aggiungi farà partire il proprio moltiplicatore in modo indipendente.
 
-## **Does “Claim Rewards and Unsubscribe LP” remove my LP & rewards from the Crucible?**
+## **"Richiedere le ricompense e disiscrivere i tuoi token LP” comporta la rimozione dei miei token LP e delle ricompense dal Crucible?** 
 
-No. This only claims the rewards earned, your LP will remain in the Crucible until you “Withdraw Unsubscribed LP”.
+No. This only claims the rewards earned, your LP will remain in the Crucible until you “Withdraw Unsubscribed LP”. No. Questo comporta solamente la richiesta delle ricompense guadagnate. I tuoi token LP rimarranno nel Crucible fino a quando non ritiri i token LP sottoscritti. 
 
-## **Does “Withdraw Unsubscribed LP” destroy the Crucible?**
+## **"Disiscrivere i tuoi token LP”porta alla distruzione del tuo Crucible?**
 
-No, it only empties it. You retain the empty Crucible.
+No, lo svuota solamente, e ti rimane dunque il Crucible vuoto. 
 
-## **Can I transfer the Crucible NFT to another wallet?**
+## **Posso trasferire Crucible NFT su un  altro wallet?**
 
-Yes, the ownership of the NFT \(and the Subscribed LP tokens\) can be transferred to any ERC721 compatible wallet. This can be done via the "Transfer Crucible" button on [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) or [alchemist.farm](https://alchemist.farm/)
+Sì, la proprietà del NFT \(e dei token LP sottoscritti\) può essere trasferita a qualsiasi wallet compatibile con ERC721. Questo può essere fatto tramite il pulsante "Transfer Crucible" su [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) oppure [alchemist.farm](https://alchemist.farm/)
 
 ## **If I transfer my Crucible from one wallet to another will that reset the multiplier?**
 
