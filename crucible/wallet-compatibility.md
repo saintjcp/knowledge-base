@@ -1,30 +1,31 @@
-# Wallet Compatibility
+# Zgodność Portfela
 
-Based on limited testing and feedback from users, we have come up with the following compatibility chart.
+Na podstawie ograniczonej liczby testów i opinii użytkowników opracowaliśmy poniższą tabelę zgodności.
 
 {% hint style="info" %}
-The accuracy of this information may change over time and is only to be used as a guide.
+Dokładność tych informacji może się zmieniać w czasie i należy traktować je jedynie jako wskazówkę.
 {% endhint %}
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Wallet</th>
-      <th style="text-align:center">Connect wallet <em>alchemist.farm</em>
+      <th style="text-align:left">Portfel</th>
+      <th style="text-align:center">Pod&#x142;&#x105;czenie portfela do <em>alchemist.farm</em>
       </th>
       <th style="text-align:center">
-        <p>Connect Wallet</p>
+        <p>Pod&#x142;&#x105;czenie portfela do</p>
         <p><em>crucible.alchemist.wtf</em>
         </p>
       </th>
-      <th style="text-align:center">Minting</th>
-      <th style="text-align:center">Unsubscribing &amp; Viewing Crucibles</th>
-      <th style="text-align:center">TaiChi Network</th>
+      <th style="text-align:center">Wybijanie (Minting)</th>
+      <th style="text-align:center">Anulowanie subskrypcji i przegl&#x105;danie Crucible (Unsubscribing &amp;
+        Viewing Crucibles)</th>
+      <th style="text-align:center">Sie&#x107; TaiChi</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">MetaMask *recommended</td>
+      <td style="text-align:left">MetaMask *zalecany</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
       <td style="text-align:center">&#x2714;&#xFE0F;</td>
@@ -64,7 +65,7 @@ The accuracy of this information may change over time and is only to be used as 
       <td style="text-align:center">-</td>
     </tr>
     <tr>
-      <td style="text-align:left">Hardware Wallets</td>
+      <td style="text-align:left">Portfele sprz&#x119;towe (Hardware Wallets)</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
       <td style="text-align:center">-</td>
@@ -73,4 +74,6 @@ The accuracy of this information may change over time and is only to be used as 
     </tr>
   </tbody>
 </table>
+
+
 
