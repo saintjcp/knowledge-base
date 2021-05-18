@@ -30,7 +30,7 @@
 
 ## Join us
 
-* [Alchemist - Guia de incorporación de los constructores](join-us/alchemist-builders-onboarding-guide.md)
+* [Alchemist - Guía de incorporación de los constructores](join-us/alchemist-builders-onboarding-guide.md)
 * [¿Donde empezar? – los  7 ITIL principios rectores \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## Links 🔗 <a id="discussion"></a>
