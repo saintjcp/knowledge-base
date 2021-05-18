@@ -1,4 +1,4 @@
-# FAQ
+# FAQ - Sekcja pytań i odpowiedzi
 
 ## **Gdzie mogę handlować tokenami  ⚗️ \($MIST\) ?**
 
