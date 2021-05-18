@@ -2,14 +2,14 @@
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this Video on Impermanent loss before subscribing LP" %}
 
-## **How do I participate in the Aludel / How do I mint a Crucible NFT?**
+## **Come partecipo su Aludel/ Come conio un Crucible NFT?**
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+Crucible supporta solamente la pool di liquidità **Uniswap V2**. Aggiungere liquidità alla pool  **Uniswap V3** pnon è compatibile con il Programma di Ricompense. 
 {% endhint %}
 
 {% hint style="warning" %}
-**Precautions**
+**Precauzioni**
 
 Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
 
