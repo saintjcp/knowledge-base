@@ -1,36 +1,36 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# Da dove iniziare? – I principi guida 7 ITIL  \(thegostep\(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+Un principio guida è una raccomandazione che fornisce una guida universale e duratura a un'organizzazione, che si applica in tutte le circostanze, indipendentemente dai cambiamenti nei suoi obiettivi, strategie, tipo di lavoro, o struttura di gestione.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+### 1. Concentrati sul valore. 
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+Concentrati sul valore. Tutto ciò che l'organizzazione fa dovrebbe ricollegarsi, direttamente o indirettamente, al valore per se stessa, i suoi "clienti" e gli altri stakeholder. Quando ci si concentra sul valore. Il primo passo è sapere chi sono i clienti e gli stakeholders ai quali do il mio valore. In secondo luogo, è importante capire cosa costituisce il valore dal punto di vista del consumatore. È anche fondamentale capire l'esperienza del cliente con l'organizzazione e il prodotto/servizio attraverso una chiara consapevolezza della customer experience o user experience.
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* Conosci l'uso del tuo servizio/prodotto/organizzazione.
+* Incoraggia i membri del tuo team a concentrarsi sul valore.
+* Concentrati sul valore durante ogni normale attività operativa.
+* Includi in ogni iniziativa di miglioramento l'attenzione al valore.
 
-### 2. Start where you are.
+### 2. Inizia da dove sei.
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+Quando cerchi un'opportunità di miglioramento, non ricominciare da capo senza considerare ciò che è già disponibile ad essere usato. Non dovresti perdere il tuo tempo distruggendo la base del tuo lavoro - sii consapevoli di ciò che è stato investito \(costi, sudore e tempo\). L'osservazione dei servizi e dei metodi esistenti dovrebbe essere in linea con la misurazione se possibile, per capire correttamente il loro stato attuale e cosa può essere riutilizzato. 
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+Le informazioni dovrebbero essere sempre il più accurate possibile per prendere decisioni obiettive. Considera la misurazione come un supporto all'analisi. Sii consapevole - la misurazione si usa per supportare l'analisi di ciò che è stato osservato piuttosto che per sostituirla, poiché un'eccessiva dipendenza dall'analisi dei dati e dal loro reporting può involontariamente introdurre pregiudizi e rischi nel processo decisionale.
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+*  ll punto di partenza è il "cliente" o il risultato. Giudica i tuoi metodi esistenti nel modo più obiettivo possibile!
+*  Hai trovato dei metodi di successo? Usali! Stabilisci se e come possono essere ampliati e replicati per ottenere il miglioramento desiderato.
+*  Valuta con capacità di gestione del rischio. 
+*  Bisogna ammetterlo: a volte quasi nulla o addirittura nulla può essere riutilizzato.
 
-### 3. Progress iteratively with feedback.
+### 3. Avanza iterativamente con il feedback.
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+Resisti alla tentazione di fare tutto in una volta. Dividi! Piccoli passi o pietre miliari \(iterazioni\) possono essere eseguiti e completati in modo tempestivo. Ogni obiettivo sarà più facile da raggiungere, sarà motivante invece che frustrante. L'attenzione su ogni sforzo sarà più nitida. Rifletti qualsiasi cambiamento nelle circostanze e mantieni il focus sul valore in mente per rivalutare e potenzialmente rivedere ogni iterazione così come l'intera iniziativa. Il feedback onesto è il tuo strumento per rivedere le tue azioni. Analizza le opportunità di miglioramento, i rischi e i problemi. Dai al feedback un valore per imparare, costruire e migliorare. 
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+* Piccoli passi o pietre miliari, mentre comprendi il tutto. 
+*  ll feedback è essenziale - le circostanze cambiano velocemente.
+*  Veloce =/= incompleto.
 
 ### 4. Collaborate and promote visibility.
 
