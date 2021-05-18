@@ -21,7 +21,7 @@ Crucible accepta LP doar din Fondul de Lichiditati creat in **Uniswap V2**. Daca
 
 Va rugam sa folositi unul din ghidurile de mai jos despre cum sa creati un Crucible NFT
 
-* C[reeaza NFT Crucible pe crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Creeaza NFT Crucible pe crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
 ## **De ce nu pot sa vad token-ul ⚗️Mist in walletul meu?** 
 
