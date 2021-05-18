@@ -20,9 +20,9 @@ Some users have reported issues with Trustwallet.
 We do not recommend you do this on a mobile.
 {% endhint %}
 
-Please use one of the guides below to mint a crucible
+ Usa una delle guide sottostanti per coniare un Crucible
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Coniare un Crucible su crucible.alchemist.wtf](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-Ma-u8pbtC9OkHlc6DJr/v/italian/crucible/guides-crucible.alchemist.wtf)
 
 ## **Why can’t I see my ⚗️Mist in my wallet?**
 
