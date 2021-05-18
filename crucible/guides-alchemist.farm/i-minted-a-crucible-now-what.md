@@ -1,26 +1,26 @@
-# I have minted a Crucible, now what?
+# Ho coniato un Crucible, e adesso?
 
-## You can checking how many LP tokens are in your Crucible
+## Puoi vedere quanti token LP sono all'interno del tuo Crucible
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Vai su [alchemist.farm](https://alchemist.farm/), connetti il tuo wallet e clicca sulla barra "Crucibles".
 
-The Total Balance reflects your Crucible LP value.
+La voce "Total Balance" corrisponde al  valore dei tuoi token LP nel tuo Crucible. 
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Come puoi vedere, nel Crucible ci sono altre metriche utili per misurare l'andamento.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Come faccio a sapere se ho iscritto i miei token LP al Crucible?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+Dovrebbe avvenire in automatico. In alternativa, puoi andare su [alchemist.farm](https://alchemist.farm/) e vedere nel tuo Crucible. Troverai l'icona di un lucchetto nell'angolo in alto a destra del tuo display Crucible, che indica la quantità di token LP sottoscritti al Programma di Ricompense Aludel: ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Come controllo le mie ricompense su Aludel?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+Puoi andare su [alchemist.farm](https://alchemist.farm/) per vedere i tuoi Crucible, nel quale sono contenute le tue ricompense in ⚗️ e ETH. 
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## Ho coniato il Crucible con i token LP all'interno... finito?
 
-Yes. Now you sit back and see what happens.
+Si. Adesso non ti resta che vedere cosa succede. 
 
 #### 
 
