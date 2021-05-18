@@ -1,44 +1,46 @@
-# Claiming Rewards & Unsubscribing your LP
+# Richiedere ricompense & disiscrivere i tuoi token LP
 
-At some point you may decided that you are ready to Claim your rewards and Unsubscribe your LP from your Crucible.
+ Ad un certo punto ti sentirai pronto per richiedere le tue ricompense e disiscrivere i tuoi token LP dal Crucible. 
 
-The guide below is designed to step you through that process.
+ La guida sottostante è stata creata proprio per guidarti in questo processo. 
 
 {% hint style="warning" %}
 You will need to switch to the TaiChi network to protect your transaction from being front-run by bots when unsubscribing/claiming rewards.
 
-This step is mandatory and instructions are included in the steps below
+Dovrai passare alla rete TaiChi per far si che la tua transazione non venga anticipata dai bot quando disiscrivi i tuoi token/richiedi le ricompense. 
+
+Questo passaggio è obbligatorio e le istruzioni sono riportate di seguito
 {% endhint %}
 
-1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
-2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to claim rewards from and unsubscribe LP by clicking the downwards facing arrow:
+1. Apri [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connetti il tuo wallet e clicca la barra "Your Crucibles".
+2. Una volta sulla barra "Your Crucibles", espandi i dettagli sul Crucible dal quale vuoi chiedere le ricompense e disiscrivi i tuoi token LP cliccando sulla freccia verso il basso:
 
   
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 
-3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. Click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. You should now be shown a more complex list of statistics under the tab "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
-6. Click "Claim rewards and unsubscribe" at the bottom of the page  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
-7. **Before continuing to the next step,** you will now need to connect your wallet to the TaiChi Network, please refer to [this link for connection details and instructions](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md), we have made animated tutorial below to step you through this process.  ![](../../.gitbook/assets/taichi-network-add.gif) 
-8. Make sure MetaMask is showing the TaiChi network as below.
+3. Il tuo Crucible dovrebbe mostrarti qualche informazione aggiuntiva, tipo quanti MIST o ETH hai guadagnato di ricompensa ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+4. Clicca sul pulsante "Manage Crucible"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
+5. Ora dovresti riuscire a vedere una lista di statistiche più dettagliate sotto la barra "Rewards".  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+6. Clicca su "Claim rewards and unsubscribe" al fondo della pagina ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 
+7. **Prima di continuare con lo step successivo** dovrai connettere il tuo wallet alla rete TaiChi. Dai uno sguardo a [questo link per i dettagli e istruzioni di connessione](https://github.com/Taichi-Network/docs/blob/master/sendPriveteTx_tutorial.md). Abbiamo fatto un tutorial animato qui sotto per aiutarti nel processo.  ![](../../.gitbook/assets/taichi-network-add.gif) 
+8. Assicurati che MetaMask ti stia mostrando la rete TaiChi come segue.
 
    ![](https://i.imgur.com/kszVVbq.png)
 
-9. Now return to the website and fill in the prompt with how much LP you wish to unsubscribe and Click "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. If you have failed to do step 7-8 correctly you will see an error, if you see this error, please go back to step 7 and try again.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
-11. You will now get a pop up box from MetaMask asking you for a “Signature Request” click “sign”  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. Next you will get a transfer funds notification box from MetaMask as shown below. **We suggest you check the Gas Fee by clicking the EDIT button.  Some users have reported this defaulting to the slowest option, which can delay the completion of your transaction. If you are concerned the gas fees are too high, use** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **to help decide when the lowest gas fees might occur**
+9. Ora ritorna sul sito e inserisci nel messaggio che ti appare la quantità di token LP che vuoi disiscrivere e clicca  "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
+10. Se non sei riuscito negli step 7-8 vedrai un errore. In tal caso, torna allo step 7 e tenta di nuovo.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
+11. Ora ti apparirà un pop-up da MetaMask che ti chiede una “Signature Request” \(richiesta di firma\).  Clicca “sign”.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
+12.  Successivamente ti apparirà un box di notifica di trasferimento fondi da MetaMask come mostrato sotto. **Ti suggeriamo di controllare le commissioni per il gas cliccando il pulsante EDIT. Alcuni utenti hanno riferito che l'opzione predefinita è la più lenta, il che può ritardare il completamento della transazione. Se sei preoccupato che le commissioni sul gas siano troppo alte, usa** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **per vedere quando le commissioni sul gas saranno più convenienti.** 
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
 
-13. The transaction will now be sent to the TaiChi network. You will not be able to see this transaction on Etherscan straight away so don't panic! It will appear there once the transaction has gone through the TaiChi Network.
-14. If you want to check that your transaction is going through on TaiChi you can paste the transaction hash into [taichi.network](https://taichi.network/) to see its progress.  **Note:** The TaiChi network will be a little slower than the ethereum network
-15. Once the transaction has gone through and completed you will need to switch back to the ethereum network to view the Crucible
+13. Ora la transazione verrà inviata alla rete TaiChi.  Non sarai in grado di vedere questa trasnazione subito su Etherscan, ma non preoccuparti! Ti apparirà una volta finalizzata sulla rete TaiChi. 
+14. Se vuoi controllare l'andamento della tua transazione su TaiChi, puoi incollare l'hash della transazione su [taichi.network](https://taichi.network/) per vederne il progresso.  **Nota:** La rete TaiChi sarà un po' più lenta della rete Ethereum. 
+15. Una volta che la transazione sarà finalizzata dovrai ritornare alla rete Ethereum per vedere il  Crucible
 
     ![](https://i.imgur.com/fcPY6Zp.png) 
 
-16. Click refresh and you will now see the Crucible with the LP tokens removed
+16. Clicca "refresh" per vedere il Crucible e i token rimossi. 
 
 \*\*\*\*
 
