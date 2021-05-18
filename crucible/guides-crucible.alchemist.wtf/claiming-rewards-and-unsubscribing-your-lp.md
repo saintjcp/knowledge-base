@@ -11,8 +11,8 @@
 {% endhint %}
 
 1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 连接您的钱包并访问 "Your Crucibles"页。
-2. 进入“Your Crucibles”选项卡后，在您想从其领取奖励的Crucibles上点击向下的箭头展开详细信息，并取消供应LP： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-3. 你的Crucible现在会显示更多的信息，例如你在奖励中获得了多少MIST或ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
+2. 进入“Your Crucibles”选项卡后，在您想从其领取奖励的 Crucibles 上点击向下的箭头展开详细信息，并取消供应LP： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
+3. 你的 Crucible 现在会显示更多的信息，例如你在奖励中获得了多少MIST或ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
 4. 点击“Manage Crucible”按钮 ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
 5. 现在您应该在"Rewards"标签下看到一个更复杂的统计列表。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 6. 点击页面底部的 "Claim rewards and unsubscribe"。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.05.52.png) 

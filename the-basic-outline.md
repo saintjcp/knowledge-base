@@ -1,10 +1,10 @@
 # 基本概要
 
-代币名为Alchemist。它的符号为"⚗️"。它也可以被称为 "mist "和"$MIST"。不要把它与[MUST](https://www.coingecko.com/en/coins/must)混淆——尽管它现在显示的是个蒸馏器，但它与Alchemist没有关系。 
+代币名为Alchemist。它的符号为"⚗️"。它也可以被称为 "mist "和"$MIST"。不要把它与 [MUST](https://www.coingecko.com/en/coins/must) 混淆——尽管它现在显示的是个蒸馏器，但它与Alchemist没有关系。 
 
 ⚗️有什么用？这里就不予赘述了。详情请参考[官方FAQ](faq.md)
 
-你可以像其他代币一样将⚗️质押，最终你可以用它在[Aludel](the-basic-outline.md#3-aludel)中[铸造**Crucible（坩埚）** NFTs](crucible/teach-me-about-crucibles.md#ru-he-zhu-zao-yi-ge-gan-guo)。
+你可以像其他代币一样将⚗️质押，最终你可以用它在 [Aludel](the-basic-outline.md#3-aludel) 中[铸造**Crucible（坩埚）** NFTs](crucible/teach-me-about-crucibles.md#ru-he-zhu-zao-yi-ge-gan-guo)。
 
 ## 我如何使用⚗️来增加我的财富？
 

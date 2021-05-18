@@ -14,7 +14,7 @@
 
 ## 第二部分
 
-在你获得了包含Crucible的钱包后，你可以按照以下步骤成为一名certified alchemist：
+在你获得了包含 Crucible 的钱包后，你可以按照以下步骤成为一名 **certified alchemist（认证炼金术士）**：
 
 1. 在[_\#welcome_](http://discord.alchemist.wtf)频道输入命令**!join**
 2. 您将收到来自Collab.Land的私人信息

@@ -17,12 +17,12 @@ Crucible只支持**Uniswap V2**流动资金池。向**Uniswap V3**资金池添�
 
 我们目前不建议您使用硬件钱包，因为很多钱包目前不支持EIP-712签名，可以等他们解决这个问题之后再使用。
 
-有些用户在使用 Trustwallet 时出现问题。
+有些用户在使用 Trustwallet 时出现问题，请谨慎使用。
 
 我们不建议您在移动设备上执行此操作。
 {% endhint %}
 
-请使用下面的指南来铸造一个crucible
+请使用下面的指南来铸造一个 Crucible
 
 * [在crucible.alchemist.wtf上铸造Crucible](guides-crucible.alchemist.wtf/)
 

@@ -30,7 +30,7 @@ $MIST在将来一定会出现在其他交易网站上，到那时，可以通过
 
 针对 ⚗️$mist/ETH Uniswap池，已经部署了流动性提供者奖励计划。这个奖励计划被称为 Aludel \(一个智能合约\)。
 
-已经创建了社区多重签名来积累可用于赏金的资金，看看 discord 上的[bounties 频道](https://discord.gg/92hQDCw25u) 或者在 [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth) 向 multisig 捐款。
+已经创建了社区多重签名来积累可用于赏金的资金，看看 discord 上的 [\#builders-application频道](https://discord.com/invite/92hQDCw25u) 或者在 [multisig.alchemistcoin.eth](https://etherscan.io/address/multisig.alchemistcoin.eth) 向 multisig 捐款。
 
 ## **Multisig 常见问题解答**
 
