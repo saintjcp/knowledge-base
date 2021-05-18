@@ -1,4 +1,4 @@
-# ¿Donde empezar? – los  7 ITIL principios rector \(thegostep\(s\);\)\)!
+# ¿Donde empezar? – los  7 ITIL principios rectores \(thegostep\(s\);\)\)!
 
 Un principio rector es una recomendación que proporciona una orientación universal y duradera a una organización, que se aplica en todas las circunstancias, independientemente de los cambios en sus objetivos, estrategias, tipo de trabajo o estructura de gestión.
 
