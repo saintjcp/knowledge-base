@@ -1,4 +1,4 @@
-# FAQ 📖
+# FAQ 📖 - Sekcja pytań i odpowiedzi
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Przed kontynuowaniem obejrzyj powyższy film o nietrwałej stracie \(Impermanent loss\)" %}
 
