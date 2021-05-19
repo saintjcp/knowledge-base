@@ -144,5 +144,5 @@ Das Builder Stipendium soll es dir leicht machen, andere Ablenkungen beiseite zu
 
 ## Onboarding Formular
 
-Um am Onboarding Prozess teilzunehmen, fülle bitte dieses [Formular](https://dzd671syme2.typeform.com/to/YUBB53J8) aus!
+Um am Onboarding Prozess teilzunehmen, fülle bitte dieses [Formular](https://alchemistcoin.typeform.com/to/YUBB53J8) aus!
 
