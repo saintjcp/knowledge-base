@@ -8,7 +8,7 @@
 ### **लेख-सूची**
 
 1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. मैं एक क्रूसिबल को मिंट कैसे कर सकता हूँ?
+2. [मैं एक क्रूसिबल को मिंट कैसे कर सकता हूँ?](how-do-i-mint-a-crucible.md)
 3. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
 4. अपने नए क्रूसिबल के साथ मैं क्या कर सकता हूँ?
 5. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)

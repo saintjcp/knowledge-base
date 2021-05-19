@@ -4,35 +4,35 @@
 
 **सबसे पहले आपके पास मिस्ट का होना और उसे यूनिस्वैप V2 लिक्विडिटी पूल में सब्स्क्राइब करवाना ज़रूरी है.**
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+**अगर आपने यह नहीं किया है तो , कृपया** [Acquiring & Subscribing](../../acquiring-and-subscribing.md)\(**'प्राप्ति और सदस्यता लेना'**\) **पर हमारी 2 भाग गाइड को देख लीजिये**
 
-## Minting a Crucible using LP tokens
+## **एलपी टोकंस का उपयोग करके क्रूसिबल को मिंट करना**
 
 {% hint style="warning" %}
-**Important information:** 
+**महत्वपूर्ण जानकारी:** 
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
+**ब्रेव ब्राउज़र का इस्तेमाल ना करें क्योंकि यह फिलहाल प्रक्रिया के साथ अनुकूल नहीं है और आपकी ट्रांज़ैक्शन विफल हो जाएगी जिससे आप फीस खो सकते हैं**. 
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+**हम इस समय हार्डवेयर वॉलेट का उपयोग करने की सलाह नहीं देते हैं क्योंकि कई मौजूदा वॉलेट EIP-712 हस्ताक्षर का समर्थन नहीं करते है . जब वे इसे ठीक कर लेते हैं, तो हम इसे लागू कर सकते**.
 
-We do not recommend you do this on a mobile
+**हम इसे मोबाइल पर करने की सलाह नहीं देते हैं.**
 {% endhint %}
 
-### Step by Step guide
+### **‌कदम-दर - कदम पद्धति**
 
-1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+1. **सबसे पहले** [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) **पर जाइये**
+2. **"Connect Wallet" बटन का उपयोग करके एक वॉलेट को कनेक्ट कीजिये. इस उदाहरण के लिए हम मेटामास्क का उपयोग करेंगे**
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
 
-3. You should see something like this:
+3. **आपको यह कुछ इस तरह दिखाई देगा**:
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
 
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+4. **एलपी की वह राशि लिखिए जो आप दाँव पर लगाना चाहते हैं. अपनी पूरी राशि दर्ज करने के लिए, आप शायद "MAX" बटन पर क्लिक करना चाहेंगे**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
+5. **“Mint a Crucible" को दबाइये , मेटामास्क के माध्यम से आवश्यक अनुमोदन कीजिये, ट्रांजेक्शन समाप्त होने की प्रतीक्षा कीजिये. आपको २ ‘सिग्नेचर रिक्वेस्ट’ एवं एक ‘ट्रांजेक्शन रिक्वेस्ट’ दिखाई देंगे, अगर यह आपको नहीं दिखाई दे रहे, तो आपको मेटामास्क खोलना होगा**   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
+6. **ट्रांजेक्शन की पुष्टि करने पर, आपको नीचे दिखाए गए संकेत प्राप्त होंगे, अपनी ट्रांजेक्शन को देखने के लिए उसको क्लिक कीजिये. जब आपकी ट्रांजेक्शन की पुष्टि हो जाती है, कृपया अगले कदम की और बढिये** ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+7. **अब आपकी ट्रांजेक्शन पूरी हो चुकी है, आप ऊपर दिखाया गया पॉप उप बंद करके “Crucibles” टैब पर क्लिक कर सकते हैं. यहाँ आप अपना नया मिंट किया गया क्रूसिबल देख पाएंगे.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## **Congratulations, if you've made it this far, you're now an Alchemist**
+## **बधाई हो! अगर आप यहाँ तक पहुंच गए हैं, तो अब आप एक अल्केमिस्ट हैं**
 
