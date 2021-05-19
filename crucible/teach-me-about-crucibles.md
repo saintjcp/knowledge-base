@@ -35,7 +35,7 @@ Ipak špekulacije su jedno, ali ono što znamo je da se Crucible kreira sa odre�
 
 Najmanja procenjena vrednost Crucible-a može da se izračuna na osnovu onoga šta biste dobili nazad ako odjavite njegov LP sadržaj i vratite svoju fiat valutu.
 
-Pogledajte [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) ovaj odeljak da biste se upoznali sa sadržajem Crucible-a.
+Pogledajte [this section](teach-me-about-crucibles.md#kako-mogu-da-proverim-koliko-lp-tokena-vredi-neki-drugi-crucible) ovaj odeljak da biste se upoznali sa sadržajem Crucible-a.
 
 ## Da li treba da mintuješ Crucible?
 
