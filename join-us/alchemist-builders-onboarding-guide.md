@@ -50,7 +50,7 @@ Discord je VoIP, platforma za instant poruke i razmenu digitalnog sadržaja, kao
 
 Discord je naš omiljeni alat za komunikaciju, jer pruža brzo, nekomplikovano i održivo rešenje za razgovore, bilo u pismenoj ili akustičkoj formi. Razlikujemo se u 2 kategorije - Communiti & Builder. Iako je zajednica otvorena za svakog alhemičara, graditelj ima svoje izolovano područje, pored javnog. Područje graditelja podeljeno je na različite projekte ili teme, ali je u osnovi otvoreno za svakog graditelja i namenjeno je podsticanju učešća.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)
 
 ### Basecamp
 
