@@ -87,7 +87,5 @@ If you can't see any tokens displayed for it, then it's most likely empty.
 
 ## Kako da vidim svoje tokene na MetaMask-u  ?
 
-Pogledaj [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet) gde se objašnjava da je neophodno da dodaš adresu svog wallet-a, kako bi mogao da vidiš svoje tokene.
-
-\*\*\*\*
+Pogledaj [our FAQ ](faq.md#zasto-ne-mogu-da-vidim-svoj-mist-u-svom-novcaniku) gde se objašnjava da je neophodno da dodaš adresu svog wallet-a, kako bi mogao da vidiš svoje tokene.
 
