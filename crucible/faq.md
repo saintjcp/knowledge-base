@@ -49,7 +49,7 @@ Nagradni fond možete da pogledate [ovde.](https://etherscan.io/address/0x04108d
 
 ## **Kako da postanem setifikovani Alhemičar u Discord-u?**
 
-* Molim vas da pogledate ovaj [vodič.](https://alchemist-docs.gitbook.io/alchemist/crucible/how-to-become-a-certified-alchemist-on-discord)
+* Molim vas da pogledate ovaj [vodič.](how-to-become-a-certified-alchemist-on-discord.md)
 * Pridružite se Discord-u.
 * Idite na Welcome channelType !join
 * Dobićete poruku od Collab.Land operatera.
