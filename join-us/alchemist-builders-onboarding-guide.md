@@ -150,5 +150,5 @@ El estipendio de los constructores sirve para facilitar que dejes de lado otras 
 
 ## Formulario de incorporación
 
- Para participar en el proceso de incorporación, rellene este [formulario](https://dzd671syme2.typeform.com/to/YUBB53J8).
+ Para participar en el proceso de incorporación, rellene este [formulario](https://alchemistcoin.typeform.com/to/YUBB53J8).
 
