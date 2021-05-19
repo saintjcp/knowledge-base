@@ -1,34 +1,35 @@
-# The basic outline
+# मूल रूपरेखा
 
-There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
+अल्केमिस्ट नामक एक टोकन है. उसका टिकर प्रतीक "⚗️" है. इसे “mist” एवं “$MIST” के नाम से भी जाना जाता है. इसे [MUST](https://www.coingecko.com/en/coins/must) - के साथ भ्रमित न करें - इसके एलेम्बिक प्रतीक के बावजूद इसका अलकेमिस्ट से कोई संबंध नहीं है.
 
-What is ⚗️ good for? I am not here to answer that. Please refer to the [official FAQ](faq.md)
+⚗️ क्या फायदा है? मैं इसका उत्तर देने के लिए यहां नहीं हूं। कृपया[ ](faq.md)आधिकारिक सामान्य प्रश्न.
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+आप अन्य सिक्कों के साथ ⚗️ को भी दांव पर लगा सकते हैं, और आप \(ऐलूडेल\)[Aludel](the-basic-outline.md#3-aludel)  प्रोग्राम में \(क्रूसिबल NFT को मिंट\)[mint Crucible NFTs](crucible/teach-me-about-crucibles.md) करने के लिए भी इसका उपयोग कर सकते हैं .
 
-## How could I increase my wealth using ⚗️?
+## ⚗️ **का उपयोग करके मैं अपनी संपत्ति कैसे बढ़ा सकता हूं?**
 
-### 1. Speculation
+### 1. **सट्टेबाजी**
 
-The first way is to speculate on its value. In other words: you buy some and hope the price goes up and then sell it. Disclaimer: there is no guarantee the price goes up.
+पहला तरीका है इसके मूल्य पर अनुमान लगाना. दूसरे शब्दों में: आप कुछ खरीदें और उनकी कीमत बड़ जाने की आशा करें और फिर आप उन्हें बेच दें.
 
-### 2. Staking
+### 2. **दाँव लगाना** 
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+**‌क्रूसिबल सिर्फ यूनिस्वैप V2 लिक्विडिटी पूल का समर्थन करता है. यूनिस्वैप V3 पूल में लिक्विडिटी जोड़ना रिवार्ड्स प्रोग्राम के साथ संगत नहीं है.**
 {% endhint %}
 
-The second way is to stake it in a liquidity pool alongside an equal value portion of Ether \(ETH\). When you do so you receive Liquidity Pool tokens \(LP\) that represent your stake in that pool. Ultimately these LP tokens are used to withdraw your original ⚗️ and ETH from the pool when you decide you are finished with it.
+दूसरा तरीका यह है कि इसको ईथर \(ETH\) के समान मूल्य वाले हिस्से के साथ लिक्विडिटी पूल में दांव पर लगाया जाए. जब आप ऐसा करते हैं, आपको लिक्विडिटी पूल टोकंस मिलेंगे जो उस पूल में आपकी हिस्सेदारी का प्रतिनिधित्व करेंगे. अंत में इन एलपी टोकंस का उपयोग आपके मूल ⚗️ और ETH को वापिस लेने में किया जाता है जब आप तय करते हैं कि आप यह समाप्त करना चाहते हैं.
 
-The liquidity pool is used to facilitate trades between ⚗️ and ETH that other people wish to make. Every trade made incurs a small fee for the person making the trade. Whilst you hold LP tokens, you receive a portion of those fees, proportional to the LP you hold relative to the total LP. \(For example, if your LP makes up 1% of the total LP then you receive 1% of the pool fees\)
+लिक्विडिटी पूल का उपयोग ⚗️ और ETH के बीच व्यापार को सुविधाजनक बनाने के लिए किया जाता है जो अन्य लोग करना चाहते हैं. हर व्यापार में एक छोटी से फीस लगती है जो व्यापार करने वाला उठाता है. जब तक आप एलपी टोकन धारण करते हैं, आपको उसी फीस का एक हिस्सा मिलता है, जो कुल एलपी के सापेक्ष आपके धारण की हुई एलपी के समानुपाती होता है. \(उदाहरण के लिए, अगर आपकी धारण की हुई एलपी कुल एलपी का १% है , तो आपको पूल फीस का १% मिलेगा\)   
 
-This profiting from liquidity pool fees mechanism is no different to staking any other coin in any other liquidity pool. As such, it is susceptible to "impermanent loss" whereby as a staker you lose money by withdrawing your staked coins after their relative value has shifted since you subscribed them. If you are unfamiliar with this concept I recommend doing further research until you understand it - there are plenty of resources explaining it better than I could.
+
+लिक्विडिटी पूल फीस की क्रियाविधि से मुनाफा पाना किसी अन्य सिक्के को कोई भी लिक्विडिटी पूल में दाँव लगाने के समान है. यह "अस्थायी नुकसान" के लिए अतिसंवेदनशील है जहाँ एक व्यापारी होने के नाते अपने दाँव पर लगाए हुए सिक्के वापिस लेने पर आप अपने पैसे खो सकते हैं उनके सापेक्ष मूल्य में बदलाव के बाद. यदि आप इस अवधारणा से अपरिचित हैं, तो मैं सुझाव दूंगा कि आप इस पर शोध करें जब तब आप इसे पूरी तरह समाज नहीं लेते - बहुत सारे संसाधन उपलब्ध हैं जो इसे मुझसे बेहतर समझा सकते हैं.
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Please watch this video on \"Impermanent Loss\" before proceeding." %}
 
-### 3. Aludel
+### 3. **‌ऐलूडेल**
 
-This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
+**यहाँ कीमिया/ऐल्कमी की जाती है. ‌ऐलूडेल उस रिवॉर्ड प्रोग्राम का नाम है जहाँ आप क्रूसिबल में एलपी टोकंस के साथ सब्स्क्राइब करने पर** ⚗️ **और ETH प्राप्त कर सकते हैं** 
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+"[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" **पृष्ठ पर आप क्रूसिबलस के बारे में और जानकारी हासिल कर सकते हैं**.
 

@@ -1,25 +1,24 @@
-# Getting Started
+# शुरू करना
 
-There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
+**क्रूसिबल प्रोग्राम में हिस्सा लेने से पहले कुछ सावधानियां बरतनी चाहिए, आगे बढ़ने से पहले कृपया नीचे दी गयी सूचनाएं और चेतावनियों को पड़ लीजिये**.
 
 {% hint style="danger" %}
-**Important Notice**  
-Crucibles can only be minted from **Uniswap V2** LP Tokens.  
-Please make sure you are adding tokens to the V2 pool and not V3.
+**महत्वपूर्ण सूचना**  
+क्रूसिबलस केवल ‌यूनिस्वैप V2 एलपी टोकंस से ही मिंट किये जा सकते हैं. कृपया ध्यान दें कि आप टोकंस V2 पूल में डाल रहे हैं और V3 पूल में नहीं. 
 {% endhint %}
 
 {% hint style="warning" %}
-* **Do not** use ![](../.gitbook/assets/brave.png) Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
-* We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing.
-* Some users have reported issues with Trust Wallet. Please express caution when using it.
-* We do not recommend you do any of these processes on a mobile device.
+* ![](https://lh6.googleusercontent.com/FPnwNZTYHbk3OPHP3SThACjZymfsVnlgprM_2ko_qLSrt9AIiSwJ5DwF6tdTLrptF65_WgY03Fya_f9jpBGMfwyqkQ3PzgufG8YLXPddDvkvxV5W7hAnP2PoPQkp9V5snDzwWNna) ब्रेव ब्राउज़र का इस्तेमाल ना करें क्योंकि यह फिलहाल प्रक्रिया के साथ अनुकूल नहीं है और आपकी ट्रांज़ैक्शन विफल हो जाएगी जिससे आप फीस खो सकते हैं
+* हम इस समय हार्डवेयर वॉलेट का उपयोग करने की सलाह नहीं देते हैं क्योंकि कई मौजूदा वॉलेट EIP-712 हस्ताक्षर का समर्थन नहीं करते है .
+* कुछ उपयोगकर्ताओं ने ट्रस्ट वॉलेट से जुड़े मुद्दों की सूचना दी है. कृपया इसका उपयोग करते समय सावधानी बरत लें.
+* हम इन में से कोई भी प्रक्रिया मोबाइल पर करने की सलाह नहीं देते हैं
 {% endhint %}
 
 {% hint style="info" %}
-The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
+ऐलूडेल रिवॉर्ड पद्धति एक सतत प्रयास है. प्रोग्राम में भाग लेने से पहले, कृपया नीचे दिए गए सावधानियों को ध्यान में रखे.
 {% endhint %}
 
-If you've read the above notices, then you're ready to move on to learning [about Crucibles](teach-me-about-crucibles.md).
+**अगर आपने ऊपर दी गयी सूचनाओं को पड़ लिया है , तो आप** [about Crucibles](teach-me-about-crucibles.md)\(**क्रूसिबलस**\) **के बारे में सीखने के लिए तैयार हैं**
 
 {% page-ref page="teach-me-about-crucibles.md" %}
 

@@ -1,49 +1,48 @@
-# Acquiring & Subscribing
+# प्राप्ति और सदस्यता लेना
 
-### 1. Getting $MIST ⚗️
+### 1. $MIST\(**मिस्ट**\) ⚗️ **की प्राप्ति**
 
-Ever traded coins on Uniswap? If so you know how to do this already.
+क्या आपने कभी यूनिस्वैप पे सिक्कों का व्यापार किया हैं? अगर हाँ, तो आपके लिए ये करना आसान होगा.
 
 {% hint style="warning" %}
-Due to low liquidity on **Uniswap V3**, extra slippage might mean you will not get the best price for your purchase. Please use our **Uniswap V2** link below to perform the token swap.
+**‌यूनिस्वैप V3 की कम लिक्विडिटी के कारण, हो सकता हैं की अतिरिक्त फिसलन के वजह से आपको अपनी खरीदारी के लिए सर्वोत्तम मूल्य नहीं मिलेगा. टोकन स्वैप करने के लिए, कृपया नीचे दिए हुए ‌यूनिस्वैप V2 लिंक का उपयोग कीजिये.**
 {% endhint %}
 
-1. Head to [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
-2. Connect MetaMask wallet
-3. You should see something like this:
+1. [Swap $MIST on Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2) पर जाइये 
+2. मेटामास्क वॉलेट कनेक्ट कीजिये
+3. आपको यह दिखाई देना चाहिए:
 
     ![](https://i.imgur.com/5rzgvpf.png)
 
-4. Enter the amount of ⚗️ you wish to purchase, ensuring you have an equivalent value of ETH remaining to use for the subscribing
-5. Hit "Swap", make necessary approvals via MetaMask, wait for the transaction to complete
-   * I found that my first two attempts failed, seemingly because they weren't being processed fast enough for the price to remain stable before they finished
-   * MetaMask has the ability to let you speed up a transaction by locating it in the "Activity" tab and choosing to pay more gas for higher priority processing
-6. Navigate to [https://etherscan.io/address/](https://etherscan.io/address/) to view pending transactions and all tokens associated with your account.
-   * if you use MetaMask you can click the triple dots and then "View on Etherscan" to jump to it:
+4. जितनी ⚗️ की राशि आप खरीदना चाहते हैं उसे लिखिए, यह ध्यान देते हुए की आपके पास सब्स्क्राइब करने के लिए ETH की उसके बराबर मूल्य शेष है.
+5. “Swap” पर क्लिक कीजिये , मेटामास्क के माध्यम से आवश्यक अनुमोदन कीजिये, ट्रांजेक्शन समाप्त होने की प्रतीक्षा कीजिये
+   * मैंने यह पाया कि मेरे पहले दो प्रयास विफल हो गए, क्योंकि वे समाप्त होने से पहले पर्याप्त तेजी/आवश्यक गति \(required pace\) से संसाधित नहीं किए जा रहे थे और उनकी कीमत स्थिर नहीं रही. 
+   * उच्च प्राथमिकता प्रसंस्करण के लिए मेटामास्क के "Activity" टैब में जाकर और अधिक गैस फीस दे कर, आप ट्रांजेक्शन में तेजी ला सकते हैं
+6. अपने अकाउंट से जुड़ी सारी लंबित ट्रांजेक्शनस एवं टोकंस को देखने के लिए [https://etherscan.io/address/](https://etherscan.io/address/) पर जाइये.
+   * अगर आप मेटामास्क का उपयोग कर रहे हैं, तो आप उस पर जाने के लिए, इन तीन डॉट्स पर क्लिक करके, "View on Etherscan" पर क्लिक कर सकते हैं.:
 
      ![](https://i.imgur.com/jdzodQP.png)
-7. You should see your new ⚗️ displayed like the following:
+7. आपको आपका नया ⚗️  इस तरह दिखाई देगा:
 
     ![](https://i.imgur.com/bF9wsrg.png)
 
-### 2. Subscribing $MIST ⚗️ to receive LP tokens
+### 2. **एलपी टोकंस प्राप्त करने के लिए $मिस्ट** ⚗️ **को सब्स्क्राइब करवाना** 
 
-Ever provided liquidity on Uniswap? If so you know how to do this already.
+क्या आपने कभी यूनिस्वैप पे लिक्विडिटी प्रदान की है ? अगर हाँ, तो आपके लिए ये करना आसान होगा.
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool.   
-Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+**क्रूसिबल सिर्फ यूनिस्वैप V2 लिक्विडिटी पूल का समर्थन करता है. यूनिस्वैप V3 पूल में लिक्विडिटी जोड़ना रिवार्ड्स प्रोग्राम के साथ संगत नहीं है**.
 {% endhint %}
 
-1. Head to [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH)
-   * Connect MetaMask wallet if not already done so
-2. You should see something like this:
+1. [Add LP to $MIST on Uniswap V2](https://app.uniswap.org/#/add/v2/0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab/ETH) पर जाइये 
+   * अगर आपने मेटामास्क कनेक्ट नहीं किया है तो इसे कनेक्ट कीजिये 
+2. आपको यह कुछ इस तरह दिखाई देगा:
 
     ![](https://i.imgur.com/7paIEyF.png)
 
-3. Enter the amounts you want to stake. Both sides need to be equal value, so changing one will change the other. You most likely just want to click the "MAX" button on the ⚗️ side
-4. Hit "Stake" or "Supply", make necessary approvals via MetaMask, wait for the transaction to complete
-5. You should see your new LP tokens \(named UNI-V2\) on Etherscan again:
+3. वह राशि लिखिए जो आप दाँव पर लगाना चाहते हैं. दोनों पक्ष समान मूल्य के होने चाहिये, किसी एक को बदलने से, दूसरे में भी बदलाव दिखाई देगा. आप शायद साइड पर दिखाया हुआ "MAX" बटन पर क्लिक करना पसंद करेंगे ⚗️
+4. “Stake” या “Supply” पर क्लिक कीजिये, मेटामास्क के माध्यम से आवश्यक अनुमोदन कीजिये, ट्रांजेक्शन समाप्त होने की प्रतीक्षा कीजिये.
+5. आप अपने नए एलपी टोकंस \(जिनके नाम UNI-V2 है\) इथरस्कैन पर फिर से देख पाएंगे:
 
     ![](https://i.imgur.com/6hAoHGw.png)
 
