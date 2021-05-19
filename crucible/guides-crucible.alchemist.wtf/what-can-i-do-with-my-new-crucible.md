@@ -27,7 +27,7 @@ Postoji mnogo stvari koje možeš da uradiš sa svojim novim mintovanim crucible
 
 ## Provera koliko imaš LP-a pretplaćenih u svom Crucible
 
-1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#provera-ostvarenih-nagrada).
 2. Trebalo bi da vidiš svoje "Subscribed Crucible LP" i "Unsubscribed Crucible LP".
 
 ## Transfer svog Crucible-a na drugi wallet
