@@ -1,148 +1,148 @@
-# Alchemist Builders Onboarding Guide
+# Alchemist Zidar Onboarding Vodič
 
-## Vision
+## Vizija
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+Dakle, misliš da si dobio ono što je potrebno da bi postao alhemičar, da bi prošli put Velikog dela koji bi mogao da te dovede do staza koje nikada niko nije prošao, do neistraženih teritorija - poput najvećeg alhemičara našeg doba - rekao je poznati psihijatar Carl Jung: „Niko ne postaje prosvetljen zamišljanjem svetlosnih figura, već osvešćivanjem tame".
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+U alhemičkim laboratorijama eksperimenti su usredsređeni na istraživanje visokotehničkih koncepata, u pokušaju otkrivanja sastojaka potrebnih za pravilnu sintezu Filozofskog kamena - na primer, dizajniranje Mint-a Crucible NFT iskustva ili mistKs Gasless DEKS-a.
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+Pored tehničkih eksperimenata, naš esnaf je izrastao u decentralizovano sigurno utočište, u kojem se umorni naučnici mogu osećati prijatno, udobno i sigurno. Kreativni projekti poput izgradnje Alhemijskog radija ili pronalaženja pravog umetničkog pravca za Crucible NFT samo su neki od beskrajnih primera rezultata Alhemičara koji se igraju sa nekim čašama i levcima od kada su došli.
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+Generalno, sledimo vodeće principe koji leže na srcu alhemičara još od epohe Smaragdne table, kako bismo efikasno stvorili vrednost u svakom procesu - svi aktivni učesnici su internacionalizovali ovaj način razmišljanja, tako da u osnovi delimo jednako polarizovanu viziju:
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* Fokus na vrednostima.
+* Kreni odakle jesi.
+* Napreduj iterativno, ali sa povratnim informacijama.
+* Sarađuj i promoviši transparentnost.
+* Razmišljaj i delaj sveobuhvatno.
+* Drži se jednostavnosti i praktičnosti.
+* Optimizuj i automatizuj.
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+Za više detalja molimo te da pogledaš ovaj [članak](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Compliance & Ethic
+## Usklađenost & Etika
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+Mi smo otvorenog uma i želimo dobrodošlicu svima koji žele da nam se pridruže i aktivno učestvuju u otkrivanju Eliksira života. Esnaf alhemičara nema ograničenja ili propise koji bi ograničili naš potencijal rasta. Iza scene nema kompanije, programera ili mračnog lutkara koji vuče konce. Naša zajednica raste iz dana u dan i vodi projekat u nove - sada neslućene sfere. Kao decentralizovana organizacija, sa naše tačke gledišta važno je da se dogovorimo o etici i zajedničkim pravilima ponašanja. Dogovorili smo se da ćemo se pridržavati ovih pravila:
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* Poštuj druge.
+* Nema rasizma, sexicizma, ogovaranja ili aktivnosti koji bi mogli da naude zajednici.
+* Nema neukusnog i lascivnog govora, ni sadržaja.
 
-## Hierachy
+## Hijerarhija
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+Naša hijerarhija je jasno definisana i relativno ravna. Naši Multi-Sig potpisnici i Senior alhemičari, kao i @thegostep kao osnivač, predstavljaju vođstvo i istovremeno nadgledanje samog Alhemičara. Pored ciljeva, prekretnica i rokova, oni postavljaju i osnovni pravac tako da Alchemist stvara najveću moguću vrednost kako bi sebi obezbedio svetlu budućnost.
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+Sledi Builder grupa sa članovima iz različitih stručnih oblasti. S jedne strane, naravno, postoje programeri koji prvenstveno vode računa o konceptu, arhitekturi i implementaciji jednog ili nekoliko projekata. Builder grupu ne čine samo programeri, već i naučnici iz svih sfera života - marketinški stručnjaci, umetnici i neki izuzetno posvećeni članovi zajednice. Svi koji žele aktivno da učestvuju su deo Builder grupe. Bez obzira na postojeće veštine, ceni se živahna, konstruktivna razmena u Discordu ili drugim alatima kao što je Basecamp. Uloga graditelja omogućiće korisnicima da vide osetljive tehničke koncepte i proizvode u razvoju u alhemičkim laboratorijama.
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+Da bi se timovi građevinara fokusirali na svoje transmutacije, stvorena je nova uloga - šegrt. Ova uloga se daje mladim alhemičarima, koji još uvek pokušavaju da pronađu put do mnogih eksperimenata koji se odvijaju u laboratoriji, ali ih štiti od teritorije koja uključuje naprednu alhemiju što bi moglo dovesti do nehotičnog miniranja polovine zgrade. Uloga „graditelja“ će se razviti da bi poslužila kao sledeći korak za šegrta nakon što savlada punu tehničku stranu alhemijskog eksperimentisanja.
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+Četvrta grupa su „redovni“ članovi zajednice i sertifikovani alhemičari, koje uglavnom čine $ Mist i / ili Curcible holderi. Zajednica igra glavnu ulogu za nas - a to je saradnja, otkrivajući široko rasprostranjena osećanja pruža dragocene povratne informacije u vezi sa postojećim proizvodima i uslugama, kao i osnovu za razmišljanje za dalje eksperimente. Cenimo sve koji su pronašli put do nas i želimo da im omogućimo da se osećaju što prijatnije u našoj zajednici.
 
-## Tools
+## Alati
 
 ### Discord
 
-#### **General**
+#### **Uopšteno**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+Discord je VoIP, platforma za instant poruke i razmenu digitalnog sadržaja, kao i za kreiranje zajednica. Korisnici komuniciraju sa glasovnim pozivima, video pozivima, razmenom tekstualnih poruka, medija i datotekama u privatnim ćaskanjima ili kao deo zajednica nazvanih „serveri“. Serveri su kolekcija soba za ćaskanje i kanala za glasovno ćaskanje. Discord radi na Windowsima, MacOS-ima, Android-u, iOS-ima, iPadOS-ima, Linuk-u i u web pregledačima. Od decembra 2020. usluga ima preko 140 miliona aktivnih korisnika mesečno.
 
-#### **How we use it**
+#### **Kako možemo to da koristimo**
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+Discord je naš omiljeni alat za komunikaciju, jer pruža brzo, nekomplikovano i održivo rešenje za razgovore, bilo u pismenoj ili akustičkoj formi. Razlikujemo se u 2 kategorije - Communiti & Builder. Iako je zajednica otvorena za svakog alhemičara, graditelj ima svoje izolovano područje, pored javnog. Područje graditelja podeljeno je na različite projekte ili teme, ali je u osnovi otvoreno za svakog graditelja i namenjeno je podsticanju učešća.
 
 **Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
 
 ### Basecamp
 
-#### **General**
+#### **Uopšteno**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+Basecamp je aplikacija za upravljanje projektima kojoj možete pristupiti u browser-u i na telefonu. Daje vam alate koji su vam potrebni za postavljanje zadataka, raspored, kreiranje i otpremanje dokumenata i datoteka, slanje poruka i ćaskanje sa kolegama i redovno prijavljivanje sa grupom - sve na jednom mestu!
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+Bez obzira da li radite sami ili želite da se bolje organizujete u svojim poslovima, ili želite da ga koristite za saradnju na projektu, sa poslom ili nečim ličnim, Basecamp to čini da bude lako i jednostavno. Brzo se postavlja, a ako ga dosledno koristite, trebalo bi da vam olakša komunikaciju sa timom. Naročito timovi koji su virtuelni.
 
-#### **How we use it**
+#### **Kako možemo da ga koristimo**
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+Basecamp je mesto na kojem prikupljamo, razvijamo i mapiramo sve projekte. Takođe se vrši preciznija raspodela zadataka i odgovornosti, kao i transkripti poziva i sastanaka. Primarno se koristi za pružanje pregleda ako vi, a posebno oni koji potpisuju više potpisnika, stariji alhemičari i graditelji žele da sagledaju projekat u celini.
 
 ### Github
 
-#### **General**
+#### **Uopšteno**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+GitHub je platforma za kontrolu verzija i saradnju među članovima, zasnovana na mreži za programere softvera. GitHub olakšava socijalno kodiranje pružajući web interfejs za spremište Git koda i alate za upravljanje za saradnju. GitHub može da se smatra ozbiljnom web lokacijom za društvene mreže za programere. Članovi mogu da prate jedni druge, da ocenjuju međusobne radove, da primaju ažuriranja za određene projekte i da komuniciraju javno ili privatno.
 
-#### **How we use it**
+#### **Kako možemo da ga koristimo**
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub je digitalni dom naših programera. Kao što je već navedeno u opisu, to je savršena platforma za saradnju na implementaciji i razvoju, posebno za nas kao decentralizovanu autonomnu organizaciju. Predstavlja jezgro naših proizvoda, razdvojeno u različita spremišta.
 
 **Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
 ### Linear App
 
-#### **General**
+#### **Uopšteno**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+Linear App pomaže u pojednostavljivanju softverskih projekata, sprintova, zadataka i praćenju grešaka. Napravljen je za timove visokih performansi. Direktno je povezan sa Github-om.
 
-#### **How we use it**
+#### **Kako možemo da ga koristimo**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+Linear se primarno koristi za dokumentovanje problema, problema i/ili prepreka relevantnih za programere, koji se javljaju tokom arhitekture i obrade pojedinačnih zadataka  \(prethodno definisanih u Basecamp-u \) i na kraju za pružanje rešenja ili zaobilaženja. Dakle, Linear predstavlja alat koji transparentno i detaljno raščlanjuje pojedinačne zadatke za tehničke teme. Praćenje zadataka na Github-u.
 
 ### Figma
 
-#### **General**
+#### **Uopšteno**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+Figma je alatka za cloud-dizajniranje, koja je slična po funkcionalnosti i karakteristikama sa Sketch-om, ali sa velikim razlikama koje čine Figmu boljom za timsku saradnju. Za one koji su skeptični prema takvim tvrdnjama, objasnićemo kako Figma pojednostavljuje postupak dizajniranja i efikasniji je od ostalih programa u pomaganju dizajnerima i timovima da efikasno rade zajedno.
 
-#### **How we use it**
+#### **Kako možemo da ga koristimo**
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+Figmu uglavnom koristimo za razmenu kreativnog sadržaja i zajednički rad na njemu. To mogu da budu, na primer, nacrti dizajna relevantni za UI, ali i početni dizajni projekata zajednice bilo koje vrste - primer ovde bi mogli biti dizajni dati na jednoj strani. Naročito kada su u pitanju dizajnerske odluke, jer na njih često utiče lični ukus, prema našem mišljenju, prvo ih treba podeliti pre objavljivanja.
 
 **Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
-#### **General**
+#### **Uopšteno**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape je platforma za DAO-ove da lako i pošteno distribuiraju resurse saradnicima. Grantove zajednice, interne plate i posebne projekte sve zajednice mogu podstaknuti i nagraditi. Umesto glomaznog odbora za glasanje ili crne kutije, sami saradnici mogu brzo i transparentno da nagrade vrednost za koju vide da se stvara.
 
-#### **How we use it**
+#### **Kako možemo da ga koristimo**
 
-Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
+Alhemičari koji su primili isplate od multisig-a biće stavljeni u krugove i imaće mogućnost da nagrade svoje saradnike.
 
-## Meeting Calender
+## Kalendar za sastanke
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
+Možeš da pronađeš naš kalendar koji smo šerovali [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Uključeni su svi datumi, bili oni povezani sa projektom ili da su uopšteno zanimljivi za celu organizaciju. Sastanci su od suštinskog značaja za propitivanje pojedinačnih pristupa i diskusiju o njima u timu. Prepis će tada biti trajno napisan u BaseCamp-u. Budući da su učesnici rašireni po celom svetu, vreme se obično bira tako da što veći broj može da učestvuje.
 
-## Routines to Achieve Transparency
+## Rutine kako bi se postigla transparentnost
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+U decentralizovanom timu ponekad je teško dobiti informaciju ko je čemu i koliko često doprineo. Da bismo to prevazišli, odlučili smo da uvedemo neke rutine za promociju transparentnosti i vidljivosti, čak i za graditelje i starije alhemičare koji nisu direktno uključeni u projekat.
 
 ### Builder Stand Up
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+Da bismo proces učinili transparentnijim za sve, kreiramo \# builders-standup kanal za koji želimo da podstaknemo aktivne saradnike projekata da redovno objavljuju ažuriranja. Na čemu ste poslednji put radili i kakav ste napredak postigli? Na čemu trenutno radite? Na koje prepreke / probleme ste nailazili od vašeg poslednjeg ažuriranja i da li vam je potrebna pomoć u bilo čemu?
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+Takođe želimo da te podstaknemo da sve svoje VIP filijale što češće guraš na GitHub, a posebno četvrtkom, kako bi stariji alhemičari imali bolju ideju o tome kako izračunati raspodelu stipendija za proteklu sedmicu.
 
-### Participation on Scheduled Meetings
+### Učestvovanje na dogovorenim sastancima
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+Kao što je već opisano pod temom „Kalendar sastanka“, cenimo živu razmenu u timu o aktuelnim temama. Najlakši i najjednostavniji način za to je uvek izgovorena reč. Zato je redovno učešće na sastancima zaista neophodno, i to iz više razloga istovremeno - pronalaženje brzih rešenja, povezivanje nekoliko mišljenja o određenim temama, pronalaženje većinskog pristupa i promocija integriteta. Ako ne možeš da učestvuješ na sastancima načelno ili ponekada, obavesti svoj tim, a zatim uzmi zapisnik  \(Basecamp \) da bi bio u toku.
 
-### Communication and Tool Interactions
+### Komunikacija i interakcija alata
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+Mi koristimo različite alate, koje naravno želimo da koristimo i kako bismo prepoznali napredak u odnosu na postavljena očekivanja. Obavljeni posao bi trebao da bude u fokusu na bilo koji način. Komunikacija malih ili velikih prekretnica često je relevantna za ceo projekat, čak i ako to nije uvek nužno vidljivo na prvi pogled, pa bi zato trebalo da bude u Basecamp-u \(Project Management \), Linearnom \(developer \), Figma \( artist \) i/ili se mogu naći u Discord-u. Stoga bismo želeli da vas ohrabrimo da puno i aktivno komunicirate putem jednog od kanala koji su vam dostupni.
 
-## Feedback
+## Povratna informacija \(Feedback\)
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+Želeli bismo da ti pružimo podršku u tvom angažovanju kao graditelja i zato smo u početnu fazu uključili diskusije sa fiksnim povratnim informacijama. Stariji alhemičar ili kolega graditelj odgovoriće na tvoja pitanja nakon prvog pregleda i odrediće ti polaznu tačku. Cilj razgovora je da se sve nejasnoće razjasne i da se pronađu odgovori na svakakva pitanja, kako bi od samog početka mogao da postaneš što veći deo svog projekta.
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+Zatim se zakazuje drugi sastanak za povratne informacije nakon otprilike dve nedelje, kada bismo ustanovili koliko si se dobro uklopio i koliko si samostalno uspeo da doprineseš vrednosti vlastitog projekta. Takođe pokušavamo da optimizujemo naš proces uključivanja putem povratnih informacija koje nam date.
 
-## The Builders' Stipend
+## Graditeljska stipendija
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+Jednom kada razvojni napori započnu, stariji alhemičari počinju da dodeljuju stipendiju graditeljima, kao članovima tima koji aktivno doprinose projektu. Stipendija dolazi iz konačnog fonda od $ MIST i distribuira se nedeljno na osnovu onoga što stariji alhemičari smatraju najkorisnijim izdvajanjem za negovanje rasta projekta. Iznos stipendije može da bude drugačiji pri svakoj isplati, ali stariji alhemičari obično daju grubo opravdanje zašto su sredstva raspoređena na određeni način.
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+Stipendija za graditelje je ovde da vam olakša odbacivanje drugih prepreka i fokusiranje na izgradnju sa ostatkom Alhemičara. To nije plata. Nije zamišljeno kao primarni podsticaj za uplaćivanje doprinosa. Ako ste ovde kao plaćenik i želite samo da vam plati, verovatno ste u pogrešnoj zajednici.
 
-## Onboarding Form
+## Onboarding upitnik
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Da bi se priključio graditeljskom timu, molimo te da popuniš ovaj upitnik [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 

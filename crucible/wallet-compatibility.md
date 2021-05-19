@@ -1,75 +1,75 @@
-# Wallet Compatibility
+# Kompatibilnost wallet-a
 
-Based on limited testing and feedback from users, we have come up with the following compatibility chart.
+Na osnovu delimičnog testiranja i povratnih informacija koje smo dobili od korisnika, u nastavku prikazujemo compatibility chart.
 
 {% hint style="info" %}
-The accuracy of this information may change over time and is only to be used as a guide.
+Tačnost ovih informacija se vremenom može promeniti i za sada mogu samo da posluže kao orijentacioni vodič.
 {% endhint %}
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Wallet</th>
-      <th style="text-align:center">Connect wallet <em>alchemist.farm</em>
+      <th style="text-align:left">Connect wallet <em>alchemist.farm</em>
       </th>
-      <th style="text-align:center">
+      <th style="text-align:left">
         <p>Connect Wallet</p>
         <p><em>crucible.alchemist.wtf</em>
         </p>
       </th>
-      <th style="text-align:center">Minting</th>
-      <th style="text-align:center">Unsubscribing &amp; Viewing Crucibles</th>
-      <th style="text-align:center">TaiChi Network</th>
+      <th style="text-align:left">Minting</th>
+      <th style="text-align:left">Unsubscribing &amp; Viewing Crucibles</th>
+      <th style="text-align:left">TaiChi Network</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:left">MetaMask *recommended</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
     </tr>
     <tr>
       <td style="text-align:left">TrustWallet</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Coinbase</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Crypto.com Defi Wallet</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Coinomi</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">&#x2714;&#xFE0F;</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">&#x2714;&#xFE0F;</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
     </tr>
     <tr>
       <td style="text-align:left">Hardware Wallets</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">-</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
+      <td style="text-align:left">-</td>
     </tr>
   </tbody>
 </table>

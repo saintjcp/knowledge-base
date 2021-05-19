@@ -1,27 +1,24 @@
-# Getting Started
+# Početak
 
-There are a few precautions to take before taking part in the Crucible program, please be sure to read the notices and warnings below before continuing.
+Pre nego što uzmete učešća u programu Crucible, treba da znate da postoji nekoliko mera predostrožnosti koje treba preduzeti, obavezno pročitajte dolenavedena obaveštenja i upozorenja pre nego što nastavite.
 
 {% hint style="danger" %}
-**Important Notice**  
-Crucibles can only be minted from **Uniswap V2** LP Tokens.  
-Please make sure you are adding tokens to the V2 pool and not V3.
+## **Važno obaveštenje**
+
+Crucible-i se mogu mintovati samo uz pomoć **Uniswap V2** LP tokena.  
+Molim vas da budete sigurni da ste dodali LP tokene na V2 pool, a nikako na V3 pool.
 {% endhint %}
 
 {% hint style="warning" %}
-* **Do not** use ![](../.gitbook/assets/brave.png) Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees.
-* We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing.
-* Some users have reported issues with Trust Wallet. Please express caution when using it.
-* We do not recommend you do any of these processes on a mobile device.
+* **Nikako nemojte** da koristite  Brave browser, jer za sada nije kompatibilan sa procesom transakcije, što može da rezultira gubitkom iznosa.
+* Ne preporučujemo korišćenje hardware wallet-a, jer za sada ne podržavaju EIP-712 potpis.
+* Neki korisnici su prijavljivali probleme sa Trust Wallet-om. Molimo vas da posebno obratite pažnju kada ga koristite.
+* Ne preporučujemo da ni jedan od ovih procesa ne radite na mobilnim uređajima.
 {% endhint %}
 
 {% hint style="info" %}
-The Aludel reward system is still an ongoing experiment, please keep in mind the following precautions before taking part in the program.
+Aludel nagradni sistem je još uvek u eksperimentalnoj fazi i zato vas molimo da to imate na umu, kao i navedena upozorenja, pre nego što uzmete učešća u Programu.
 {% endhint %}
 
-If you've read the above notices, then you're ready to move on to learning [about Crucibles](teach-me-about-crucibles.md).
-
-{% page-ref page="teach-me-about-crucibles.md" %}
-
-
+Ako ste pročitali gorenavedena uputstva, spremni ste da nastavite sa učenjem [about Crucibles](teach-me-about-crucibles.md).
 

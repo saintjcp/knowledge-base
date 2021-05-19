@@ -1,26 +1,24 @@
-# I have minted a Crucible, now what?
+# Imam mintovane Crucible, i šta sad?
 
-## You can checking how many LP tokens are in your Crucible
+## Možeš da proveriš koliko LP tokena imaš i tvom Crucible
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+Poseti [alchemist.farm](https://alchemist.farm/), poveži svoj wallet i klikni na Crucibles tab.
 
-The Total Balance reflects your Crucible LP value.
+Total Balance će prikazati tvoju Crucible LP vrednost.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+Kao što vidiš, on takođe prikazuje još nekoliko korisnih parametara kako bi pratio perfomanse.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## Kako da znam da imam pretplaćene LP tokene u svom Crucible-u?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+To bi trebalo da je urađeno automatski. Takođe možeš da iskoristiš [alchemist.farm](https://alchemist.farm/) da proveriš svoj Crucible. U gornjem desnom uglu ekrana nalazi se ikona katanca koja označava količinu LP tokena, koja je u pretplati u okviru Aludel nagradnog programa: ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## Kako da proverim svoje Aludel nagrade?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+Možeš da koristiš [alchemist.farm](https://alchemist.farm/) za prikaz svog Crucibles-a, gde će biti izlistana trenutna stanje tvojih ⚗️ i ETH nagrada.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## Ako imam mintovan svoj Crucible i svoj LP u pretplati... da li je to to?
 
-Yes. Now you sit back and see what happens.
-
-#### 
+Jeste. A sada se zavali u fotolju i gledaj šta će se dogoditi.
 

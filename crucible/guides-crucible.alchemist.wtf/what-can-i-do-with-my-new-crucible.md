@@ -1,49 +1,47 @@
-# What can I do with my new Crucible?
+# Šta mogu da uradim sa svojim novim Crucible-om?
 
-There are a number of things you can do with your newly minted crucible, below are the most common things that you can do using crucible.alchemist.wtf
+Postoji mnogo stvari koje možeš da uradiš sa svojim novim mintovanim crucible-om. U nastavku je prikazano nekoliko stvari koje možeš da uradiš koristeći crucible.alchemist.wtf
 
-* [Checking your rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Increasing your LP Subscription](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
-* [Checking how much LP you've subscribed to your Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
-* [Transferring your Crucible to another wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
-* [Locating and Copying your Crucible Address](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
+* [Provera ostvarenih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+* [Povećanje LP pretplate](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
+* [Provera koliko imaš LP-a pretplaćenih u svom Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
+* [Transfer svog Crucible-a na drugi wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
+* [Lociranje i Kopiranje adrese svog Crucible-a](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
 
-## Checking your rewards
+## Provera ostvarenih nagrada
 
-1. Open [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), connect your wallet and visit "Your Crucibles" tab.
-2. Once on the "Your Crucibles" tab, expand the details on the Crucible you wish to view using the downwards facing arrow: ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
-3. Your Crucible should now show you some more information, such as how much MIST or ETH you have earned in rewards ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
-4. If you want to see more detailed rewards, click on the "Manage Crucible" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. You should now be shown a more complex list of statistics under the tab "Rewards", including information about the reward multiplier, the value of your position and your subscribed & unsubscribed LP.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+1. Otvori [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), poveži svoj wallet i poseti "Your Crucibles" tab.
+2. Kad odeš na "Your Crucibles" tab, pogledaj detalje Crucible-a koji želiš, koristeći strelicu okrenutu na dole:  
+3. Tvoj Crucible bi trebao da ti pokaže dodatne informacije, kao što je koliko si MIST ili ETH do sada zaradio  
+4. Ako želiš da vidiš još detalja u vezi sa Nagradom, klikni na "Manage Crucible" dugme   
+5. Sada bi trebala da ti bude prikazana još kompleksnija statistika, vezana za "Rewards" tab, uključujući i informacije o multipliciranju nagrade, o vrednosti tvoje pozicije, kao i pretplata i otkazanih pretplana na LP tokene.   
 
-## Increasing your LP Subscription
+## Povećanje LP pretplate
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Click the "Increase LP Subscription" button  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.36.png)
-3. Specify how much LP you wish to increase your subscription by and press "Increase Subscription"  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.48.png) 
-4. Sign 2 signature requests and confirm the transaction request. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.59.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.17.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.52.27.png) 
-5. Your LP should now be submitted to be subscribed to the Crucible, you can view your transaction using either of the prompts that appear after your transaction has been submitted  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-6. Once the transactions are complete, your Crucible should represent your newly submitted LP.
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Klikni na "Increase LP Subscription" dugme  
+3. Odredi za koliko LP-a želiš da povećaš svoju pretplatu i klikni na "Increase Subscription"   
+4. Potpiši dva zahteva za potpis i potvrdi zahtev za transakciju.   
+5. Tvoji LP tokeni bi sada trebalo da budu pridruženi ostalim pretplaćenim LP tokenima odabranom Crucible-u, svoju transakciju možeš da vidiš koristeći bilo koji od upita koji se pojavljuju nakon što je transakcija poslata   
+6. Jednom kada je transakcija kompletirana, tvoj Crucible će pokazati novi saldo tvojih LP tokena u pretplati.
 
-## Checking how much LP you've subscribed to your Crucible
+## Provera koliko imaš LP-a pretplaćenih u svom Crucible
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. You should be able to see your "Subscribed Crucible LP" and "Unsubscribed Crucible LP"
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards).
+2. Trebalo bi da vidiš svoje "Subscribed Crucible LP" i "Unsubscribed Crucible LP".
 
-## Transferring your Crucible to another wallet
+## Transfer svog Crucible-a na drugi wallet
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the Paper Plane icon on the right hand side of your Crucible and click on it ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
-4. Enter the wallet address you wish to send the Crucible to in the "Recipient Address" field \(Must be ERC-721 Compatible\) and press "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. You will get prompted to confirm the transfer, make sure the wallet address is correct before submitting it.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
-6. The Crucible will now be on its way to its new wallet, use the links in the notifications to monitor the transaction.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Lociraj svoj Crucible summary koji je trenutno otvoren  
+3. Lociraj Paper Plane iconu, na desnoj strani Crucible-a, i klikni na  
+4. Ubaci adresu wallet-a na koju želiš da pošalješ svoj Crucible u polje "Recipient Address" \(Mora da bude ERC-721 kompatibilna\) i klikni na "Transfer Crucible"  
+5. Sada će se tražiti od tebe da potvrdiš prenos, proveri da li je adresa wallet-a tačno unešena, pre nego što pošalješ zahtev za prenos.   
+6. Sada će Crucible biti na putu do svog novog wallet-a, koristi ponuđeni link kako bi ispratio transakciju.    
 
-## Locating and Copying your Crucible Address
+## Lociranje i Kopiranje adrese svog Crucible-a
 
-1. Follow steps 1 - 5 from [Checking your Rewards](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-2. Locate your Crucible summary that is currently open  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
-3. Locate the copy icon to the left of the Paper Plane, click this and your Crucible address will now be in your Clipboard. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.48.png)
-
-#### 
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+2. Lociraj svoj Crucible summary koji je trenutno otvoren  
+3. Lociraj copy iconu na levoj strani Paper Plana, klikni na nju i adresa tvog Crucible-a će biti smeštena u Clipboard. 
 

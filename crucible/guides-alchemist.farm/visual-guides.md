@@ -1,15 +1,15 @@
-# Visual Guides 🎞
+# Vizuelni vodiči 🎞
 
-### **Videos 🎬📺**
+## **Videos 🎬📺**
 
 {% hint style="info" %}
-Please note some of the videos are out of date in regards to the current appearance of [alchemist.farm](https://alchemist.farm). Also, these videos are community made videos - but they can still be of assistance.
+Imajte na umu da su na nekim klipovima prikazane zastarele verzije [alchemist.farm](https://alchemist.farm). Takođe, ovi video snimci su napravili članovi naše zajednice - ali idalje mogu biti od pomoci.
 {% endhint %}
 
 {% hint style="warning" %}
-References to Uniswap in the videos may be outdated. Please make sure you are using **Uniswap V2** for providing Liquidity as V3 is not supported.
+Reference ka Uniswap-u u klipovima mogu biti zastarele. Molim vas budite sigurni da koristite **Uniswap V2** za pružanje likvidnosti V3 nije podržan.
 
-If you are unsure how to switch between V3 and V2, please use our links in the [guide](../../acquiring-and-subscribing.md).
+Ako niste sigurni kako da se prebacite izmedju verzija V3 i V2, molim vas da koristite linkove iz [vodiča](../../acquiring-and-subscribing.md).
 {% endhint %}
 
 * [Make a Crucible](https://www.youtube.com/watch?v=Rl9Rf-3Sp-8)
@@ -18,11 +18,9 @@ If you are unsure how to switch between V3 and V2, please use our links in the [
 * [Crucible Transfer using Alchemist.farm and OpenSea.io](https://www.youtube.com/watch?v=i2MCYimelBM)
 * [Impermanent Loss - watch before staking LP](https://www.youtube.com/watch?v=8XJ1MSTEuU0)
 
-### **Images 🖼🎨**
+## **Images 🖼🎨**
 
 ![Processes to enter the Aludel Program](https://i.imgur.com/7sK0Jr2.png)
 
 ![The idea behind the Audel](https://i.imgur.com/sutIhed.png)
-
-
 

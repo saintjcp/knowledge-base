@@ -1,63 +1,63 @@
-# Where to start? – the 7 ITIL guiding principles \(thegostep\(s\);\)\)!
+# Gde početi? – 7 ITIL principa esnafa \(thegostep\(s\);\)\)!
 
-A guiding principle is a recommendation that provides universal and enduring guidance to an organization, which applies in all circumstances, regardless of changes in its goals, strategies, type of work, or management structure.
+Vodeći princip je preporuka koja pruža univerzalne i trajne smernice za organizaciju, a koji se primenjuje u svim okolnostima, bez obzira na promene u njenim ciljevima, strategijama, vrsti posla ili upravljačkoj strukturi.
 
 ![](https://i.imgur.com/iy0U6hG.png)
 
-### 1. Focus on value.
+## 1. Fokus na vrednost.
 
-Everything the organization does should link back, directly or indirectly, to value for itself, its “customers”, and other stakeholders. When focusing on value. The first step is to know who are the customers and key stakeholders that my value is being served. Second, it is important to understand what constitutes value from the consumer’s perspective. It is also critical to understand the customer’s experience with the organization and the product/service through a clear awareness of the customer experience or user experience.
+Sve što organizacija radi, trebalo bi da se, direktno ili indirektno, poveže sa vrednošću za sebe, svoje „kupce“ i druge zainteresovane strane. Kada se fokusiraš na vrednost, prvi korak je da prepoznaš ko su kupci i ključne zainteresovane strane, koje će imati koristi od moje vrednosti. Drugo, važno je da razumeš šta predstavlja vrednost iz perspektive potrošača. Takođe je od ključne važnosti razumevanje iskustva kupca sa organizacijom i proizvodom / uslugom, kroz jasnu svest o iskustvu kupca ili korisničkom iskustvu.
 
-* Know the usage of your service/product/organization.
-* Encourage a focus on value among your team members.
-* Focus on value during every normal operational activity.
-* Include in any improvement initiative the focus on value.
+* Spoznaj upotrebnu vrednost tvoje usluge/proizvoda/organizacije.
+* Podstakni i druge članove zajednice da se fokusiraju na vrednost.
+* Fokusiraj se na vrednost tokom svake normalne operativne aktivnosti.
+* Pokaži svaku inicijativu koja bi unapredila fokus na vrednost.
 
-### 2. Start where you are.
+## 2. Kreni odakle jesi.
 
-When you seek an improvement opportunity, do not start over without considering what is already available to be leveraged. You should not waste your time by wrecking the base of your work – be aware what has been invested \(costs, sweat and time\).
+Kada tražiš priliku za poboljšanje, nemoj da počinješ ispočetka, ne uzimajući u obzir ono što je već dostupno, a može da se iskoristi. Nemoj da gubiš vreme uništavajući osnovu svog posla - budi svestan šta si do sada uložio \(troškovi, znoj i vreme\).
 
-Observing existing services and methods should be in line with measurement if possible, to properly understand their current state and what can be reused from them. Information should always be as accurate as possible to make objective decisions. Always see measurement as a support for the analysis. Be aware – measurement is used to support the analysis of what has been observed rather than to replace it, as over-reliance on data analytics and reporting can unintentionally introduce biases and risks in decision-making.
+Posmatranje postojećih usluga i metoda treba da bude u skladu sa procenom koliko je nešto moguće, kako bi se pravilno razumelo njihovo trenutno stanje i šta od njih može ponovo da se iskoristi. Za donošenje objektivnih odluka, informacije uvek treba da budu što tačnije. Procenu uvek doživljavaj kao podršku analizi. Imaj na umu da se procena koristi kao podrška analizi postojećeg, a ne onog što bi moglo da dođe umesto postojećeg, jer prekomerno oslanjanje na analitiku podataka i izveštavanje može nenamerno da uvede pristrasnosti i rizike u donošenje odluka.
 
-* The Starting Point is either the “customer” or result. Judge your existing methods as objective as possible!
-* Did you find successful existing practices? Use them! Determine if and how these can be expanded and replicated upon to achieve a desired improvement.
-* Evaluate with risk management skills.
-* Face it! Sometimes almost nothing or even nothing can be re-used.
+* Polazna tačka je ili „kupac“ ili rezultat. Ocenite svoje postojeće metode što je moguće objektivnije!
+* Da li si pronašao uspešne prakse koje već postoje? Koristi ih! Utvrdi da li i kako mogu da se prošire i ponove, u cilju željenog poboljšanja.
+* Ocenjuj, uz pomoć "risk management" veština.
+* Suočavaj se i prihvati! Nekada se skoro ništa ili baš ništa od postojećeg ne može iskoristiti.
 
-### 3. Progress iteratively with feedback.
+## 3. Napreduj iterativno, ali sa povratnim informacijama.
 
-Resist the temptation to do everything at once. Slice it! Small steps or milestones \(iterations\) can be executed and completed in a timely manner. Each goal will be easier to achieve, its motivating instead of a frustrating. The focus on each effort will be sharper. Reflect any changes in circumstances and keep the focus on value on mind to re-evaluate and potentially revision every iteration as well as the whole initiative. Honest feedback is your tool to review your actions – analyze your improvement opportunities, risks and issues. Give feedback a value to learn, build and improve.
+Odupri se iskušenju da radiš sve odjednom. Odseci ga! Mali koraci ili prekretnice  \(iteracije \) mogu da se izvrše i izvrše na vreme. Svaki cilj će se lakše postići, što će te motivisati umesto da te frustrira. Fokus na svaki napor biće oštriji. Prihvati sve promene u datim okolnostima i fokusiraj se na vrednost kako biste ponovo procenio i potencijalno revidirao svaku iteraciju, kao i celu inicijativu. Iskrene povratne informacije su tvoj alat za analizu tvojih postupaka - analiziraj svoje mogućnosti da se poboljšaš, rizike i probleme. Daj povratnim informacijama priliku da iz njih učiš, da se izgrađuješ i poboljšavaš.
 
-* Small steps or milestones, while comprehend the whole.
-* Feedback is essential – circumstances change fast.
-* Fast =/= incomplete.
+* Mali koraci i prekretnice, dok sagledavaš "širu sliku".
+* Povratna informacija je od suštinskog značaja, okolnosti se brzo menjaju.
+* Ako je nešto brzo, ne znači i da je nepotpuno \(Fast =/= incomplete\).
 
-### 4. Collaborate and promote visibility.
+## 4. Sarađuj i promoviši transparentnost.
 
-Involving the right people in the correct roles, efforts benefit from more relevance \(judgement for decision making has more value\) and create increased long-term success. Inclusion is generally a better policy than exclusion since enthusiastic contributions, creative solutions, and important perspectives can be obtained from unexpected sources. Requirements for success are information, understanding and trust.
+Uključujući prave ljude i dodeljujući im prave uloge, napori koji ae ulažu dobijaju na važnosti  \(spremnost za donošenje pravih odluka ima veću vrednost \) i stvaraju veći dugoročni uspeh. Inkluzija je generalno bolja politika od isključenja, jer se entuzijastični doprinosi, kreativna rešenja i važne perspektive mogu dobiti iz sasvim neočekivanih izvora. Preduslovi za uspeh su informacija, razumevanje i poverenje.
 
-Identify and manage all stakeholders or groups involved. The most obvious stakeholder group is the “customers”, as in ITIL the organization’s main goal is to facilitate customer outcomes. Other examples of stakeholder collaboration include: developers \(collaboration with other internal teams – like research\) or internal and external suppliers.
+Identifikujte i upravljajte svim zainteresovanim stranama ili uključenim grupama. Najočiglednija grupa zainteresovanih strana su „kupci“, jer je u ITIL-u glavni cilj organizacije da olakša prohteve kupaca. Ostali primeri saradnje zainteresovanih strana uključuju: programere \(saradnja sa drugim internim timovima - poput istraživanja\) ili interne i eksterne dobavljače.
 
-The contribution to improvement of each stakeholder group at each level should be understood, as should the most effective methods to engage with them. Expect different variations about the level and type of collaboration, depending on the relationship between the organization and “consumer”. Address the needs of involved stakeholders! Determining the type, method, and frequency of such messaging! An organized activity @communication is highly recommended.
+Treba shvatiti koliko je važan doprinos unapređenju svake grupe zainteresovanih strana na svakom nivou, kao i najefikasnije metode za interakciju sa njima. Očekujte različite varijante nivoa i vrste saradnje, u zavisnosti od odnosa između organizacije i „potrošača“. Obraćajte se potrebama uključenih zainteresovanih strana! Određivanje vrste, metoda i učestalosti takvih poruka! Preporučuje se organizovana aktivna komunikacija.
 
-Stakeholders need a clear vision of the progress and workload! Never give the impression that nothing happens! Insufficient visibility leads to poor decision making and impacts the ability to improve internal capabilities. To avoid this, you will need critical \(and sincere!\) analysis of the workflow, bottlenecks and excess capacity.
+Svim zainteresovanim stranama je potrebna jasna vizija napretka i radnog opterećenja! Nikada ne ostavljajte utisak da se ništa ne dešava! Nedovoljna vidljivost dovodi do donošenja loših odluka i loše utiče na napredak unutrašnjih sposobnosti. Da biste to izbegli, biće vam potrebna kritična \(i iskrena!\) Analiza toka posla, uskih grla i viška kapaciteta.
 
-* Collaboration =/= consensus
-* Shout out loud – frequent communication is the way to go.
-* “Good” decisions can only be made with visibility.
+* Saradnja ne znači kosenzus.
+* Prekinite tišinu - česta komunikacija je pravi put.
+* “Dobre” odluke mogu biti donesena samo uz dobru vidljivost.
 
-### 5. Think and work holistically.
+## 5. Razmišljaj i delaj sveobuhvatno.
 
-In a complex system, the alteration of one element can impact others. These impacts need to be identified, analyzed and planned for. Nothing stands alone – whether a service, practice, process or department. The result will suffer unless it works in an integrated way to handle its activities as a whole, rather than as separate parts.
+U kompleksnom sistemu, promena jednog elementa može da utiče na druge. Ovi uticaji treba da budu identifikovani, analizirani i planirani. Ništa ne može da stoji samostalno - bilo da se radi o službi, praksi, procesu ili odeljenju. Rezultat će trpeti ukoliko sistem ne funkcioniše integrisano, sistem mora da se bavi svojim aktivnostima holistički \(u celini\), a ne da svaka aktivnost bude sama za sebe.
 
-Taking a holistic approach to ITIL concepts includes establishing an understanding of how all the parts of an organization work together \(four dimensions: organizations and people, information and technology, partners and/or suppliers, value streams and processes\). Demand is captured and translated into outcomes.
+Holistički pristup ITIL konceptima uključuje razumevanja da svi delovi organizacije funkcionišu zajedno \(četiri dimenzije: organizacije i ljudi, informacije i tehnologija, partneri i/ili dobavljači, tokovi vrednosti i procesi\). Potražnja se uhvati i pretoči u ishode.
 
-* Recognize the complexity of every element.
-* Collaboration is key to working holistically.
-* Reach out for patterns in the needs of and interactions between elements.
-* Automation can facilitate working integrated.
+* Prepoznaj kompleksnost svakog elementa.
+* Saradnja je ključ holističkog pristupa.
+* Posegnite za obrascima u potrebama i interakcijama između elemenata.
+* Automatizacija može da olakša integrisani rad.
 
-### 6. Keep it simple and practical.
+## 6. Drži se jednostavnosti i praktičnosti.
 
 Always use the minimum number of steps to accomplish an objective. Result-based thinking should be used to produce practical solutions that deliver valuable outcomes. If a process, action or metric fails to provide value or produce a useful outcome, then eliminate it. Do not focus on every exception, this will automatically lead to over-complication. Instead, rules, workflows or processes should be designed that can be used to handle exceptions generally.
 
@@ -65,14 +65,20 @@ Value creation is your goal – keeping it simple and practical helps to underst
 
 Keep your eyes open of conflicting objectives when designing, managing, or operating practices. For example, managers may want a lot of data \(quantity\), but service teams might be constrained in prioritizing the collection and detail of that data. Find a compromise between competing objectives.
 
-* Ensure value.
-* Simplicity is key.
-* Set only a few rules to cover the major practices.
-* Respect the time and work of people involved.
-* Adoption is easier when it is not complicated.
-* Get the low-hanging fruits.
+Uvek koristite minimalni broj koraka za postizanje cilja. Razmišljanje zasnovano na rezultatima treba da se koristi za stvaranje praktičnih rešenja, koja donose dragocene rezultate. Ako proces, radnja ili metrika ne uspe da pruži vrednost ili proizvede koristan rezultat, onda je eliminiši. Ne fokusiraj se na svaki izuzetak, to će automatski dovesti do prekomplikovanja. Umesto toga, treba dizajnirati pravila, tokove posla ili procese koji mogu da se koriste za upravljanje izuzecima generalno.
 
-### 7. Optimize and automate.
+Stvaranje vrednosti je tvoj cilj - održavanje jednostavnosti i praktičnosti pomaže ti da razumeš svoj doprinos. Uspostavi i komuniciraj posmatrajući holistički na svoje delo. Pojedinačni timovi ili grupe treba da shvate da na njihov rad utiču i drugi, kao što i oni utiču na njih.
+
+Prilikom dizajniranja držite oči otvorene na suprotstavljenim ciljevima, upravljanju ili operativnim praksama. Na primer, menadžeri mogu da zahtevaju puno podataka \(količina\), ali servisnim timovima prikupljanje podataka ne mora i često ne može da bude glavni prioritet. Pronađi kompromis između suprotstavljenih ciljeva.
+
+* Obezbedi vrednost.
+* Jednostavnost je ključ.
+* Postavi samo nekoliko pravila da pokriješ većinu aktivnosti.
+* Poštuj vreme i rad ljudi uključenih u zajednički posao.
+* Usvajanje je lakše kada nije komplikovano.
+* Skupljaj plodove sa nižih grana.
+
+## 7. Optimizuj i automatizuj.
 
 Maximize the value of the work carried out by human and technical resources. Technology can help organizations to scale up and take on frequent and repetitive tasks. However, technology should not always be relied upon without the capability of human intervention, as automation for automation’s sake can increase costs and reduce robustness and resilience.
 
@@ -80,17 +86,23 @@ Optimization intents to make something as effective and useful as it should be. 
 
 The path to optimization follows these high-level steps:
 
-* Declare the context in which the proposed optimization exists.
-* Judge the current state of the proposed optimization.
-* Focus for the desired outcome on simplification and value of an optimization. Set limits!
-* Ensure the optimization is for everyone involved acceptable,
-* Remember iterations – optimizations and everyone involved loves low-hanging fruits.
-* Monitor the impact/effect of optimizations.
+Maksimalno ceni vrednost posla koji obavljaju ljudski i tehnički resursi. Tehnologija može da pomogne organizacijama da se povećaju i preuzmu česte i zadatke koji se ponavljaju. Međutim, na tehnologiju ne bi trebalo uvek da se oslanjamo, naročito bez mogućnosti ljudske intervencije, jer automatizacija radi automatizacije može da poveća troškove i smanji gabarit i elastičnost.
 
-Automation typically refers to the use of technology to perform a step or series of steps correctly. Set automation in the context of standardization and streamlining of manual tasks. E.g. define rules to allow decisions without being reviewed individually. Stop human involvement and evaluation of each part of a process to achieve more efficiency. Automation is an opportunity for reduced costs, reduced human errors, and \(important!\) improving experiences for involved.
+Namera optimizacije je da učini nešto efikasnijim i korisnijim koliko to može da bude. Uvek prvo optimizuj, pa onda razmatraj automatizaciju. Postavi jasna ograničenja za optimizaciju! Na primer, troškovi, vreme ili resursi mogu da budu izgubljeni.
 
-* Optimization &gt;&gt;&gt;&gt; Automation
-* Use automation to achieve better experiences, reduce errors and save costs and time.
-* Define your metrics.
-* Use the other guiding principles when applying this one!
+Put do optimizacije prati ove važne korake:
+
+* Odredi kontekst u kojoj predložena optimizacija postoji.
+* Proceni trenutno stanje predložene optimatizacije.
+* Fokusiraj se na željeni ishod, na pojednostavljenju i vrednosti optimizacije. Postavite ograničenja!
+* Postaraj se da optimizacija bude prihvatljiva za sve koji su uključeni u posao.
+* Zapamti, optimizuj ponavljanja, jer svi vole voće sa niskih grana.
+* Prati odnos uticaja/efekata optimizacije.
+
+Automatizacija se obično odnosi na upotrebu tehnologije za pravilno izvođenje koraka ili niza koraka. Postavite automatizaciju u kontekst standardizacije i pojednostavljenja zadataka koji se rade "peške". Na primer, definisati pravila koja omogućavaju donošenje odluka bez pojedinačnih uvida. Priguši ljudsko učešće i procenu svakog dela procesa kako bi postigao veću efikasnost. Automatizacija je prilika za smanjenje troškove, smanjenje ljudske greške i \(važno!\) unapređenje iskustva za uključene.
+
+* Optimizacija &gt;&gt;&gt;&gt; Automatizacija
+* Koristi automatizaciju da bi unapredio iskustvo, smanjio greške i uštedeo vreme i troškove.
+* Definiši svoj merni sistem.
+* Koristi i druge vodeće principe kada primenjuješ jedan!
 

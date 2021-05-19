@@ -1,13 +1,13 @@
-# Guides: crucible.alchemist.wtf
+# Vodič: crucible.alchemist.wtf
 
 {% hint style="info" %}
-**Guides below are for community site** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
-Please [click here](../guides-alchemist.farm/) if you are using [alchemist.farm](https://alchemist.farm/)
+**Vodič koji sledi je za sajt zajednice** [**crucible.alchemist.wtf**](https://crucible.alchemist.wtf/)  
+Molim te [klikni ovde](../guides-alchemist.farm/) ako koristiš [alchemist.farm](https://alchemist.farm/)
 {% endhint %}
 
-### Contents
+## Sadržaj
 
-1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
-2. [What can I do with my new Crucible?](what-can-i-do-with-my-new-crucible.md)
-3. [Claiming Rewards & Unsubscribing your LP](claiming-rewards-and-unsubscribing-your-lp.md)
+1. [Kako da mintujem Crucible?](how-do-i-mint-a-crucible.md)
+2. [Šta mogu da uradim sa svojim novim Crucible-om?](what-can-i-do-with-my-new-crucible.md)
+3. [Prikupljanje nagrade & Otkazivanje LP tokena](claiming-rewards-and-unsubscribing-your-lp.md)
 

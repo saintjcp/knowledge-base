@@ -1,38 +1,35 @@
-# How do I mint a Crucible?
+# Kako da mintujem Crucible?
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## Zamena i pretplata $MIST ⚗️ za mintovanje Crucible-a
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+Pre svega, potrebno je da poseduješ određenu količinu $MIST-a i izvršiš pretplatu na Uniswap-V2 Liquidity pool.
 
-If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
+Ako to nisi uradio već do sada, pogledaj drugi deo našeg vodiča na [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
 
-## Minting a Crucible using LP tokens
+## Mintovanje Crucible-a koristeći LP tokene
 
 {% hint style="warning" %}
-**Important information:** 
+**Važna informacija:**
 
-Do not use Brave browser as it is not compatible with the process at this time and your transaction will fail, resulting in lost fees. 
+Nemoj da koristiš Brave browser za to, jer za sada nije kompatibilan sa procesima oko mintovanja i neke ili sve tvoje transakcije mogu da propadnu, što će prouzrokovati gubitkom celokupnog iznosa transakcije.
 
-We do not recommend using a hardware wallet at this time as many do not currently support EIP-712 signing. When they fix this, we can implement it.
+Ne preporučujemo upotrebu hardware wallet-a, jer za sada ne podržavaju EIP-712 potpis. Kada to isprave, mi ćemo ih primenjivati.
 
-We do not recommend you do this on a mobile
+Ne preporučujemo da sve ovo radite preko mobilnih uređaja.
 {% endhint %}
 
-### Step by Step guide
+### Vodič korak po korak
 
-1. Firstly head to [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. Connect a wallet using the "Connect Wallet" button. For this example we will use Metamask
+1. Prvo treba da [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+2. Povežite svoj wallet koristeći "Connect Wallet" dugme. Za primer, koristićemo Metamask.
 
-   ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - or - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
+    - or - 
 
-3. You should see something like this:
+3. Trebalo bi sada da vidite nešto kao:
+4. Ubacite količinu LP tokena koju želite da stavite u Crucible. Najčešće se koristi MAX iznos i zato kliknite na "Max". 
+5. Kliknite na "Mint a Crucible", odgovorite na potrebne dozvole od strane MetaMask-a, sačekajte da transakcija bude kompletirana. **Obaveštenje: Ovde će se od tebe tražiti dva zahteva za potpis i jedan zahtev za transakciju, ako se nisu pojavila na ekranu potrebno je da otvoriš MetaMask.**       
+6. Jednom kada potvrdiš svoju transakciju trebalo bi da dobiješ informaciju o transakciji, klikni da  vidiš detalje. Jednom kada je transakcija potvrđena, pređi na sledeći korak.  
+7. Sada je tvoja transakcija potvrđena, možeš da zatvoriš pop-up box iznad i klikni na "Crucibles" tab, gde ćeš videti svoj novi mintovan crucible   
 
-    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
-
-4. Enter the amount of LP you wish you put into the Crucible. You probably wish to click "Max" to enter your full amount  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
-5. Hit "Mint a Crucible", make necessary approvals via MetaMask, wait for the transaction to complete. **Note: There should be 2 signing requests and a transaction request, if they do not pop up you might have to open MetaMask.**  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Once you have Confirmed your transaction you should receive the following prompts, click to view your transaction. Once your transaction has been confirmed, please move to the next step. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Now your transaction is confirmed, you can close the pop-up above and Click on the "Crucibles" tab, this should show your newly minted crucible  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
-
-## **Congratulations, if you've made it this far, you're now an Alchemist**
+## **Čestitamo, ako si ovo uspešno odradio postao si Alchemist**
 

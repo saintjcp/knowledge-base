@@ -1,93 +1,93 @@
-# Teach me about Crucibles
+# Nauči me o Crucible-ima
 
-## What is a Crucible?
+## Šta je to Crucible?
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+To je NFT koji predstavlja LP na koji ste se pretplatili. Čin stvaranja naziva se „mintovanje“.
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+Kada Crucible dobije pretplećene LP-ove na Aludel-u, vlasnik dobija ⚗ i ETH. Ukupne dostupne nagrade su 50% od ⚗ stvorene inflacijom od 1% koja se javlja svakih 14 dana i uvećanjem ETH iznosa tokom početnog Balancer fonda. Crucible-i, odnosno LP-i dobijaju deo ukupnih nagrada na osnovu koliki je deo vašeg LP-a u odnosu na ukupnu količinu LP-a, koji poseduju drugi.
 
-### What is an NFT?
+### Šta je to NFT?
 
-It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+To je skraćenica za Non-Fungible Token. Ako je ta reč prevelika za vas, možete da je posmatrate kao na „nezamenljiv“ ili „jedinstven“.
 
-NFTs are a direct contrast to coins:
+NFTs su direktan kontrast koinima:
 
-* Coins: 1⚗️ is 1⚗️, they have equivalent value and use
-* NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
+* Coins: 1⚗️ is 1⚗️, oni imaju ekvivalentnu vrednost i upotrebu.
+* NFTs: 1 Crucible NFT nije isti kao neki drugi 1 Crucible NFT i malo je verovatno da bilo koja dva Crucibles-a imaju istu vrednost.
 
-This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
+Ovo je veoma važno da se pravilno razume, jer ljudi već imaju [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) svoje Crucibles-e za prodaju na platformama kao što je OpenSea.
 
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
+Da bi bilo jasnije treba napomenuti da: ako mintujete Crucible, i dalje učestvujete ⚗ u Unisvap-V2 fondu likvidnosti. Efikasno potencijalno ostvarujete zaradu na sva 3 načina.
 
-## How do you mint a Crucible?
+## Kako da mintujete Crucible?
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
+Prvobitno je postojala samo jedna metoda, a to je upoznavanje sa službenim CLI alatom. Srećom, članovi zajednice su od tada kreirali web-aplikacije koje proces čine mnogo lakšim. Zbog dodatnog rizika od grešaka tokom korišćenja CLI alata, oni se više ne preporučuju.
 
-Please use the guide below to mint a Crucible:
+Molimo vas da koristite dolepostavljeno uputstvo za mintovanje Crucible-a:
 
 * [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
-## What is a Crucible worth?
+## Koliko vredi Crucible?
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+Vrednost Crucible-a je teško odrediti. NFT priroda Crucible-a potencijalno bi mogla da ima špekulativnu vrednost iznad njegove neposredne vrednosti, ali neki Crucibles-i mogu da se smatraju posebnijim od drugih.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+Ipak špekulacije su jedno, ali ono što znamo je da se Crucible kreira sa određenom promenljivom količinom LP žetona, koji imaju odmah merljivu vrednost.
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+Najmanja procenjena vrednost Crucible-a može da se izračuna na osnovu onoga šta biste dobili nazad ako odjavite njegov LP sadržaj i vratite svoju fiat valutu.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+Pogledajte [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) ovaj odeljak da biste se upoznali sa sadržajem Crucible-a.
 
-## Should you mint a Crucible?
+## Da li treba da mintuješ Crucible?
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+Odluka je na tebi. Pažljivo prouči šta možeš da dobiješ i šta možeš da izgubiš, pa pažljivo odmeri šta je dobar izbor za tebe.
 
-#### The cost of minting
+#### Troškovi mintovanja
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+Kad god trguješ tokenima, zasnovanim na ETH, suočavaćeš se sa GAS troškovima skoro na svakom koraku.
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+GAS troškovi se stalno menjaju i to u mnogome utiče na troškove transakcije, i iz tog razloga za sada ne možemo da ti damo nikakve indikacije.
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+Međutim, ono što možemo da ti kažemo je da bi trebalo da uzmeš u obzir vrednost svojih LP žetona u odnosu na cenu GAS-a, kada podnosiš transakciju za mintovanje Crucible-a.
 
-#### The tools
+#### Alati
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+Naš vodič je zasnovan na izabranom wallet-u, a to je MetaMask. Ako ti je potreban neki savet u vezi sa drugim wallet-ima, idi na naš [discord](http://discord.alchemist.wtf) kanal i članovi zajednice će biti srećni da ti pomognu.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+MetaMask neće prepoznati, niti prikazati tvoje Crucible tokene dok god ne [ubaciš adresu tokena](faq.md#why-cant-i-see-my-mist-in-my-wallet) u aplikaciju.
 {% endhint %}
 
-## What wallets can I use to store my Crucible?
+## Koji wallet mogu da koristim za skladištenje svog Crucible-a?
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+Crucibles-i su ERC-721 tokeni i potpisivanje njihovih transakcija ne podržavaju sve Wallet aplikacije.
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+Molim te da pogledaš naše uputstvo o kompatibilnosti novčanika [wallet compatibility guide.](wallet-compatibility.md)
 
-## How much LP tokens do I need to create a Crucible?
+## Koliko LP tokena mi treba da kreiram Crucible?
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+Članovi zajednice uspešno mintuju Crucible sa samo 0.1 LP tokena.
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+Naravno, i dalje za mintovanje Crucible-a postoje GAS troškovi, pa zato uzmi u obzir ovaj trošak kada pravite Crucible sa minimalnim LP.
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+Upamti, osvajaš nagradu srazmerno tvom delu LP tokena u odnosu na ukupan broj LP tokena, koji se stejkuju na Aludel-u.
 
-## Can I create multiple Crucibles?
+## Mogu li da kreiram višestruki Crucibles?
 
-Yes. Many users in the community have already minted multiple Crucibles.
+DA. Mnogi korisnici u zajednici već mintuju sa višestrukim Crucible-ima.
 
-Whether this is beneficial or not, this is up to you to decide.
+Da li u tome ima koristi za tebe ili ne, to je na tebi da odlučiš.
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## Kako mogu da proverim koliko LP tokena vredi neki drugi Crucible?
 
-You can take the take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+Možeš da pogledaš Crucible token ID, da ga konvertuješ u hexadecimal \(if it is in decimal\) i onda da potražiš njegovu adresu [etherscan.io](https://etherscan.io).
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+To će prikazati njegov sadržaj, kao i istoriju transakcija tog Crucible-a.
 
 If you can't see any tokens displayed for it, then it's most likely empty.
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+## Kako da vidim svoje tokene na MetaMask-u  ?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+Pogledaj [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet) gde se objašnjava da je neophodno da dodaš adresu svog wallet-a, kako bi mogao da vidiš svoje tokene.
 
 \*\*\*\*
 
