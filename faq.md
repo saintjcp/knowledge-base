@@ -42,5 +42,5 @@ Trenutni multisig potpisnici su:
 * [@sal_ash_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
-* [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)\*\*\*\*
+* [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
 
