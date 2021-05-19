@@ -32,7 +32,7 @@ Postoji mnogo stvari koje možeš da uradiš sa svojim novim mintovanim crucible
 
 ## Transfer svog Crucible-a na drugi wallet
 
-1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#provera-ostvarenih-nagrada)
 2. Lociraj svoj Crucible summary koji je trenutno otvoren  
 3. Lociraj Paper Plane iconu, na desnoj strani Crucible-a, i klikni na  
 4. Ubaci adresu wallet-a na koju želiš da pošalješ svoj Crucible u polje "Recipient Address" \(Mora da bude ERC-721 kompatibilna\) i klikni na "Transfer Crucible"  
@@ -41,7 +41,9 @@ Postoji mnogo stvari koje možeš da uradiš sa svojim novim mintovanim crucible
 
 ## Lociranje i Kopiranje adrese svog Crucible-a
 
-1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#provera-ostvarenih-nagrada)
 2. Lociraj svoj Crucible summary koji je trenutno otvoren  
 3. Lociraj copy iconu na levoj strani Paper Plana, klikni na nju i adresa tvog Crucible-a će biti smeštena u Clipboard. 
+
+
 
