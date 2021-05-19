@@ -144,5 +144,5 @@ Stipendija za graditelje je ovde da vam olakša odbacivanje drugih prepreka i fo
 
 ## Onboarding upitnik
 
-Da bi se priključio graditeljskom timu, molimo te da popuniš ovaj upitnik [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Da bi se priključio graditeljskom timu, molimo te da popuniš ovaj upitnik [form](https://alchemistcoin.typeform.com/to/YUBB53J8)!
 
