@@ -1,21 +1,21 @@
-# Official Community Links 🔗
+# Oficijalni Community linkovi 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+Ako se odlučite da koritite eksterne sourceve, proverite prvo da li se oni poklapaju sa našim oficijalnim linkovima. **Ako link ne postoji na ovoj listi, onda on nije naš.**
 {% endhint %}
 
-Please only use our list of official links when taking part in the Alchemist.
+Molimo vas da koritite našu listu zvaničnih linkova, kada uzimate učešće u Alchemist-u.
 
-### Sites
+## Sites
 
 | Site | Description |
 | :--- | :--- |
-| [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
-| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
-| [alchemist.farm](https://alchemist.farm) | Crucible Website |
-| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Documentation |
+| [alchemist.wtf](http://alchemist.wtf) | GitHub Repozitorijum |
+| [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Najnoviji Crucible Websajt |
+| [alchemist.farm](https://alchemist.farm) | Crucible Websajt |
+| [docs.alchemist.wtf](https://docs.alchemist.wtf) | Dokumentacija |
 
-### Community
+## Community
 
 | Site | Description |
 | :--- | :--- |
@@ -25,6 +25,4 @@ Please only use our list of official links when taking part in the Alchemist.
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
 | [instagram.com/thealchemistcoin](https://www.instagram.com/thealchemistcoin/) | Instagram |
 | [alchemistcoin.medium.com](https://alchemistcoin.medium.com/) | Medium |
-
-
 
