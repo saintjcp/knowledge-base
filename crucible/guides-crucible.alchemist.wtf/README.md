@@ -5,7 +5,7 @@
 **अगर आप** [alchemist.farm](https://alchemist.farm/) **का उपयोग कर रहे हैं , तो** [click here](../guides-alchemist.farm/)\([**यहाँ क्लिक**](https://crucible.alchemist.wtf/)\) **कीजिये**
 {% endhint %}
 
-### Contents
+### **लेख-सूची**
 
 1. [How do I mint a Crucible?](how-do-i-mint-a-crucible.md)
 2. मैं एक क्रूसिबल को मिंट कैसे कर सकता हूँ?
