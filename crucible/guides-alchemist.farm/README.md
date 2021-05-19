@@ -12,3 +12,5 @@ Molim te [click here](../guides-crucible.alchemist.wtf/) ako koristiš [crucible
 2. [Kako da pokupim svoje nagrade i otkažem LP pretplatu sa Aludel-a, koristeći TaiChi network](how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
 3. [Visual Guides 🎞](visual-guides.md)
 
+
+
