@@ -18,7 +18,7 @@ Postoji mnogo stvari koje možeš da uradiš sa svojim novim mintovanim crucible
 
 ## Povećanje LP pretplate
 
-1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
+1. Sledi korake 1 - 5 u [Proveri svojih nagrada](what-can-i-do-with-my-new-crucible.md#provera-ostvarenih-nagrada)
 2. Klikni na "Increase LP Subscription" dugme  
 3. Odredi za koliko LP-a želiš da povećaš svoju pretplatu i klikni na "Increase Subscription"   
 4. Potpiši dva zahteva za potpis i potvrdi zahtev za transakciju.   
