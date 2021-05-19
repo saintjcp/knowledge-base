@@ -54,7 +54,7 @@ Međutim, ono što možemo da ti kažemo je da bi trebalo da uzmeš u obzir vred
 Naš vodič je zasnovan na izabranom wallet-u, a to je MetaMask. Ako ti je potreban neki savet u vezi sa drugim wallet-ima, idi na naš [discord](http://discord.alchemist.wtf) kanal i članovi zajednice će biti srećni da ti pomognu.
 
 {% hint style="warning" %}
-MetaMask neće prepoznati, niti prikazati tvoje Crucible tokene dok god ne [ubaciš adresu tokena](faq.md#why-cant-i-see-my-mist-in-my-wallet) u aplikaciju.
+MetaMask neće prepoznati, niti prikazati tvoje Crucible tokene dok god ne [ubaciš adresu tokena](faq.md#zasto-ne-mogu-da-vidim-svoj-mist-u-svom-novcaniku) u aplikaciju.
 {% endhint %}
 
 ## Koji wallet mogu da koristim za skladištenje svog Crucible-a?
