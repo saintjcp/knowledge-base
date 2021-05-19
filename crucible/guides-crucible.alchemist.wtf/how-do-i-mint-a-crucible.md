@@ -1,8 +1,8 @@
-# How do I mint a Crucible?
+# मैं एक क्रूसिबल को कैसे मिंट कर सकता हूँ?
 
-## Swapping and Subscribing $MIST ⚗️ to mint a Crucible
+## **क्रूसिबल को मिंट करने के लिए** $MIST\(**मिस्ट**\) ⚗️ **की अदला-बदली और उसे सब्स्क्राइब करवाना**
 
-First of all, you need to have $MIST and subscribe it to the Uniswap-V2 Liquidity pool.
+**सबसे पहले आपके पास मिस्ट का होना और उसे यूनिस्वैप V2 लिक्विडिटी पूल में सब्स्क्राइब करवाना ज़रूरी है.**
 
 If you have not done this already, please refer to our 2-part guide on [Acquiring & Subscribing](../../acquiring-and-subscribing.md).
 
