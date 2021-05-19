@@ -23,9 +23,9 @@ Nakon što ste pristupili novčaniku u kojem se nalaze vaši Crucible-i, možete
 
 3. Kliknite na ‘Click Here’ link koji vam je poslao Collab.Land i ispratite taj link
 4. Selektujte wallet u kojem su vaši Crucible-i ![](https://i.imgur.com/y4bXisJ.png)
-5. Potvrdite poruku ![](https://i.imgur.com/nF29cFo.png)
+5. Potvrdite poruku  ![](https://i.imgur.com/nF29cFo.png)
 6. Videćete prateću poruku i sada možete da se vratite na Discord ![](https://i.imgur.com/WVIelT9.png)
-7. Collab.Land će vam poslati poruku i ako stvarno podujete Crucible bot će vam dodeliti novu ulogu ![](https://i.imgur.com/1UMmipM.png)
+7. Collab.Land će vam poslati poruku i ako stvarno podujete Crucible bot će vam dodeliti novu ulogu  ![](https://i.imgur.com/1UMmipM.png)
 8. Boja slova vašeg imena sada bi trebalo da bude CRVENA na Discord chat ekranu
 9. Ako kliknete LEVIM klikom na vaše Discord ime, trebalo bi da vidite da je certifikovani alhemičar zaokružen crvenom bojom ![](https://i.imgur.com/KTO91Q1.png)
 10. Čestitamo, postali ste Certified Alchemist! 🧙‍♂️⚗
