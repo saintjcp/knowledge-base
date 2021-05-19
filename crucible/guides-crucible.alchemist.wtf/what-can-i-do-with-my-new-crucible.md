@@ -2,8 +2,8 @@
 
 Postoji mnogo stvari koje možeš da uradiš sa svojim novim mintovanim crucible-om. U nastavku je prikazano nekoliko stvari koje možeš da uradiš koristeći crucible.alchemist.wtf
 
-* [Provera ostvarenih nagrada](what-can-i-do-with-my-new-crucible.md#checking-your-rewards)
-* [Povećanje LP pretplate](what-can-i-do-with-my-new-crucible.md#increasing-your-lp-subscription)
+* [Provera ostvarenih nagrada](what-can-i-do-with-my-new-crucible.md#provera-ostvarenih-nagrada)
+* [Povećanje LP pretplate](what-can-i-do-with-my-new-crucible.md#povecanje-lp-pretplate)
 * [Provera koliko imaš LP-a pretplaćenih u svom Crucible](what-can-i-do-with-my-new-crucible.md#checking-how-much-lp-youve-subscribed-to-your-crucible)
 * [Transfer svog Crucible-a na drugi wallet](what-can-i-do-with-my-new-crucible.md#transferring-your-crucible-to-another-wallet)
 * [Lociranje i Kopiranje adrese svog Crucible-a](what-can-i-do-with-my-new-crucible.md#locating-and-copying-your-crucible-address)
