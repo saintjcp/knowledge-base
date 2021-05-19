@@ -144,5 +144,5 @@ Bursa stimulent pentru constructori este aici pentru a vă ușura să lăsați d
 
 ## Formularul de Integrare
 
-Pentru a lua parte in procesul de integrare, te rog sa completezi acest [formular](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Pentru a lua parte in procesul de integrare, te rog sa completezi acest [formular](https://alchemistcoin.typeform.com/to/YUBB53J8)!
 
