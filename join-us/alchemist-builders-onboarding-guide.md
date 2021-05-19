@@ -144,5 +144,5 @@ L'allocation pour les Bâtisseurs est là pour vous permettre de mettre de côt�
 
 ## Formulaire d'intégration
 
-Pour prendre part au processus d'intégration, veuillez remplir ce [formulaire](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Pour prendre part au processus d'intégration, veuillez remplir ce [formulaire](https://alchemistcoin.typeform.com/to/YUBB53J8)!
 
