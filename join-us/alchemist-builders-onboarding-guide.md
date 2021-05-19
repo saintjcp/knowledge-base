@@ -144,5 +144,5 @@ The builders stipend is here to make it easy for you to put aside other distract
 
 ## Onboarding Form
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+To take part in the onboarding process, please fill out this [form](https://alchemistcoin.typeform.com/to/YUBB53J8)!
 
