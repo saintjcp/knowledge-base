@@ -2,9 +2,9 @@
 
 Ako posedujete Crucible, možete da postanete Certifikovani Alchemist na našem [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
 
-Ako su vaši Crucible-i mintovani na online site-u, molim vas da skoknete na [**Deo 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
+Ako su vaši Crucible-i mintovani na online site-u, molim vas da skoknete na [**Deo 2**](how-to-become-a-certified-alchemist-on-discord.md#deo-2)
 
-Ako su vaši Crucible-i mintovani tako što ste koristili [command line](https://github.com/alchemistcoin/alchemist), onda treba da se logujete na novi MetaMask account koristeći mnemonics-e sa komandne linije vašeg wallet-a. To je prikazano u [**Deo 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)\*\*\*\*
+Ako su vaši Crucible-i mintovani tako što ste koristili [command line](https://github.com/alchemistcoin/alchemist), onda treba da se logujete na novi MetaMask account koristeći mnemonics-e sa komandne linije vašeg wallet-a. To je prikazano u [**Deo 1**](how-to-become-a-certified-alchemist-on-discord.md#deo-1)
 
 ## **Deo 1**
 
