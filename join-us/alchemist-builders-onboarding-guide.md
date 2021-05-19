@@ -74,7 +74,7 @@ GitHub je platforma za kontrolu verzija i saradnju među članovima, zasnovana n
 
 GitHub je digitalni dom naših programera. Kao što je već navedeno u opisu, to je savršena platforma za saradnju na implementaciji i razvoju, posebno za nas kao decentralizovanu autonomnu organizaciju. Predstavlja jezgro naših proizvoda, razdvojeno u različita spremišta.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)
 
 ### Linear App
 
@@ -96,7 +96,7 @@ Figma je alatka za cloud-dizajniranje, koja je slična po funkcionalnosti i kara
 
 Figmu uglavnom koristimo za razmenu kreativnog sadržaja i zajednički rad na njemu. To mogu da budu, na primer, nacrti dizajna relevantni za UI, ali i početni dizajni projekata zajednice bilo koje vrste - primer ovde bi mogli biti dizajni dati na jednoj strani. Naročito kada su u pitanju dizajnerske odluke, jer na njih često utiče lični ukus, prema našem mišljenju, prvo ih treba podeliti pre objavljivanja.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**Links:** [**Alchemist Figma**](https://figma.com)
 
 ### **Coordinape**
 
