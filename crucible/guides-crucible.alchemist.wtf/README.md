@@ -7,7 +7,7 @@ Molim te [klikni ovde](../guides-alchemist.farm/) ako koristiš [alchemist.farm]
 
 ## Sadržaj
 
-1. [Kako da mintujem Crucible?](https://app.gitbook.com/@alchemist-docs/s/mist/v/serbian/crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible)
-2. [Šta mogu da uradim sa svojim novim Crucible-om?](https://app.gitbook.com/@alchemist-docs/s/mist/v/serbian/crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible)
-3. [Prikupljanje nagrade & Otkazivanje LP tokena](https://app.gitbook.com/@alchemist-docs/s/mist/v/serbian/crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp)
+1. [Kako da mintujem Crucible?](how-do-i-mint-a-crucible.md)
+2. [Šta mogu da uradim sa svojim novim Crucible-om?](what-can-i-do-with-my-new-crucible.md)
+3. [Prikupljanje nagrade & Otkazivanje LP tokena](claiming-rewards-and-unsubscribing-your-lp.md)
 
