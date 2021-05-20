@@ -37,7 +37,7 @@ Not yet. If you are interested in helping build one, check out [the lab](https:/
 
 מיסט ⚗️ משמש לתיאום ותגמול של אלכימאים מחויבים. בין אם אתה אמן, מפתח, מנהל קהילה או ספק נזילות, יש תפקיד עבורך.
 
-בואו לפגוש את האלכימאים האחרים בערוץ שלנו - [discord.alchemist.wtf](http://discord.alchemist.wtf)
+בואו לפגוש את האלכימאים האחרים והציעו את כישוריכם בערוץ שלנו - [discord.alchemist.wtf](http://discord.alchemist.wtf)
 
 **האם קיים אתר אינטרנט ?**
 
