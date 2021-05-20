@@ -1,14 +1,16 @@
 # Alchemist Builders Onboarding Guide
 
-## Vision
+## La Vision
 
-So you think you got what it takes to become an alchemist, to walk the path of the Great Work which might lead you to trails never taken, territories unexplored - like the greatest alchemist of our times - a famous psychiatrist Carl Jung said: "One does not become enlightened by imagining figures of light, but by making the darkness conscious"
+Quindi pensi di avere quello che serve per diventare un alchimista, per percorrere il cammino della Grande Opera che potrebbe portarti su sentieri mai battuti, territori inesplorati - come disse il più grande alchimista dei nostri tempi - un famoso psichiatra dal nome Carl Jung: "Non si diventa illuminati immaginando figure di luce, ma facendo luce sull'oscurità" 
 
-Within the alchemist labs the experiments are focused on exploring highly technical concepts in an attempt to discover the ingredients required to properly synthesize the Philosophers Stone - for example designing the Mint a Crucible NFT experience or the mistX Gasless DEX.
+All'interno dei laboratori alchemici gli esperimenti si concentrano sull'esplorazione di concetti altamente tecnici, nel tentativo di scoprire gli ingredienti necessari per approdare alla Pietra Filosofale - per esempio progettando l'esperienza di coniare un Crucible NFT o il mistX Gasless DEX. 
 
-Beside technical experimentation our guild has grown into a decentralised safe haven where the weary scholars can feel comfortable, at ease and safe. Creative projects like building the Alchemist Radio or finding the right art direction for the Crucible NFT are just some of the endless examples of outcomes from the Alchemists playing around with some beakers and funnels in their down time.
+Oltre alla sperimentazione tecnica la nostra gilda è cresciuta in un rifugio sicuro decentralizzato dove gli studiosi stanchi possono sentirsi comodi, a loro agio e al sicuro. Progetti creativi come la costruzione dell'Alchemist Radio o la ricerca della giusta direzione artistica per i Crucible NFT sono solo alcuni degli infiniti esempi risultati dagli Alchimisti che giocano con ampolle e imbuti nel loro tempo libero.
 
-In general, we follow the guiding principles dear to the alchemists since the epoch of the Emerald Tablet in order to effectively create value in every process - all the active participants have internalized this mindset, so that we basically share an equally polarized vision:
+ In generale, seguiamo i principi guida cari agli alchimisti fin dall'epoca della Tavola di Smeraldo per creare efficacemente valore in ogni processo - tutti i partecipanti attivi hanno interiorizzato questa mentalità, così che fondamentalmente condividiamo una visione comune:
+
+
 
 * Focus on value
 * Start where you are
