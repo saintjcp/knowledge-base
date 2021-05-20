@@ -12,139 +12,143 @@ Oltre alla sperimentazione tecnica la nostra gilda è cresciuta in un rifugio si
 
 
 
-* Focus on value
-* Start where you are
-* Progress iteratively with feedback
-* Collaborate and promote visibility
-* Think and work holistically
-* Keep it simple and practical
-* Optimize and automate
+* Concentrati sul valore
+*  Inizia da dove sei
+* Avanza iterativamente con il feedback
+* Collabora e promuovi visibilità
+* Pensa e lavora in modo olistico
+* Semplicità e praticità
+* Ottimizza e automatizza
 
-For more details please read this [article](where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+Se vuoi saperne di più leggi questo [articolo](https://app.gitbook.com/@alchemist-docs/s/mist/~/drafts/-MaA9qCZkSRDGJR_BRqW/v/italian/join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s)  
 
-## Compliance & Ethic
+##  Conformità ed etica
 
-We are open-minded and welcome everyone who wants to join us and actively participate in the discovery of the Elixir of Life. Alchemist guild has no limits or regulations that would limit our growth potential. There is no company, developer or a dark puppet master behind the scenes pulling the strings. Our community grows day by day and leads the project into new - now unimagined spheres. As a decentralized organization, from our point of view it is important to agree on ethics and common rules of conduct. We agreed to follow these rules:
+Conformità ed etica Siamo aperti ad accogliere chiunque voglia unirsi a noi e partecipare attivamente alla scoperta dell'Elisir della Vita. La gilda Alchemist non ha costrizioni o regolamenti che limitino il nostro potenziale di crescita. Non c'è nessuna azienda, sviluppatore o un oscuro burattinaio dietro le quinte che tira i fili. La nostra comunità cresce giorno dopo giorno e sviluppa il progetto in nuove, inimmaginabili sfere. Come organizzazione decentralizzata riteniamo importante concordare un'etica e regole di condotta comuni. Eccole qui:
 
-* Be respectful to each other
-* No racism, sexism, agitation or activity that brings harm to the community
-* No inappropriate language or content
+* Sii rispettoso degli altri
+* Niente razzismo, sessismo, agitazione o attività che danneggiano la comunità
+* Nessun linguaggio o contenuto inappropriato
 
-## Hierachy
+Conformità ed etica Siamo aperti ad accogliere chiunque voglia unirsi a noi e partecipare attivamente alla scoperta dell'Elisir della Vita. La gilda Alchemist non ha costrizioni o regolamenti che limitino il nostro potenziale di crescita. Non c'è nessuna azienda, sviluppatore o un oscuro burattinaio dietro le quinte che tira i fili. La nostra comunità cresce giorno dopo giorno e sviluppa il progetto in nuove, inimmaginabili sfere. Come organizzazione decentralizzata riteniamo importante concordare un'etica e regole di condotta comuni. Eccole qui: Essere rispettosi l'uno dell'altro Niente razzismo, sessismo, agitazione o attività che danneggiano la comunità Nessun linguaggio o contenuto inappropriato. 
 
-Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
+## Gerarchia
 
-Next comes the builder group with members from different fields of expertise. On the one hand, of course, there are developers on board who primarily take care of the concept, architecture and the implementation of one or several projects. The builder group does not only consist of developers but scholars from all walks of life - marketing experts, artists and some extremely committed community members. Everyone who wishes to actively participate is part of the builder group. Regardless of the existing skills a lively, constructive exchange in Discord or in other tools such as Basecamp is appreciated. The builder role will enable users to view sensitive technical concepts and products under development in the alchemist labs.
+La nostra gerarchia è chiaramente definita e relativamente piatta. I nostri Multi-Sig Signers & Senior Alchemist così come il fondatore @thegostep costituiscono la leadership danno supervisione simultanea ad Alchemist . Oltre agli obiettivi, alle pietre miliari e alle scadenze, stabiliscono anche la direzione di base in modo che Alchemist crei il maggior valore possibile per assicurarsi un futuro luminoso. 
 
-In order to keep the teams of builders focused on their transmutations a new role was created - the apprentice. This role gives young alchemists still trying to find their way access to a lot of the experiments going on in the lab, but protects them from territory involving advanced alchemy that might result in accidentally blowing up half the building. The “builder” role will evolve to serve as the next step for the apprentice once they’ve mastered the full technical side of alchemical experimentation.
+Succesivamente abbiamo il gruppo dei costruttori con membri provenienti da diversi campi di competenza. Da un lato, naturalmente, ci sono i developer a bordo che si occupano principalmente del concetto, dell'architettura e della realizzazione di uno o più progetti. Il gruppo dei costruttori non è composto solo da loro, ma da studiosi di tutti i campi - esperti di marketing, artisti e alcuni membri della comunità estremamente dedicati. Tutti coloro che desiderano partecipare attivamente fanno parte del gruppo dei costruttori. Indipendentemente dalle competenze esistenti è apprezzato uno scambio vivace e costruttivo in Discord o in altri strumenti come Basecamp. Il ruolo di costruttore consentirà agli utenti di visualizzare concetti tecnici sensibili e prodotti in fase di sviluppo nei laboratori alchemici. 
 
-The fourth group are the "regular" community members and certified alchemists, who are mostly made up of $Mist and / or crucible holders. The community plays a major role for us - cooperation, revealing widespread sentiments and provides valuable feedback in relation to existing products and services as well as food for thought for further experiments. We appreciate everyone who found their way to us and like to let them feel comfortable as much as possible in our community.
+Per mantenere i team di costruttori concentrati sulle loro trasmutazioni è stato creato un nuovo ruolo: l'apprendista. Questo ruolo dà ai giovani alchimisti che stanno ancora cercando di trovare la loro strada l'accesso a molti degli esperimenti in corso nel laboratorio, ma li protegge dal territorio che coinvolge l'alchimia avanzata che potrebbe portare a far saltare accidentalmente mezzo edificio. Il ruolo di "costruttore" rappresenterà il passo successivo per l'apprendista una volta che questo avrà imparato tutto il lato tecnico della sperimentazione alchemica. 
 
-## Tools
+Il quarto gruppo sono i membri "regolari" della comunità e gli alchimisti certificati, che sono per lo più costituiti da $Mist e/o detentori di Crucible. La comunità gioca un ruolo importante per noi: rappresenta cooperazione, rivelando sentimenti diffusi e fornisce un prezioso feedback in relazione ai prodotti e servizi esistenti, nonché spunti di riflessione per ulteriori esperimenti. Apprezziamo tutti coloro che sono arrivati da noi e ci piace farli sentire a loro agio il più possibile nella nostra comunità.
+
+## Strumenti
 
 ### Discord
 
-#### **General**
+#### **Generalità**
 
-Discord is a VoIP, instant messaging and digital distribution platform designed for creating communities. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. Discord runs on Windows, macOS, Android, iOS, iPadOS, Linux, and in web browsers. As of December 2020, the service has over 140 million monthly active users.
+Discord è una piattaforma VoIP di messaggistica istantanea e di distribuzione digitale progettata per creare comunità. Gli utenti comunicano con chiamate vocali, videochiamate, messaggi di testo, media e file in chat private o come parte di comunità chiamate "server". I server sono un insieme di chat room persistenti e canali di chat vocale. Discord funziona su Windows, macOS, Android, iOS, iPadOS, Linux e nei browser web. A partire da dicembre 2020, il servizio ha accumulato oltre 140 milioni di utenti attivi mensili.
 
-#### **How we use it**
+#### **Come usiamo Discord**
 
-Discord is our preferred communication tool, as it provides a fast, uncomplicated and sustainable solution for conversations - be it in writing or acoustically. We differentiate in 2 categories - Community & Builder. While the community is open to every alchemist, the builder has his own isolated area apart from distraction. The builder area is divided into different projects or topics, but is basically open to every builder and is intended to encourage participation.
+Discord è il nostro strumento di comunicazione preferito, in quanto fornisce una soluzione veloce, non complicata e sostenibile per le conversazioni, sia in forma scritta che acustica. Ci differenziamo in 2 categorie - Comunità e Builder. Mentre la comunità è aperta ad ogni alchimista, il costruttore ha la sua area isolata da distrazioni. L'area del costruttore è divisa in diversi progetti o argomenti, ma è fondamentalmente aperta ad ogni costruttore e ha lo scopo di incoraggiare la partecipazione.
 
-**Links:** [**Alchemist Discord**](http://discord.alchemist.wtf)\*\*\*\*
+**Link:** [**Alchemist Discord**](https://discord.com/invite/qWQQMMKjKe)\*\*\*\*
 
 ### Basecamp
 
-#### **General**
+#### **Generalità**
 
-Basecamp is a project management app that you can access in your browser and on your phone. It gives you the tools you need to set up to-dos, a schedule, create and upload documents and files, message and chat with your colleagues, and check in regularly with your group—all in one place!
+Basecamp è un'applicazione per la gestione dei progetti a cui puoi accedere nel tuo browser e sul tuo telefono. È uno spazio nelq aule puoi avere accesso agli strumenti per impostare i promemoria, un programma, creare e caricare documenti e file, messaggi, chat con i tuoi colleghi e controllare regolarmente il tuo gruppo. 
 
-Whether you are working alone and need to get organized with your work or use it to collaborate on a project, with work or something personal, Basecamp makes it easy. It’s quick to set up and if you are consistent in using it it should make communication with your team a lot easier. Especially teams that are virtual.
+Sia che tu stia lavorando da solo e abbia bisogno di organizzarti con il tuo lavoro, sia che lo usi per collaborare a un progetto, con il lavoro o qualcosa di personale, Basecamp ti facilita la vita. È veloce da configurare e se sei costante nell'usarlo dovrebbe rendere la comunicazione con il tuo team molto più facile. Specialmente se i team sono virtuali.
 
-#### **How we use it**
+#### **Come usiamo Basecamp** 
 
-Basecamp is the place where we collect, develop and map all projects. A more precise allocation of tasks and responsibilities are also carried out, as well as transcripts of calls and meetings. It is primarily used to provide an overview if you and especially the multisig-signers, senior alchemists, and builders involved, want to look at a project as a whole.
+Basecamp è il luogo dove raccogliamo, sviluppiamo e mappiamo tutti i progetti. I compiti e le responsabilità vengono assegnati più nel dettaglio, così come le trascrizioni delle chiamate e delle riunioni. Usiamo Basecamp principalmente per fornire una visione d'insieme, che è utile soprattutto a multisiggettatori, alchimisti senior e i costruttori coinvolti che vogliono guardare un progetto nel suo insieme.
 
 ### Github
 
-#### **General**
+#### **Generalità**
 
-GitHub is a web-based version-control and collaboration platform for software developers. GitHub facilitates social coding by providing a web interface to the Git code repository and management tools for collaboration. GitHub can be thought of as a serious social networking site for software developers. Members can follow each other, rate each other's work, receive updates for specific projects and communicate publicly or privately.
+GitHub è una piattaforma web di collaborazione e controllo delle versioni per gli sviluppatori di software. GitHub facilita il social coding fornendo un'interfaccia web al repository di codice Git e strumenti di gestione per la collaborazione. GitHub può essere pensato come un sito serio di social networking per gli sviluppatori di software. I membri possono seguirsi a vicenda, valutare il lavoro degli altri, ricevere aggiornamenti per progetti specifici e comunicare pubblicamente o privatamente. 
 
-#### **How we use it**
+**Come usiamo GitHub**
 
-GitHub is the digital home of our developers. As already stated in the description, it the perfect platform for collaboration on deployment & developement, especially for us as a decentralized autonomous organization. It represents, separted into different respositories, the core of our products.
+GitHub è la casa digitale dei nostri sviluppatori. Come già detto nella descrizione, è la piattaforma perfetta per la collaborazione su impiego e sviluppo, specialmente per noi come organizzazione autonoma decentralizzata. Rappresenta, suddiviso in diversi repository, il nucleo dei nostri prodotti.
 
-**Links:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
+**Link:** [**Alchemist Github**](https://github.com/alchemistcoin/alchemist)\*\*\*\*
 
-### Linear App
+### App Linear
 
-#### **General**
+#### **Generalità**
 
-Linear helps streamline software projects, sprints, tasks, and bug tracking. It's built for high-performance teams. It's directly connected to Github.
+Linear è un'app che aiuta a semplificare i progetti software, gli sprint, i compiti e il monitoraggio dei bug. È pensata per team ad alte prestazioni ed è direttamente collegata a Github.
 
-#### **How we use it**
+#### **Come usiamo linear**
 
-Linear is primarily used by us to document developer-relevant issues, problems and / or hurdles that arise during the architecture and processing of individual tasks \(previously defined in the Basecamp\) and ultimately to provide solutions or workarounds. Thus, Linear represents the tool, which breaks down individual tasks transparently and in detail for technical topics. Tracking tasks on Github.
+La usiamo principalmente per documentare questioni rilevanti per gli sviluppatori, problemi e/o ostacoli che sorgono durante l'architettura e l'elaborazione dei singoli compiti \(precedentemente definiti in Basecamp\) e, infine, per fornire soluzioni o soluzioni temporanee. Così, Linear rappresenta lo strumento che scompone i singoli compiti in modo trasparente e dettagliato per gli argomenti tecnici. Monitoriamo i compiti su Github.
 
 ### Figma
 
-#### **General**
+#### **Generalità**
 
-Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration. For those skeptical of such claims, we’ll explain how Figma simplifies the design process and is more effective than other programs at helping designers and teams work together efficiently.
+Figma è uno strumento di progettazione basato sul cloud che è simile a Sketch per funzionalità e caratteristiche, ma con grandi differenze che lo rendono migliore per la collaborazione in team. Agli scettici in ascolto vogliamo spiegare come Figma semplifichi il processo di progettazione e sia più efficace di altri programmi per aiutare i designer e i team a lavorare insieme in modo efficiente.
 
-#### **How we use it**
+#### **Come usiamo Figma**
 
-Figma is mainly used by us to share creative content and work on it together. These can be, for example, UI-relevant design drafts, but also initial designs of community projects of any kind - an example here would be designs for one-pagers. Especially when it comes to design decisions, as these are often influenced by personal taste, in our opinion they should first be shared before they are published.
+Lo usiamo per condividere contenuti creativi e lavorarci insieme. Ad esempio, bozze di design rilevanti per l'UI, ma anche design iniziali di progetti comunitari di qualsiasi tipo, come i one-pager. Siamo dell'idea che la condivisione delle idee sia importante specialmente quando si devono predenre decisioni in design, che spesso sono influenzate dal gusto personale.
 
-**Links:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
+**Link:** [**Alchemist Figma**](https://figma.com)\*\*\*\*
 
 ### **Coordinape**
 
-#### **General**
+#### **Generalità**
 
-Coordinape is a platform for DAOs to easily and fairly distribute resources to contributors. Community grants, internal salaries, and special projects can all be incentivized and rewarded by the community itself. Instead of cumbersome voting or black box committees, contributors themselves can quickly and transparently reward the value they see being created.
+Coordinape è una piattaforma pensata per permettere ai DAO di distribuire le risorse in modo facile ed equo ai collaboratori. Le sovvenzioni della comunità, gli stipendi interni e i progetti speciali possono essere incentivati e premiati dalla comunità stessa. Invece di votazioni ingombranti o comitati a scatola nera, i collaboratori stessi possono premiare rapidamente e in modo trasparente il valore creato.
 
-#### **How we use it**
+#### Come usiamo Coordinape
 
 Alchemists that have received payouts from the multisig will be placed in circles and have the ability to reward their fellow contributors.
 
-## Meeting Calender
 
-You can find our shared calendar [here](https://calendar.google.com/calendar/u/2/r?cid=c29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). All dates are included, be they project-related or generally interesting for the entire organization. Meetings are essential to question individual approaches and to discuss them in a team. A transcript will then be written out of sustainability in the base camp. Since the participants are spread all over the world, the times are usually chosen so that as many as possible can take part.
 
-## Routines to Achieve Transparency
+## Calendario Meeting 
 
-In a decentralized team it is sometimes difficult to get an overview of who contributed what and how often. To counteract this, we decided to introduce some routines to promote transparency and visibility even for builders & senior alchemists who are not directly involved in the project.
+Puoi trovare il nostro calendario condiviso [qui](https://accounts.google.com/ServiceLogin/webreauth?passive=1209600&continue=https%3A%2F%2Faccounts.google.com%2Fb%2F0%2FServiceNotAllowed%3Fservice%3Dcl%26continue%3Dhttps%253A%252F%252Fcalendar.google.com%252Fcalendar%252Fr%253Fcid%253Dc29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&followup=https%3A%2F%2Faccounts.google.com%2Fb%2F0%2FServiceNotAllowed%3Fservice%3Dcl%26continue%3Dhttps%253A%252F%252Fcalendar.google.com%252Fcalendar%252Fr%253Fcid%253Dc29sYm9mcWlnZGQzbzdzY3E3cWdyN3R2b2NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&authuser=0&flowName=GlifWebSignIn&flowEntry=ServiceLogin).  Tutte le date sono incluse, sia che siano legate a un progetto, sia che siano interessanti in generale per l'intera organizzazione. Le riunioni sono essenziali per mettere in discussione gli approcci individuali e per discuterne in squadra. Una trascrizione sarà poi scritta sulla sostenibilità nel campo base. Dato che i partecipanti sono sparsi in tutto il mondo, gli orari sono di solito scelti in modo che il maggior numero possibile di persone possa prendervi parte.
+
+## Pratiche per raggiungere la trasparenza
+
+In un team decentralizzato a volte è difficile avere una visione d'insieme di chi ha contribuito a cosa e in quale misura. Per prevenire questo problema, abbiamo deciso di introdurre alcune routine per promuovere la trasparenza e la visibilità anche per i costruttori e gli alchimisti senior che non sono direttamente coinvolti nel progetto.
 
 ### Builder Stand Up
 
-To make the process more transparent for everyone, we're creating a \# builders-standup channel that we want to encourage active project contributors to post updates to regularly. What did you last work on and what progress did you make? What are you currently working on? What blockers / issues did you run into since your last update and do you need help with anything?
+Per rendere il processo più trasparente per tutti, stiamo creando un canale: \# builders-standup. Vogliamo incoraggiare i collaboratori attivi del progetto a postare regolarmente gli aggiornamenti. Su cosa hai lavorato l'ultima volta e quali progressi hai fatto? A cosa stai lavorando attualmente? Quali blocchi / problemi hai incontrato dal tuo ultimo aggiornamento e hai bisogno di aiuto per qualcosa? 
 
-We also want to encourage you to push all your WIP branches to GitHub frequently, and especially on Thursdays, so that Senior Alchemists have a better idea on how to calculate the stipend distribution for the week
+Vogliamo anche incoraggiarvi a spingere tutti i vostri rami WIP su GitHub frequentemente, specialmente il giovedì, così che i Senior Alchemist abbiano un'idea migliore su come calcolare la distribuzione della remunerazione per la settimana
 
-### Participation on Scheduled Meetings
+### Partecipare a meeting stabiliti
 
-As already described under the topic "Meeting Calendar", we appreciate the lively exchange in the team on current topics. The easiest and most uncomplicated way to do this is always the spoken word. Regular participation is therefore essential for several reasons at the same time - finding quick solutions, bundling several opinions on certain topics, finding a majority approach and promoting integrity. If it is not possible that you cannot participate in principle or as an exception, let your team know and then take the transcript \(Basecamp\) to stay up to date.
+Come già descritto nell'argomento "Calendario meeting", apprezziamo lo scambio vivace nel team su argomenti attuali. Il modo più semplice e non complicato per farlo è sempre la parola. La partecipazione regolare è quindi essenziale per diverse ragioni allo stesso tempo: per trovare soluzioni rapide, raggruppare diverse opinioni su determinati argomenti, trovare un approccio di maggioranza e promuovere l'integrità. Se non puoi partecipare, per principio o per un'eccezione, fallo sapere al tuo team e poi prendi il breefing \(Basecamp\) per rimanere aggiornato.
 
-### Communication and Tool Interactions
+### Comunicazione e interazioni con gli strumenti 
 
-We have various tools in use, which we of course also want to use so that we can recognize progress for our set expectations. The work done should be in focus either way. The communication of small or large milestones is often relevant for the entire project, even if this is not always necessarily visible at first glance, and should therefore be in Basecamp \(Project Management\), Linear \(developer\), Figma \(artist\) and / or can be found in the Discord. We would therefore like to encourage you to communicate a lot and actively via one of the channels made available to you.
+Comunicazione e interazioni con gli strumenti Abbiamo vari strumenti in uso, che naturalmente vogliamo utilizzare per poter riconoscere i progressi per le nostre aspettative stabilite. In ogni modo, vogliamo focalizzarci sul lavoro eseguito. La comunicazione di piccole o grandi pietre miliari è spesso rilevante per l'intero progetto, anche se questo non è sempre necessariamente visibile a prima vista, e dovrebbe quindi essere in Basecamp \(Project Management\), Linear \(sviluppatore\), Figma \(artista\) e / o può essere trovato nel Discord. Ti incoraggiamo a comunicare molto e attivamente attraverso uno dei canali a disposizione.
 
 ## Feedback
 
-We would like to support you with your onboarding as a builder and have therefore incorporated fixed feedback discussions in the initial phase. A senior alchemist or a builder colleague will answer your questions after your first overview and assign you a starting point. The aim of the conversation is to clear up ambiguities and to answer questions of all kinds, so that you can be as much a part of your project as possible from the beginning.
+Per sostenerti al meglio nel tuo onboarding come costruttore abbiamo incorporato discussioni fisse di feedback nella fase iniziale. Un alchimista senior o un collega costruttore risponderà alle tue domande dopo la prima panoramica e ti assegnerà un punto di partenza. Lo scopo della conversazione è quello di chiarire le ambiguità e rispondere a domande di ogni tipo, in modo che tu possa essere il più possibile parte del tuo progetto fin dall'inizio. 
 
-Another feedback appointment is then set after about 2 weeks, when we would like to know in particular how well you have settled and how symptom-free you have been able to contribute your strengths to the value of the project. We also try to optimize our onboarding process through feedback that you give us.
+Un altro appuntamento di feedback è poi fissato dopo circa 2 settimane, quando vorremmo sapere in particolare quanto bene ti sei ambientato e quanto senza sintomi sei stato in grado di contribuire con le tue forze al valore del progetto. Cerchiamo inoltre di ottimizzare il nostro processo di onboarding attraverso il feedback che riceviamo da voi.
 
-## The Builders' Stipend
+## La remunerazione dei costruttori
 
-Once the development efforts begin, the Senior Alchemists start allocating a builders’ stipend to distribute among the project’s actively contributing team members. The stipend comes from a finite pool of $MIST and is distributed weekly based on what the Senior Alchemists deem to be the most beneficial allocation for nourishing the project’s growth. It is subject to change with every payout, but the Senior Alchemists will usually give a rough justification for why the funds were distributed in a particular manner.
+Una volta che gli sforzi di sviluppo iniziano, i senior Alchemist iniziano ad assegnare una remunerazione per i costruttori da distribuire tra i membri del team che contribuiscono attivamente al progetto. Lo stipendio proviene da un pool finito di $MIST e viene distribuito settimanalmente in base a ciò che i senior Alchemist ritengono essere l'assegnazione più vantaggiosa per nutrire la crescita del progetto. 
 
-The builders stipend is here to make it easy for you to put aside other distractions and focus on building with the rest of the Alchemists. It is not a salary. It is not meant to be the primary incentive to drive your contributions. If you’re here as a mercenary and just want to get paid then you’re probably in the wrong community.
+È soggetto a cambiamenti ad ogni pagamento, ma i senior Alchemist di solito danno una giustificazione approssimativa del perché i fondi sono stati distribuiti in un modo particolare. Lo stipendio dei costruttori è pensato per renderti facile mettere da parte altre distrazioni e concentrarti sulla costruzione con il resto degli Alchimist. Non è uno stipendio. Non è pensato per essere l'incentivo principale per guidare i tuoi contributi. Se sei qui come mercenario e vuoi solo essere pagato, allora probabilmente sei nella comunità sbagliata.
 
-## Onboarding Form
+## Modulo Onboarding
 
-To take part in the onboarding process, please fill out this [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
+Per prendere parte al processo di ombording \(ovvero, se vuoi essere parte della comunità\), compila questo [form](https://dzd671syme2.typeform.com/to/YUBB53J8)!
 
