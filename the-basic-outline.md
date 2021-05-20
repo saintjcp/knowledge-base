@@ -15,7 +15,7 @@ The first way is to speculate on its value. In other words: you buy some and hop
 ### 2. סטקינג
 
 {% hint style="danger" %}
-Crucible only supports the **Uniswap V2** Liquidity Pool. Adding liquidity to the **Uniswap V3** pool is not compatible with the Rewards Program.
+קרושיבל \(Crucible\) תומך רק בבריכת הנזילות של Uniswap V2. הוספת נזילות לבריכת V3 של Uniswap אינה תואמת לתוכנית התגמולים.
 {% endhint %}
 
 הדרך השנייה היא לעשות סטקינג במאגר נזילות לצד חלק ערכי שווה של אתריום \(ETH\). כשתעשה זאת תקבל אסימונים של בריכת נזילות \(LP\) המייצגים את חלקך במאגר זה. בסופו של דבר אסימוני LP אלה משמשים כדי למשוך את המיסט ⚗️ ****והאתריום המקוריים שלך מהבריכה כשאתה מחליט שאתה מסיים עם זה.
