@@ -1,7 +1,8 @@
 # קישורים רשמיים לקהילה 🔗
 
 {% hint style="warning" %}
-If you decide to use links from external sources, check first that they match our official links. **If the link doesn't exist in this list, it is not ours.**
+  
+ אם החלטת להשתמש בקישורים ממקורות חיצוניים, בדוק תחילה שהם תואמים לקישורים הרשמיים שלנו. **אם הקישור לא קיים ברשימה זו, הוא לא שלנו.**
 {% endhint %}
 
 אנא השתמש רק ברשימת הקישורים הרשמיים שלנו בעת השתתפות ב- Alchemist.
