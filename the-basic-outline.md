@@ -2,7 +2,7 @@
 
 C'è un token chiamato Alchemist. É rappresentato dal simbolo "⚗️". Viene anche chiamato "mist" e "$MIST". Non confonderlo con  [MUST](https://www.coingecko.com/en/coins/must): nonostante l'alambicco raffigurato, non c'è alcun tipo di legame con Alchemist. 
 
-Cosa puoi fare con ⚗️? Non te lo dirò qui. Ci pensano le [ FAQ](faq.md) officiali. 
+Cosa puoi fare con ⚗️? Non te lo diremo qui. Ci pensano le [ FAQ](faq.md) officiali. 
 
 Puoi bloccare ⚗️ inseime ad  altre monete \(staking\) e lo puoi usare anche per [coniare Crucible NFTs](crucible/teach-me-about-crucibles.md) nel programma [Aludel](the-basic-outline.md#3-aludel). 
 
