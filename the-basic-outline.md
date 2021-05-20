@@ -2,7 +2,7 @@
 
 Il y a un token nommé Alchemist. Il a pour symbole de ticker "⚗️". On l'appelle également "mist" et "$MIST".  Ne confondez pas avec [MUST](https://www.coingecko.com/en/coins/must) - malgré l'alambique qu'il affiche actuellement, il n'a pas de lien avec Alchemist.
 
-A quoi sert ⚗️ ? Je ne suis pas là pour y répondre. Référez vous au [FAQ officiel](faq.md).
+A quoi sert ⚗️ ? Nous ne sommes pas là pour y répondre. Référez vous au [FAQ officiel](faq.md).
 
 Tout comme certains autres coins, vous pouvez staker  ⚗️ , et vous pouvez l'utiliser pour [minter des NFT Crucible](crucible/teach-me-about-crucibles.md) dans le programme [Aludel](the-basic-outline.md#3-aludel).
 
@@ -22,7 +22,7 @@ La seconde façon est de le staker dans une pool de liquidité avec une portion 
 
 La pool de liquidité est utilisée pour faciliter les échanges que d'autres personnes souhaitent faire entre ⚗️ et ETH. Chaque échange réalisé génère un peu de frais pour la personne réalisant l'échange. Lorsque vous détenez des tokens LP, vous recevez une portion de ces frais, proportionnelle aux LP que vous détenez par rapport au total de LP. \(Par exemple, si vos LP représentent 1% du total de LP alors vous recevez 1% des frais de la pool\).
 
-Ce mécanisme de profit des frais d'une pool de liquidité n'est en aucunement différent d'un staking de n'importe quel autre coin dans n'importe quelle autre pool de liquidité. En tant que tel, il est sujet aux "pertes impermanentes" \(impermanent loss\) qui en tant que staker vous font perdre de l'argent lorsque vous retirez vos coins stakés après qu'ils aient perdus en valeur relative depuis le moment où vous les avez souscrits. Si vous n'êtes pas familier avec ce concept, je vous recommande d'approfondir vos recherches pour comprendre - il existe plein de ressources qui l'expliqueront bien mieux que moi.
+Ce mécanisme de profit des frais d'une pool de liquidité n'est en aucunement différent d'un staking de n'importe quel autre coin dans n'importe quelle autre pool de liquidité. En tant que tel, il est sujet aux "pertes impermanentes" \(impermanent loss\) qui en tant que staker vous font perdre de l'argent lorsque vous retirez vos coins stakés après qu'ils aient perdus en valeur relative depuis le moment où vous les avez souscrits. Si vous n'êtes pas familier avec ce concept, nous vous recommandons d'approfondir vos recherches pour comprendre - il existe plein de ressources qui l'expliqueront bien mieux que moi.
 
 {% embed url="https://youtu.be/8XJ1MSTEuU0" caption="Regardez cette vidéo sur les \"pertes impermanentes\" avant de continuer" %}
 
