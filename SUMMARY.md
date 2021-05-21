@@ -19,7 +19,7 @@
   * [मैं एक क्रूसिबल को कैसे मिंट कर सकता हूँ?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [मैं अपने नए क्रूसिबल के साथ क्या कर सकता हूँ?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [रिवार्ड्स को क्लेम करना एवं अपने एलपी को अनसब्स्क्राइब करना](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
-* [Guides: alchemist.farm](crucible/guides-alchemist.farm/README.md)
+* [गाइड्स: alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [मेने क्रूसिबल मिंट कर लिया है, अब आगे?](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
   * [अपने रिवार्ड्स को क्लेम एवं अपने एलपी \(लिक्विडिटी पूल\) की ऐलूडेल से ताइची नेटवर्क पर सदस्यता](crucible/guides-alchemist.farm/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network.md)
   * [विजुअल गाइड्स  🎞](crucible/guides-alchemist.farm/visual-guides.md)
