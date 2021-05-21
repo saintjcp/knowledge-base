@@ -1,33 +1,29 @@
-# How to Become a "Certified Alchemist" on Discord 💬
+# डिस्कॉर्ड में प्रमाणित अल्केमिस्ट कैसे बनें  💬
 
-If you own a Crucible, you can become a Certified Alchemist on our [Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗
+अगर आपके पास क्रूसिबल है, आप हमारे डिस्कॉर्ड चैनल\([Discord channel](https://discord.com/invite/qWQQMMKjKe) 🧙‍♂️⚗\) पर प्रमाणित अल्केमिस्ट बन सकते हैं 
 
-If your Crucible was minted using the online site, please jump to [**Part 2**](how-to-become-a-certified-alchemist-on-discord.md#part-2)\*\*\*\*
+अगर आपका क्रूसिबल ऑनलाइन साइट द्वारा मिंट किया गया है , तो कृपया [Part 2](how-to-become-a-certified-alchemist-on-discord.md#part-2) जाइए
 
-If your Crucible was minted using [command line](https://github.com/alchemistcoin/alchemist), you need to log into a new MetaMask account using the mnemonics from your command line wallet. This is shown in [**Part 1**](how-to-become-a-certified-alchemist-on-discord.md#part-1)\*\*\*\*
+अगर आपका क्रूसिबल  [कमांड लाइन](https://github.com/alchemistcoin/alchemist)\([command line](https://github.com/alchemistcoin/alchemist)\), द्वारा मिंट किया गया है , तो आपको आपके कमांड लाइन वॉलेट से स्मृती-विज्ञान/निमोनिक्स का उपयोग करके एक नए मेटामास्क वॉलेट में लॉगिन करना होगा. यह [Part 1](how-to-become-a-certified-alchemist-on-discord.md#part-1)  दिखाया गया है. 
 
-## **Part 1**
+## ‌भाग १
 
-1. In your new MetaMask wallet, import your seed phrase \(mnemonics\) obtained when creating your wallet using command line
+1. अपने नए मेटामास्क वॉलेट में, जो बीज वाक्यांश \(स्मृती-विज्ञान/निमोनिक्स\) आपको कमांड लाइन से वॉलेट बनाते समय मिला था, उसे आयात करें.
 
 ![](https://i.imgur.com/4RxfjZs.png)
 
-## **Part 2**
+## भाग २
 
-After you have gained access to the wallet containing your Crucible, you can become a certified alchemist following these steps:
+अपने क्रूसिबल वाले वॉलेट तक पहुंच प्राप्त करने के बाद, आप इन चरणों का पालन करके एक प्रमाणित अल्केमिस्ट बन सकते हैं:
 
-1. On the [_\#welcome_](http://discord.alchemist.wtf) channel write the command **!join**
-2. You will receive a private message from Collab.Land
-
-   If you do not receive a message please [check your privacy settings](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-) to make sure you can receive messages from others  
-   ![](https://i.imgur.com/2UvO1ZL.png)
-
-3. Press the ‘Click Here’ link sent to you by Collab.Land and follow the link
-4. Select the wallet your Crucible is in ![](https://i.imgur.com/y4bXisJ.png)
-5. Sign a message ![](https://i.imgur.com/nF29cFo.png)
-6. You will see the following message and can now return to Discord ![](https://i.imgur.com/WVIelT9.png)
-7. Collab.Land will send you the following message and if you really own a Crucible the bot will update your role ![](https://i.imgur.com/1UMmipM.png)
-8. The font color of your name should now be the color red on the Discord chat screen
-9. If you left click on your Discord name you should see the role certified alchemist circled in red ![](https://i.imgur.com/KTO91Q1.png)
-10. Congratulations, your now a Certified Alchemist! 🧙‍♂️⚗
+1. [_\#welcome_](http://discord.alchemist.wtf) चैनल पर , !join कमांड लिखिये.
+2. आपको Collab.Land से एक निजी संदेश आएगा. अगर आपको यह संदेश नहीं आता है, तो कृपया अपनी  [गोपनीय सेटिंग](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-)\([check your privacy settings](https://support.discord.com/hc/en-us/articles/217916488-Blocking-Privacy-Settings-)\) को जांच लीजिये और ये सुनिश्चित कीजिये की दूसरे आपको संदेश भेज सकते हैं. ![](https://i.imgur.com/2UvO1ZL.png)
+3. Collab.Land द्वारा भेजी गयी ‘क्लिक हिअर’ लिंक को दबाइये और लिंक को फॉलो कीजिये
+4. उस वॉलेट को चुनिये जिसमें आपका क्रूसिबल है ![](https://i.imgur.com/y4bXisJ.png)
+5. संदेश पर साइन कीजिये ![](https://i.imgur.com/nF29cFo.png)
+6. आपको नीचे दिखाया गया सन्देश मिले गा और अब आप डिस्कॉर्ड पर लौट सकते हैं  ![](https://i.imgur.com/WVIelT9.png)
+7. Collab.Land आपको नीचे दिखाया गया संदेश भेजेगा और अगर आप सच में क्रूसिबल के मालिक हैं तो बॉट आपकी भूमिका को अपडेट कर देगा ![](https://i.imgur.com/1UMmipM.png)
+8. डिस्कॉर्ड चैट स्क्रीन पर अब आपका नाम लाल रंग की फ़ॉन्ट में होगा 
+9. अगर आप अपने डिस्कॉर्ड नाम पर बायाँ-क्लिक करेंगे, तो आपको 'सर्टिफाइड अलकेमिस्ट' की भूमिका लाल रंग के गोल आकार ​में दिखाई देगी. ![](https://i.imgur.com/KTO91Q1.png)
+10. बधाई हो! अब आप एक प्रमाणित अल्केमिस्ट हैं! 🧙‍♂️⚗
 
