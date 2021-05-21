@@ -1,14 +1,14 @@
-# 官方社区链接如下 🔗
+# 官方社区链接 🔗
 
 {% hint style="warning" %}
-如果您决定使用外部链接，请首先检查它们是否与我们的官方链接匹配。**如果该链接不存在于下列链接中，它便不是我们的。**
+如果您选择使用外部链接，请先确认其与我们的官方链接一致。**如果在下列链接中没有找到与其相同的，便代表此链接并不属于我们。**
 {% endhint %}
 
-在加入 Alchemist 时，请认准我们下列官方链接。
+在加入 Alchemist 时，请认准我们的官方链接。
 
 ### 网站
 
-| Site | Description |
+| 网站 | 描述 |
 | :--- | :--- |
 | [alchemist.wtf](http://alchemist.wtf) | GitHub Repository |
 | [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) | Latest Crucible Website |
@@ -17,7 +17,7 @@
 
 ### 社区
 
-| Site | Description |
+| 网站 | 描述 |
 | :--- | :--- |
 | [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |

@@ -1,14 +1,14 @@
 # FAQ
 
-## **$MIST 常见问题解答**
+## **$MIST常见问题与解答**
 
-**我可以在哪交易 ⚗️ \($MIST\) ?**
+**我可以在哪交易 ⚗️\($MIST\)?**
 
-大多数都在Uniswap，你可以用我们的链接找到它
+基本上都在Uniswap，您可以用我们的链接直接跳转过去：
 
 * [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
 
-$MIST在将来一定会出现在其他交易网站上，到那时，可以通过使用 [Coingeko](https://www.coingecko.com/en/coins/alchemist) 或 [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) 来找到这些网站。
+$MIST将来一定会出现在其他交易平台上，到时我们可以通过 [Coingeko](https://www.coingecko.com/en/coins/alchemist) 或 [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) 来查找这些平台。
 
 **总供应量和循环供应量有多少？**
 
