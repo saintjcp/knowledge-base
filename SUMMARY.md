@@ -9,7 +9,7 @@
 
 * [मूल रूपरेखा](the-basic-outline.md)
 * [प्राप्ति और सदस्यता लेना](acquiring-and-subscribing.md)
-* [FAQ](faq.md)
+* [सामान्य प्रश्न](faq.md)
 
 ## Crucible
 
