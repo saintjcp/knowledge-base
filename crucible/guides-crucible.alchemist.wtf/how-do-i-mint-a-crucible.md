@@ -20,8 +20,8 @@
 
 ### 一步一步的指引
 
-1. 首先前往 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
-2. 使用 "Connect Wallet"按钮连接一个钱包。在这个例子中，我们将使用Metamask
+1. 首先前往[crucible.alchemist.wtf](https://crucible.alchemist.wtf/)
+2. 点击"Connect Wallet"按钮连接钱包。在这个例子中，我们将使用Metamask
 
    ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.31.png) - 或 - ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.48.38.png) 
 

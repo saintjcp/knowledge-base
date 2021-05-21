@@ -5,7 +5,7 @@
 下面的指南旨在引导你完成这一过程。
 
 {% hint style="warning" %}
-您需要切换到TaiChi网络，以保证您的交易在取消供应/领取奖励时不被机器人抢先。
+您需要切换到TaiChi（太极）网络，以保证您的交易在退订/领取奖励时不被机器人抢先。
 
 这个步骤是强制性的，此说明包含在下面的步骤中
 {% endhint %}
@@ -22,7 +22,7 @@
    ![](https://i.imgur.com/kszVVbq.png)
 
 9. 现在回到网站，在提示中填写您想要退订的LP数量，并点击 "Claim rewards and unsubscribe LP"。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
-10. 如果您没有正确的完成第7-8步，您会看到一个错误，如果您看到这个错误，请回到第7步再试一次。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
+10. 如果您没有正确的完成第7-8步，您会看到一个错误，请回到第7步再试一次。 ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
 11. 现在您会收到MetaMask的一个弹出框，要求你提供 "Signature Request"，点击 "sign" ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
 12. 接下来您会收到MetaMask的转账通知，如下图所示。**我们建议您通过点击EDIT按钮来检查gas费。 一些用户报告说这默认为最慢的选项，这可能会延迟您完成交易。如果您担心gas费太高，可以使用** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/) **来帮您决定何时可能会出现最低的gas汽油费**
 

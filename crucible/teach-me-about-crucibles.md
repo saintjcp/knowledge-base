@@ -2,9 +2,9 @@
 
 ## 什么是Crucible？
 
-它是一个代表你所提供LP的NFT。创建一个这个的行为被称为 "铸造"。
+它是一个代表你所提供LP的NFT。创建一个这个的行为被称为 "铸造"（Minting）。
 
-当一个 Crucible 有LP提供到了 Aludel ，持有者就会获得⚗️和ETH。总奖励是每14天发生的1%的通货膨胀所创造的⚗️的50%，以及在最初的平衡池中筹集的ETH。提供LP的 Crucible 根据他们提供的LP占总LP的比例以及他们的LP相对于其他LP的提供时长，获得总奖励的相应部分。
+当一个 Crucible 有LP提供到了 Aludel ，持有者就会获得⚗️和ETH。总奖励是每14天发生的1%的通货膨胀所创造的⚗️的50%，以及在最初的平衡\(Balancer\)池中筹集的ETH。提供LP的 Crucible 根据他们提供的LP占总LP的比例以及他们的LP相对于其他LP的提供时长，获得总奖励的相应部分。
 
 ### 什么是NFT？
 
@@ -31,27 +31,27 @@ NFTs与代币形成了直接的对比：
 
 Crucible 的价值很难确定。Crucible 的NFT性质有可能使其具有超越其直接价值的投机价值，有些 Crucible 可能被认为比其他的更特殊。
 
-撇开这些猜测不谈，我们所知道的是，Crucible 是由一些可变数量的LP代币所创造的，这些代币的价值是可以立即衡量的。
+撇开这些投机的因素，我们所知道的是，Crucible 是由一些不同数量的LP代币所创造的，这些代币的价值是可以立即衡量的。
 
-至少，你可以根据取消提供其LP并兑换回法币来评估 Crucible 的价值。
+至少，你可以根据取消提供其LP并兑换回法定货币来评估 Crucible 的价值。
 
 有关检查 Crucible 内容的方法，请参阅下面的[这一节](teach-me-about-crucibles.md#wo-ru-he-cha-kan-bie-ren-de-gan-guo-zhi-duo-shao-lp-dai-bi)。
 
 ## 你应该铸造Crucible吗?
 
-这要由你来决定。确保你了解你能得到什么，你会失去什么，然后衡量这个选择是否适合你。
+这要由你来决定。确保你知道你可能得到什么，可能会失去什么，然后衡量这个选择是否适合你。
 
 #### 铸造的成本
 
 在处理基于Ethereum的代币和合约时，几乎在每个阶段都会面临gas费用。
 
-gas价格持续波动，预计要支付多少gas起着很重要的作用，因此我们无法给出一个明确的指示。
+Gas价格持续波动，这是在预计要支付多少gas当中的重要因素，因此我们无法给出一个明确的指示。
 
 然而，我们可以说，当你准备提交一笔交易来铸造一个 Crucible 时，你应该考虑到你的LP代币的价值和gas的成本。
 
 #### 工具
 
-我们的指南是基于我们选择的钱包，MetaMask。如果你需要关于使用其他钱包的指导建议，请进入我们的discord频道，社区将很乐意回答这个问题。
+我们的指南是基于我们推荐的钱包，MetaMask。如果你需要关于使用其他钱包的指导建议，请进入我们的discord频道，社区将很乐意回答这个问题。
 
 {% hint style="warning" %}
 在您[添加代币地址](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-mist)之前，MetaMask不会识别或显示您的Crucible代币。
@@ -65,7 +65,7 @@ Crucibles是ERC-721代币，并不是所有钱包都支持这些交易签名。
 
 ## 我需要多少LP代币来创造一个Crucible？
 
-社区成员已经成功地用最低0.1LP的代币铸造了一个Crucible。
+社区成员曾成功地用最低0.1的LP代币铸造了一个Crucible。
 
 当然，铸造 Crucible 仍然需要耗费gas，所以在用最小的LP创造 Crucible 时，请考虑到这一成本。
 
@@ -73,15 +73,15 @@ Crucibles是ERC-721代币，并不是所有钱包都支持这些交易签名。
 
 ## 我可以创建多个Crucible吗？
 
-是的。社区中的许多用户已经铸造了多个Crucibles。
+可以的。社区中的许多用户已经铸造了多个Crucibles。
 
 是否多多益善，取决于您的决定。
 
 ## 我如何查看别人的Crucible值多少LP代币？
 
-你可以把 Crucible 的token ID，转换为十六进制（如果是十进制），然后在[etherscan.io](https://etherscan.io)上搜索地址。
+你可以把 Crucible 的token ID，转换为十六进制（如果是十进制的话），然后在[etherscan.io](https://etherscan.io)上搜索地址。
 
-将会显示其内容以及 Crucible 内的历史交易。
+它将会显示其内容以及 Crucible 内的交易历史。
 
 如果您没有看到任何代币，那么它很可能是空的。
 

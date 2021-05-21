@@ -9,6 +9,6 @@
 ### Contents
 
 1. [如何铸造Crucible?](how-do-i-mint-a-crucible.md)
-2. [我可以用我的新 Crucible 做什么?](what-can-i-do-with-my-new-crucible.md)
+2. [我可以用我的Crucible做什么?](what-can-i-do-with-my-new-crucible.md)
 3. [领取奖励&取消提供您的LP](claiming-rewards-and-unsubscribing-your-lp.md)
 

@@ -1,6 +1,6 @@
-# 我可以用我的新 Crucible 做什么？
+# 我可以用我的Crucible做什么？
 
-您可以用您新造的crucible做很多事情，下面是您使用crucible.alchemist.wtf最常遇到的事情
+您可以用您新造的crucible做很多事情，下面是您在crucible.alchemist.wtf最常使用的几个功能
 
 * [查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)
 * [增加您的LP供应](what-can-i-do-with-my-new-crucible.md#zeng-jia-nin-de-lp-gong-ying)
@@ -10,11 +10,11 @@
 
 ### 查看您的奖励
 
-1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 连接你的钱包并访问 "Your Crucibles"标签。
+1. 打开 [crucible.alchemist.wtf](https://crucible.alchemist.wtf/) 连接你的钱包并点击"Your Crucibles"标签。
 2. 进入“Your Crucibles”选项卡后，在您要查看的 Crucibles 上点击向下的箭头展开详细信息： ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
 3. 您的 Crucible 现在应该显示了更多的信息，例如你在奖励中获得了多少MIST或ETH ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.42.png) 
 4. 如果您想看更详细的奖励信息，请点击 "Manage Crucible"按钮  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.04.png) 
-5. 现在您应该可以在 "Rewards"标签下看到一个更复杂的统计列表，包括关于奖励乘数的信息，你的头寸价值以及你提供和取消提供的LP。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
+5. 现在您应该可以在 "Rewards"标签下看到一个更复杂的统计列表，包括关于奖励乘数的信息，现价以及你订阅和已退订的LP。  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.51.22.png) 
 
 ### 增加您的LP供应
 
@@ -31,7 +31,7 @@
 ### 检查您的Crucible中提供了多少LP
 
 1. 进行[查看您的奖励](what-can-i-do-with-my-new-crucible.md#cha-kan-nin-de-jiang-li)中的步骤1-5。
-2. 您应该能够看到您的 "Subscribed Crucible LP"和 "Unsubscribed Crucible LP"
+2. 您应该能够看到您的 "Subscribed Crucible LP"（已订阅的Crucible LP）和 "Unsubscribed Crucible LP"（已退订的Crucible LP）
 
 ### 将你的Crucible转移到另一个钱包里
 

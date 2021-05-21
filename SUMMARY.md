@@ -1,6 +1,6 @@
 # Table of contents
 
-* [什么是 Alchemist?](README.md)
+* [什么是 Alchemist ?](README.md)
 * [官方社区链接如下 🔗](official-community-links.md)
 
 ## Alchemist Token ⚗️ $MIST <a id="alchemist-token"></a>
@@ -17,7 +17,7 @@
 * [带我了解Crucible](crucible/teach-me-about-crucibles.md)
 * [指南:crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [如何铸造Crucible？](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
-  * [我可以用我的新 Crucible 做什么？](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
+  * [我可以用我的Crucible做什么？](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
   * [领取奖励&取消提供您的LP](crucible/guides-crucible.alchemist.wtf/claiming-rewards-and-unsubscribing-your-lp.md)
 * [指南:alchemist.farm](crucible/guides-alchemist.farm/README.md)
   * [我已经铸造了一个Crucible，现在怎么办？](crucible/guides-alchemist.farm/i-minted-a-crucible-now-what.md)
