@@ -1,26 +1,26 @@
-# I have minted a Crucible, now what?
+# मेने क्रूसिबल मिंट कर लिया है, अब आगे?
 
-## You can checking how many LP tokens are in your Crucible
+## अब आप चेक कर सकते हैं की आपके क्रूसिबल में कितने एलपी टोकंस हैं
 
-Visit [alchemist.farm](https://alchemist.farm/) and connect your wallet and click on the Crucibles tab.
+[alchemist.farm](https://alchemist.farm/) पर जाकर अपना वॉलेट कनेक्ट कर लीजिये और ‘क्रूसिबलस’ टैब पर क्लिक कीजिये.
 
-The Total Balance reflects your Crucible LP value.
+टोटल बैलेंस आपके क्रूसिबल एलपी के मूल्य को दर्शाता है.
 
 ![](https://i.imgur.com/WCBz8yM.png)
 
-As you can see it also displays several other useful metrics to track the performance.
+इसके साथ साथ आप यहाँ प्रदर्शन ट्रैक करने के लिए अन्य उपयोगी मीट्रिक भी देख पाएंगे.
 
-## How do I know if I've subscribed the LP within my Crucible?
+## में अपने क्रूसिबल में एलपी को सब्स्क्राइब कर चुका हूं, यह मुझे कैसे पता चलेगा?
 
-It should be done automatically. You can also use [alchemist.farm](https://alchemist.farm/) to check on your Crucible. There will be a padlock icon in the upper right corner of the Crucible display which indicates the amount of LP that has been subscribed to the Aludel reward program: ![](https://i.imgur.com/ed4d3m8.png)
+यह अपने आप ही हो जाएगा. आप अपने क्रूसिबल को चेक करने के लिए [alchemist.farm](https://alchemist.farm/) का उपयोग भी कर सकते हैं. क्रूसिबल डिस्प्ले के ऊपरी दाएं कोने में एक ताले का आइकॉन होगा जो ऐलूडेल प्रोग्राम में सब्स्क्राइब हुई एलपी की मात्रा का संकेत करता है: ![](https://i.imgur.com/ed4d3m8.png)
 
-## How do I check my Aludel rewards?
+## मैं अपने ऐलूडेल रिवार्ड्स कैसे देख सकता हूँ?
 
-You can use [alchemist.farm](https://alchemist.farm/) to display your Crucibles, where it will list your current ⚗️ and ETH rewards.
+‌आप अपने क्रूसिबलस को देखने के लिए [alchemist.farm](https://alchemist.farm/) का उपयोग कर सकते हैं, जहाँ यह आपके मौजूदा ⚗️और ETH रिवार्ड्स को सूचीबद्ध करेगा.
 
-## If I've minted my Crucible and subscribed my LP... is that it?
+## अगर मेने अपने क्रूसिबल को मिंट कर लिया है और अपने एलपी को सब्स्क्राइब कर लिया है, क्या बस यही काफी है?
 
-Yes. Now you sit back and see what happens.
+जी हाँ. अब आप बैठिए और देखिए की आगे क्या होता है.
 
 #### 
 
