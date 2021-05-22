@@ -1,93 +1,93 @@
-# 带我了解Crucible
+# 带我了解 Crucible
 
-## 什么是Crucible？
+## 什么是 Crucible\(坩埚\) ？
 
-它是一个代表你所提供LP的NFT。创建一个这个的行为被称为 "铸造"（Minting）。
+它是一种代表您所提供的 LP 的 NFT 。创建一个 Crucible 的行为被称做"铸造"\(Minting\)。
 
-当一个 Crucible 有LP提供到了 Aludel ，持有者就会获得⚗️和ETH。总奖励是每14天发生的1%的通货膨胀所创造的⚗️的50%，以及在最初的平衡\(Balancer\)池中筹集的ETH。提供LP的 Crucible 根据他们提供的LP占总LP的比例以及他们的LP相对于其他LP的提供时长，获得总奖励的相应部分。
+当一个 Crucible 将 LP 提供到了 Aludel 后，持有者就会获得相应的 ⚗️ 和 ETH 。总奖励为每14天发生的1%的通货膨胀所创造的 ⚗️ 的50%，以及最初在平衡\(Balancer\)池中筹集到的 ETH。提供 LP 的 Crucible 会根据其所提供 LP 在总 LP 中的占比，以及相对于其他 LP 的提供时长，来获得总奖励的相应部分。
 
-### 什么是NFT？
+### 什么是 NFT ？
 
-它代表的是非同质化代币。如果这个词对你来说太深奥，你可以把 "非同质化" 看作是 "独特"的意思。
+它代表 Non-Fungible Token\(非同质化代币\) 。如果这个词对您来说太深奥，您可以把"非同质化"看作是"独特"的意思。
 
-NFTs与代币形成了直接的对比：
+NFTs 与代币的明显区别：
 
-* 代币：1⚗️就是1⚗️，它们的价值和用途是相等的。
-* NFTs: 一个Crucible NFT不同于另一个Crucible NFT，任何两个 Crucible 的价值都不可能相等。
+* 代币:1 ⚗️ 就是1 ⚗️ ，它们的价值和用途是一样的。
+* NFTs: 一个 Crucible NFT 不等同于另一个 Crucible NFT ，基本上没有哪两个 Crucible 的价值是相等的。
 
-这是需要了解的重要一点，因为人们已经开始在 OpenSea 等平台上[列出他们的Crucible](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596)进行销售。
+明白这一点至关重要，因为人们已经开始在 OpenSea 等平台上[列出他们的 Crucible](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) 进行销售了。
 
-为了明确起见，值得一提的是:如果你铸造了一个 Crucible，同时你也在 Uniswap-V2 的流动性池中质押了⚗️。你实际上有效地运用了这三种潜在的盈利方式。
+可以明确的一点是:如果您在铸造了一个 Crucible 的同时，也在 Uniswap-V2 的流动性池中质押了 ⚗️ 。实际上就等于您已有效地运用了这三种潜在的盈利方式。
 
-## 如何铸造一个Crucible？
+## 如何铸造一个 Crucible ？
 
-最初，唯一的方法是掌握官方的CLI工具。幸运的是，社区成员已经创建了网络应用程序，使这个过程变得更加容易。由于使用CLI工具时有出错的额外风险，因此不再建议采取这种方法。
+最初，唯一的方法是使用官方的 CLI 工具。所幸现在我们的社区成员已经创建了网络应用，让这个过程变得更加简单。由于使用 CLI 工具时可能会有额外的出错风险，因此不再建议采取这种方法。
 
-请使用下面的指南来铸造一个Crucible：
+请使用以下指南来铸造一个 Crucible ：
 
-* [在crucible.alchemist.wtf上铸造一个Crucible](guides-crucible.alchemist.wtf/#contents)
+* [在 crucible.alchemist.wtf 上铸造一个 Crucible](guides-crucible.alchemist.wtf/#contents)
 
-## 一个Crucible的价值是多少？
+## Crucible 价值几何？
 
-Crucible 的价值很难确定。Crucible 的NFT性质有可能使其具有超越其直接价值的投机价值，有些 Crucible 可能被认为比其他的更特殊。
+Crucible 的价值难以确定。因为 Crucible 自带 NFT 性质，有些 Crucible 更加特殊，使其投机价值可能会超越其直接价值。
 
-撇开这些投机的因素，我们所知道的是，Crucible 是由一些不同数量的LP代币所创造的，这些代币的价值是可以立即衡量的。
+撇开这些投机的因素不谈，我们能够确定的是，Crucible 是由不同数量的 LP 代币所创造的，至少这些代币的价值是可以被立即衡量的。
 
-至少，你可以根据取消提供其LP并兑换回法定货币来评估 Crucible 的价值。
+您可以根据退订其 LP 并兑换回法定货币的方式，来估算 Crucible 的价值。
 
-有关检查 Crucible 内容的方法，请参阅下面的[这一节](teach-me-about-crucibles.md#wo-ru-he-cha-kan-bie-ren-de-gan-guo-zhi-duo-shao-lp-dai-bi)。
+关于检查 Crucible 内容的方法，请参阅[这一节](teach-me-about-crucibles.md#wo-ru-he-cha-kan-bie-ren-de-gan-guo-zhi-duo-shao-lp-dai-bi)。
 
-## 你应该铸造Crucible吗?
+## 您应该铸造 Crucible 吗?
 
-这要由你来决定。确保你知道你可能得到什么，可能会失去什么，然后衡量这个选择是否适合你。
+这要由您自己决定。确保您知道这样做的得失，然后衡量一下这个选择对您来说合适与否。
 
 #### 铸造的成本
 
-在处理基于Ethereum的代币和合约时，几乎在每个阶段都会面临gas费用。
+在处理基于 Ethereum 的代币和合约时，几乎在每个阶段都会面临 gas 费用的问题。
 
-Gas价格持续波动，这是在预计要支付多少gas当中的重要因素，因此我们无法给出一个明确的指示。
+由于 gas 价格持续波动，而这也是影响预期要支付多少 gas 的主要原因，因此我们也无法给出一个明确的指示。
 
-然而，我们可以说，当你准备提交一笔交易来铸造一个 Crucible 时，你应该考虑到你的LP代币的价值和gas的成本。
+不过我们可以说的是，当您准备提交一笔交易来铸造一个 Crucible 时，您应该考虑到您 LP 代币的价值相对于 gas 的成本。
 
 #### 工具
 
-我们的指南是基于我们推荐的钱包，MetaMask。如果你需要关于使用其他钱包的指导建议，请进入我们的discord频道，社区将很乐意回答这个问题。
+我们的指南是针对于我们推荐的钱包 MetaMask 的。如果您需要基于其他钱包的使用说明，请进入我们的 Discord 频道，社区将很乐意回答这个问题。
 
 {% hint style="warning" %}
-在您[添加代币地址](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-mist)之前，MetaMask不会识别或显示您的Crucible代币。
+您需先[添加代币地址](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-mist)，否则 MetaMask 不会自动识别或显示您的 Crucible 代币。
 {% endhint %}
 
-## 我可以用什么钱包来存储我的Crucible？
+## 我可以用什么钱包来存储我的 Crucible ？
 
-Crucibles是ERC-721代币，并不是所有钱包都支持这些交易签名。
+由于 Crucibles 是 ERC-721 代币，而并不是所有钱包都支持这种交易签名的。
 
-请参考我们的[钱包兼容性指南](wallet-compatibility.md)。
+因此请参考我们的[钱包兼容性指南](wallet-compatibility.md)。
 
-## 我需要多少LP代币来创造一个Crucible？
+## 创造一个 Crucible 需要多少 LP 代币？
 
-社区成员曾成功地用最低0.1的LP代币铸造了一个Crucible。
+社区成员曾成功地用最低0.1个 LP 代币铸造了一个 Crucible 。
 
-当然，铸造 Crucible 仍然需要耗费gas，所以在用最小的LP创造 Crucible 时，请考虑到这一成本。
+诚然，铸造 Crucible 仍需要消耗 gas ，所以您在用较少的 LP 创造 Crucible 时，请考虑到这一成本。
 
-请记住，你赚取的奖励与你在 Aludel 的总质押中的LP份额成正比。
+请记住，您所赚取的奖励与您在 Aludel 的总质押中的 LP 份额成正比。
 
-## 我可以创建多个Crucible吗？
+## 我可以铸造多个 Crucible 吗？
 
-可以的。社区中的许多用户已经铸造了多个Crucibles。
+当然可以。社区中的许多用户都已铸造了多个 Crucibles 。
 
-是否多多益善，取决于您的决定。
+至于是否多多益善，这取决于您的决定。
 
-## 我如何查看别人的Crucible值多少LP代币？
+## 我如何查看别人的 Crucible 值多少 LP 代币？
 
-你可以把 Crucible 的token ID，转换为十六进制（如果是十进制的话），然后在[etherscan.io](https://etherscan.io)上搜索地址。
+您可以把 Crucible 的 token ID 转换为十六进制（如果是十进制的话），然后在 [etherscan.io](https://etherscan.io) 上搜索这个地址。
 
-它将会显示其内容以及 Crucible 内的交易历史。
+之后其内容以及 Crucible 内的交易历史就会显示出来。
 
-如果您没有看到任何代币，那么它很可能是空的。
+如果您在其中没有看到任何代币，那么它很可能是空的。
 
-## 如何在MetaMask![](../.gitbook/assets/metamask-fox.svg)上查看我的代币？
+## 如何在 MetaMask![](../.gitbook/assets/metamask-fox.svg) 上查看我的代币？
 
-请参考我们的[常见问题](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-lp)您需要添加到您的钱包才能看到代币的地址。
+请参考我们的[常见问题](faq.md#wei-shen-me-wo-de-qian-bao-li-kan-bu-dao-wo-de-lp)您可能需要将代币地址手动添加到您的钱包，才能看到代币。
 
 \*\*\*\*
 

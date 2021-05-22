@@ -1,6 +1,6 @@
 # 什么是 Alchemist ?
 
-Alchemist\(炼金术士\) 起源于[@thegostep](https://twitter.com/thegostep)发的一条[推文](https://twitter.com/thegostep/status/1358159173440184322?s=20)。
+Alchemist\(炼金术士\) 起源于 [@thegostep](https://twitter.com/thegostep) 发的一条[推文](https://twitter.com/thegostep/status/1358159173440184322?s=20)。
 
 没有“开发团队”，没有公司，只有一个 Alchemist 社区来决定具体要做什么。
 
