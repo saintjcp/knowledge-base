@@ -38,57 +38,57 @@
 **क्रूसिबल की सामग्री की जांच करने के लिए नीचे दिए गए इस भाग\(** [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) **\) को देखिये**  
 
 
-## Should you mint a Crucible?
+## **क्या आपको क्रूसिबल मिंट करना चाहिये?** 
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+**यह आपकी मर्ज़ी है. यह सुनिश्चित कर लीजिये की आप इससे क्या हासिल कर सकते हैं, और क्या खो सकते हैं, और फिर वज़न कर लीजिये कि क्या यह आपके लिए एक अच्छा विकल्प है.**
 
-#### The cost of minting
+#### **मिंटिंग की कीमत** 
 
-When dealing with Ethereum based tokens and contracts you will face gas fees at almost every stage. 
+**जब आप इथेरियम आधारित टोकंस और अनुबंधों के साथ काम करते हैं , आपको लगभग हर चरण पर गैस फीस देनी होगी**
 
-Gas prices continuously fluctuate and this plays a major role on how much gas you are expected to pay, for this reason we are unable to give an indication.
+**गैस की कीमतों में लगातार उतार-चढ़ाव होता है और यह इस बात पर एक प्रमुख भूमिका निभाता है कि आपको कितनी गैस फीस देनी होगी, इसलिए हम इसका संकेत नहीं कर सकते**
 
-We can say however, that you should take into account the value of your LP tokens against the cost of gas when you are about to submit a transaction to mint a crucible.
+**हालांकि हम यह कह सकते है की क्रूसिबल मिंट करने वाली ट्रांजेक्शन को जमा  करने से पहले, आपको एलपी टोकंस के मूल्य को गैस के मूल्य के मुकाबले ध्यान में रखना चाहिए**.
 
-#### The tools
+#### **‌उपकरण**
 
-Our guides have been based on our wallet of choice, MetaMask![](../.gitbook/assets/metamask-fox.svg). If you need advise regarding the use of other wallets, pop into our [discord](http://discord.alchemist.wtf) channel and the community will be happy to answer.
+**हमारे गाइड हमारी पसंद के वॉलेट पर आधारित है, मेटामास्क**![](../.gitbook/assets/metamask-fox.svg). **अगर आपको दूसरे वॉलेट का उपयोग करने में सहायता चाहिये, तो हमारे डिस्कॉर्ड चैनल पर जाईये और हमारी कम्युनिटी को आपकी प्रश्नों का उत्तर देने में खुशी होगी**.
 
 {% hint style="warning" %}
-MetaMask will not recognise or display your Crucible tokens until you [add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet) to the application. 
+**मेटामास्क तब तक आपके क्रूसिबल टोकंस नहीं दिखाएगी जब तक आप एप्लीकेशन में टोकन\(**[add the token addresses](faq.md#why-cant-i-see-my-mist-in-my-wallet)**\) का एड्रेस नहीं डाल देते** 
 {% endhint %}
 
-## What wallets can I use to store my Crucible?
+## **में अपना क्रूसिबल स्टोर करने के लिए किन वॉलेटों का उपयोग कर सकता हूँ?**
 
-Crucibles are ERC-721 tokens and signing these transactions are not supported by all Wallet Applications. 
+**क्रूसिबलस ERC-721 टोकंस हैं और इन ट्रांसक्शन्स पर हस्ताक्षर करना सभी वॉलेट ऍप्लिकेशन्स द्वारा समर्थित नहीं है**
 
-Please refer to our [wallet compatibility guide.](wallet-compatibility.md)
+**कृपया हमारी वॉलेट संगतता गाइड\(**[wallet compatibility guide](wallet-compatibility.md)**\) को देखिये.** 
 
-## How much LP tokens do I need to create a Crucible?
+## **मुझे एक क्रूसिबल बनाने के लिए कितने एलपी टोकंस की ज़रुरत होगी ?**
 
-Community members have successfully minted a Crucible with as low as 0.1 LP tokens.
+**कुछ कम्युनिटी के सदस्य क्रूसिबल को सिर्फ 0.1 एलपी टोकंस के साथ मिंट करने में भी सफल रहे हैं**.
 
-Of course, a Crucible still costs gas to mint, so please take into consideration this cost when creating one with minimal LP.
+**बेशक, एक क्रूसिबल को मिंट करने के लिए गैस लगती है, तो कृपया न्यूनतम एलपी के साथ क्रूसिबल बनाने के वक़्त, इसको ध्यान में रखें**.
 
-Remember, you earn rewards proportional to your LP share of the total LP staked in the Aludel.
+**यह याद रखें की, आपको अपने रिवार्ड्स ऐलूडेल में दाँव पे लगाए गए कुल एलपी के अपने एलपी के हिस्से के अनुपात में मिलता है**.
 
-## Can I create multiple Crucibles?
+## **‌क्या में एक से ज़्यादा क्रूसिबलस बना सकता हूँ?**
 
-Yes. Many users in the community have already minted multiple Crucibles.
+**जी हाँ. कम्युनिटी में कईं सदस्यों ने एक से ज़्यादा क्रूसिबलस को मिंट किया है**.
 
-Whether this is beneficial or not, this is up to you to decide.
+**यह फायदेमंद है या नहीं, यह आपको तय करना है**.
 
-## How can I check how many LP tokens someone else's Crucible is worth?
+## **किसी और का क्रूसिबल कितने एलपी टोकंस के लायक है, यह मैं कैसे जांच कर सकता हूँ?**
 
-You can take the Crucible's token ID, convert it into hexadecimal \(if it is in decimal\) and then search for the address on [etherscan.io](https://etherscan.io).
+**आप उस क्रूसिबल की टोकन आईडी लें सकते हैं, इसे हेक्साडेसिमल में बदलिये \(यदि यह दशमलव में है\) और फिर**  [etherscan.io](https://etherscan.io) **पर उसके एड्रेस को ढूंढिये**
 
-This will display what the contents are and the history of transactions that have occurred within the Crucible.
+**यह उस क्रूसिबल की सामग्री और उसके भीतर हुए ट्रांज़ैक्शन के इतिहास को प्रदर्शित करेगा.**
 
-If you can't see any tokens displayed for it, then it's most likely empty.
+**अगर आप उससे जुड़े कोई टोकंस को नहीं देख पा रहे, इसका मतलब यह हो सकता है की वह खाली हो**.
 
-## How do I view my tokens on MetaMask ![](../.gitbook/assets/metamask-fox.svg) ?
+## **मैं मेटामास्क पर अपने टोकंस कैसे देख सकता हूँ**![](../.gitbook/assets/metamask-fox.svg)?
 
-Refer to [our FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)on the addresses that you need to add to your wallet to be able to see the token.
+**अपने टोकंस देखने के लिए आपको कुछ एड्रेस अपने वॉलेट में जोड़ने होंगे. इस विषय पर हमारे अक्सर पूछे जाने वाले प्रश्न\(**[our FAQ](faq.md#why-cant-i-see-my-mist-in-my-wallet)**\) देखिये.**
 
 \*\*\*\*
 
