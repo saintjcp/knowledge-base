@@ -1,6 +1,6 @@
 # Acquisition & Souscription
 
-### 1. Acquérir du $MIST ⚗️
+### 1. Où puis-je acheter du $MIST ⚗️
 
 Avez-vous déjà trader des coins sur Uniswap ? Si c'est le cas vous savez déjà comment faire.
 
