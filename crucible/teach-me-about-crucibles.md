@@ -23,7 +23,7 @@ Pentru a fi cat mai clari, mentionam ca daca ai creat un Crucible NFT inca ai pr
 
 La inceput, singura modalitate de a creea un Crucible era folosind ca instrument oficial CLI. Membrii comunității Alchemist au creat treptat aplicații web care facilitează procesul. Datorită riscului de a greși folosind CLI, recomandam să nu creati astfel Crucible NFT-ul. ‌ Recomandam să folosiți ghidul de mai jos pentru a crea un Crucible:
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [Cum pot creea un Crucible NFT in crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
 
 
 

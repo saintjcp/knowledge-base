@@ -7,7 +7,7 @@
 
 ---
 
-* [Cadrul General - Baza](the-basic-outline.md)
+* [Cadrul General de Baza](the-basic-outline.md)
 * [Obtine ⚗️ & Ofera Lichiditate](acquiring-and-subscribing.md)
 * [Intrebari Frecvente](faq.md)
 
