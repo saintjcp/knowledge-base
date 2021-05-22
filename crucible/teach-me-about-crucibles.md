@@ -49,12 +49,12 @@ Pretul Gaz-ului in Ethereum este intr-o continua fluctuatie iar asta joaca un ro
 
 Cu toate acestea, putem spune că ar trebui să luați în considerare valoarea tekenilor LP alocati în raport cu costul gazului atunci când sunteți pe cale să trimiteți o tranzacție pentru a crea un Crucible.
 
-#### The tools
+#### Instrumentele Necesare
 
 Am creat aceste ghiduri alegand walletul MetaMask![](../.gitbook/assets/metamask-fox.svg). Dacă doriti sa folositi alt wallet si aveti neclaritati, intrați în canalul nostru discord unde membrii comunitatii Alchemist o sa va ofere cu placere indrumarile necesare.
 
 {% hint style="warning" %}
-MetaMask nu va recunoaste si nu va poate afisa NFT-urile Crucible pana cand nu [adaugati adresa smarcontractului ]()in aplicatie. 
+MetaMask nu va recunoaste si nu va poate afisa NFT-urile Crucible pana cand nu [adaugati adresa smarcontractului ](https://app.gitbook.com/@alchemist-docs/s/mist/v/romanian/crucible/faq-new#de-ce-nu-pot-sa-vad-nft-ul-crucible-in-walletul-meu)in aplicatie. 
 {% endhint %}
 
 ## Ce wallet pot folosi pentru a stoca NFT-ul meu Crucible?
