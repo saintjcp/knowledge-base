@@ -16,7 +16,7 @@
 * [Гайд: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf-ru/README.md)
   * [Как сминтить Crucible?](crucible/guides-crucible.alchemist.wtf-ru/how-do-i-mint-a-crucible-ru.md)
   * [Что я могу сделать со своим Crucible?](crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru.md)
-  * [Получение награды и отмена подписки ЛП токенов](crucible/guides-crucible.alchemist.wtf-ru/claiming-rewards-and-unsubscribing-your-lp-ru.md)
+  * [Получение награды и отмена подписки токенов ПЛ](crucible/guides-crucible.alchemist.wtf-ru/claiming-rewards-and-unsubscribing-your-lp-ru.md)
 * [Гайд: alchemist.farm](crucible/guides-alchemist.farm-ru/README.md)
   * [У меня есть Crucible, что дальше?](crucible/guides-alchemist.farm-ru/i-minted-a-crucible-now-what-ru.md)
   * [Как получить награду и отменить подписку с помощью сети TaiChi](crucible/guides-alchemist.farm-ru/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network-ru.md)
