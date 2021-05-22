@@ -6,7 +6,7 @@ Uglavnom se sve događa na Uniswap-u, a njega možeš da pronađeš na linku
 
 * [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
 
-Vremenom $MIST će se pojaviti i na drugim sajtovima za trgovinu, a kada se to dogodi oni će moći da se pronađu preko [Coingeko](https://www.coingecko.com/en/coins/alchemist) ili [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
+Vremenom $MIST će se pojaviti i na drugim sajtovima za trgovinu, a kada se to dogodi oni će moći da se pronađu preko [Coingecko](https://www.coingecko.com/en/coins/alchemist) ili [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/).
 
 ## **Šta je ukupna \(total\), a šta količina tokena u opticaju \(circulating\)?**
 
@@ -42,5 +42,5 @@ Trenutni multisig potpisnici su:
 * [@sal_ash_](https://twitter.com/sal_ash_) : [salash.eth](https://etherscan.io/address/salash.eth)
 * [@brandoniles](https://twitter.com/brandoniles) : [brandoniles.eth](https://etherscan.io/address/brandoniles.eth)
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
-* [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
+* [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)\*\*\*\*
 
