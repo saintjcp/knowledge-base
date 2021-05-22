@@ -19,7 +19,7 @@ Please only use our list of official links when taking part in the Alchemist.
 
 | Site | Description |
 | :--- | :--- |
-| [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | Twitter |
+| [twitter.com/\_alchemistcoin](https://twitter.com/_alchemistcoin) | ट्विटर |
 | [discord.alchemist.wtf](http://discord.alchemist.wtf) | Discord |
 | [t.me/alchemistcoin](https://t.me/alchemistcoin) | Telegram \(App Link\) |
 | [web.telegram.org/\#/im?p=@alchemistcoin](https://web.telegram.org/#/im?p=@alchemistcoin) | Telegram \(Web Version\) |
