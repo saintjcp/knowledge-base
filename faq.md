@@ -4,7 +4,7 @@
 
 Cea mai mare volum de tranzactii este in Uniswap, la adresa: [uniswap.alchemist.wtf](https://app.uniswap.org/#/swap?inputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
 
-In viitor $MIST o să poata fi tranzactionat si pe alte site-uri de tranzacționare, iar folosind [Coingeko](https://www.coingecko.com/en/coins/alchemist) si [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) o sa puteti afla exact unde.
+In viitor $MIST o să poata fi tranzactionat si pe alte site-uri de tranzacționare, iar folosind [Coingecko](https://www.coingecko.com/en/coins/alchemist) si [CoinMarketCap](https://coinmarketcap.com/currencies/alchemist/) o sa puteti afla exact unde.
 
 **Care este cantitatea totala sau in circulatie a tokenului $MIST?**
 
