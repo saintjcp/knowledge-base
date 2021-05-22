@@ -1,7 +1,5 @@
 # अलकेमिस्ट क्या है?
 
-[alchemist.wtf](https://github.com/alchemistcoin/alchemist)
-
 अलकेमिस्ट [@thegostep](https://twitter.com/thegostep) की एक [ट्वीट](https://twitter.com/thegostep/status/1358159173440184322?s=20) से शुरू हुआ था.
 
 इसकी ना कोई डेवलपमेंट टीम है ना ही कोई कंपनी है. यह सिर्फ अलकेमिस्टों से बनी हुयी एक कम्यूनिटी है जो ये पता लगा रहे हैं कि खुले स्त्रोत \(open source\) में क्या बनाया जाए .
