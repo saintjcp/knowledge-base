@@ -28,7 +28,7 @@ We are open-minded and welcome everyone who wants to join us and actively partic
 * No racism, sexism, agitation or activity that brings harm to the community
 * No inappropriate language or content
 
-## Hierachy
+## Hierarchy
 
 Our hierarchy is clearly defined and relatively flat. Our Multi-Sig Signers & Senior Alchemists as well as @thegostep as the founder represent the leadership & simultaneous supervision for Alchemist itself. In addition to goals, milestones and timelines, they also set the basic direction so that Alchemist creates the greatest possible value to ensure a bright future to itself.
 

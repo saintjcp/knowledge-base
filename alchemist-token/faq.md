@@ -44,5 +44,3 @@ Current multisig signers are:
 * [@Fiskantes](https://twitter.com/Fiskantes) : [fiskantes.eth](https://etherscan.io/address/fiskantes.eth)
 * [@0xMaki](https://twitter.com/0xMaki) : [0xmaki.eth](https://etherscan.io/address/0xmaki.eth)
 
-
-

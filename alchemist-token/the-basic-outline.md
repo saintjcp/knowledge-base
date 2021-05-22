@@ -2,9 +2,9 @@
 
 There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
 
-What is ⚗️ good for? We are not here to answer that. Please refer to the [official FAQ](faq.md)
+What is ⚗️ good for? We are not here to answer that. Please refer to the [official FAQ]()
 
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](../crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
 
 ## How could I increase my wealth using ⚗️?
 
@@ -30,5 +30,5 @@ This profiting from liquidity pool fees mechanism is no different to staking any
 
 This is where the alchemy happens. "Aludel" is the name of the reward program where you can gain ⚗️ and ETH for subscribing to it with the LP tokens in to a Crucible.
 
-You can learn more about crucibles on the "[Teach me about Crucibles](crucible/teach-me-about-crucibles.md)" page.
+You can learn more about crucibles on the "[Teach me about Crucibles](../crucible/teach-me-about-crucibles.md)" page.
 
