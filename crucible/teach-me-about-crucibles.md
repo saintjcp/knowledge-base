@@ -1,41 +1,42 @@
-# Teach me about Crucibles
+# मुझे क्रूसिबलस के बारे में सिखाएं
 
-## What is a Crucible?
+## **क्रूसिबल क्या है?**
 
-It's an NFT representing the LP you have subscribed. The act of creating one is referred to as "minting".
+**क्रूसिबल एक एनएफटी/NFT है जो आपके द्वारा सब्सक्राइब किए गए एलपी को प्रतिनिधित्व करता है**
 
-When a Crucible has LP subscribed to the Aludel the holder gains ⚗️ and ETH. The total rewards available is 50% of the ⚗️ created by the 1% inflation that occurs every 14 days, and the ETH raised during the initial Balancer pool. Crucibles with subscribed LP receive a fraction of the total rewards based on the fraction that their subscribed LP is of the total LP that has been subscribed and the length of time their LP has been subscribed versus the other LP.
+**जब एक क्रूसिबल के पास ऐलूडेल में सब्स्क्राइब की गई एलपी होती है, धारक को ⚗️और ETH का लाभ होता है. कुल रिवार्ड्स उपलब्ध  ⚗️ का 50% है, जो हर 14 दिनों में होने वाली 1% मुद्रास्फीति और प्रारंभिक बैलेंसर पूल के दौरान जुटाए गए ETH द्वारा बनाया जाता है. सब्सक्राइब्ड एलपी वाले क्रूसिबलस कुल रिवार्ड्स का एक अंश प्राप्त करते हैं जो कुल सब्सक्राइब्ड एलपी में से उनकी सब्सक्राइब्ड एलपी के अंश और कुल एलपी के मुकाबले उनकी सब्सक्राइब्ड एलपी की अवधि पर निर्भर करता है.**
 
-### What is an NFT?
+### **एनएफटी/NFT क्या है?**
 
-It stands for Non-Fungible Token. If that word is too big for you, you can think of "non-fungible" as meaning "unique".
+**NFT का मतलब है नॉन फंगिबल टोकन. आप "नॉन फंगिबल" को "अनोखे" के रूप में सोच सकते हैं**.
 
-NFTs are a direct contrast to coins:
+**एनएफटी/NFT सिक्कों के सीधे विपरीत हैं**:
 
-* Coins: 1⚗️ is 1⚗️, they have equivalent value and use
-* NFTs: 1 Crucible NFT is not another 1 Crucible NFT and it is very unlikely that any two Crucibles have equivalent value
+* **सिक्के: एक ⚗️ एक ⚗️ है , उनका मूल्य और उपयोग सामान्य है**
+* **‌एनएफटी/NFT: एक क्रूसिबल NFT दूसरे क्रूसिबल NFT के समान हो, यह ज़रूरी नहीं है. बल्कि, बहुत कम संभावना है कि दो क्रूसिबलस का मूल्य एक समान हो**
 
-This is an important point to understand, because people have [already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596) their Crucibles for sale on platforms such as OpenSea.
+**यह समझना आवश्यक है, क्योंकि कुछ लोगों ने अपने क्रूसिबलस की** **लिस्टिंग\(**[already started listing](https://opensea.io/assets/0x54e0395cfb4f39bef66dbcd5bd93cca4e9273d56/620479970925497750675476517677400441094103376596)\)  **'OpenSea' जैसे प्लेटफार्म पर शुरू कर ली है.** 
 
-It's worth mentioning for the sake of clarity: if you mint a Crucible, you are still also staking ⚗️ in the Uniswap-V2 liquidity pool as well. You are effectively engaging in all 3 ways of potentially earning.
+**यह बताना ज़रूरी है की : अगर आप एक क्रूसिबल को मिंट कर रहे हैं, तो आप अपने ⚗️ यूनिस्वैप V2 के लिक्विडिटी पूल में भी दाँव पर लगा रहे हैं.**
 
-## How do you mint a Crucible?
+## **एक क्रूसिबल को कैसे मिंट किया जाता है?**
 
-Originally the only method was getting to grips with the official CLI tool. Fortunately, community members have since created web-apps that makes the process a lot easier. Due to the extra risk of making mistakes whilst using the CLI tool it is no longer recommended to take that approach. 
+**मूल रूप से एकमात्र तरीका CLI टूल का उपयोग करना था.  लेकिन अब कम्युनिटी के सदस्यों ने कुछ वेब एप्स बनाई हैं जिससे यह प्रक्रिया काफी आसान हो गयी है. क्योंकि CLI टूल के उपयोग के दौरान गलतियां करने का ज़्यादा रिस्क होता है, इसीलिए हम उसका उपयोग करने की सलाह नहीं देंगे.**
 
-Please use the guide below to mint a Crucible:
+**क्रूसिबल को मिंट करने के लिए , कृपया नीचे दी हुई गाइड का उपयोग कीजिये**:
 
-* [Minting a Crucible on crucible.alchemist.wtf](guides-crucible.alchemist.wtf/)
+* [crucible.alchemist.wtf](guides-crucible.alchemist.wtf/) \(**पर क्रूसिबल मिंट करना\)**
 
-## What is a Crucible worth?
+## **एक क्रूसिबल का क्या मूल्य है?**  
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+**क्रूसिबल का मूल्य निर्धारित करना मुश्किल है. क्रूसिबल की NFT स्वभाव के कारण उसकी मूल्य पर सट्टा लगाया जा सकता है, लेकिन कुछ क्रूसिबलस दूसरों की तुलना में अधिक विशेष माने जा सकते हैं**.
 
-Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
+**सट्टेबाज़ी को साइड पर रख कर, हम इतना ज़रूरी जानते हैं की एक क्रूसिबल को कुछ परिवर्तनीय राशि वाले एलपी टोकंस के साथ बनाया जाता है, जिसका हाथोंहाथ मापने योग्य मूल्य है**. 
 
-At a minimum, you could value a crucible based on what you would receive back for unsubscribing its LP contents and trading back to your fiat currency.
+**कम से कम, आप एक क्रूसिबल को इस आधार पर महत्व दे सकते हैं कि आपको इसकी एलपी सामग्री अनसब्सक्राइब करने और अपनी फ़िएट करेंसी में वापस व्यापार करने पर क्या मिलता है**.
 
-Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) below for methods to check the contents of a Crucible.
+**क्रूसिबल की सामग्री की जांच करने के लिए नीचे दिए गए इस भाग\(** [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth) **\) को देखिये**  
+
 
 ## Should you mint a Crucible?
 

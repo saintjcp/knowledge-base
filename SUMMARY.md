@@ -14,7 +14,7 @@
 ## Crucible
 
 * [शुरू करना](crucible/getting-started.md)
-* [Teach me about Crucibles](crucible/teach-me-about-crucibles.md)
+* [मुझे क्रूसिबलस के बारे में सिखाएं](crucible/teach-me-about-crucibles.md)
 * [गाइड्स: crucible.alchemist.wtf](crucible/guides-crucible.alchemist.wtf/README.md)
   * [मैं एक क्रूसिबल को कैसे मिंट कर सकता हूँ?](crucible/guides-crucible.alchemist.wtf/how-do-i-mint-a-crucible.md)
   * [मैं अपने नए क्रूसिबल के साथ क्या कर सकता हूँ?](crucible/guides-crucible.alchemist.wtf/what-can-i-do-with-my-new-crucible.md)
