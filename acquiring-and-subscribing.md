@@ -1,11 +1,11 @@
 # Pozyskiwanie i Subskrybowanie
 
-### 1. Zdobywanie $MIST ⚗️
+### 1. Pozyskiwanie $MIST ⚗️
 
 Czy kiedykolwiek handlowałeś monetami na Uniswap? Jeśli tak, to już wiesz, jak to zrobić.
 
 {% hint style="warning" %}
-Ze względu na niską płynność w **Uniswap V3** oraz dodatkowy poślizg \(extra slippage\) istnieje możliwość, że nie uzyskasz najlepszej ceny za zakup. Skorzystaj proszę z naszego linku **Uniswap V2** umieszonego poniżej, aby dokonać wymiany tokena.
+Ze względu na niską płynność w **Uniswap V3** oraz dodatkowy poślizg \(extra slippage\) istnieje możliwość, że nie uzyskasz tam najlepszej ceny zakupu. Skorzystaj proszę z naszego linku **Uniswap V2** umieszonego poniżej, aby dokonać wymiany tokena.
 {% endhint %}
 
 1. Przejdź do [Wymień $MIST w Uniswap V2](https://app.uniswap.org/#/swap?outputCurrency=0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab&use=V2)
@@ -14,7 +14,7 @@ Ze względu na niską płynność w **Uniswap V3** oraz dodatkowy poślizg \(ext
 
     ![](https://i.imgur.com/5rzgvpf.png)
 
-4. Wpisz ilość ⚗️ jaką chcesz zakupić, upewniając się, że masz pozostawioną równowartościową ilość ETH do użycia w subskrypcji.
+4. Wpisz ilość ⚗️ jaką chcesz kupić, upewniając się, że masz pozostawioną równowartościową ilość ETH do użycia w subskrypcji.
 5. Naciśnij "Swap", zatwierdź niezbędne zgodny za pomocą MetaMask i poczekaj na zakończenie transakcji
    * Okazało się, że moje pierwsze dwie próby zakończyły się niepowodzeniem, najwyraźniej dlatego, że nie były przetworzone na tyle szybko, aby cena pozostała stabilna przed zakończeniem transakcji
    * MetaMask ma opcję przyśpieszenia transakcji poprzez odnalezienie transakcji na karcie "Activity" i wybranie opcji zapłaty większej ilości gazu za przetwarzanie o wyższym priorytecie.
@@ -41,7 +41,7 @@ Dodanie płynności do puli **Uniswap V3** nie jest kompatybilne z Programem Nag
 
     ![](https://i.imgur.com/7paIEyF.png)
 
-3. Wpisz ilość jaką chcesz stakować. Po dwóch stronach musi być równa wartość, a więc zmiana jednej wartości automatycznie zmieni drugą wartość. Najbardziej prawdopodobne jest, że będziesz chciał po prostu kliknąć przycisk "MAX" po stronie ⚗️
+3. Wpisz ilość, którą chcesz stakować. Po dwóch stronach musi być równa wartość, a więc zmiana jednej wartości automatycznie zmieni drugą wartość. Najbardziej prawdopodobne jest, że będziesz chciał po prostu kliknąć przycisk "MAX" po stronie ⚗️
 4. Naciśnij "Stake" lub "Supply", a następnie zatwierdź niezbędne zgodny za pomocą MetaMask i poczekaj na zakończenie transakcji
 5. Powinieneś zobaczyć Twoje nowe tokeny LP w Etherscan \(nazwane jako UNI-V2\) :
 

@@ -2,7 +2,7 @@
 
 ## **Gdzie mogę handlować tokenami  ⚗️ \($MIST\) ?**
 
-Większość aktywności ma miejsce na Uniswap, możesz trafić w to miejsce korzystając z naszego linku
+Większość aktywności ma miejsce na Uniswap, możesz tam trafić korzystając z naszego linku
 
 * [uniswap.alchemist.wtf](http://uniswap.alchemist.wtf)
 
@@ -14,7 +14,7 @@ Podaż obiegowa i całkowita są równe. Początkowo podaż wynosiła 1,000,000,
 
 ## **Czy planujecie przedsprzedaż lub sprzedaż prywatną/publiczną??**
 
-Nie ma sprzedaży. Posiadaliśmy początkową pulę Balancera, a wszystkie zebrane ETH zostały zdeponowane w programie nagród.
+Nie ma sprzedaży. Posiadaliśmy początkową pulę Balancera, ale wszystkie zebrane ETH zostały zdeponowane w programie nagród.
 
 ## **Czy token ma inflację?**
 
@@ -34,7 +34,7 @@ Multisig społeczności został stworzony, aby gromadzić fundusze, które możn
 
 ### **Kim są posiadacze klucza multisig?**
 
-Posiadacze klucza Multisig zostali wybrani przez społeczność na podstawie zaufania i wkładu w projekt..
+Posiadacze klucza multisig zostali wybrani przez społeczność na podstawie zaufania i wkładu w projekt.
 
 Obecni sygnatariusze multisig to:
 

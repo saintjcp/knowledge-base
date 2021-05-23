@@ -18,9 +18,9 @@ Pierwszy sposób to spekulowanie na temat jego wartości. Innymi słowy: kupujes
 Crucible obsługuje tylko pulę płynności **Uniswap V2**. Dodanie płynności do puli **Uniswap V3** nie jest zgodne z Programem Nagród.
 {% endhint %}
 
-Drugim sposobem jest postawienie go w puli płynności obok równowartościowej części Etheru \(ETH\). Kiedy to zrobisz, otrzymasz tokeny puli płynności \(LP\), które reprezentują Twoją stawkę w tej puli płynności. Ostatecznie tokeny LP są używane do wycofania oryginalnego ⚗️ i ETH z puli, gdy zdecydujesz się na zakończenie udziału.
+Drugim sposobem jest stakowanie go w puli płynności obok równowartościowej części Etheru \(ETH\). Kiedy to zrobisz, otrzymasz tokeny puli płynności \(LP\), które reprezentują Twoją stawkę w tej puli płynności. Ostatecznie tokeny LP są używane do wycofania oryginalnego ⚗️ i ETH z puli, gdy zdecydujesz się na zakończenie udziału.
 
-Mechanizm puli płynności służy do ułatwiania transakcji pomiędzy ⚗️ a ETH innym osobom, które chcą zawrzeć taką transakcję. Każda transakcja wiąże się z niewielką opłatą ponoszoną przez osobę dokonującą transakcji. Posiadając tokeny LP, otrzymujesz część tych opłat, proporcjonalnie do LP, które posiadasz w stosunku do całkowitego LP. \(Na przykład, jeśli Twój LP stanowi 1% całkowitego LP, otrzymujesz 1% opłat z całej puli\)
+Mechanizm puli płynności służy do ułatwiania transakcji pomiędzy ⚗️, a ETH innym osobom, które chcą zawrzeć taką transakcję. Każda transakcja wiąże się z niewielką opłatą ponoszoną przez osobę dokonującą transakcji. Posiadając tokeny LP, otrzymujesz część tych opłat, proporcjonalnie do LP, które posiadasz w stosunku do całkowitego LP. \(Na przykład, jeśli Twój LP stanowi 1% całkowitego LP, otrzymujesz 1% opłat z całej puli\)
 
 Ten mechanizm czerpania zysków z opłat za udział w puli płynności nie różni się od stakowania jakiejkolwiek innej monety w jakiejkolwiek innej puli płynności. W związku z tym jest podatny na „nietrwałą stratę” \(Impermanent loss\), w wyniku której jako staker tracisz pieniądze, wycofując postawione monety po tym, jak ich względna wartość zmieniła się od czasu ich zasubskrybowania. Jeśli nie jesteś zaznajomiony z tą koncepcją, zalecam dalsze badania, dopóki jej nie zrozumiesz - istnieje wiele zasobów, które wyjaśniają to lepiej niż ja.
 

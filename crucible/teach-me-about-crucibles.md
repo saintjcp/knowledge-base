@@ -4,7 +4,7 @@
 
 Jest to NFT, który reprezentuje zasubskrybowane tokeny LP. Czynność tworzenia jednej sztuki określana jest jako wybijanie \(minting\).
 
-Jeżeli Crucible ma zasubskrybowane tokeny LP w programie Aludel to jego właściciel zyskuje ⚗️ oraz ETH. Całkowita dostępna nagroda to 50% tokenów ⚗️ pochodzących z 1% inflacji, która występuje co 14 dni oraz z ETH zebranego podczas inicjalnej puli Balancera. Crucible z zasubskrybowanymi tokenami LP otrzymuje ułamek z całości nagród w zależności od wielkości udziału w całkowitej puli płynności wraz z uwzględnieniem czasu jaki LP był subskrybowany w porównaniu z innymi tokenami LP.
+Jeżeli Crucible ma zasubskrybowane tokeny LP w programie Aludel to jego właściciel zyskuje ⚗️ oraz ETH. Całkowita dostępna nagroda to 50% tokenów ⚗️ pochodzących z 1% inflacji, która występuje co 14 dni oraz z ETH zebranego podczas początkowej puli Balancera. Crucible z zasubskrybowanymi tokenami LP otrzymuje ułamek z całości nagród w zależności od wielkości udziału w całkowitej puli płynności wraz z uwzględnieniem czasu jaki LP był subskrybowany w porównaniu z innymi tokenami LP.
 
 ### Czy jest NFT?
 
