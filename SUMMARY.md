@@ -30,7 +30,7 @@
 ## Join us
 
 * [Alchemist Builders入职指南](join-us/alchemist-builders-onboarding-guide.md)
-* [从哪里开始？- 7项ITIL指导原则（thegostep\(s\);）!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
+* [切入点——7项ITIL指导原则\(thegostep\(s\);\)](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
 ## Links 🔗 <a id="discussion"></a>
 
