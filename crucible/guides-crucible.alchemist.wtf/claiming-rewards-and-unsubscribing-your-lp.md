@@ -28,7 +28,7 @@ Ten krok jest obowiązkowy, a instrukcje znajdują w poniższych krokach.
 9. Teraz wróć na stronę internetową i wpisz w okienku ile LP chcesz anulować, a następnie kliknij "Claim rewards and unsubscribe LP". ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.00.png) 
 10. Jeśli nie wykonałeś poprawnie kroku 7-8, zobaczysz błąd. Jeżeli zobaczysz poniższy błąd to wróć do kroku 7 i spróbuj ponownie.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.06.44.png) 
 11. Teraz zobaczysz wyskakujące okienko z MetaMask z żądaniem podpisu \(“Signature Request”\), kliknij “sign”  ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.35.png) 
-12. Następnie otrzymasz powiadomienie o transferze środków z MetaMask, jak pokazano poniżej. **Sugerujemy sprawdzenie opłaty za gaz \(Gas Fee\) poprzez kliknięcie przycisku EDIT. Niektórzy użytkownicy zgłosili, że domyślna opcja jest najwolniejsza, co może opóźnić zakończenie transakcji. Jeśli obawiasz się, że opłaty za gaz są zbyt wysokie, użyj ethereumprice.org/gas/, aby zdecydować, kiedy opłaty za gaz mogą być najniższe**
+12. Następnie otrzymasz powiadomienie o transferze środków z MetaMask, jak pokazano poniżej. **Sugerujemy sprawdzenie opłaty za gaz \(Gas Fee\) poprzez kliknięcie przycisku EDIT. Niektórzy użytkownicy zgłosili, że domyślna opcja jest najwolniejsza, co może opóźnić zakończenie transakcji. Jeśli obawiasz się, że opłaty za gaz są zbyt wysokie, użyj** [**ethereumprice.org/gas/**](https://ethereumprice.org/gas/)**, aby zdecydować, kiedy opłaty za gaz mogą być najniższe**
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.11.44.png) 
 

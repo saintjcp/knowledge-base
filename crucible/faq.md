@@ -17,7 +17,7 @@ Obecnie nie zalecamy korzystania z portfela sprzętowego, ponieważ wiele z nich
 
 Niektórzy użytkownicy zgłaszali problemy z Trust Wallet.
 
-Nie zalecamy wykonywania żadnego z tych procesów na urządzeniu mobilnym.
+Nie zalecamy wykonywania żadnego z poniższych procesów na urządzeniu mobilnym.
 {% endhint %}
 
 

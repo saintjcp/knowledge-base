@@ -32,7 +32,7 @@
 * [Wprowadzenie dla Konstruktorów Alchemist](join-us/alchemist-builders-onboarding-guide.md)
 * [Gdzie zacząć? – 7 zasad przewodnich ITIL \(thegostep\(s\);\)\)!](join-us/where-to-start-the-7-itil-guiding-principles-thegostep-s.md)
 
-## Links 🔗 <a id="discussion"></a>
+## Linki 🔗 <a id="discussion"></a>
 
 * [Twitter](https://twitter.com/_alchemistcoin)
 * [Discord](https://discord.com/invite/qWQQMMKjKe)

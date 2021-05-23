@@ -8,7 +8,7 @@ Jeżeli Crucible ma zasubskrybowane tokeny LP w programie Aludel to jego właśc
 
 ### Czy jest NFT?
 
-To skrót od Non-Fungible Token \(Niewymienialny token\). Jeżeli to słowo nie za wiele Ci mówi to możesz rozumieć "niewymienialny" jako "unikatowy".
+To skrót od Non-Fungible Token \(niewymienialny token\). Jeżeli to słowo nie za wiele Ci mówi to możesz rozumieć "niewymienialny" jako "unikatowy".
 
 Tokeny NFT są bezpośrednim przeciwieństwem monet:
 
@@ -37,7 +37,7 @@ Jako minimum, możesz wycenić Crucible na podstawie tego co otrzymasz w zamian 
 
 Zapoznaj się poniższą [sekcją](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-tokens-someone-elses-crucible-is-worth), aby poznać metody na sprawdzenie zawartości Crucible.
 
-## Czy powinieneś Crucible?
+## Czy powinieneś wybić Crucible?
 
 To Ty decydujesz. Upewnij się, że rozumiesz, co możesz zyskać, a co stracić, a następnie zastanów się, czy uważasz, że to dobry wybór dla Ciebie.
 
@@ -45,9 +45,9 @@ To Ty decydujesz. Upewnij się, że rozumiesz, co możesz zyskać, a co stracić
 
 W przypadku tokenów i kontraktów opartych na Ethereum będziesz musiał stawić czoła opłatom za gaz na prawie każdym etapie.
 
-Ceny gazu podlegają ciągłym wahaniom, a to odgrywa ważną rolę w tym, ile gazu masz zapłacić, z tego powodu nie jesteśmy w stanie podać żadnych wskazówek.
+Ceny gazu podlegają ciągłym wahaniom, a to odgrywa ważną rolę w tym, ile gazu masz zapłacić. Z tego powodu nie jesteśmy w stanie podać tutaj żadnych wskazówek odnośnie kosztu wybicia.
 
-Możemy jednak powiedzieć, że należy wziąć pod uwagę wartość swoich tokenów LP w stosunku do kosztu gazu, gdy zamierzasz wykonać transakcję w celu wybicia Crucible.
+Możemy jednak powiedzieć, że należy wziąć pod uwagę wartość swoich tokenów LP w stosunku do kosztu gazu, gdy zamierzasz wykonać transakcję wybicia Crucible.
 
 #### Narzędzia
 
@@ -59,7 +59,7 @@ MetaMask nie rozpozna ani nie wyświetli tokenów Crucible, dopóki nie [dodasz 
 
 ## Jakich portfeli mogę używać do przechowywania mojego Crucible?
 
-Crucible to tokeny ERC-721, a podpisywanie tego typu transakcji nie jest obsługiwane przez żadne aplikacje do portfeli.
+Crucible to tokeny ERC-721, a podpisywanie tego typu transakcji nie jest obsługiwane przez żadne aplikacje do portfeli sprzętowych.
 
 Zapoznaj się z naszym przewodnikiem dotyczącym [zgodności portfela.](wallet-compatibility.md)
 
@@ -67,7 +67,7 @@ Zapoznaj się z naszym przewodnikiem dotyczącym [zgodności portfela.](wallet-c
 
 Członkowie społeczności z powodzeniem wybili Crucible z zaledwie 0,1 tokena LP.
 
-Oczywiście wybicie Crucible nadal kosztuje gas, więc proszę wziąć pod uwagę ten koszt podczas tworzenia Crucible z minimalną ilością LP.
+Oczywiście wybicie Crucible nadal kosztuje gaz, więc proszę wziąć pod uwagę ten koszt podczas tworzenia Crucible z minimalną ilością LP.
 
 Pamiętaj, że zdobywasz nagrody proporcjonalne do swojego udziału LP w całkowitym LP stakowanym w Aludel.
 
@@ -79,7 +79,7 @@ Decyzja, czy jest to korzystne, czy nie, należy do Ciebie.
 
 ## Jak mogę sprawdzić, ile tokenów LP jest wart Crucible należący do kogoś innego?
 
-Możesz wziąć ID tokena Crucible, zamienić go na szesnastkowy\(jeśli jest dziesiętny\), a następnie wyszukać adres na [etherscan.io](https://etherscan.io).
+Możesz wziąć ID tokena Crucible, zamienić go na kod szesnastkowy\(jeśli jest dziesiętny\), a następnie wyszukać adres na [etherscan.io](https://etherscan.io).
 
 Spowoduje to wyświetlenie zawartości i historii transakcji, które miały miejsce w Crucible.
 
@@ -87,7 +87,7 @@ Jeśli nie widzisz wyświetlonych dla niego tokenów to najprawdopodobniej Cruci
 
 ## Jak wyświetlić moje tokeny w MetaMask![](../.gitbook/assets/metamask-fox.svg) ?
 
-Zapoznaj się [naszą sekcją FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)dotyczącą adresów, które musisz dodać do swojego portfela, aby móc zobaczyć token.
+Zapoznaj się [naszą sekcją FAQ ](faq.md#why-cant-i-see-my-mist-in-my-wallet)dotyczącą adresów, które musisz dodać do swojego portfela, aby móc zobaczyć określony token.
 
 \*\*\*\*
 

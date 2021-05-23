@@ -36,7 +36,7 @@ Jest wiele rzeczy, które możesz zrobić ze swoim nowo wybitym Crucible, poniż
 2. Znajdź podsumowanie Crucible, który jest obecnie otwarty ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.42.png)
 3. Znajdź ikonę Papierowego Samolociku po prawej stronie Crucible i kliknij w nią ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.55.44.png) 
 4. Do pola "Recipient Address" wprowadź adres portfela, na który chcesz wysłać Crucible  \(Adres musi być zgodny z ERC-721\) i naciśnij "Transfer Crucible" ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.17.png) 
-5. Zostaniesz poproszony o potwierdzenie przelewu, przed wysłaniem upewnij się, że adres portfela jest poprawny. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
+5. Zostaniesz poproszony o potwierdzenie przelewu, przed wysłaniem upewnij się, że adres portfela na który chcesz wysłać Crucible jest poprawny. ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.56.27.png) 
 6. Crucible będzie teraz w drodze do nowego portfela, użyj linków z powiadomień do monitorowania transakcji.   ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.05.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png) 
 
 ## Lokalizowanie i kopiowanie adresu swojego Crucible

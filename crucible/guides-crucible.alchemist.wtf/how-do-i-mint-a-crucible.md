@@ -29,10 +29,10 @@ Nie zalecamy przechodzenia przez proces na telefonie komórkowym
 
     ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.49.57.png) 
 
-4. Wprowadź ilość LP tokenów, które chcesz umieścić w Crucible. Prawdopodobnie chcesz kliknąć "Max", aby wprowadzić pełną kwotę.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
+4. Wprowadź ilość LP tokenów, które chcesz umieścić w Crucible. Prawdopodobnie chcesz kliknąć "Max", aby wprowadzić największą możliwą kwotę.  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.01.png)  
 5. Kliknij "Mint a Crucible", dokonaj niezbędnych zatwierdzeń przy pomocą MetaMask i poczekaj na zakończenie transakcji. **Uwaga: Powinny być 2 żądania podpisu oraz żądanie transakcji, jeśli nie wyskakują, może być konieczne otwarcie MetaMask.** ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.05.png)  ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.16.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.20.png) ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.28.png) 
-6. Po potwierdzeniu transakcji powinieneś otrzymać następujące monity, kliknij aby wyświetlić swoją transakcję. Po tym jak transakcja zostanie potwierdzona przejdź do następnego kroku. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
-7. Teraz kiedy transakcja została potwierdzona, możesz zamknąć wyskakujące okienko i kliknąć kratę "Crucibles", co powinno pokazać nowo wybity Crucible. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
+6. Po potwierdzeniu transakcji powinieneś otrzymać następujące monity, kliknij w któryś z nich, aby wyświetlić swoją transakcję. Po tym jak transakcja zostanie potwierdzona przejdź do następnego kroku. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.12.02.png)![](../../.gitbook/assets/screenshot-2021-05-07-at-13.24.50.png) 
+7. Teraz kiedy transakcja została potwierdzona, możesz zamknąć wyskakujące okienko i kliknąć kratę "Crucibles". Powinieneś zobaczyć tam nowo wybity Crucible. ![](../../.gitbook/assets/screenshot-2021-05-07-at-13.01.22.png) 
 
-## Gratulacje, jeśli dotarłeś tak daleko to jesteś teraz Alchemikiem
+## Gratulacje, jeśli dotarłeś tak daleko to jesteś teraz Alchemikiem!
 
