@@ -20,7 +20,9 @@
 * [Гайд: alchemist.farm](crucible/guides-alchemist.farm-ru/README.md)
   * [У меня есть Crucible, что дальше?](crucible/guides-alchemist.farm-ru/i-minted-a-crucible-now-what-ru.md)
   * [Как получить награду и отменить подписку с помощью сети TaiChi](crucible/guides-alchemist.farm-ru/how-to-claim-rewards-and-unsubscribe-your-lp-from-the-aludel-using-the-taichi-network-ru.md)
-  * [Визуальный гайд](crucible/guides-alchemist.farm-ru/visual-guides-ru.md)
-* [Как получить вознаграждение и отменить подписку LP токенов из Aludel используя сеть TaiChi](crucible/kak-poluchit-voznagrazhdenie-i-otmenit-podpisku-lp-tokenov-iz-aludel-ispolzuya-set-taichi.md)
-* [Aludel/Crucible ЧАВО](crucible/aludel-crucible-chavo.md)
+  * [Как получить вознаграждение и отменить подписку LP токенов из Aludel используя сеть TaiChi](crucible/guides-alchemist.farm-ru/kak-poluchit-voznagrazhdenie-i-otmenit-podpisku-lp-tokenov-iz-aludel-ispolzuya-set-taichi.md)
+  * [Визуальные инструкции](crucible/guides-alchemist.farm-ru/visual-guides-ru.md)
+* [Как получить роль "сертифицированного алхимика" в дискорде 💬](crucible/how-to-become-a-certified-alchemist-on-discord-ru.md)
+* [Совместимости с кошельками](crucible/wallet-compatibility-ru.md)
+* [ЧАВО 📖](crucible/aludel-crucible-chavo.md)
 

@@ -10,7 +10,7 @@
 * [Отправить Crucible в другой кошелек](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru#otpravit-crucible-v-drugoi-koshelek)
 * [Увидеть и скопировать адрес вашего Crucible](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru#uvidet-i-skopirovat-adres-vashego-crucible)
 
-## Проверка ваших наград
+## Проверить ваши награды
 
 1. Откройте [crucible.alchemist.wtf](https://crucible.alchemist.wtf/), подключите кошелёк и зайдите во вкладку "Your Crucibles"
 2. Открыв вкладку, нажмите на кнопку со стрелкой вниз, чтобы развернуть окно с деталями вашего Crucible ![](../../.gitbook/assets/screenshot-2021-05-07-at-12.50.58.png) 
