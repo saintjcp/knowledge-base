@@ -11,6 +11,6 @@
 ### **Содержание**
 
 1. [У меня есть Crucible. Что дальше?](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-alchemist.farm-ru/i-minted-a-crucible-now-what-ru)
-2. [К](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru)ак получить награды и отменить подписку токенов ПЛ с помощью сети Taichi
-3. Визуальные инструкции.
+2. [Как получить вознаграждения и отменить подписку токенов ПЛ из Aludel используя сеть TaiChi](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-alchemist.farm-ru/kak-poluchit-voznagrazhdenie-i-otmenit-podpisku-lp-tokenov-iz-aludel-ispolzuya-set-taichi)
+3. [Визуальные инструкции](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-alchemist.farm-ru/visual-guides-ru)
 
