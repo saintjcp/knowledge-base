@@ -10,7 +10,7 @@
 
 ### **Содержание**
 
-1. У меня есть Crucible**. Что дальше?**
+1. [У меня есть Crucible. Что дальше?](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-alchemist.farm-ru/i-minted-a-crucible-now-what-ru)
 2. [К](https://docs.alchemist.wtf/mist/v/russian/crucible/guides-crucible.alchemist.wtf-ru/what-can-i-do-with-my-new-crucible-ru)ак получить награды и отменить подписку токенов ПЛ с помощью сети Taichi
 3. Визуальные инструкции.
 
