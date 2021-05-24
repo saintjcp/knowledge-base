@@ -29,7 +29,7 @@ Please use the guide below to mint a Crucible:
 
 ## What is a Crucible worth?
 
-The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond the its immediate worth, but some Crucibles may be considered more special than others.
+The value of a Crucible is difficult to determine. The NFT nature of the Crucible could potentially make it have speculative value beyond its' immediate worth, but some Crucibles may be considered more special than others.
 
 Speculation aside, however, what we do know is that a Crucible is created with some variable amount of LP tokens inside, which have an immediately measurable value. 
 
@@ -39,7 +39,7 @@ Refer to [this section](teach-me-about-crucibles.md#how-can-i-check-how-many-lp-
 
 ## Should you mint a Crucible?
 
-That is for you to decide. Ensure you understand what could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
+That is for you to decide. Ensure that you understand what you could gain, what you could lose, and then weigh up whether you think it's a good choice for you.
 
 #### The cost of minting
 
