@@ -2,9 +2,7 @@
 
 There is a token called Alchemist. It has the ticker symbol "⚗️". It is also referred to as "mist" and "$MIST". Do not confuse it with [MUST](https://www.coingecko.com/en/coins/must) - despite the alembic it now displays it has no relation to Alchemist.
 
-What is ⚗️ good for? We are not here to answer that. 
-
-You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](../crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
+What is ⚗️ good for? You can stake ⚗️ as with other coins, and you can ultimately use it to [mint Crucible NFTs](../crucible/teach-me-about-crucibles.md) in the [Aludel](the-basic-outline.md#3-aludel) program.
 
 ## How could I increase my wealth using ⚗️?
 
